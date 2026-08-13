@@ -1,4 +1,4 @@
-// Auto-generated: clubs_logos.csv + alias map + extra pass
+// Auto-generated: clubs_logos.csv + alias map + extra passes
 export const CREST_MANIFEST: Record<string, string> = {
   "AC Milan": "/images/clubs/ac-milan.png",
   "AS Monaco": "/images/clubs/as-monaco.png",
@@ -249,5 +249,13 @@ export const CREST_MANIFEST: Record<string, string> = {
   "Nîmes Olympique": "/images/clubs/extra-nîmes-olympique.png",
   "RSC Anderlecht": "/images/clubs/extra-rsc-anderlecht.png",
   "FC Utrecht": "/images/clubs/extra-fc-utrecht.png",
-  "AS Nancy": "/images/clubs/extra-as-nancy.png"
+  "AS Nancy": "/images/clubs/extra-as-nancy.png",
+  "Ludogorets": "/images/clubs/extra-ludogorets.png",
+  "Slovan Liberec": "/images/clubs/extra-slovan-liberec.png",
+  "Red Star FC": "/images/clubs/extra-red-star-fc.png",
+  "PAOK Saloniki": "/images/clubs/extra-paok-saloniki.png",
+  "Amiens SC": "/images/clubs/extra-amiens-sc.png",
+  "Viktoria Plzen": "/images/clubs/extra-viktoria-plzen.png",
+  "Stade de Reims": "/images/clubs/extra2-stade-de-reims.png",
+  "West Ham Utd.": "/images/clubs/extra2-west-ham-utd.png"
 }
