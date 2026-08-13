@@ -46,6 +46,7 @@ const fromOriginalFootage: Match[] = [
 ]
 
 interface RawMatch {
+  id?: string
   date: string
   season: string
   competition: string
@@ -63,7 +64,9 @@ interface RawMatch {
 }
 
 const researched: Match[] = (matchesRealRaw as { matches: RawMatch[] }).matches.map((m, i) => ({
-  id: `research-${i}`,
+  // keep the source match id when we have one: Lugdun'Home joins lineups,
+  // ratings and votes on it, so a synthetic index would break those links.
+  id: m.id ?? `research-${i}`,
   date: m.date,
   season: m.season,
   competition: m.competition,

@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
+  content: ["./index.html", "./lugdunhome.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
       colors: {
@@ -18,6 +18,21 @@ export default {
           redDark: "#b8061f",
           blue: "#3b82f6",
           gold: "#f5b73d",
+        },
+        // Lugdun'Home — stadium at night + Lugdunum bronze.
+        lh: {
+          void: "#06080d",
+          night: "#0b0e16",
+          surface: "#121724",
+          raised: "#1a2032",
+          line: "#252d42",
+          red: "#e1000f",
+          redSoft: "#ff2d3d",
+          gold: "#c9a227",
+          goldSoft: "#e8c66a",
+          blue: "#1b3a8c",
+          text: "#eef1f8",
+          muted: "#8a94ac",
         },
       },
       fontFamily: {
