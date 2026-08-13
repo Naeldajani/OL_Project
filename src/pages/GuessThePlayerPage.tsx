@@ -46,7 +46,9 @@ function initialReveal(player: Player, difficulty: Difficulty): number {
 }
 
 export default function GuessThePlayerPage() {
-  const pool = seedPlayers
+  // A single-club career can't be progressively revealed as a hint — exclude
+  // those few players (incomplete pre/post-OL career data) from the mystery pool.
+  const pool = useMemo(() => seedPlayers.filter((p) => p.career.length >= 2), [])
   const [difficulty, setDifficulty] = useState<Difficulty>('facile')
   const [mystery, setMystery] = useState<Player>(() => pickPlayer(pool, 'facile'))
   const [revealed, setRevealed] = useState(() => initialReveal(mystery, 'facile'))

@@ -1,4 +1,4 @@
-// Auto-generated: clubs_logos.csv + alias map + extra passes
+// Auto-generated: clubs_logos.csv + alias map + extra passes + city-photo fixes
 export const CREST_MANIFEST: Record<string, string> = {
   "AC Milan": "/images/clubs/ac-milan.png",
   "AS Monaco": "/images/clubs/as-monaco.png",
@@ -181,7 +181,6 @@ export const CREST_MANIFEST: Record<string, string> = {
   "Trabzonspor": "/images/clubs/trabzonspor.png",
   "Troyes": "/images/clubs/troyes.png",
   "Valencia": "/images/clubs/valencia.png",
-  "Valenciennes": "/images/clubs/valenciennes.png",
   "Vasco da Gama": "/images/clubs/vasco-da-gama.png",
   "Venezia": "/images/clubs/venezia.png",
   "VfB Stuttgart": "/images/clubs/vfb-stuttgart.png",
@@ -237,7 +236,6 @@ export const CREST_MANIFEST: Record<string, string> = {
   "Stade Rennais": "/images/clubs/rennes.png",
   "Steaua Bucarest": "/images/clubs/steaua-bucuresti.png",
   "Stuttgart": "/images/clubs/vfb-stuttgart.png",
-  "Valenciennes FC": "/images/clubs/valenciennes.png",
   "Zenit S-Pb": "/images/clubs/zenit-saint-petersburg.png",
   "Atalanta": "/images/clubs/extra-atalanta.png",
   "Athletic Bilbao": "/images/clubs/extra-athletic-bilbao.png",

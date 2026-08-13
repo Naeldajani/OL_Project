@@ -1,0 +1,500 @@
+{
+  "Kader Keïta": [
+    {
+      "club": "Africa Sports",
+      "years": "2000"
+    },
+    {
+      "club": "É.S. Sahel",
+      "years": "2000-2001"
+    },
+    {
+      "club": "Al-Ain FC",
+      "years": "2001-2002"
+    },
+    {
+      "club": "Al Sadd Doha",
+      "years": "2002-2005"
+    },
+    {
+      "club": "Lille OSC",
+      "years": "2005-2007"
+    },
+    {
+      "club": "Olympique lyonnais",
+      "years": "2007-2009"
+    },
+    {
+      "club": "Galatasaray",
+      "years": "2009-2010"
+    },
+    {
+      "club": "Al Sadd SC",
+      "years": "2010-2012"
+    },
+    {
+      "club": "Budapest Honved",
+      "years": "2014-2015"
+    },
+    {
+      "club": "Persib Bandung",
+      "years": "2015"
+    },
+    {
+      "club": "Total",
+      "years": "2000-2015"
+    }
+  ],
+  "Rémy Riou": [
+    {
+      "club": "Olympique lyonnais",
+      "years": "2005-2007"
+    },
+    {
+      "club": "FC Lorient",
+      "years": "2006-2007"
+    },
+    {
+      "club": "AJ Auxerre",
+      "years": "2007-2011"
+    },
+    {
+      "club": "Toulouse FC",
+      "years": "2011-2012"
+    },
+    {
+      "club": "FC Nantes",
+      "years": "2012-2017"
+    },
+    {
+      "club": "Alanyaspor",
+      "years": "2017-2018"
+    },
+    {
+      "club": "Charleroi SC",
+      "years": "2018-2019"
+    },
+    {
+      "club": "SM Caen",
+      "years": "2019-2022"
+    },
+    {
+      "club": "Olympique lyonnais",
+      "years": "2022-2024"
+    },
+    {
+      "club": "Paris FC",
+      "years": "2024-"
+    }
+  ],
+  "Joan Hartock": [
+    {
+      "club": "Olympique lyonnais",
+      "years": "2005-2011"
+    },
+    {
+      "club": "Stade brestois",
+      "years": "2011-2017"
+    },
+    {
+      "club": "US Quevilly-Rouen",
+      "years": "2017-2018"
+    },
+    {
+      "club": "US Ducey-Isigny",
+      "years": "2021-2022"
+    },
+    {
+      "club": "AGL Drapeau Fougères",
+      "years": "2022-"
+    }
+  ],
+  "Anthony Réveillère": [
+    {
+      "club": "Stade rennais",
+      "years": "1998-2003"
+    },
+    {
+      "club": "Valence CF",
+      "years": "2003"
+    },
+    {
+      "club": "Olympique lyonnais",
+      "years": "2003-2013"
+    },
+    {
+      "club": "SSC Naples",
+      "years": "2013-2014"
+    },
+    {
+      "club": "Sunderland FC",
+      "years": "2014-2015"
+    },
+    {
+      "club": "Total",
+      "years": "1998-2015"
+    }
+  ],
+  "Sinaly Diomandé": [
+    {
+      "club": "Olympique lyonnais",
+      "years": "2019-2024"
+    },
+    {
+      "club": "AJ Auxerre",
+      "years": "2024-"
+    }
+  ],
+  "Sylvain Monsoreau": [
+    {
+      "club": "FC Sochaux-Montbéliard",
+      "years": "1999-2005"
+    },
+    {
+      "club": "Olympique lyonnais",
+      "years": "2005-2006"
+    },
+    {
+      "club": "AS Monaco",
+      "years": "2006-2008"
+    },
+    {
+      "club": "AS Saint-Étienne",
+      "years": "2008-2012"
+    },
+    {
+      "club": "ESTAC Troyes",
+      "years": "2012-2013"
+    },
+    {
+      "club": "Atlético de Kolkata",
+      "years": "2014"
+    },
+    {
+      "club": "Saint-Chamond",
+      "years": "2015-2016"
+    },
+    {
+      "club": "AC Boulogne-Billancourt",
+      "years": "2016-2017"
+    }
+  ],
+  "Mourad Benhamida": [
+    {
+      "club": "Olympique lyonnais",
+      "years": "2006-2007"
+    },
+    {
+      "club": "Montpellier HSC",
+      "years": "2007-2010"
+    },
+    {
+      "club": "AS Lyon-Duchère",
+      "years": "2011-2012"
+    },
+    {
+      "club": "Club africain",
+      "years": "2012"
+    },
+    {
+      "club": "MDA Chasselay",
+      "years": "2014-2015"
+    },
+    {
+      "club": "FC Vaulx-en-Velin",
+      "years": "2016-"
+    }
+  ],
+  "Lamine Diatta": [
+    {
+      "club": "Toulouse FC",
+      "years": "1998-1999"
+    },
+    {
+      "club": "Olympique de Marseille",
+      "years": "1999"
+    },
+    {
+      "club": "Stade rennais",
+      "years": "1999-2004"
+    },
+    {
+      "club": "Olympique lyonnais",
+      "years": "2004-2006"
+    },
+    {
+      "club": "AS Saint-Étienne",
+      "years": "2006-2007"
+    },
+    {
+      "club": "Beşiktaş JK",
+      "years": "2007-2008"
+    },
+    {
+      "club": "Newcastle United",
+      "years": "2008"
+    },
+    {
+      "club": "Hamilton Academical",
+      "years": "2009"
+    },
+    {
+      "club": "Al Ahli SC",
+      "years": "2009-2011"
+    },
+    {
+      "club": "ES Sahel",
+      "years": "2011"
+    },
+    {
+      "club": "Doncaster Rovers",
+      "years": "2011-2012"
+    }
+  ],
+  "Michaël Ciani": [
+    {
+      "club": "RC Paris",
+      "years": "2002-2003"
+    },
+    {
+      "club": "Charleroi SC",
+      "years": "2003-2004"
+    },
+    {
+      "club": "AJ Auxerre",
+      "years": "2004-2007"
+    },
+    {
+      "club": "CS Sedan Ardennes",
+      "years": "2005-2006"
+    },
+    {
+      "club": "FC Lorient",
+      "years": "2006-2007"
+    },
+    {
+      "club": "FC Lorient",
+      "years": "2007-2009"
+    },
+    {
+      "club": "Girondins de Bordeaux",
+      "years": "2009-2012"
+    },
+    {
+      "club": "Lazio Rome",
+      "years": "2012-2015"
+    },
+    {
+      "club": "Sporting CP",
+      "years": "2015"
+    },
+    {
+      "club": "RCD Espanyol",
+      "years": "2015-2016"
+    },
+    {
+      "club": "FC Lorient",
+      "years": "2016-2017"
+    },
+    {
+      "club": "Los Angeles Galaxy",
+      "years": "2017-2018"
+    }
+  ],
+  "Tiago Gomes": [
+    {
+      "club": "SL Benfica B",
+      "years": "2005-2008"
+    },
+    {
+      "club": "Estrela da Amadora",
+      "years": "2006-2007"
+    },
+    {
+      "club": "Zagłębie Lubin",
+      "years": "2007-2008"
+    },
+    {
+      "club": "CA Osasuna",
+      "years": "2008-2009"
+    },
+    {
+      "club": "CF Os Belenenses",
+      "years": "2009-2011"
+    },
+    {
+      "club": "GD Estoril-Praia",
+      "years": "2011-2014"
+    },
+    {
+      "club": "SC Braga",
+      "years": "2014-2017"
+    },
+    {
+      "club": "FC Metz",
+      "years": "2015-2016"
+    },
+    {
+      "club": "Apollon Limassol",
+      "years": "2016-2017"
+    },
+    {
+      "club": "CD Feirense",
+      "years": "2017-2019"
+    },
+    {
+      "club": "Universitatea Cluj",
+      "years": "2019-2020"
+    },
+    {
+      "club": "FC Alverca",
+      "years": "2020-2023"
+    }
+  ],
+  "Vincent Muratori": [
+    {
+      "club": "AS Monaco",
+      "years": "2007-2012"
+    },
+    {
+      "club": "AS Nancy-Lorraine",
+      "years": "2012-2020"
+    },
+    {
+      "club": "RC Pays de Grasse",
+      "years": "2021-2023"
+    }
+  ],
+  "Pierre Laigle": [
+    {
+      "club": "RC Lens",
+      "years": "1990-1996"
+    },
+    {
+      "club": "UC Sampdoria",
+      "years": "1996-1999"
+    },
+    {
+      "club": "Olympique lyonnais",
+      "years": "1999-2002"
+    },
+    {
+      "club": "Montpellier HSC",
+      "years": "2002-2004"
+    },
+    {
+      "club": "AS Saint-Priest",
+      "years": "2005-2007"
+    }
+  ],
+  "Christophe Delmotte": [
+    {
+      "club": "ES Wasquehal",
+      "years": "1990-1991"
+    },
+    {
+      "club": "RC Lens",
+      "years": "1991-1997"
+    },
+    {
+      "club": "CS Sedan",
+      "years": "1993-1994"
+    },
+    {
+      "club": "AS Cannes",
+      "years": "1994-1995"
+    },
+    {
+      "club": "Olympique lyonnais",
+      "years": "1997-2004"
+    },
+    {
+      "club": "Stade de Reims",
+      "years": "2004-2006"
+    },
+    {
+      "club": "AS Saint-Priest",
+      "years": "2006-2008"
+    },
+    {
+      "club": "RC Lens",
+      "years": "2008-2010"
+    },
+    {
+      "club": "Olympique lyonnais",
+      "years": "2011-2014"
+    },
+    {
+      "club": "Le Havre AC",
+      "years": "2014-2015"
+    },
+    {
+      "club": "Valenciennes FC",
+      "years": "2017-2021"
+    },
+    {
+      "club": "Valenciennes FC",
+      "years": "2021-2022"
+    },
+    {
+      "club": "FC Metz",
+      "years": "2022-2024"
+    },
+    {
+      "club": "FC Metz rés.",
+      "years": "2024-2025"
+    },
+    {
+      "club": "France espoirs",
+      "years": "2025-"
+    }
+  ],
+  "Franck Béria": [
+    {
+      "club": "FC Metz",
+      "years": "2001-2007"
+    },
+    {
+      "club": "LOSC Lille",
+      "years": "2007-2017"
+    }
+  ],
+  "Pape Diakhaté": [
+    {
+      "club": "AS Nancy-Lorraine",
+      "years": "2001-2007"
+    },
+    {
+      "club": "Dynamo Kiev",
+      "years": "2007-2011"
+    },
+    {
+      "club": "AS Saint-Étienne",
+      "years": "2010"
+    },
+    {
+      "club": "Olympique lyonnais",
+      "years": "2010-2011"
+    },
+    {
+      "club": "Grenade CF",
+      "years": "2011-2014"
+    },
+    {
+      "club": "Kayseri Erciyesspor",
+      "years": "2014"
+    },
+    {
+      "club": "Kayseri Erciyesspor",
+      "years": "2015-2016"
+    },
+    {
+      "club": "AS Nancy-Lorraine",
+      "years": "2016"
+    },
+    {
+      "club": "FC Lunéville",
+      "years": "2017-2018"
+    }
+  ]
+}

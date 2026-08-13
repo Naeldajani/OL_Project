@@ -99,6 +99,26 @@ export default function MomentumPage() {
 
   const hasPositions = steps.some((s) => s.position != null)
 
+  function clickableDot(color: (s: Step) => string) {
+    return ((props: { cx?: number; cy?: number; payload?: Step }) => {
+      const { cx, cy, payload } = props
+      if (cx == null || cy == null || !payload) return <g key={Math.random()} />
+      return (
+        <circle
+          key={payload.idx}
+          cx={cx}
+          cy={cy}
+          r={4.5}
+          fill={color(payload)}
+          stroke="#0a1128"
+          strokeWidth={1.5}
+          className="cursor-pointer"
+          onClick={() => setActiveMatch(payload.match)}
+        />
+      )
+    }) as never
+  }
+
   return (
     <div>
       <PageHeader
@@ -186,30 +206,14 @@ export default function MomentumPage() {
                     }) as never}
                   />
                   <Line
-                    type="stepAfter"
+                    type="monotone"
                     dataKey="points"
                     stroke="#e3082a"
                     strokeWidth={2}
-                    dot={((props: { cx?: number; cy?: number; payload?: Step }) => {
-                      const { cx, cy, payload } = props
-                      if (cx == null || cy == null || !payload) return <g key={Math.random()} />
-                      return (
-                        <circle
-                          key={payload.idx}
-                          cx={cx}
-                          cy={cy}
-                          r={4.5}
-                          fill={RESULT_COLOR[payload.result]}
-                          stroke="#0a1128"
-                          strokeWidth={1.5}
-                          className="cursor-pointer"
-                          onClick={() => setActiveMatch(payload.match)}
-                        />
-                      )
-                    }) as never}
+                    dot={clickableDot((s) => RESULT_COLOR[s.result])}
                   />
                   <Line
-                    type="stepAfter"
+                    type="monotone"
                     dataKey="bestStreak"
                     stroke="#f5b73d"
                     strokeWidth={3}
@@ -222,10 +226,52 @@ export default function MomentumPage() {
             </div>
           </Card>
 
+          {hasPositions && (
+            <Card className="mb-6">
+              <h3 className="text-sm font-bold text-slate-300 uppercase tracking-wide mb-1">
+                Classement <span className="text-slate-500 font-medium">— position au classement après chaque match</span>
+              </h3>
+              <p className="text-xs text-slate-500 mb-4">Clique un point pour ouvrir le détail du match.</p>
+              <div style={{ width: '100%', height: 200 }}>
+                <ResponsiveContainer>
+                  <LineChart data={steps} margin={{ top: 10, right: 10, left: -10, bottom: 0 }}>
+                    <CartesianGrid stroke="#1b2d59" strokeDasharray="3 3" />
+                    <XAxis dataKey="idx" tick={{ fill: '#94a3b8', fontSize: 12 }} />
+                    <YAxis
+                      reversed
+                      domain={[1, 20]}
+                      tick={{ fill: '#94a3b8', fontSize: 12 }}
+                      allowDecimals={false}
+                    />
+                    <Tooltip
+                      contentStyle={{
+                        background: '#111d3d',
+                        border: '1px solid rgba(255,255,255,0.1)',
+                        borderRadius: 12,
+                        color: 'white',
+                      }}
+                      labelFormatter={() => ''}
+                      formatter={((v: number) => [`${v}ᵉ`, 'Classement']) as never}
+                    />
+                    <Line
+                      type="monotone"
+                      dataKey="position"
+                      stroke="#5b8fe0"
+                      strokeWidth={2}
+                      dot={clickableDot(() => '#5b8fe0')}
+                      connectNulls
+                    />
+                  </LineChart>
+                </ResponsiveContainer>
+              </div>
+            </Card>
+          )}
+
           <Card className="mb-6">
-            <h3 className="text-sm font-bold text-slate-300 uppercase tracking-wide mb-4">
+            <h3 className="text-sm font-bold text-slate-300 uppercase tracking-wide mb-1">
               Forme glissante <span className="text-slate-500 font-medium">— moyenne sur les 5 derniers matchs</span>
             </h3>
+            <p className="text-xs text-slate-500 mb-4">Clique un point pour ouvrir le détail du match.</p>
             <div style={{ width: '100%', height: 160 }}>
               <ResponsiveContainer>
                 <LineChart data={steps} margin={{ top: 10, right: 10, left: -10, bottom: 0 }}>
@@ -242,7 +288,7 @@ export default function MomentumPage() {
                     labelFormatter={() => ''}
                     formatter={((v: number) => [`${v}/3`, 'Forme (5 matchs)']) as never}
                   />
-                  <Line type="monotone" dataKey="form" stroke="#a78bfa" strokeWidth={2} dot={false} />
+                  <Line type="monotone" dataKey="form" stroke="#a78bfa" strokeWidth={2} dot={clickableDot(() => '#a78bfa')} />
                 </LineChart>
               </ResponsiveContainer>
             </div>
@@ -284,46 +330,6 @@ export default function MomentumPage() {
               </span>
             </div>
           </Card>
-
-          {hasPositions && (
-            <Card>
-              <h3 className="text-sm font-bold text-slate-300 uppercase tracking-wide mb-4">
-                Classement <span className="text-slate-500 font-medium">— position au classement après chaque match</span>
-              </h3>
-              <div style={{ width: '100%', height: 200 }}>
-                <ResponsiveContainer>
-                  <LineChart data={steps} margin={{ top: 10, right: 10, left: -10, bottom: 0 }}>
-                    <CartesianGrid stroke="#1b2d59" strokeDasharray="3 3" />
-                    <XAxis dataKey="idx" tick={{ fill: '#94a3b8', fontSize: 12 }} />
-                    <YAxis
-                      reversed
-                      domain={[1, 20]}
-                      tick={{ fill: '#94a3b8', fontSize: 12 }}
-                      allowDecimals={false}
-                    />
-                    <Tooltip
-                      contentStyle={{
-                        background: '#111d3d',
-                        border: '1px solid rgba(255,255,255,0.1)',
-                        borderRadius: 12,
-                        color: 'white',
-                      }}
-                      labelFormatter={() => ''}
-                      formatter={((v: number) => [`${v}ᵉ`, 'Classement']) as never}
-                    />
-                    <Line
-                      type="monotone"
-                      dataKey="position"
-                      stroke="#5b8fe0"
-                      strokeWidth={2}
-                      dot={false}
-                      connectNulls
-                    />
-                  </LineChart>
-                </ResponsiveContainer>
-              </div>
-            </Card>
-          )}
         </>
       )}
 

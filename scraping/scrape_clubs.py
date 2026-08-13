@@ -46,7 +46,14 @@ def main():
             img_url, title = wikipedia_pageimage(f"{club} football club", "fr")
             source = "wikipedia_fr"
             if not img_url:
-                img_url, title = wikipedia_pageimage(club, "fr")
+                # Bare-name fallback is risky: for one-word clubs that share a
+                # name with a French city (Marseille, Angers, Auxerre...) this
+                # can resolve to the CITY's Wikipedia page and grab a landmark
+                # photo instead of the crest. Only accept it if the resolved
+                # title clearly isn't just the bare place name.
+                candidate_url, candidate_title = wikipedia_pageimage(club, "fr")
+                if candidate_title and candidate_title.strip().lower() != club.strip().lower():
+                    img_url, title = candidate_url, candidate_title
             if not img_url:
                 img_url, title = wikipedia_pageimage(f"{club} football club", "en")
                 source = "wikipedia_en"

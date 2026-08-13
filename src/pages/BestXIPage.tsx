@@ -1,8 +1,7 @@
 import { useMemo, useState } from 'react'
 import Card, { PageHeader } from '../components/Card'
 import PersonPhoto from '../components/PersonPhoto'
-import Select from '../components/Select'
-import { FORMATIONS, eligiblePlayers } from '../lib/roles'
+import { FORMATIONS, eligiblePlayers, randomShortlist } from '../lib/roles'
 import { coaches } from '../data/coaches'
 import { seedPlayers } from '../data/seed-players'
 
@@ -16,6 +15,15 @@ function normalize(s: string) {
     .trim()
 }
 
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr]
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[a[i], a[j]] = [a[j], a[i]]
+  }
+  return a
+}
+
 export default function BestXIPage() {
   const [formationId, setFormationId] = useState<string | null>(null)
   const formation = FORMATIONS.find((f) => f.id === formationId) ?? null
@@ -23,7 +31,10 @@ export default function BestXIPage() {
   const [selection, setSelection] = useState<Record<string, string>>({})
   const [activeRoleId, setActiveRoleId] = useState<string | null>(null)
   const [search, setSearch] = useState('')
+  const [rollKey, setRollKey] = useState<Record<string, number>>({})
   const [coachId, setCoachId] = useState<string>(coaches[0]?.id ?? '')
+  const [coachOpen, setCoachOpen] = useState(false)
+  const [coachRollKey, setCoachRollKey] = useState(0)
   const [bounce, setBounce] = useState<Record<string, number>>({})
 
   const activeRole = formation?.roles.find((r) => r.id === activeRoleId) ?? null
@@ -35,16 +46,26 @@ export default function BestXIPage() {
         .filter(([roleId]) => roleId !== activeRole.id)
         .map(([, playerId]) => playerId),
     )
-    const pool = eligiblePlayers(activeRole)
-      .filter((p) => !takenElsewhere.has(p.id))
-      .sort((a, b) => a.name.localeCompare(b.name, 'fr'))
-    if (!search.trim()) return pool
-    const q = normalize(search)
-    return pool.filter((p) => normalize(p.name).includes(q))
-  }, [activeRole, selection, search])
+    if (search.trim()) {
+      const q = normalize(search)
+      return eligiblePlayers(activeRole)
+        .filter((p) => !takenElsewhere.has(p.id) && normalize(p.name).includes(q))
+        .sort((a, b) => a.name.localeCompare(b.name, 'fr'))
+    }
+    return randomShortlist(activeRole, 3, takenElsewhere)
+    // re-roll only when the slot is (re)opened or "Relancer" is clicked
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [activeRole, selection, search, rollKey[activeRoleId ?? '']])
+
+  const coachCandidates = useMemo(() => {
+    const taken = new Set([coachId])
+    return shuffle(coaches.filter((c) => !taken.has(c.id))).slice(0, 3)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [coachRollKey])
 
   function openSlot(roleId: string) {
     setSearch('')
+    setRollKey((k) => ({ ...k, [roleId]: (k[roleId] ?? 0) + 1 }))
     setActiveRoleId(roleId)
   }
 
@@ -56,6 +77,16 @@ export default function BestXIPage() {
     const next = formation.roles.slice(idx + 1).find((r) => !selection[r.id])
     setActiveRoleId(null)
     if (next) setTimeout(() => openSlot(next.id), 350)
+  }
+
+  function openCoachPicker() {
+    setCoachRollKey((k) => k + 1)
+    setCoachOpen(true)
+  }
+
+  function pickCoach(id: string) {
+    setCoachId(id)
+    setCoachOpen(false)
   }
 
   const selectedCoach = coaches.find((c) => c.id === coachId)
@@ -115,18 +146,15 @@ export default function BestXIPage() {
         <h3 className="text-sm font-bold text-slate-300 uppercase tracking-wide mb-4">
           🧑‍🏫 Entraîneur
         </h3>
-        <div className="flex items-center gap-4">
+        <button
+          onClick={openCoachPicker}
+          className="flex items-center gap-4 rounded-xl p-2 -m-2 hover:bg-white/5 transition-colors text-left"
+        >
           <PersonPhoto key={coachId} name={selectedCoach?.name ?? '?'} size={56} className="animate-pop-in" />
           <div>
-            <Select value={coachId} onChange={(e) => setCoachId(e.target.value)} className="min-w-[240px]">
-              {coaches.map((c) => (
-                <option key={c.id} value={c.id}>
-                  {c.name}
-                </option>
-              ))}
-            </Select>
+            <div className="text-sm font-bold text-white">{selectedCoach?.name ?? 'Choisir un entraîneur'}</div>
             {selectedCoach && (
-              <p className="text-xs text-slate-500 mt-2">
+              <p className="text-xs text-slate-500 mt-1">
                 Sur le banc : {selectedCoach.seasons[0]}
                 {selectedCoach.seasons.length > 1
                   ? `–${selectedCoach.seasons[selectedCoach.seasons.length - 1]}`
@@ -134,7 +162,41 @@ export default function BestXIPage() {
               </p>
             )}
           </div>
-        </div>
+        </button>
+
+        {coachOpen && (
+          <div className="mt-4 pt-4 border-t border-white/10 animate-panel-in">
+            <div className="flex items-center justify-between mb-4">
+              <h4 className="text-xs font-bold text-slate-300 uppercase tracking-wide">
+                Choisir un entraîneur
+              </h4>
+              <div className="flex items-center gap-3">
+                <button onClick={openCoachPicker} className="text-xs font-semibold text-ol-gold hover:text-white">
+                  🎲 Relancer
+                </button>
+                <button onClick={() => setCoachOpen(false)} className="text-slate-400 hover:text-white text-sm">
+                  Fermer ✕
+                </button>
+              </div>
+            </div>
+            <div className="grid grid-cols-3 gap-4">
+              {coachCandidates.map((c) => (
+                <button
+                  key={c.id}
+                  onClick={() => pickCoach(c.id)}
+                  className="flex flex-col items-center gap-2 rounded-xl p-4 ring-1 bg-ink-900/50 ring-white/10 hover:ring-ol-gold transition-all hover:-translate-y-0.5"
+                >
+                  <PersonPhoto name={c.name} size={72} />
+                  <div className="text-sm font-bold text-white text-center leading-tight">{c.name}</div>
+                  <div className="text-[11px] text-slate-500 text-center leading-tight">
+                    {c.seasons[0]}
+                    {c.seasons.length > 1 ? `–${c.seasons[c.seasons.length - 1]}` : ''}
+                  </div>
+                </button>
+              ))}
+            </div>
+          </div>
+        )}
       </Card>
 
       <Card className="mb-6">
@@ -182,12 +244,20 @@ export default function BestXIPage() {
             <h3 className="text-sm font-bold text-slate-300 uppercase tracking-wide">
               Choisir un joueur — {activeRole.label}
             </h3>
-            <button
-              onClick={() => setActiveRoleId(null)}
-              className="text-slate-400 hover:text-white text-sm"
-            >
-              Fermer ✕
-            </button>
+            <div className="flex items-center gap-3">
+              <button
+                onClick={() => openSlot(activeRole.id)}
+                className="text-xs font-semibold text-ol-gold hover:text-white"
+              >
+                🎲 Relancer
+              </button>
+              <button
+                onClick={() => setActiveRoleId(null)}
+                className="text-slate-400 hover:text-white text-sm"
+              >
+                Fermer ✕
+              </button>
+            </div>
           </div>
           <input
             autoFocus
@@ -197,7 +267,9 @@ export default function BestXIPage() {
             className="w-full bg-ink-900/70 ring-1 ring-ol-gold rounded-xl px-4 py-3 text-sm outline-none placeholder:text-slate-500 mb-4"
           />
           {candidates.length === 0 ? (
-            <p className="text-sm text-slate-500">Aucun joueur ne correspond.</p>
+            <p className="text-sm text-slate-500">
+              {search.trim() ? 'Aucun joueur ne correspond.' : "Pas assez de joueurs documentés à ce poste précis pour l'instant."}
+            </p>
           ) : (
             <div className="grid grid-cols-4 gap-x-4 gap-y-5 max-h-[420px] overflow-y-auto pr-1">
               {candidates.map((p) => {
@@ -238,4 +310,3 @@ function PitchLines() {
     </svg>
   )
 }
-
