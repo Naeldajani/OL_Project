@@ -121,6 +121,8 @@ def proxied(url, as_png=False):
 
 
 def download(url, path, as_png=False):
+    if "Special:FilePath" in url or "Special:Redirect" in url:
+        url = resolve_redirect(url)
     target, params = proxied(url, as_png=as_png)
     for attempt in range(2):
         r = get(target, params=params)
@@ -130,6 +132,18 @@ def download(url, path, as_png=False):
             return True
         if attempt == 0:
             time.sleep(1.5)
+    # weserv sometimes refuses SVGs whose intrinsic size rasterizes huge
+    # ("Input image exceeds pixel limit") - fetch the raw SVG ourselves and
+    # rasterize locally with an explicit, sane output size instead.
+    if url.lower().endswith(".svg") and as_png:
+        try:
+            import cairosvg
+            r = get(url)
+            if r and r.content:
+                cairosvg.svg2png(bytestring=r.content, write_to=path, output_width=500, output_height=500)
+                return True
+        except Exception:
+            pass
     return False
 
 
