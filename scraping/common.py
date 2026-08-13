@@ -64,20 +64,24 @@ def resolve_redirect(url):
 def proxied(url, as_png=False):
     """Route Wikimedia Commons image fetches through images.weserv.nl:
     upload.wikimedia.org / commons.wikimedia.org FilePath is rate-limited (429)
-    for this shared egress IP. weserv also rasterizes SVG -> PNG on the fly."""
+    for this shared egress IP. weserv also rasterizes SVG -> PNG on the fly.
+    Returns (base_url, params) since the target URL must be passed as a
+    properly url-encoded query param (it often contains literal '%' escapes
+    from accented filenames, which corrupt a hand-built query string)."""
     if "wikimedia.org" in url:
         if "Special:FilePath" in url or "Special:Redirect" in url:
             url = resolve_redirect(url)
         bare = url.split("://", 1)[1].split("?")[0]
-        proxied_url = "https://images.weserv.nl/?url=" + bare
+        params = {"url": bare, "w": "500", "we": ""}
         if as_png:
-            proxied_url += "&output=png"
-        return proxied_url
-    return url
+            params["output"] = "png"
+        return "https://images.weserv.nl/", params
+    return url, None
 
 
 def download(url, path, as_png=False):
-    r = get(proxied(url, as_png=as_png))
+    target, params = proxied(url, as_png=as_png)
+    r = get(target, params=params)
     if not r or not r.content or len(r.content) < 200:
         return False
     with open(path, "wb") as f:
