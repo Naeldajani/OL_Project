@@ -38,6 +38,7 @@ export interface Match {
   referee?: string
   attendance?: number
   venue?: string
+  olPosition?: number
   formationHome?: string
   formationAway?: string
 }

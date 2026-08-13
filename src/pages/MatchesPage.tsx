@@ -140,8 +140,9 @@ export default function MatchesPage() {
                   <span className="text-xs text-ol-gold font-semibold">
                     il y a {yearsAgo(m.date)} ans
                   </span>
-                  <span className="font-semibold text-white">
-                    {m.home} vs {m.away}
+                  <span className="font-semibold text-white flex items-center gap-2">
+                    <ClubCrest club={m.home} size={22} /> {m.home} vs {m.away}{' '}
+                    <ClubCrest club={m.away} size={22} />
                   </span>
                 </div>
                 <div className="flex items-center gap-3">
@@ -244,8 +245,9 @@ function MatchList({
                 {formatDate(m.date)}
               </span>
               <span className="text-xs text-slate-500 w-24 shrink-0">{m.competition}</span>
-              <span className="font-semibold text-white">
-                {m.home} vs {m.away}
+              <span className="font-semibold text-white flex items-center gap-2">
+                <ClubCrest club={m.home} size={22} /> {m.home} vs {m.away}{' '}
+                <ClubCrest club={m.away} size={22} />
               </span>
             </div>
             <span className="font-bold text-white">

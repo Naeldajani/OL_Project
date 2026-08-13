@@ -1,3 +1,4 @@
+import ClubCrest from './ClubCrest'
 import { formatDate, result } from '../lib/matchHelpers'
 import type { Match } from '../lib/types'
 
@@ -41,27 +42,41 @@ export default function MatchModal({ match, onClose }: { match: Match; onClose: 
             {match.home} vs {match.away}
           </h2>
           <div className="flex items-center gap-4">
+            <ClubCrest club={match.home} size={32} />
             <span className="font-semibold text-white">{match.home}</span>
             <span className="text-3xl font-black text-white bg-ink-900/60 rounded-lg px-4 py-1">
               {match.homeScore} - {match.awayScore}
             </span>
             <span className="font-semibold text-white">{match.away}</span>
+            <ClubCrest club={match.away} size={32} />
             <ResultBadge r={r} />
           </div>
         </div>
         <div className="p-6">
           {match.scorers.length > 0 && (
-            <div className="mb-6">
-              <div className="text-xs uppercase tracking-wide text-slate-400 mb-2">⚽ Buteurs</div>
-              <div className="flex flex-col gap-1">
-                {match.scorers.map((s, i) => (
-                  <div key={i} className="text-sm text-white">
-                    {s.minute != null ? `${s.minute}' ` : ''}
-                    {s.player}
-                    {s.assist ? <span className="text-slate-400"> ({s.assist})</span> : ''}
+            <div className="mb-6 grid grid-cols-2 gap-x-6">
+              {([match.home, match.away] as const).map((team) => {
+                const side = team === match.home ? 'home' : 'away'
+                const teamScorers = match.scorers.filter((s) => s.team === side)
+                if (teamScorers.length === 0) return <div key={team} />
+                return (
+                  <div key={team}>
+                    <div className="flex items-center gap-2 text-xs uppercase tracking-wide text-slate-400 mb-2">
+                      <ClubCrest club={team} size={18} />
+                      <span>{team}</span>
+                    </div>
+                    <div className="flex flex-col gap-1">
+                      {teamScorers.map((s, i) => (
+                        <div key={i} className="text-sm text-white">
+                          ⚽ {s.minute != null ? `${s.minute}' ` : ''}
+                          {s.player}
+                          {s.assist ? <span className="text-slate-400"> ({s.assist})</span> : ''}
+                        </div>
+                      ))}
+                    </div>
                   </div>
-                ))}
-              </div>
+                )
+              })}
             </div>
           )}
           <div className="grid grid-cols-2 gap-y-4 gap-x-8 text-sm">
