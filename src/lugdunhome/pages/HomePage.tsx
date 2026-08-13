@@ -1,12 +1,13 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import MatchHero, { MatchRow } from '../components/MatchHero'
 import CountdownBanner, { useLiveWindow } from '../components/Countdown'
-import { Card, Face, Pill, ResultBar, SectionTitle, Stat } from '../components/ui'
+import { Card, Crest, Face, Pill, ResultBar, SectionTitle, Stat } from '../components/ui'
 import { useMatchCommunity } from '../hooks/useMatchCommunity'
 import { isLatest, latestMatch, ratableMatches } from '../lib/matches'
 import { windowFor } from '../lib/matchWindow'
 import { debateFor } from '../lib/debates'
+import { nextFixture, untilKickoff } from '../lib/fixtures'
 import { seedMatches } from '../../data/seed-matches'
 import { result } from '../../lib/matchHelpers'
 
@@ -99,6 +100,9 @@ export default function HomePage() {
           {winState && <CountdownBanner state={winState} msLeft={live.msLeft} />}
         </div>
       </section>
+
+      {/* Next fixture — the "before match" state */}
+      <NextFixtureCard />
 
       {/* Community pulse */}
       <section>
@@ -211,6 +215,67 @@ export default function HomePage() {
         <QuickLink to="/classements" icon="🏆" title="Classements" hint="Qui est le meilleur Gone ?" />
       </section>
     </div>
+  )
+}
+
+/** The pre-match state: next real fixture, counting down to kickoff. */
+function NextFixtureCard() {
+  const fixture = useMemo(() => nextFixture(), [])
+  const [left, setLeft] = useState(() => (fixture ? fixture.kickoff - Date.now() : 0))
+
+  useEffect(() => {
+    if (!fixture) return
+    const t = setInterval(() => setLeft(fixture.kickoff - Date.now()), 30000)
+    return () => clearInterval(t)
+  }, [fixture])
+
+  if (!fixture) return null
+
+  return (
+    <section>
+      <SectionTitle
+        eyebrow="Avant match"
+        title="Le prochain rendez-vous"
+        action={
+          <Link to="/pronos" className="text-xs font-bold text-lh-muted hover:text-lh-text">
+            Pronostiquer →
+          </Link>
+        }
+      />
+      <Card className="relative overflow-hidden p-5">
+        <div className="pointer-events-none absolute -right-12 -top-12 h-40 w-40 rounded-full bg-lh-gold/10 blur-3xl" />
+        <div className="relative flex flex-wrap items-center gap-4">
+          <Pill tone="gold">J{fixture.matchweek}</Pill>
+          <span className="text-xs text-lh-muted">
+            {new Date(`${fixture.date}T12:00:00`).toLocaleDateString('fr-FR', {
+              weekday: 'long',
+              day: 'numeric',
+              month: 'long',
+            })}
+          </span>
+          <Pill className="ml-auto">⏳ dans {untilKickoff(left)}</Pill>
+        </div>
+        <div className="relative mt-4 flex items-center justify-center gap-4">
+          <div className="flex min-w-0 flex-1 items-center justify-end gap-3 text-right">
+            <span className="min-w-0 truncate font-bold">{fixture.home}</span>
+            <Crest club={fixture.home} size={44} />
+          </div>
+          <span className="lh-display shrink-0 text-2xl text-lh-muted">VS</span>
+          <div className="flex min-w-0 flex-1 items-center gap-3">
+            <Crest club={fixture.away} size={44} />
+            <span className="min-w-0 truncate font-bold">{fixture.away}</span>
+          </div>
+        </div>
+        <div className="relative mt-4 flex justify-center">
+          <Link
+            to="/pronos"
+            className="rounded-xl border border-lh-gold/40 bg-lh-gold/10 px-5 py-2.5 text-sm font-black uppercase tracking-wide text-lh-goldSoft transition-colors hover:bg-lh-gold/20"
+          >
+            Poser mon pronostic
+          </Link>
+        </div>
+      </Card>
+    </section>
   )
 }
 
