@@ -68,7 +68,7 @@ Deportivo La Coruña,deportivo-la-coruna,,,,,not_found
 Dijon,dijon,,,,,not_found
 Dinamo Zagreb,dinamo-zagreb,,,,,not_found
 Djurgårdens IF,djurgardens-if,,,,,not_found
-Dynamo Moscow,dynamo-moscow,,,,,not_found
+Dynamo Moscow,dynamo-moscow,wikipedia_fr_manual_fix,FK Dynamo Moscou,,,ok
 Empoli,empoli,,,,,not_found
 Al-Ittihad,al-ittihad,,,,,not_found
 Al-Nasr,al-nasr,wikipedia_en,Al-Nasr SC (Dubai),https://upload.wikimedia.org/wikipedia/commons/a/aa/AL_Nasr_SC_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/al-nasr.png,ok
@@ -120,7 +120,7 @@ Deportivo La Coruña,deportivo-la-coruna,wikipedia_fr,Real Club Deportivo de A C
 Dijon,dijon,,,,,not_found
 Dinamo Zagreb,dinamo-zagreb,,,,,not_found
 Djurgårdens IF,djurgardens-if,,,,,not_found
-Dynamo Moscow,dynamo-moscow,,,,,not_found
+Dynamo Moscow,dynamo-moscow,wikipedia_fr_manual_fix,FK Dynamo Moscou,,,ok
 Empoli,empoli,wikipedia_fr,Empoli Football Club,https://upload.wikimedia.org/wikipedia/fr/5/59/Logo_Empoli_FC_2021.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/empoli.png,ok
 Espanyol,espanyol,wikipedia_fr,RCD Espanyol de Barcelone,https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_RCD_Espanyol_Barcelona_2022.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/espanyol.png,ok
 Everton,everton,wikipedia_fr,Everton Football Club,https://upload.wikimedia.org/wikipedia/fr/8/87/Logo_Everton_FC_2023.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/everton.png,ok
@@ -190,7 +190,7 @@ Nice,nice,wikipedia_fr,Olympique Gymnaste Club de Nice,https://upload.wikimedia.
 Nottingham Forest,nottingham-forest,wikipedia_fr,Nottingham Forest Football Club,https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Nottingham_Forest_FC.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/nottingham-forest.png,ok
 Novorizontino,novorizontino,,,,,not_found
 Náutico,nautico,,,,,not_found
-Olympiacos,olympiacos,,,,,not_found
+Olympiacos,olympiacos,wikipedia_fr_manual_fix,Olympiakós (football),,,ok
 PAOK,paok,wikipedia_fr,PAOK Salonique (football),https://upload.wikimedia.org/wikipedia/fr/9/92/PAOK_FC_logo.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/paok.png,ok
 PSV Eindhoven,psv-eindhoven,,,,,not_found
 Palermo,palermo,,,,,not_found
@@ -255,7 +255,7 @@ Toulouse,toulouse,wikipedia_fr,Toulouse Football Club,https://upload.wikimedia.o
 Trabzonspor,trabzonspor,wikipedia_fr,Trabzonspor,https://upload.wikimedia.org/wikipedia/fr/0/0a/Logo_Trabzonspor_2022.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/trabzonspor.png,ok
 Troyes,troyes,wikipedia_en,ES Troyes AC,https://upload.wikimedia.org/wikipedia/commons/a/a9/ESTAC_Troyes_Logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/troyes.png,ok
 Twente,twente,,,,,not_found
-Valencia,valencia,,,,,not_found
+Valencia,valencia,wikipedia_fr_manual_fix,Valencia Club de Fútbol,,public/images/clubs/valencia.png,ok
 Valenciennes,valenciennes,wikipedia_fr,Valenciennes,https://upload.wikimedia.org/wikipedia/commons/9/9b/Valenciennes_HdV%282026%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/valenciennes.png,ok
 Vasco da Gama,vasco-da-gama,,,,,not_found
 Venezia,venezia,,,,,not_found
@@ -279,3 +279,92 @@ América Mineiro,america-mineiro,,,,,not_found
 Anderlecht,anderlecht,,,,,not_found
 Arsenal,arsenal,,,,,not_found
 Aston Villa,aston-villa,wikipedia_fr,Aston Villa Football Club,https://upload.wikimedia.org/wikipedia/fr/1/14/Aston_Villa_FC_2024.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/aston-villa.png,ok
+Athletico Paranaense,athletico-paranaense,wikipedia_fr,Club Athletico Paranaense,https://upload.wikimedia.org/wikipedia/commons/4/43/Athletico_Paranaense_%28Logo_2019%29.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/athletico-paranaense.png,ok
+Atlanta United,atlanta-united,wikipedia_fr,Atlanta United Football Club,https://upload.wikimedia.org/wikipedia/fr/f/f9/Logo_Atlanta_United_2025.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/atlanta-united.png,ok
+Atlético Mineiro,atletico-mineiro,,,,,not_found
+Audax,audax,,,,,not_found
+Baník Ostrava,banik-ostrava,,,,,not_found
+Basel,basel,wikipedia_fr,Football Club Bâle,https://upload.wikimedia.org/wikipedia/fr/e/e9/Logo_FC_Basel_2023.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/basel.png,ok
+Bastia,bastia,,,,,not_found
+Bayer Leverkusen,bayer-leverkusen,,,,,not_found
+Bayern Munich,bayern-munich,wikipedia_fr,Bayern Munich,https://upload.wikimedia.org/wikipedia/fr/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/bayern-munich.png,ok
+Benfica,benfica,,,,,not_found
+Bordeaux,bordeaux,,,,,not_found
+Botafogo,botafogo,wikipedia_fr,Botafogo de Futebol e Regatas,https://upload.wikimedia.org/wikipedia/commons/5/52/Botafogo_de_Futebol_e_Regatas_logo.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/botafogo.png,ok
+Botafogo-SP,botafogo-sp,wikipedia_fr,Botafogo Futebol Clube (Ribeirão Preto),https://upload.wikimedia.org/wikipedia/fr/6/6a/Botafogo_Futebol_Clube_%28Ribeir%C3%A3o_Preto%29_%28logo%29.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/botafogo-sp.png,ok
+Braga,braga,wikipedia_fr,Sporting Braga,https://upload.wikimedia.org/wikipedia/fr/5/53/Logo_SC_Braga_2018.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/braga.png,ok
+Brentford,brentford,wikipedia_fr,Brentford Football Club,https://upload.wikimedia.org/wikipedia/fr/3/3d/Logo_Brentford_FC_-_2017.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/brentford.png,ok
+Brest,brest,,,,,not_found
+Burnley,burnley,wikipedia_fr,Burnley Football Club,https://upload.wikimedia.org/wikipedia/fr/0/02/Logo_Burnley_FC_2023.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/burnley.png,ok
+CR Belouizdad,cr-belouizdad,wikipedia_fr,Chabab Riadhi Belouizdad,https://upload.wikimedia.org/wikipedia/commons/4/4f/CRB1.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/cr-belouizdad.png,ok
+Caen,caen,wikipedia_fr,Saison 2026-2027 du Stade Malherbe Caen,https://upload.wikimedia.org/wikipedia/fr/7/79/Logo_SM_Caen_2016.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/caen.png,ok
+Canon Yaoundé,canon-yaounde,,,,,not_found
+Chelsea,chelsea,wikipedia_fr,Chelsea Football Club,https://upload.wikimedia.org/wikipedia/fr/7/71/Logo_Chelsea_FC_2026.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/chelsea.png,ok
+Chieti,chieti,wikipedia_fr,Chieti F.C. 1922,https://upload.wikimedia.org/wikipedia/fr/f/ff/Calcio_Chieti_%28logo%29.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/chieti.png,ok
+Châteauroux,chateauroux,wikipedia_fr,La Berrichonne de Châteauroux,https://upload.wikimedia.org/wikipedia/fr/9/95/Logo_Berrichonne_Ch%C3%A2teauroux_2017.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/chateauroux.png,ok
+Clermont,clermont,,,,,not_found
+Club Brugge,club-brugge,wikipedia_fr,Club Bruges KV,https://upload.wikimedia.org/wikipedia/fr/d/dc/Logo_Club_Brugge_KV_2024.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/club-brugge.png,ok
+Corinthians,corinthians,wikipedia_fr,Corinthian Football Club,https://upload.wikimedia.org/wikipedia/commons/0/09/Corinthian_fc_logo.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/corinthians.png,ok
+Coton Sport,coton-sport,wikipedia_fr,Coton Football Club,https://upload.wikimedia.org/wikipedia/fr/5/58/Logo_du_Coton_FC.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/coton-sport.png,ok
+Cruz Azul,cruz-azul,wikipedia_en,Cruz Azul,https://upload.wikimedia.org/wikipedia/commons/1/15/Cruz_Azul_2026.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/cruz-azul.png,ok
+Créteil,creteil,wikipedia_fr,Union sportive Créteil Football,https://upload.wikimedia.org/wikipedia/fr/a/ad/Logo_US_Cr%C3%A9teil_Football_-_2026.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/creteil.png,ok
+Dijon,dijon,wikipedia_fr,Dijon Football Côte-d'Or,https://upload.wikimedia.org/wikipedia/fr/c/c9/LogoDFCO.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/dijon.png,ok
+Dinamo Zagreb,dinamo-zagreb,wikipedia_fr,GNK Dinamo Zagreb,https://upload.wikimedia.org/wikipedia/fr/d/d9/Logo_GNK_Dinamo_Zagreb_2024.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/dinamo-zagreb.png,ok
+Djurgårdens IF,djurgardens-if,,,,,not_found
+Dynamo Moscow,dynamo-moscow,wikipedia_fr_manual_fix,FK Dynamo Moscou,https://upload.wikimedia.org/wikipedia/commons/a/a4/Luzhniki_Inside_View_B_Stand.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/dynamo-moscow.png,ok
+FC Dallas,fc-dallas,,,,,not_found
+FC Nordsjælland,fc-nordsj-lland,,,,,not_found
+Fulham,fulham,wikipedia_fr,Fulham Football Club,https://upload.wikimedia.org/wikipedia/fr/c/ce/Logo_Fulham.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/fulham.png,ok
+Galatasaray,galatasaray,wikipedia_fr,Galatasaray SK (football),https://upload.wikimedia.org/wikipedia/fr/b/b4/Logo_Galatasay_SK_%285_Stars%29.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/galatasaray.png,ok
+Genoa,genoa,wikipedia_fr,Genoa Cricket and Football Club,https://upload.wikimedia.org/wikipedia/fr/4/4c/Logo_Genoa_CFC_-_2022.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/genoa.png,ok
+Girondins de Bordeaux,girondins-de-bordeaux,,,,,not_found
+Granada,granada,,,,,not_found
+Grasshoppers,grasshoppers,,,,,not_found
+Gremio,gremio,,,,,not_found
+Grêmio,gremio,,,,,not_found
+Hamburger SV,hamburger-sv,wikipedia_fr,Hambourg SV,https://upload.wikimedia.org/wikipedia/fr/1/1a/Logo_Hambourg_SV.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/hamburger-sv.png,ok
+Hull City,hull-city,wikipedia_fr,Hull City Association Football Club,https://upload.wikimedia.org/wikipedia/fr/e/ed/Hull_City_AFC_logo.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/hull-city.png,ok
+Independiente,independiente,wikipedia_fr,Club Atlético Independiente,https://upload.wikimedia.org/wikipedia/fr/0/03/Logo_CA_Independiente_1987.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/independiente.png,ok
+Indonesia (Persib Bandung),indonesia-persib-bandung,wikipedia_fr,Persib Bandung,https://upload.wikimedia.org/wikipedia/fr/1/15/Persib_%28logo%29.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/indonesia-persib-bandung.png,ok
+LAFC,lafc,,,,,not_found
+Le Mans,le-mans,wikipedia_fr,Le Mans Football Club,https://upload.wikimedia.org/wikipedia/fr/9/96/Logo_Le_Mans_FC_%282010%29.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/le-mans.png,ok
+Le Puy,le-puy,wikipedia_fr,Le Puy-en-Velay Football Club,https://upload.wikimedia.org/wikipedia/fr/7/77/Logo_Le_Puy_en_Velay_FC_-_2026.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/le-puy.png,ok
+Lecce,lecce,wikipedia_fr,Unione Sportiva Lecce,https://upload.wikimedia.org/wikipedia/fr/f/fa/US_Lecce_2023.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/lecce.png,ok
+Leicester City,leicester-city,wikipedia_fr,Leicester City Football Club,https://upload.wikimedia.org/wikipedia/fr/3/3c/Logo_Leicester_City_2021.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/leicester-city.png,ok
+Lens,lens,,,,,not_found
+Liberty Professionals,liberty-professionals,wikipedia_fr,Liberty Professionals,https://upload.wikimedia.org/wikipedia/fr/d/d0/Liberty_Professionals_%28logo%29.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/liberty-professionals.png,ok
+Los Angeles FC,los-angeles-fc,,,,,not_found
+Nantes,nantes,,,,,not_found
+Napoli,napoli,wikipedia_fr,Società Sportiva Calcio Napoli,https://upload.wikimedia.org/wikipedia/fr/0/0c/Logo_SSC_Napoli_2024.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/napoli.png,ok
+Neom,neom,wikipedia_fr,Neom,https://upload.wikimedia.org/wikipedia/commons/2/2d/Neom_location-ar.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/neom.png,ok
+Newcastle United,newcastle-united,wikipedia_fr,Newcastle United Football Club,https://upload.wikimedia.org/wikipedia/fr/a/a4/Logo_Newcastle_United_FC.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/newcastle-united.png,ok
+Novorizontino,novorizontino,wikipedia_fr,Grêmio Novorizontino,https://upload.wikimedia.org/wikipedia/commons/1/1b/Gr%C3%AAmio_Novorizontino.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/novorizontino.png,ok
+Náutico,nautico,wikipedia_fr,Clube Náutico Capibaribe,https://upload.wikimedia.org/wikipedia/fr/3/39/Clube_N%C3%A1utico_Capibaribe_%28logo%29.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/nautico.png,ok
+Olympiacos,olympiacos,wikipedia_fr_manual_fix,Olympiakós (football),https://upload.wikimedia.org/wikipedia/commons/3/31/Mehdi_Taremi_WC2022.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/olympiacos.png,ok
+PSV Eindhoven,psv-eindhoven,,,,,not_found
+Palermo,palermo,wikipedia_fr,Palermo Football Club,https://upload.wikimedia.org/wikipedia/fr/8/8f/Logo_Palermo_FC_-_2024.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/palermo.png,ok
+Paris FC,paris-fc,wikipedia_fr,Paris Football Club,https://upload.wikimedia.org/wikipedia/fr/e/ef/Logo_Paris_FC_2024.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/paris-fc.png,ok
+RC Lens,rc-lens,,,,,not_found
+RWD Molenbeek,rwd-molenbeek,wikipedia_fr,RWDM Brussels,https://upload.wikimedia.org/wikipedia/fr/0/0b/Logo_RWDM_Brussels_2025.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/rwd-molenbeek.png,ok
+Racing Club,racing-club,wikipedia_fr,Racing Club de France (football),https://upload.wikimedia.org/wikipedia/commons/8/8e/Racing_Club_de_France-logo.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/racing-club.png,ok
+Racing Santander,racing-santander,,,,,not_found
+Rangers,rangers,,,,,not_found
+Real Betis,real-betis,wikipedia_fr,Real Betis Balompié,https://upload.wikimedia.org/wikipedia/fr/e/e8/Logo_Real_Betis_Balompi%C3%A9_2022.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/real-betis.png,ok
+Real Madrid,real-madrid,wikipedia_fr,Real Madrid Club de Fútbol,https://upload.wikimedia.org/wikipedia/fr/c/c7/Logo_Real_Madrid.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/real-madrid.png,ok
+Real Madrid Castilla,real-madrid-castilla,wikipedia_fr,Real Madrid Castilla,https://upload.wikimedia.org/wikipedia/fr/c/c7/Logo_Real_Madrid.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/real-madrid-castilla.png,ok
+Real Sociedad,real-sociedad,wikipedia_fr,Real Sociedad B,https://upload.wikimedia.org/wikipedia/fr/2/26/Logo_Real_Sociedad_2017.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/real-sociedad.png,ok
+Real Valladolid,real-valladolid,wikipedia_fr,Real Valladolid Club de Fútbol,https://upload.wikimedia.org/wikipedia/fr/9/9a/Logo_Real_Valladolid_CF_2024.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/real-valladolid.png,ok
+Rio Ave,rio-ave,wikipedia_fr,Rio Ave Futebol Clube,https://upload.wikimedia.org/wikipedia/fr/6/63/Rio_Ave_FC.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/rio-ave.png,ok
+Roma,roma,wikipedia_fr,Atletico Roma Football Club,https://upload.wikimedia.org/wikipedia/fr/2/23/Atletico_Roma_%28logo%29.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/roma.png,ok
+Servette,servette,,,,,not_found
+Sharjah,sharjah,,,,,not_found
+Southampton,southampton,wikipedia_fr,Southampton Football Club,https://upload.wikimedia.org/wikipedia/fr/9/91/Logo_Southampton_FC_2011.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/southampton.png,ok
+Stoke City,stoke-city,wikipedia_fr,Stoke City Football Club,https://upload.wikimedia.org/wikipedia/fr/5/59/Logo_Stoke_City_FC_-_2026.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/stoke-city.png,ok
+Sunderland,sunderland,wikipedia_fr,Sunderland Association Football Club,https://upload.wikimedia.org/wikipedia/fr/b/b5/Logo_Sunderland_AFC_1997.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/sunderland.png,ok
+Swansea City,swansea-city,wikipedia_fr,Swansea City Association Football Club,https://upload.wikimedia.org/wikipedia/fr/2/24/Logo_Swansea_City_AFC_-_1998.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/swansea-city.png,ok
+Tottenham Hotspur,tottenham-hotspur,,,,,not_found
+Twente,twente,,,,,not_found
+Valencia,valencia,wikipedia_fr_manual_fix,Valencia Club de Fútbol,https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_the_Land_of_Valencia_%28official%29.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/valencia.png,ok
+Vasco da Gama,vasco-da-gama,wikipedia_fr,Club de Regatas Vasco da Gama,https://upload.wikimedia.org/wikipedia/fr/f/f5/Logo_Vasco_da_Gama_2024.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/vasco-da-gama.png,ok
+Venezia,venezia,wikipedia_fr,Venezia Football Club,https://upload.wikimedia.org/wikipedia/fr/c/c0/Logo_Venezia_FC_2026.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/venezia.png,ok
+Widzew Łódź,widzew-odz,wikipedia_fr,Widzew Łódź,https://upload.wikimedia.org/wikipedia/fr/d/d1/Widzew_Lodz_%28logo%29.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original,public/images/clubs/widzew-odz.png,ok
