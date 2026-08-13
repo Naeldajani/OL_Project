@@ -257,5 +257,8 @@ export const CREST_MANIFEST: Record<string, string> = {
   "Amiens SC": "/images/clubs/extra-amiens-sc.png",
   "Viktoria Plzen": "/images/clubs/extra-viktoria-plzen.png",
   "Stade de Reims": "/images/clubs/extra2-stade-de-reims.png",
-  "West Ham Utd.": "/images/clubs/extra2-west-ham-utd.png"
+  "West Ham Utd.": "/images/clubs/extra2-west-ham-utd.png",
+  "Go Ahead Eagles": "/images/clubs/extra2-go-ahead-eagles.png",
+  "Dynamo Kyiv": "/images/clubs/extra2-dynamo-kyiv.png",
+  "Rosenborg BK": "/images/clubs/extra2-rosenborg-bk.png"
 }
