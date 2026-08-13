@@ -1,0 +1,7 @@
+node_modules
+dist
+dist-ssr
+*.local
+data-research/*.raw
+__pycache__/
+*.pyc
