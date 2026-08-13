@@ -8,6 +8,7 @@ import DebatsPage from './pages/DebatsPage'
 import DataPage from './pages/DataPage'
 import ClassementsPage from './pages/ClassementsPage'
 import ProfilPage from './pages/ProfilPage'
+import PlayerPage from './pages/PlayerPage'
 
 export default function App() {
   return (
@@ -21,6 +22,7 @@ export default function App() {
         <Route path="/data" element={<DataPage />} />
         <Route path="/classements" element={<ClassementsPage />} />
         <Route path="/profil" element={<ProfilPage />} />
+        <Route path="/joueur/:name" element={<PlayerPage />} />
       </Routes>
     </Layout>
   )

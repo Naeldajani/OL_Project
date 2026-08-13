@@ -1,4 +1,5 @@
 import { useMemo, useState } from 'react'
+import { Link } from 'react-router-dom'
 import type { Match } from '../../lib/types'
 import type { MatchCommunity } from '../lib/types'
 import { lineupFor, knownPlayer } from '../lib/lineups'
@@ -22,7 +23,9 @@ function RatingPicker({
   disabled: boolean
 }) {
   return (
-    <div className="flex flex-wrap gap-1">
+    // fixed 10-column grid: on a phone this keeps the whole 1–10 scale on a
+    // single row instead of orphaning "10" onto its own line
+    <div className="grid w-full grid-cols-10 gap-1">
       {Array.from({ length: 10 }, (_, i) => i + 1).map((n) => {
         const active = value === n
         return (
@@ -31,7 +34,7 @@ function RatingPicker({
             disabled={disabled}
             onClick={() => onPick(n)}
             aria-label={`Noter ${n} sur 10`}
-            className={`h-8 w-8 rounded-lg text-xs font-black transition-all ${
+            className={`h-9 rounded-lg text-xs font-black transition-all ${
               active
                 ? 'scale-105 bg-lh-red text-white shadow-lg shadow-lh-red/30'
                 : disabled
@@ -106,10 +109,17 @@ export default function RatePlayers({
             >
               <div style={{ animationDelay: `${Math.min(i, 12) * 35}ms` }}>
                 <div className="flex items-center gap-3">
-                  <Face name={entry.player} size={44} />
+                  <Link to={`/joueur/${encodeURIComponent(entry.player)}`} className="shrink-0">
+                    <Face name={entry.player} size={44} />
+                  </Link>
                   <div className="min-w-0 flex-1">
                     <div className="flex items-center gap-2">
-                      <span className="truncate text-sm font-bold">{entry.player}</span>
+                      <Link
+                        to={`/joueur/${encodeURIComponent(entry.player)}`}
+                        className="truncate text-sm font-bold hover:text-lh-goldSoft"
+                      >
+                        {entry.player}
+                      </Link>
                       {isBest && <span title="Meilleure note du match">🏅</span>}
                     </div>
                     <div className="truncate text-[11px] text-lh-muted">
@@ -133,7 +143,7 @@ export default function RatePlayers({
                 </div>
 
                 {open ? (
-                  <div className="mt-3 flex flex-wrap items-center gap-2">
+                  <div className="mt-3 flex flex-col gap-1.5">
                     <RatingPicker
                       value={mine}
                       onPick={(n) => onRate(entry.player, n)}

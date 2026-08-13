@@ -1051,7 +1051,8 @@
    ],
    "venue": "domicile",
    "round": "4e tour",
-   "attendance": 31911
+   "attendance": 31911,
+   "penalties": true
   },
   {
    "id": "990200",
@@ -1222,7 +1223,8 @@
     }
    ],
    "venue": "exterieur",
-   "round": "Huitièmes de finale"
+   "round": "Huitièmes de finale",
+   "penalties": true
   },
   {
    "id": "990224",
@@ -2250,7 +2252,8 @@
    ],
    "venue": "domicile",
    "round": "2e tour",
-   "attendance": 22270
+   "attendance": 22270,
+   "penalties": true
   },
   {
    "id": "1173386",
@@ -2455,7 +2458,8 @@
    ],
    "venue": "exterieur",
    "round": "Huitièmes de finale",
-   "attendance": 12145
+   "attendance": 12145,
+   "penalties": true
   },
   {
    "id": "1002626",
@@ -3933,7 +3937,8 @@
    ],
    "venue": "exterieur",
    "round": "Huitièmes de finale",
-   "attendance": 12486
+   "attendance": 12486,
+   "penalties": true
   },
   {
    "id": "1002212",
@@ -4792,7 +4797,8 @@
    ],
    "venue": "exterieur",
    "round": "2e tour",
-   "attendance": 23500
+   "attendance": 23500,
+   "penalties": true
   },
   {
    "id": "2620",
@@ -5880,7 +5886,8 @@
    ],
    "venue": "exterieur",
    "round": "Finale",
-   "attendance": 9429
+   "attendance": 9429,
+   "penalties": true
   },
   {
    "id": "24141",
@@ -6894,7 +6901,8 @@
    ],
    "venue": "exterieur",
    "round": "Huitièmes de finale",
-   "attendance": 8724
+   "attendance": 8724,
+   "penalties": true
   },
   {
    "id": "24364",
@@ -7150,7 +7158,8 @@
    ],
    "venue": "exterieur",
    "round": "Quarts de finale",
-   "attendance": 32500
+   "attendance": 32500,
+   "penalties": true
   },
   {
    "id": "24308",
@@ -7816,7 +7825,8 @@
    ],
    "venue": "exterieur",
    "round": "2e tour",
-   "attendance": 28025
+   "attendance": 28025,
+   "penalties": true
   },
   {
    "id": "39325",
@@ -8916,7 +8926,8 @@
    ],
    "venue": "domicile",
    "round": "Finale",
-   "attendance": 30529
+   "attendance": 30529,
+   "penalties": true
   },
   {
    "id": "57656",
@@ -11985,7 +11996,8 @@
    ],
    "venue": "exterieur",
    "round": "Finale",
-   "attendance": 27167
+   "attendance": 27167,
+   "penalties": true
   },
   {
    "id": "912742",
@@ -17647,7 +17659,8 @@
    ],
    "venue": "exterieur",
    "round": "Huitièmes de finale",
-   "attendance": 23000
+   "attendance": 23000,
+   "penalties": true
   },
   {
    "id": "1163648",
@@ -18192,7 +18205,8 @@
    ],
    "venue": "exterieur",
    "round": "Finale",
-   "attendance": 15166
+   "attendance": 15166,
+   "penalties": true
   },
   {
    "id": "2229836",
@@ -19009,7 +19023,8 @@
    ],
    "venue": "exterieur",
    "round": "6e tour",
-   "attendance": 7000
+   "attendance": 7000,
+   "penalties": true
   },
   {
    "id": "2224006",
@@ -22000,7 +22015,8 @@
    ],
    "venue": "domicile",
    "round": "Huitièmes de finale",
-   "attendance": 21541
+   "attendance": 21541,
+   "penalties": true
   },
   {
    "id": "2482285",
@@ -24822,7 +24838,8 @@
    ],
    "venue": "domicile",
    "round": "Huitièmes de finale",
-   "attendance": 17002
+   "attendance": 17002,
+   "penalties": true
   },
   {
    "id": "2702818",
@@ -25709,7 +25726,8 @@
    ],
    "venue": "exterieur",
    "round": "Quarts de finale",
-   "attendance": 39623
+   "attendance": 39623,
+   "penalties": true
   },
   {
    "id": "2735616",
@@ -30240,7 +30258,8 @@
    ],
    "venue": "domicile",
    "round": "Demi-finales",
-   "attendance": 35248
+   "attendance": 35248,
+   "penalties": true
   },
   {
    "id": "3199565",
@@ -30630,7 +30649,8 @@
    ],
    "venue": "exterieur",
    "round": "Finale",
-   "attendance": 3500
+   "attendance": 3500,
+   "penalties": true
   },
   {
    "id": "3291940",
@@ -31780,7 +31800,8 @@
     }
    ],
    "venue": "exterieur",
-   "round": "Huitièmes de finale"
+   "round": "Huitièmes de finale",
+   "penalties": true
   },
   {
    "id": "3394925",
@@ -34257,7 +34278,8 @@
    ],
    "venue": "domicile",
    "round": "Huitièmes de finale",
-   "attendance": 24779
+   "attendance": 24779,
+   "penalties": true
   },
   {
    "id": "3840186",
@@ -35598,7 +35620,8 @@
    ],
    "venue": "domicile",
    "round": "Quarts de finale",
-   "attendance": 56602
+   "attendance": 56602,
+   "penalties": true
   },
   {
    "id": "4094788",
@@ -36842,7 +36865,8 @@
    ],
    "venue": "exterieur",
    "round": "6e tour",
-   "attendance": 6359
+   "attendance": 6359,
+   "penalties": true
   },
   {
    "id": "4363899",
@@ -38686,7 +38710,8 @@
    ],
    "venue": "domicile",
    "round": "Quarts de finale",
-   "attendance": 47879
+   "attendance": 47879,
+   "penalties": true
   },
   {
    "id": "4635225",

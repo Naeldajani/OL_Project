@@ -61,6 +61,7 @@ interface RawMatch {
   venue?: string
   notes?: string
   olPosition?: number
+  penalties?: boolean
 }
 
 const researched: Match[] = (matchesRealRaw as { matches: RawMatch[] }).matches.map((m, i) => ({
@@ -80,6 +81,7 @@ const researched: Match[] = (matchesRealRaw as { matches: RawMatch[] }).matches.
   attendance: m.attendance,
   venue: m.venue,
   olPosition: m.olPosition,
+  penalties: m.penalties,
 }))
 
 function dedupeKey(m: Match) {

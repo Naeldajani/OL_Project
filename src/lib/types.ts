@@ -40,6 +40,8 @@ export interface Match {
   attendance?: number
   venue?: string
   olPosition?: number
+  /** the score shown is the penalty-shootout aggregate, not the 90-minute score */
+  penalties?: boolean
   formationHome?: string
   formationAway?: string
 }

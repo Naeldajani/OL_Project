@@ -232,7 +232,11 @@ function RankList({
   return (
     <div className="flex flex-col gap-2.5">
       {rows.map((r, i) => (
-        <div key={r.player} className="flex items-center gap-2.5">
+        <Link
+          key={r.player}
+          to={`/joueur/${encodeURIComponent(r.player)}`}
+          className="flex items-center gap-2.5 rounded-lg px-1 py-0.5 transition-colors hover:bg-white/5"
+        >
           <span className="w-4 shrink-0 text-xs font-black text-lh-muted">{i + 1}</span>
           <Face name={r.player} size={28} />
           <div className="min-w-0 flex-1">
@@ -242,7 +246,7 @@ function RankList({
             </div>
             <ResultBar pct={r.pct} color={color} delay={i * 50} />
           </div>
-        </div>
+        </Link>
       ))}
     </div>
   )
@@ -262,7 +266,7 @@ function PerfRow({
   const match = ratableMatches.find((m) => m.id === matchId)
   return (
     <Link
-      to={`/matchs/${matchId}`}
+      to={`/joueur/${encodeURIComponent(player)}`}
       className="flex items-center gap-2.5 rounded-lg px-1 py-1 transition-colors hover:bg-white/5"
     >
       <Face name={player} size={28} />

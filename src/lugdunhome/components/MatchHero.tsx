@@ -34,7 +34,7 @@ export default function MatchHero({
           <span className="ml-auto text-xs text-lh-muted">{formatLongDate(match.date)}</span>
         </div>
 
-        <div className="flex items-center justify-center gap-4 sm:gap-8">
+        <div className="flex items-center justify-center gap-3 sm:gap-8">
           <TeamSide club={match.home} align="right" compact={compact} />
           <div className="shrink-0 text-center">
             <div
@@ -44,6 +44,11 @@ export default function MatchHero({
               <span className="mx-1.5 text-lh-muted">–</span>
               {match.awayScore}
             </div>
+            {match.penalties && (
+              <div className="mt-1 text-[10px] font-bold uppercase tracking-wider text-lh-goldSoft">
+                aux tirs au but
+              </div>
+            )}
             {!compact && (
               <div className="mt-1.5 text-[11px] font-semibold uppercase tracking-wider text-lh-muted">
                 {match.venue === 'domicile' ? 'À domicile' : 'À l’extérieur'}
@@ -51,6 +56,17 @@ export default function MatchHero({
             )}
           </div>
           <TeamSide club={match.away} align="left" compact={compact} />
+        </div>
+
+        {/* Names live under the scoreline on phones, where the inline
+            layout would truncate them to a single letter. */}
+        <div className="mt-2 flex items-center justify-between gap-3 sm:hidden">
+          <span className="min-w-0 flex-1 truncate text-center text-xs font-bold">
+            {match.home === 'Lyon' ? 'Olympique Lyonnais' : match.home}
+          </span>
+          <span className="min-w-0 flex-1 truncate text-center text-xs font-bold">
+            {match.away === 'Lyon' ? 'Olympique Lyonnais' : match.away}
+          </span>
         </div>
 
         {!compact && (
@@ -85,7 +101,11 @@ function TeamSide({
         align === 'right' ? 'justify-end text-right' : 'justify-start text-left'
       } ${align === 'right' ? 'flex-row' : 'flex-row-reverse'}`}
     >
-      <span className={`min-w-0 truncate font-bold ${compact ? 'text-sm' : 'text-base sm:text-lg'} ${isOL ? 'text-lh-text' : 'text-lh-muted'}`}>
+      <span
+        className={`hidden min-w-0 truncate font-bold sm:block ${
+          compact ? 'text-sm' : 'text-base sm:text-lg'
+        } ${isOL ? 'text-lh-text' : 'text-lh-muted'}`}
+      >
         {isOL ? 'Olympique Lyonnais' : club}
       </span>
       <Crest club={club} size={compact ? 34 : 52} />
@@ -126,6 +146,7 @@ export function MatchRow({ match }: { match: Match }) {
       </div>
       <span className="lh-display lh-tabnum shrink-0 text-lg">
         {match.homeScore}–{match.awayScore}
+        {match.penalties && <span className="ml-1 text-[10px] text-lh-goldSoft">tab</span>}
       </span>
     </Link>
   )
