@@ -78,8 +78,11 @@ export const FORMATIONS: Formation[] = [
   },
 ]
 
-// Recognizable names — used only as a light tie-break, not a filter.
-const NOTABLE = new Set([
+// Recognizable names — the closest proxy we have to "famous enough to be
+// guessable". Used both as a Best XI tie-break and to grade Devine le Gone
+// difficulty (career length alone doesn't track how easy a player is to
+// recognize).
+export const NOTABLE = new Set([
   'Anthony Lopes', 'Grégory Coupet', 'Rémy Vercoutre',
   'Cris', 'Sébastien Squillaci', 'Anthony Réveillère', 'Nicolás Tagliafico',
   'Éric Abidal', 'Jérémy Morel', 'Samuel Umtiti', 'Mapou Yanga-Mbiwa',

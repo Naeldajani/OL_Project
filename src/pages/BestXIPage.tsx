@@ -6,6 +6,7 @@ import { coaches } from '../data/coaches'
 import { seedPlayers } from '../data/seed-players'
 
 const byId = new Map(seedPlayers.map((p) => [p.id, p]))
+const STAGGER_MS = 120
 
 function normalize(s: string) {
   return s
@@ -24,7 +25,49 @@ function shuffle<T>(arr: T[]): T[] {
   return a
 }
 
+/** A centered, foreground overlay — used for both the coach and the
+ * player-position pickers so they never render "under" the pitch. */
+function PickerOverlay({
+  title,
+  onClose,
+  onReroll,
+  children,
+}: {
+  title: string
+  onClose: () => void
+  onReroll?: () => void
+  children: React.ReactNode
+}) {
+  return (
+    <div
+      className="fixed inset-0 bg-black/70 flex items-start justify-center pt-20 z-50 px-4 overflow-y-auto"
+      onClick={onClose}
+    >
+      <div
+        className="bg-ink-800 rounded-2xl ring-1 ring-white/10 max-w-2xl w-full p-6 animate-panel-in"
+        onClick={(e) => e.stopPropagation()}
+      >
+        <div className="flex items-center justify-between mb-4">
+          <h3 className="text-sm font-bold text-slate-300 uppercase tracking-wide">{title}</h3>
+          <div className="flex items-center gap-3">
+            {onReroll && (
+              <button onClick={onReroll} className="text-xs font-semibold text-ol-gold hover:text-white">
+                🎲 Relancer
+              </button>
+            )}
+            <button onClick={onClose} className="text-slate-400 hover:text-white text-sm">
+              Fermer ✕
+            </button>
+          </div>
+        </div>
+        {children}
+      </div>
+    </div>
+  )
+}
+
 export default function BestXIPage() {
+  const [started, setStarted] = useState(false)
   const [formationId, setFormationId] = useState<string | null>(null)
   const formation = FORMATIONS.find((f) => f.id === formationId) ?? null
 
@@ -72,11 +115,7 @@ export default function BestXIPage() {
   function pick(roleId: string, playerId: string) {
     setSelection((s) => ({ ...s, [roleId]: playerId }))
     setBounce((b) => ({ ...b, [roleId]: (b[roleId] ?? 0) + 1 }))
-    if (!formation) return
-    const idx = formation.roles.findIndex((r) => r.id === roleId)
-    const next = formation.roles.slice(idx + 1).find((r) => !selection[r.id])
     setActiveRoleId(null)
-    if (next) setTimeout(() => openSlot(next.id), 350)
   }
 
   function openCoachPicker() {
@@ -90,6 +129,28 @@ export default function BestXIPage() {
   }
 
   const selectedCoach = coaches.find((c) => c.id === coachId)
+
+  if (!started) {
+    return (
+      <div>
+        <PageHeader
+          icon="🌟"
+          eyebrow="Stats"
+          title="Meilleur XI"
+          description="Compose le onze de légende de l'OL — à toi de choisir chaque poste, rien n'est imposé."
+        />
+        <Card className="flex flex-col items-center justify-center py-16 gap-6">
+          <span className="text-5xl">⚽</span>
+          <button
+            onClick={() => setStarted(true)}
+            className="px-8 py-4 rounded-xl bg-emerald-500 hover:bg-emerald-400 text-white font-black text-lg tracking-wide transition-colors shadow-lg shadow-emerald-500/20"
+          >
+            Commencer
+          </button>
+        </Card>
+      </div>
+    )
+  }
 
   if (!formation) {
     return (
@@ -105,11 +166,12 @@ export default function BestXIPage() {
             Choisis ta compo
           </h3>
           <div className="grid grid-cols-4 gap-4">
-            {FORMATIONS.map((f) => (
+            {FORMATIONS.map((f, i) => (
               <button
                 key={f.id}
                 onClick={() => setFormationId(f.id)}
-                className="flex flex-col items-center gap-2 rounded-xl p-6 bg-ink-900/50 ring-1 ring-white/10 hover:ring-ol-gold transition-all hover:-translate-y-0.5"
+                style={{ animationDelay: `${i * STAGGER_MS}ms` }}
+                className="animate-slide-in-x flex flex-col items-center gap-2 rounded-xl p-6 bg-ink-900/50 ring-1 ring-white/10 hover:ring-ol-gold transition-all hover:-translate-y-0.5"
               >
                 <span className="text-2xl">⚽</span>
                 <span className="text-lg font-black text-white">{f.label}</span>
@@ -163,40 +225,6 @@ export default function BestXIPage() {
             )}
           </div>
         </button>
-
-        {coachOpen && (
-          <div className="mt-4 pt-4 border-t border-white/10 animate-panel-in">
-            <div className="flex items-center justify-between mb-4">
-              <h4 className="text-xs font-bold text-slate-300 uppercase tracking-wide">
-                Choisir un entraîneur
-              </h4>
-              <div className="flex items-center gap-3">
-                <button onClick={openCoachPicker} className="text-xs font-semibold text-ol-gold hover:text-white">
-                  🎲 Relancer
-                </button>
-                <button onClick={() => setCoachOpen(false)} className="text-slate-400 hover:text-white text-sm">
-                  Fermer ✕
-                </button>
-              </div>
-            </div>
-            <div className="grid grid-cols-3 gap-4">
-              {coachCandidates.map((c) => (
-                <button
-                  key={c.id}
-                  onClick={() => pickCoach(c.id)}
-                  className="flex flex-col items-center gap-2 rounded-xl p-4 ring-1 bg-ink-900/50 ring-white/10 hover:ring-ol-gold transition-all hover:-translate-y-0.5"
-                >
-                  <PersonPhoto name={c.name} size={72} />
-                  <div className="text-sm font-bold text-white text-center leading-tight">{c.name}</div>
-                  <div className="text-[11px] text-slate-500 text-center leading-tight">
-                    {c.seasons[0]}
-                    {c.seasons.length > 1 ? `–${c.seasons[c.seasons.length - 1]}` : ''}
-                  </div>
-                </button>
-              ))}
-            </div>
-          </div>
-        )}
       </Card>
 
       <Card className="mb-6">
@@ -238,27 +266,34 @@ export default function BestXIPage() {
         </div>
       </Card>
 
-      {activeRole && (
-        <Card className="animate-panel-in">
-          <div className="flex items-center justify-between mb-4">
-            <h3 className="text-sm font-bold text-slate-300 uppercase tracking-wide">
-              Choisir un joueur — {activeRole.label}
-            </h3>
-            <div className="flex items-center gap-3">
+      {coachOpen && (
+        <PickerOverlay title="Choisir un entraîneur" onClose={() => setCoachOpen(false)} onReroll={openCoachPicker}>
+          <div className="grid grid-cols-3 gap-4">
+            {coachCandidates.map((c, i) => (
               <button
-                onClick={() => openSlot(activeRole.id)}
-                className="text-xs font-semibold text-ol-gold hover:text-white"
+                key={c.id}
+                onClick={() => pickCoach(c.id)}
+                style={{ animationDelay: `${i * STAGGER_MS}ms` }}
+                className="animate-slide-in-x flex flex-col items-center gap-2 rounded-xl p-4 ring-1 bg-ink-900/50 ring-white/10 hover:ring-ol-gold transition-all hover:-translate-y-0.5"
               >
-                🎲 Relancer
+                <PersonPhoto name={c.name} size={72} />
+                <div className="text-sm font-bold text-white text-center leading-tight">{c.name}</div>
+                <div className="text-[11px] text-slate-500 text-center leading-tight">
+                  {c.seasons[0]}
+                  {c.seasons.length > 1 ? `–${c.seasons[c.seasons.length - 1]}` : ''}
+                </div>
               </button>
-              <button
-                onClick={() => setActiveRoleId(null)}
-                className="text-slate-400 hover:text-white text-sm"
-              >
-                Fermer ✕
-              </button>
-            </div>
+            ))}
           </div>
+        </PickerOverlay>
+      )}
+
+      {activeRole && (
+        <PickerOverlay
+          title={`Choisir un joueur — ${activeRole.label}`}
+          onClose={() => setActiveRoleId(null)}
+          onReroll={() => openSlot(activeRole.id)}
+        >
           <input
             autoFocus
             value={search}
@@ -272,13 +307,14 @@ export default function BestXIPage() {
             </p>
           ) : (
             <div className="grid grid-cols-4 gap-x-4 gap-y-5 max-h-[420px] overflow-y-auto pr-1">
-              {candidates.map((p) => {
+              {candidates.map((p, i) => {
                 const selected = selection[activeRole.id] === p.id
                 return (
                   <button
                     key={p.id}
                     onClick={() => pick(activeRole.id, p.id)}
-                    className={`flex flex-col items-center gap-2 rounded-xl p-3 ring-1 transition-all hover:-translate-y-0.5 ${
+                    style={{ animationDelay: `${Math.min(i, 12) * STAGGER_MS}ms` }}
+                    className={`animate-slide-in-x flex flex-col items-center gap-2 rounded-xl p-3 ring-1 transition-all hover:-translate-y-0.5 ${
                       selected
                         ? 'bg-ol-gold/10 ring-ol-gold'
                         : 'bg-ink-900/50 ring-white/10 hover:ring-white/30'
@@ -293,7 +329,7 @@ export default function BestXIPage() {
               })}
             </div>
           )}
-        </Card>
+        </PickerOverlay>
       )}
     </div>
   )

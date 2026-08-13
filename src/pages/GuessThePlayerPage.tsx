@@ -2,6 +2,7 @@ import { useMemo, useState } from 'react'
 import Card, { PageHeader } from '../components/Card'
 import ClubCrest from '../components/ClubCrest'
 import { seedPlayers } from '../data/seed-players'
+import { NOTABLE } from '../lib/roles'
 import type { Player } from '../lib/types'
 
 type Difficulty = 'facile' | 'moyen' | 'difficile' | 'aleatoire'
@@ -28,21 +29,23 @@ function normalize(s: string) {
     .trim()
 }
 
+// Difficulty is graded by how recognizable the player actually is (our
+// NOTABLE list), not by how many clubs happen to be on their card — a
+// well-documented but obscure player isn't "hard" just because their
+// career has five rows, and a two-club star isn't automatically "easy".
 function pickPlayer(pool: Player[], difficulty: Difficulty): Player {
   let candidates = pool
-  if (difficulty === 'facile') candidates = pool.filter((p) => p.career.length <= 2)
-  else if (difficulty === 'moyen')
-    candidates = pool.filter((p) => p.career.length === 3 || p.career.length === 4)
-  else if (difficulty === 'difficile') candidates = pool.filter((p) => p.career.length >= 4)
+  if (difficulty === 'facile') candidates = pool.filter((p) => NOTABLE.has(p.name))
+  else if (difficulty === 'difficile') candidates = pool.filter((p) => !NOTABLE.has(p.name))
+  // 'moyen' and 'aleatoire' draw from the whole documented pool
   if (candidates.length === 0) candidates = pool
   return candidates[Math.floor(Math.random() * candidates.length)]
 }
 
 function initialReveal(player: Player, difficulty: Difficulty): number {
-  if (difficulty === 'aleatoire') return player.career.length
-  if (difficulty === 'facile') return Math.min(2, player.career.length)
-  if (difficulty === 'moyen') return Math.min(2, player.career.length)
-  return 1
+  if (difficulty === 'facile') return Math.min(3, player.career.length)
+  if (difficulty === 'difficile') return 1
+  return Math.min(2, player.career.length)
 }
 
 export default function GuessThePlayerPage() {
