@@ -81,12 +81,15 @@ def proxied(url, as_png=False):
 
 def download(url, path, as_png=False):
     target, params = proxied(url, as_png=as_png)
-    r = get(target, params=params)
-    if not r or not r.content or len(r.content) < 200:
-        return False
-    with open(path, "wb") as f:
-        f.write(r.content)
-    return True
+    for attempt in range(2):
+        r = get(target, params=params)
+        if r and r.content and len(r.content) >= 200 and r.headers.get("Content-Type", "").startswith("image"):
+            with open(path, "wb") as f:
+                f.write(r.content)
+            return True
+        if attempt == 0:
+            time.sleep(1.5)
+    return False
 
 
 def wikidata_sparql(query):
