@@ -2,12 +2,19 @@ import { useMemo, useState } from 'react'
 import Card, { PageHeader } from '../components/Card'
 import PersonPhoto from '../components/PersonPhoto'
 import Select from '../components/Select'
-import { FORMATIONS, randomShortlist } from '../lib/roles'
-import { flagFor } from '../lib/countryFlags'
+import { FORMATIONS, eligiblePlayers } from '../lib/roles'
 import { coaches } from '../data/coaches'
 import { seedPlayers } from '../data/seed-players'
 
 const byId = new Map(seedPlayers.map((p) => [p.id, p]))
+
+function normalize(s: string) {
+  return s
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[̀-ͯ]/g, '')
+    .trim()
+}
 
 export default function BestXIPage() {
   const [formationId, setFormationId] = useState<string | null>(null)
@@ -15,7 +22,7 @@ export default function BestXIPage() {
 
   const [selection, setSelection] = useState<Record<string, string>>({})
   const [activeRoleId, setActiveRoleId] = useState<string | null>(null)
-  const [rollKey, setRollKey] = useState<Record<string, number>>({})
+  const [search, setSearch] = useState('')
   const [coachId, setCoachId] = useState<string>(coaches[0]?.id ?? '')
   const [bounce, setBounce] = useState<Record<string, number>>({})
 
@@ -28,13 +35,16 @@ export default function BestXIPage() {
         .filter(([roleId]) => roleId !== activeRole.id)
         .map(([, playerId]) => playerId),
     )
-    return randomShortlist(activeRole, 3, takenElsewhere)
-    // re-roll only when the slot is (re)opened, not on every selection change
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [activeRole, rollKey[activeRoleId ?? '']])
+    const pool = eligiblePlayers(activeRole)
+      .filter((p) => !takenElsewhere.has(p.id))
+      .sort((a, b) => a.name.localeCompare(b.name, 'fr'))
+    if (!search.trim()) return pool
+    const q = normalize(search)
+    return pool.filter((p) => normalize(p.name).includes(q))
+  }, [activeRole, selection, search])
 
   function openSlot(roleId: string) {
-    setRollKey((k) => ({ ...k, [roleId]: (k[roleId] ?? 0) + 1 }))
+    setSearch('')
     setActiveRoleId(roleId)
   }
 
@@ -170,52 +180,41 @@ export default function BestXIPage() {
         <Card className="animate-panel-in">
           <div className="flex items-center justify-between mb-4">
             <h3 className="text-sm font-bold text-slate-300 uppercase tracking-wide">
-              Choisis ton {activeRole.label.toLowerCase()}
+              Choisir un joueur — {activeRole.label}
             </h3>
-            <div className="flex items-center gap-3">
-              <button
-                onClick={() => openSlot(activeRole.id)}
-                className="text-xs font-semibold text-ol-gold hover:text-white"
-              >
-                🎲 Relancer
-              </button>
-              <button
-                onClick={() => setActiveRoleId(null)}
-                className="text-slate-400 hover:text-white text-sm"
-              >
-                Fermer ✕
-              </button>
-            </div>
+            <button
+              onClick={() => setActiveRoleId(null)}
+              className="text-slate-400 hover:text-white text-sm"
+            >
+              Fermer ✕
+            </button>
           </div>
+          <input
+            autoFocus
+            value={search}
+            onChange={(e) => setSearch(e.target.value)}
+            placeholder="🔍 Rechercher un joueur..."
+            className="w-full bg-ink-900/70 ring-1 ring-ol-gold rounded-xl px-4 py-3 text-sm outline-none placeholder:text-slate-500 mb-4"
+          />
           {candidates.length === 0 ? (
-            <p className="text-sm text-slate-500">
-              Pas assez de joueurs documentés à ce poste précis pour l'instant.
-            </p>
+            <p className="text-sm text-slate-500">Aucun joueur ne correspond.</p>
           ) : (
-            <div className="grid grid-cols-3 gap-4">
-              {candidates.map((p, i) => {
+            <div className="grid grid-cols-4 gap-x-4 gap-y-5 max-h-[420px] overflow-y-auto pr-1">
+              {candidates.map((p) => {
                 const selected = selection[activeRole.id] === p.id
                 return (
                   <button
                     key={p.id}
                     onClick={() => pick(activeRole.id, p.id)}
-                    style={{ animationDelay: `${i * 60}ms` }}
-                    className={`animate-pop-in flex flex-col items-center gap-2 rounded-xl p-5 ring-1 transition-all hover:-translate-y-0.5 ${
+                    className={`flex flex-col items-center gap-2 rounded-xl p-3 ring-1 transition-all hover:-translate-y-0.5 ${
                       selected
                         ? 'bg-ol-gold/10 ring-ol-gold'
                         : 'bg-ink-900/50 ring-white/10 hover:ring-white/30'
                     }`}
                   >
-                    <PersonPhoto name={p.name} size={84} />
-                    <div className="text-sm font-bold text-white text-center leading-tight">
+                    <PersonPhoto name={p.name} size={64} />
+                    <div className="text-xs font-semibold text-white text-center leading-tight">
                       {p.name}
-                    </div>
-                    <div className="text-[11px] text-slate-400 text-center leading-tight flex items-center gap-1">
-                      <span>{flagFor(p.nationality)}</span>
-                      <span>{p.nationality}</span>
-                    </div>
-                    <div className="text-[11px] text-slate-500 text-center leading-tight">
-                      OL {p.yearsAtOL}
                     </div>
                   </button>
                 )

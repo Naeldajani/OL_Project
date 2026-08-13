@@ -6,7 +6,7 @@ export interface Role {
   label: string
   x: number
   y: number
-  subPositions: string[]
+  postes: string[]
   fallback: string[]
 }
 
@@ -16,73 +16,64 @@ export interface Formation {
   roles: Role[]
 }
 
+const GK = { id: 'gk', label: 'GK', x: 50, y: 92, postes: ['G'], fallback: [] }
+const DD = { id: 'dd', label: 'DD', x: 80, y: 74, postes: ['DD'], fallback: ['DC'] }
+const DG = { id: 'dg', label: 'DG', x: 20, y: 74, postes: ['DG'], fallback: ['DC'] }
+const dc = (id: string, x: number, y = 80) => ({ id, label: 'DC', x, y, postes: ['DC'], fallback: [] })
+
 export const FORMATIONS: Formation[] = [
   {
     id: '4-3-3',
     label: '4-3-3',
     roles: [
-      { id: 'gk', label: 'Gardien', x: 50, y: 92, subPositions: ['Goalkeeper'], fallback: [] },
-      { id: 'rb', label: 'Arrière droit', x: 80, y: 72, subPositions: ['Right-Back'], fallback: ['Full-Back'] },
-      { id: 'cb1', label: 'Défenseur central', x: 60, y: 78, subPositions: ['Centre-Back'], fallback: [] },
-      { id: 'cb2', label: 'Défenseur central', x: 40, y: 78, subPositions: ['Centre-Back'], fallback: [] },
-      { id: 'lb', label: 'Arrière gauche', x: 20, y: 72, subPositions: ['Left-Back'], fallback: ['Full-Back'] },
-      { id: 'dm', label: 'Milieu défensif', x: 50, y: 58, subPositions: ['Defensive Midfielder'], fallback: ['Central Midfielder'] },
-      { id: 'cm', label: 'Milieu central', x: 32, y: 46, subPositions: ['Central Midfielder'], fallback: ['Defensive Midfielder'] },
-      { id: 'am', label: 'Milieu offensif', x: 68, y: 46, subPositions: ['Attacking Midfielder'], fallback: ['Central Midfielder'] },
-      { id: 'lw', label: 'Ailier gauche', x: 18, y: 20, subPositions: ['Left Winger'], fallback: ['Winger', 'Striker'] },
-      { id: 'st', label: 'Avant-centre', x: 50, y: 10, subPositions: ['Striker'], fallback: ['Winger'] },
-      { id: 'rw', label: 'Ailier droit', x: 82, y: 20, subPositions: ['Right Winger'], fallback: ['Winger', 'Striker'] },
+      GK, DD, dc('dc1', 60), dc('dc2', 40), DG,
+      { id: 'mdc', label: 'MDC', x: 50, y: 58, postes: ['MDC'], fallback: ['MC'] },
+      { id: 'mc1', label: 'MC', x: 32, y: 46, postes: ['MC'], fallback: ['MDC', 'MOC'] },
+      { id: 'moc', label: 'MOC', x: 68, y: 46, postes: ['MOC'], fallback: ['MC'] },
+      { id: 'ag', label: 'AG', x: 18, y: 20, postes: ['AG'], fallback: ['BU'] },
+      { id: 'bu', label: 'BU', x: 50, y: 10, postes: ['BU'], fallback: ['AG', 'AD'] },
+      { id: 'ad', label: 'AD', x: 82, y: 20, postes: ['AD'], fallback: ['BU'] },
     ],
   },
   {
     id: '4-4-2',
     label: '4-4-2',
     roles: [
-      { id: 'gk', label: 'Gardien', x: 50, y: 92, subPositions: ['Goalkeeper'], fallback: [] },
-      { id: 'rb', label: 'Arrière droit', x: 80, y: 72, subPositions: ['Right-Back'], fallback: ['Full-Back'] },
-      { id: 'cb1', label: 'Défenseur central', x: 60, y: 78, subPositions: ['Centre-Back'], fallback: [] },
-      { id: 'cb2', label: 'Défenseur central', x: 40, y: 78, subPositions: ['Centre-Back'], fallback: [] },
-      { id: 'lb', label: 'Arrière gauche', x: 20, y: 72, subPositions: ['Left-Back'], fallback: ['Full-Back'] },
-      { id: 'rm', label: 'Milieu droit', x: 82, y: 46, subPositions: ['Right Winger'], fallback: ['Winger', 'Central Midfielder'] },
-      { id: 'cm1', label: 'Milieu central', x: 60, y: 50, subPositions: ['Central Midfielder'], fallback: ['Defensive Midfielder'] },
-      { id: 'cm2', label: 'Milieu central', x: 40, y: 50, subPositions: ['Central Midfielder'], fallback: ['Defensive Midfielder'] },
-      { id: 'lm', label: 'Milieu gauche', x: 18, y: 46, subPositions: ['Left Winger'], fallback: ['Winger', 'Central Midfielder'] },
-      { id: 'st1', label: 'Attaquant', x: 62, y: 12, subPositions: ['Striker'], fallback: ['Winger'] },
-      { id: 'st2', label: 'Attaquant', x: 38, y: 12, subPositions: ['Striker'], fallback: ['Winger'] },
+      GK, DD, dc('dc1', 60), dc('dc2', 40), DG,
+      { id: 'md', label: 'MD', x: 82, y: 46, postes: ['AD'], fallback: ['MC', 'MOC'] },
+      { id: 'mc1', label: 'MC', x: 60, y: 50, postes: ['MC'], fallback: ['MDC', 'MOC'] },
+      { id: 'mc2', label: 'MC', x: 40, y: 50, postes: ['MC'], fallback: ['MDC', 'MOC'] },
+      { id: 'mg', label: 'MG', x: 18, y: 46, postes: ['AG'], fallback: ['MC', 'MOC'] },
+      { id: 'bu1', label: 'BU', x: 62, y: 12, postes: ['BU'], fallback: ['AD', 'AG'] },
+      { id: 'bu2', label: 'BU', x: 38, y: 12, postes: ['BU'], fallback: ['AG', 'AD'] },
     ],
   },
   {
     id: '4-2-3-1',
     label: '4-2-3-1',
     roles: [
-      { id: 'gk', label: 'Gardien', x: 50, y: 92, subPositions: ['Goalkeeper'], fallback: [] },
-      { id: 'rb', label: 'Arrière droit', x: 80, y: 74, subPositions: ['Right-Back'], fallback: ['Full-Back'] },
-      { id: 'cb1', label: 'Défenseur central', x: 60, y: 80, subPositions: ['Centre-Back'], fallback: [] },
-      { id: 'cb2', label: 'Défenseur central', x: 40, y: 80, subPositions: ['Centre-Back'], fallback: [] },
-      { id: 'lb', label: 'Arrière gauche', x: 20, y: 74, subPositions: ['Left-Back'], fallback: ['Full-Back'] },
-      { id: 'dm1', label: 'Milieu défensif', x: 62, y: 60, subPositions: ['Defensive Midfielder'], fallback: ['Central Midfielder'] },
-      { id: 'dm2', label: 'Milieu défensif', x: 38, y: 60, subPositions: ['Defensive Midfielder'], fallback: ['Central Midfielder'] },
-      { id: 'lw', label: 'Ailier gauche', x: 18, y: 34, subPositions: ['Left Winger'], fallback: ['Winger'] },
-      { id: 'am', label: 'Milieu offensif', x: 50, y: 32, subPositions: ['Attacking Midfielder'], fallback: ['Central Midfielder'] },
-      { id: 'rw', label: 'Ailier droit', x: 82, y: 34, subPositions: ['Right Winger'], fallback: ['Winger'] },
-      { id: 'st', label: 'Avant-centre', x: 50, y: 10, subPositions: ['Striker'], fallback: ['Winger'] },
+      GK, DD, dc('dc1', 60), dc('dc2', 40), DG,
+      { id: 'mdc1', label: 'MDC', x: 62, y: 60, postes: ['MDC'], fallback: ['MC'] },
+      { id: 'mdc2', label: 'MDC', x: 38, y: 60, postes: ['MDC'], fallback: ['MC'] },
+      { id: 'ag', label: 'AG', x: 18, y: 34, postes: ['AG'], fallback: ['BU'] },
+      { id: 'moc', label: 'MOC', x: 50, y: 32, postes: ['MOC'], fallback: ['MC'] },
+      { id: 'ad', label: 'AD', x: 82, y: 34, postes: ['AD'], fallback: ['BU'] },
+      { id: 'bu', label: 'BU', x: 50, y: 10, postes: ['BU'], fallback: ['AG', 'AD'] },
     ],
   },
   {
-    id: '3-5-2',
-    label: '3-5-2',
+    id: '3-4-3',
+    label: '3-4-3',
     roles: [
-      { id: 'gk', label: 'Gardien', x: 50, y: 92, subPositions: ['Goalkeeper'], fallback: [] },
-      { id: 'cb1', label: 'Défenseur central', x: 70, y: 78, subPositions: ['Centre-Back'], fallback: [] },
-      { id: 'cb2', label: 'Défenseur central', x: 50, y: 80, subPositions: ['Centre-Back'], fallback: [] },
-      { id: 'cb3', label: 'Défenseur central', x: 30, y: 78, subPositions: ['Centre-Back'], fallback: [] },
-      { id: 'rwb', label: 'Piston droit', x: 88, y: 56, subPositions: ['Right-Back'], fallback: ['Full-Back'] },
-      { id: 'dm', label: 'Milieu défensif', x: 50, y: 58, subPositions: ['Defensive Midfielder'], fallback: ['Central Midfielder'] },
-      { id: 'cm', label: 'Milieu central', x: 68, y: 40, subPositions: ['Central Midfielder'], fallback: ['Defensive Midfielder'] },
-      { id: 'am', label: 'Milieu offensif', x: 32, y: 40, subPositions: ['Attacking Midfielder'], fallback: ['Central Midfielder'] },
-      { id: 'lwb', label: 'Piston gauche', x: 12, y: 56, subPositions: ['Left-Back'], fallback: ['Full-Back'] },
-      { id: 'st1', label: 'Attaquant', x: 62, y: 12, subPositions: ['Striker'], fallback: ['Winger'] },
-      { id: 'st2', label: 'Attaquant', x: 38, y: 12, subPositions: ['Striker'], fallback: ['Winger'] },
+      GK,
+      dc('dc1', 70, 78), dc('dc2', 50, 80), dc('dc3', 30, 78),
+      { id: 'mg', label: 'MG', x: 12, y: 56, postes: ['AG'], fallback: ['DG', 'MC'] },
+      { id: 'mc1', label: 'MC', x: 40, y: 50, postes: ['MC'], fallback: ['MDC', 'MOC'] },
+      { id: 'mc2', label: 'MC', x: 60, y: 50, postes: ['MC'], fallback: ['MDC', 'MOC'] },
+      { id: 'md', label: 'MD', x: 88, y: 56, postes: ['AD'], fallback: ['DD', 'MC'] },
+      { id: 'ag', label: 'AG', x: 18, y: 20, postes: ['AG'], fallback: ['BU'] },
+      { id: 'bu', label: 'BU', x: 50, y: 10, postes: ['BU'], fallback: ['AG', 'AD'] },
+      { id: 'ad', label: 'AD', x: 82, y: 20, postes: ['AD'], fallback: ['BU'] },
     ],
   },
 ]
@@ -102,13 +93,13 @@ const NOTABLE = new Set([
   'Lisandro López', 'Michael Essien',
 ])
 
-function playersFor(subPositions: string[]): Player[] {
-  return seedPlayers.filter((p) => p.subPosition && subPositions.includes(p.subPosition))
+function playersFor(postes: string[]): Player[] {
+  return seedPlayers.filter((p) => p.posteFr && postes.includes(p.posteFr))
 }
 
-/** All eligible players for a role: the strict sub-position tag, then fallbacks if too few. */
+/** All eligible players for a role: the strict position code, then fallbacks if too few. */
 export function eligiblePlayers(role: Role): Player[] {
-  const strict = playersFor(role.subPositions)
+  const strict = playersFor(role.postes)
   if (strict.length >= 3) return strict
   const withFallback = [...strict, ...playersFor(role.fallback)]
   const seen = new Set<string>()

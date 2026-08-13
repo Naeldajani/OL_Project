@@ -11,7 +11,7 @@ const fromOriginalFootage: Match[] = [
     season: '2023-24',
     competition: 'Ligue 1',
     round: 'Matchweek 1',
-    home: 'Strasbourg',
+    home: 'R. Strasbourg',
     away: 'Lyon',
     homeScore: 2,
     awayScore: 1,
@@ -33,7 +33,7 @@ const fromOriginalFootage: Match[] = [
     competition: 'Ligue 1',
     round: 'Matchweek 2',
     home: 'Lyon',
-    away: 'Ajaccio',
+    away: 'AC Ajaccio',
     homeScore: 1,
     awayScore: 1,
     scorers: [

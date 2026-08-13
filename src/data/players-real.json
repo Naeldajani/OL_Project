@@ -31,7 +31,8 @@
           "club": "Grêmio",
           "years": "2015-2017"
         }
-      ]
+      ],
+      "posteFr": "AG"
     },
     {
       "name": "Steve Marlet",
@@ -56,7 +57,8 @@
           "club": "Bordeaux",
           "years": "2007"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "Jérémy Pied",
@@ -81,7 +83,8 @@
           "club": "Al-Wasl",
           "years": "2021-2022"
         }
-      ]
+      ],
+      "posteFr": "DD"
     },
     {
       "name": "Kader Keïta",
@@ -94,7 +97,8 @@
           "club": "Lyon",
           "years": "2007-2009"
         }
-      ]
+      ],
+      "posteFr": "AD"
     },
     {
       "name": "Sylvain Vairelles",
@@ -107,7 +111,8 @@
           "club": "Lyon",
           "years": "2001-2003"
         }
-      ]
+      ],
+      "posteFr": "AD"
     },
     {
       "name": "Grégory Coupet",
@@ -132,7 +137,8 @@
           "club": "Paris Saint-Germain",
           "years": "2009-2011"
         }
-      ]
+      ],
+      "posteFr": "G"
     },
     {
       "name": "Rémy Vercoutre",
@@ -149,7 +155,8 @@
           "club": "Caen",
           "years": "2011-2018"
         }
-      ]
+      ],
+      "posteFr": "G"
     },
     {
       "name": "Hugo Lloris",
@@ -174,7 +181,8 @@
           "club": "Los Angeles FC",
           "years": "2023-present"
         }
-      ]
+      ],
+      "posteFr": "G"
     },
     {
       "name": "Anthony Lopes",
@@ -192,7 +200,8 @@
           "club": "Nantes",
           "years": "2025-present"
         }
-      ]
+      ],
+      "posteFr": "G"
     },
     {
       "name": "Rémy Riou",
@@ -205,7 +214,8 @@
           "club": "Lyon",
           "years": "2012-2023"
         }
-      ]
+      ],
+      "posteFr": "G"
     },
     {
       "name": "Mathieu Gorgelin",
@@ -222,7 +232,8 @@
           "club": "Troyes",
           "years": "2018-2021"
         }
-      ]
+      ],
+      "posteFr": "G"
     },
     {
       "name": "Joan Hartock",
@@ -235,7 +246,8 @@
           "club": "Lyon",
           "years": "2003-2011"
         }
-      ]
+      ],
+      "posteFr": "G"
     },
     {
       "name": "Lucas Perri",
@@ -268,7 +280,8 @@
           "club": "Leeds United",
           "years": "2025-present"
         }
-      ]
+      ],
+      "posteFr": "G"
     },
     {
       "name": "Rémy Descamps",
@@ -289,7 +302,8 @@
           "club": "Lyon",
           "years": "2023-present"
         }
-      ]
+      ],
+      "posteFr": "G"
     },
     {
       "name": "Dominik Greif",
@@ -310,7 +324,8 @@
           "club": "Lyon",
           "years": "2024-present"
         }
-      ]
+      ],
+      "posteFr": "G"
     },
     {
       "name": "Anthony Réveillère",
@@ -323,7 +338,8 @@
           "club": "Lyon",
           "years": "2001-2015"
         }
-      ]
+      ],
+      "posteFr": "DD"
     },
     {
       "name": "Éric Abidal",
@@ -360,7 +376,8 @@
           "club": "Olympiacos",
           "years": "2014"
         }
-      ]
+      ],
+      "posteFr": "DG"
     },
     {
       "name": "Cris",
@@ -397,7 +414,8 @@
           "club": "Vasco da Gama",
           "years": "2013-2014"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Cláudio Caçapa",
@@ -418,7 +436,8 @@
           "club": "Lyon",
           "years": "2001-2007"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Patrick Müller",
@@ -439,7 +458,8 @@
           "club": "Fulham",
           "years": "2008-2010"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Sébastien Squillaci",
@@ -468,7 +488,8 @@
           "club": "Bastia",
           "years": "2013-2015"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Jean-Alain Boumsong",
@@ -505,7 +526,8 @@
           "club": "Trabzonspor",
           "years": "2011-2013"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Fabio Grosso",
@@ -542,7 +564,8 @@
           "club": "Juventus",
           "years": "2009-2012"
         }
-      ]
+      ],
+      "posteFr": "DG"
     },
     {
       "name": "Fábio Santos",
@@ -567,7 +590,8 @@
           "club": "Corinthians",
           "years": "2013-2017"
         }
-      ]
+      ],
+      "posteFr": "DG"
     },
     {
       "name": "Aly Cissokho",
@@ -608,7 +632,8 @@
           "club": "Fenerbahçe",
           "years": "2018-2019"
         }
-      ]
+      ],
+      "posteFr": "DG"
     },
     {
       "name": "Dejan Lovren",
@@ -645,7 +670,8 @@
           "club": "PAOK",
           "years": "2024-present"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Samuel Umtiti",
@@ -670,7 +696,8 @@
           "club": "Lille",
           "years": "2023-2025"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Mapou Yanga-Mbiwa",
@@ -699,7 +726,8 @@
           "club": "Anderlecht",
           "years": "2019-2021"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Jason Denayer",
@@ -736,7 +764,8 @@
           "club": "Al-Fateh",
           "years": "2023-2025"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Marcelo",
@@ -753,7 +782,8 @@
           "club": "Lyon",
           "years": "2017-2021"
         }
-      ]
+      ],
+      "posteFr": "DG"
     },
     {
       "name": "Léo Dubois",
@@ -778,7 +808,8 @@
           "club": "Eyüpspor",
           "years": "2024-2025"
         }
-      ]
+      ],
+      "posteFr": "DD"
     },
     {
       "name": "Kenny Tete",
@@ -799,7 +830,8 @@
           "club": "Fulham",
           "years": "2019-present"
         }
-      ]
+      ],
+      "posteFr": "DD"
     },
     {
       "name": "Rafael",
@@ -820,7 +852,8 @@
           "club": "Lyon",
           "years": "2015-2020"
         }
-      ]
+      ],
+      "posteFr": "DD"
     },
     {
       "name": "Maxwel Cornet",
@@ -853,7 +886,8 @@
           "club": "Genoa",
           "years": "2025"
         }
-      ]
+      ],
+      "posteFr": "AG"
     },
     {
       "name": "Youssouf Koné",
@@ -870,7 +904,8 @@
           "club": "Girondins de Bordeaux",
           "years": "2018-2020"
         }
-      ]
+      ],
+      "posteFr": "DG"
     },
     {
       "name": "Ferland Mendy",
@@ -891,7 +926,8 @@
           "club": "Real Madrid",
           "years": "2019-present"
         }
-      ]
+      ],
+      "posteFr": "DG"
     },
     {
       "name": "Melvin Bard",
@@ -908,7 +944,8 @@
           "club": "Nice",
           "years": "2023-present"
         }
-      ]
+      ],
+      "posteFr": "DG"
     },
     {
       "name": "Malo Gusto",
@@ -925,7 +962,8 @@
           "club": "Chelsea",
           "years": "2023-present"
         }
-      ]
+      ],
+      "posteFr": "DD"
     },
     {
       "name": "Sinaly Diomandé",
@@ -938,7 +976,8 @@
           "club": "Lyon",
           "years": "2020-present"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Nicolás Tagliafico",
@@ -967,7 +1006,8 @@
           "club": "Lyon",
           "years": "2022-2025"
         }
-      ]
+      ],
+      "posteFr": "DG"
     },
     {
       "name": "Duje Ćaleta-Car",
@@ -996,7 +1036,8 @@
           "club": "Lyon",
           "years": "2023-2025"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Castello Lukeba",
@@ -1013,7 +1054,8 @@
           "club": "RB Leipzig",
           "years": "2023-present"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Moussa Niakhaté",
@@ -1038,7 +1080,8 @@
           "club": "Lyon",
           "years": "2025-present"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Clinton Mata",
@@ -1059,7 +1102,8 @@
           "club": "Lyon",
           "years": "2023-present"
         }
-      ]
+      ],
+      "posteFr": "DD"
     },
     {
       "name": "Abner",
@@ -1076,7 +1120,8 @@
           "club": "Lyon",
           "years": "2024-present"
         }
-      ]
+      ],
+      "posteFr": "DG"
     },
     {
       "name": "Jérémy Berthod",
@@ -1089,7 +1134,8 @@
           "club": "Lyon",
           "years": "2003-2008"
         }
-      ]
+      ],
+      "posteFr": "DD"
     },
     {
       "name": "Sylvain Monsoreau",
@@ -1102,7 +1148,8 @@
           "club": "Lyon",
           "years": "2004-2006"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Mourad Benhamida",
@@ -1115,7 +1162,8 @@
           "club": "Lyon",
           "years": "2005-2007"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Lamine Diatta",
@@ -1128,7 +1176,8 @@
           "club": "Lyon",
           "years": "2004-2006"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "François Clerc",
@@ -1149,7 +1198,8 @@
           "club": "Paris Saint-Germain",
           "years": "2010-2013"
         }
-      ]
+      ],
+      "posteFr": "DD"
     },
     {
       "name": "Michaël Ciani",
@@ -1162,7 +1212,8 @@
           "club": "Lyon",
           "years": "2000-2003"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Grégory Bergougnoux",
@@ -1175,7 +1226,8 @@
           "club": "Lyon",
           "years": "2002-2006"
         }
-      ]
+      ],
+      "posteFr": "DD"
     },
     {
       "name": "Jérôme Bréchet",
@@ -1188,7 +1240,8 @@
           "club": "Lyon",
           "years": "1999-2002"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Ludovic Deflandre",
@@ -1201,7 +1254,8 @@
           "club": "Lyon",
           "years": "1999-2005"
         }
-      ]
+      ],
+      "posteFr": "DG"
     },
     {
       "name": "Sébastien Chanelet",
@@ -1214,7 +1268,8 @@
           "club": "Lyon",
           "years": "2000-2003"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Tiago Gomes",
@@ -1227,7 +1282,8 @@
           "club": "Lyon",
           "years": "2005-2006"
         }
-      ]
+      ],
+      "posteFr": "DG"
     },
     {
       "name": "Mouctar Diakhaby",
@@ -1244,7 +1300,8 @@
           "club": "Valencia",
           "years": "2018-present"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Rachid Ghezzal",
@@ -1269,7 +1326,8 @@
           "club": "Beşiktaş",
           "years": "2020-2024"
         }
-      ]
+      ],
+      "posteFr": "AD"
     },
     {
       "name": "Christophe Jallet",
@@ -1298,7 +1356,8 @@
           "club": "Nice",
           "years": "2016-2019"
         }
-      ]
+      ],
+      "posteFr": "DD"
     },
     {
       "name": "Vincent Muratori",
@@ -1311,7 +1370,8 @@
           "club": "Lyon",
           "years": "2012-2015"
         }
-      ]
+      ],
+      "posteFr": "DG"
     },
     {
       "name": "Henri Bedimo",
@@ -1332,7 +1392,8 @@
           "club": "Lyon",
           "years": "2013-2017"
         }
-      ]
+      ],
+      "posteFr": "DG"
     },
     {
       "name": "Milan Baroš",
@@ -1369,7 +1430,8 @@
           "club": "Baník Ostrava",
           "years": "2011-2016"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "Jérémy Toulalan",
@@ -1398,7 +1460,8 @@
           "club": "Bordeaux",
           "years": "2016-2018"
         }
-      ]
+      ],
+      "posteFr": "MDC"
     },
     {
       "name": "Mahamadou Diarra",
@@ -1427,7 +1490,8 @@
           "club": "Fulham",
           "years": "2013"
         }
-      ]
+      ],
+      "posteFr": "MDC"
     },
     {
       "name": "Alou Diarra",
@@ -1464,7 +1528,8 @@
           "club": "Al-Nasr",
           "years": "2015"
         }
-      ]
+      ],
+      "posteFr": "MDC"
     },
     {
       "name": "Michael Essien",
@@ -1501,7 +1566,8 @@
           "club": "Indonesia (Persib Bandung)",
           "years": "2017"
         }
-      ]
+      ],
+      "posteFr": "MDC"
     },
     {
       "name": "Juninho Pernambucano",
@@ -1534,7 +1600,8 @@
           "club": "Vasco da Gama",
           "years": "2010-2013"
         }
-      ]
+      ],
+      "posteFr": "MOC"
     },
     {
       "name": "Florent Malouda",
@@ -1571,7 +1638,8 @@
           "club": "Delhi Dynamos",
           "years": "2015-2017"
         }
-      ]
+      ],
+      "posteFr": "AG"
     },
     {
       "name": "Sidney Govou",
@@ -1592,7 +1660,8 @@
           "club": "Évian",
           "years": "2011-2013"
         }
-      ]
+      ],
+      "posteFr": "AD"
     },
     {
       "name": "Kim Källström",
@@ -1633,7 +1702,8 @@
           "club": "Djurgårdens IF",
           "years": "2017"
         }
-      ]
+      ],
+      "posteFr": "MC"
     },
     {
       "name": "Fred",
@@ -1670,7 +1740,8 @@
           "club": "Fluminense",
           "years": "2020-2022"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "John Carew",
@@ -1715,7 +1786,8 @@
           "club": "West Ham United",
           "years": "2011-2012"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "Sylvain Wiltord",
@@ -1760,7 +1832,8 @@
           "club": "Nantes",
           "years": "2011-2012"
         }
-      ]
+      ],
+      "posteFr": "AG"
     },
     {
       "name": "Sonny Anderson",
@@ -1809,7 +1882,8 @@
           "club": "Al-Gharafa",
           "years": "2005-2006"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "Peguy Luyindula",
@@ -1826,7 +1900,8 @@
           "club": "Paris Saint-Germain",
           "years": "2004-2010"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "Karim Benzema",
@@ -1851,7 +1926,8 @@
           "club": "Al-Hilal",
           "years": "2026-present"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "Hatem Ben Arfa",
@@ -1900,7 +1976,8 @@
           "club": "Lille",
           "years": "2022"
         }
-      ]
+      ],
+      "posteFr": "MOC"
     },
     {
       "name": "Bafétimbi Gomis",
@@ -1941,7 +2018,8 @@
           "club": "Kawasaki Frontale",
           "years": "2023-2024"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "Lisandro López",
@@ -1978,7 +2056,8 @@
           "club": "Racing Club",
           "years": "2018"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "Yoann Gourcuff",
@@ -2011,7 +2090,8 @@
           "club": "Dijon",
           "years": "2018-2019"
         }
-      ]
+      ],
+      "posteFr": "MOC"
     },
     {
       "name": "Maxime Gonalons",
@@ -2040,7 +2120,8 @@
           "club": "Clermont",
           "years": "2022-2024"
         }
-      ]
+      ],
+      "posteFr": "MDC"
     },
     {
       "name": "Clément Grenier",
@@ -2073,7 +2154,8 @@
           "club": "Racing Santander",
           "years": "2023-2024"
         }
-      ]
+      ],
+      "posteFr": "MOC"
     },
     {
       "name": "Alexandre Lacazette",
@@ -2099,7 +2181,8 @@
           "club": "Neom",
           "years": "2025-present"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "Nabil Fekir",
@@ -2124,7 +2207,8 @@
           "club": "LAFC",
           "years": "2024-present"
         }
-      ]
+      ],
+      "posteFr": "MOC"
     },
     {
       "name": "Corentin Tolisso",
@@ -2145,7 +2229,8 @@
           "club": "Lyon",
           "years": "2022-present"
         }
-      ]
+      ],
+      "posteFr": "MC"
     },
     {
       "name": "Jordan Ferri",
@@ -2162,7 +2247,8 @@
           "club": "Montpellier",
           "years": "2018-present"
         }
-      ]
+      ],
+      "posteFr": "MC"
     },
     {
       "name": "Mathieu Valbuena",
@@ -2195,7 +2281,8 @@
           "club": "Olympiacos",
           "years": "2017-2020"
         }
-      ]
+      ],
+      "posteFr": "MOC"
     },
     {
       "name": "Tanguy Ndombele",
@@ -2232,7 +2319,8 @@
           "club": "Nice",
           "years": "2024-present"
         }
-      ]
+      ],
+      "posteFr": "MC"
     },
     {
       "name": "Houssem Aouar",
@@ -2253,7 +2341,8 @@
           "club": "Al-Ittihad",
           "years": "2024-present"
         }
-      ]
+      ],
+      "posteFr": "MC"
     },
     {
       "name": "Bertrand Traoré",
@@ -2298,7 +2387,8 @@
           "club": "Sunderland",
           "years": "2025-present"
         }
-      ]
+      ],
+      "posteFr": "AD"
     },
     {
       "name": "Memphis Depay",
@@ -2331,7 +2421,8 @@
           "club": "Corinthians",
           "years": "2024-present"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "Moussa Dembélé",
@@ -2360,7 +2451,8 @@
           "club": "Al-Ettifaq",
           "years": "2022-present"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "Martin Terrier",
@@ -2389,7 +2481,8 @@
           "club": "Bayer Leverkusen",
           "years": "2024-present"
         }
-      ]
+      ],
+      "posteFr": "AG"
     },
     {
       "name": "Jeff Reine-Adélaïde",
@@ -2414,7 +2507,8 @@
           "club": "RC Lens",
           "years": "2021-2025"
         }
-      ]
+      ],
+      "posteFr": "MOC"
     },
     {
       "name": "Bruno Guimarães",
@@ -2439,7 +2533,8 @@
           "club": "Newcastle United",
           "years": "2022-present"
         }
-      ]
+      ],
+      "posteFr": "MC"
     },
     {
       "name": "Lucas Paquetá",
@@ -2468,7 +2563,8 @@
           "club": "Flamengo",
           "years": "2026-present"
         }
-      ]
+      ],
+      "posteFr": "MOC"
     },
     {
       "name": "Karl Toko Ekambi",
@@ -2505,7 +2601,8 @@
           "club": "Al-Ettifaq",
           "years": "2023-2024"
         }
-      ]
+      ],
+      "posteFr": "AG"
     },
     {
       "name": "Islam Slimani",
@@ -2546,7 +2643,8 @@
           "club": "Anderlecht",
           "years": "2022"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "Tino Kadewere",
@@ -2575,7 +2673,8 @@
           "club": "Molde",
           "years": "2023-2024"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "Rayan Cherki",
@@ -2593,7 +2692,8 @@
           "club": "Manchester City",
           "years": "2025-present"
         }
-      ]
+      ],
+      "posteFr": "MOC"
     },
     {
       "name": "Maxence Caqueret",
@@ -2610,7 +2710,8 @@
           "club": "Como",
           "years": "2025-present"
         }
-      ]
+      ],
+      "posteFr": "MC"
     },
     {
       "name": "Thiago Mendes",
@@ -2631,7 +2732,8 @@
           "club": "Lyon",
           "years": "2019-2023"
         }
-      ]
+      ],
+      "posteFr": "MDC"
     },
     {
       "name": "Xherdan Shaqiri",
@@ -2672,7 +2774,8 @@
           "club": "Basel",
           "years": "2024-present"
         }
-      ]
+      ],
+      "posteFr": "MOC"
     },
     {
       "name": "Johann Lepenant",
@@ -2689,7 +2792,8 @@
           "club": "Lyon",
           "years": "2021-present"
         }
-      ]
+      ],
+      "posteFr": "MC"
     },
     {
       "name": "Bradley Barcola",
@@ -2706,7 +2810,8 @@
           "club": "Paris Saint-Germain",
           "years": "2023-present"
         }
-      ]
+      ],
+      "posteFr": "AG"
     },
     {
       "name": "Malick Fofana",
@@ -2723,7 +2828,8 @@
           "club": "Lyon",
           "years": "2023-present"
         }
-      ]
+      ],
+      "posteFr": "AD"
     },
     {
       "name": "Ernest Nuamah",
@@ -2748,7 +2854,8 @@
           "club": "Lyon",
           "years": "2023-present"
         }
-      ]
+      ],
+      "posteFr": "AD"
     },
     {
       "name": "Saïd Benrahma",
@@ -2781,7 +2888,8 @@
           "club": "Neom",
           "years": "2025-present"
         }
-      ]
+      ],
+      "posteFr": "AG"
     },
     {
       "name": "Nemanja Matić",
@@ -2826,7 +2934,8 @@
           "club": "Lyon",
           "years": "2024-present"
         }
-      ]
+      ],
+      "posteFr": "MDC"
     },
     {
       "name": "Georges Mikautadze",
@@ -2859,7 +2968,8 @@
           "club": "Villarreal",
           "years": "2025-present"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "Thiago Almada",
@@ -2884,7 +2994,8 @@
           "club": "Lyon",
           "years": "2024-present"
         }
-      ]
+      ],
+      "posteFr": "MOC"
     },
     {
       "name": "Pavel Šulc",
@@ -2901,7 +3012,8 @@
           "club": "Lyon",
           "years": "2025-present"
         }
-      ]
+      ],
+      "posteFr": "MOC"
     },
     {
       "name": "Afonso Moreira",
@@ -2918,7 +3030,8 @@
           "club": "Lyon",
           "years": "2025-present"
         }
-      ]
+      ],
+      "posteFr": "AD"
     },
     {
       "name": "Adam Karabec",
@@ -2935,7 +3048,8 @@
           "club": "Lyon",
           "years": "2025-present"
         }
-      ]
+      ],
+      "posteFr": "MOC"
     },
     {
       "name": "Martín Satriano",
@@ -2968,7 +3082,8 @@
           "club": "Lyon",
           "years": "2025-present"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "Khalis Merah",
@@ -2981,7 +3096,8 @@
           "club": "Lyon",
           "years": "2025-present"
         }
-      ]
+      ],
+      "posteFr": "MC"
     },
     {
       "name": "Tanner Tessmann",
@@ -3002,7 +3118,8 @@
           "club": "Lyon",
           "years": "2023-present"
         }
-      ]
+      ],
+      "posteFr": "MDC"
     },
     {
       "name": "Ainsley Maitland-Niles",
@@ -3031,7 +3148,8 @@
           "club": "Lyon",
           "years": "2023-2024"
         }
-      ]
+      ],
+      "posteFr": "DD"
     },
     {
       "name": "Amine Gouiri",
@@ -3056,7 +3174,8 @@
           "club": "Marseille",
           "years": "2025-present"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "Mariano Díaz",
@@ -3077,7 +3196,8 @@
           "club": "Real Madrid",
           "years": "2017-2023"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "Steed Malbranque",
@@ -3106,7 +3226,8 @@
           "club": "Lyon",
           "years": "2010-2013"
         }
-      ]
+      ],
+      "posteFr": "MOC"
     },
     {
       "name": "Vikash Dhorasoo",
@@ -3139,7 +3260,8 @@
           "club": "Paris Saint-Germain",
           "years": "2004-2007"
         }
-      ]
+      ],
+      "posteFr": "MOC"
     },
     {
       "name": "Marc-Vivien Foé",
@@ -3168,7 +3290,8 @@
           "club": "Manchester City",
           "years": "2002-2003"
         }
-      ]
+      ],
+      "posteFr": "MC"
     },
     {
       "name": "Edmílson",
@@ -3193,7 +3316,8 @@
           "club": "Villarreal",
           "years": "2008-2009"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Éric Carrière",
@@ -3214,7 +3338,8 @@
           "club": "Real Sociedad",
           "years": "2005-2007"
         }
-      ]
+      ],
+      "posteFr": "MOC"
     },
     {
       "name": "Jérôme Violeau",
@@ -3231,7 +3356,8 @@
           "club": "Paris Saint-Germain",
           "years": "2003-2005"
         }
-      ]
+      ],
+      "posteFr": "MC"
     },
     {
       "name": "Pierre Laigle",
@@ -3244,7 +3370,8 @@
           "club": "Lyon",
           "years": "2000-2002"
         }
-      ]
+      ],
+      "posteFr": "MC"
     },
     {
       "name": "Christophe Delmotte",
@@ -3257,7 +3384,8 @@
           "club": "Lyon",
           "years": "2000-2004"
         }
-      ]
+      ],
+      "posteFr": "DD"
     },
     {
       "name": "Nilmar",
@@ -3282,7 +3410,8 @@
           "club": "Al-Ahli",
           "years": "2011-2012"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "Julien Viale-Grange",
@@ -3295,7 +3424,8 @@
           "club": "Lyon",
           "years": "2003-2007"
         }
-      ]
+      ],
+      "posteFr": "MC"
     },
     {
       "name": "Cyprien Frau",
@@ -3308,7 +3438,8 @@
           "club": "Lyon",
           "years": "2004-2007"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "Sergio Pedretti",
@@ -3321,7 +3452,8 @@
           "club": "Lyon",
           "years": "2005-2007"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Fabien Alfonso",
@@ -3334,7 +3466,8 @@
           "club": "Lyon",
           "years": "2005-2007"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "Ederson",
@@ -3351,7 +3484,8 @@
           "club": "Lyon",
           "years": "2008-2012"
         }
-      ]
+      ],
+      "posteFr": "MC"
     },
     {
       "name": "Jean Makoun",
@@ -3376,7 +3510,8 @@
           "club": "Rennes",
           "years": "2013-2014"
         }
-      ]
+      ],
+      "posteFr": "MDC"
     },
     {
       "name": "Franck Béria",
@@ -3389,7 +3524,8 @@
           "club": "Lyon",
           "years": "2008-2010"
         }
-      ]
+      ],
+      "posteFr": "DD"
     },
     {
       "name": "Pape Diakhaté",
@@ -3402,7 +3538,8 @@
           "club": "Lyon",
           "years": "2009-2011"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Miralem Pjanić",
@@ -3439,7 +3576,8 @@
           "club": "Sharjah",
           "years": "2022-present"
         }
-      ]
+      ],
+      "posteFr": "MOC"
     },
     {
       "name": "Cesar Delgado",
@@ -3464,7 +3602,8 @@
           "club": "Monterrey",
           "years": "2010-2016"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "Anthony Mounier",
@@ -3485,7 +3624,8 @@
           "club": "Montpellier",
           "years": "2013-2015"
         }
-      ]
+      ],
+      "posteFr": "AD"
     },
     {
       "name": "Frédéric Piquionne",
@@ -3506,7 +3646,8 @@
           "club": "West Ham United",
           "years": "2010-2012"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "Aly Diarra",
@@ -3531,7 +3672,8 @@
           "club": "Standard Liège",
           "years": "2012-2014"
         }
-      ]
+      ],
+      "posteFr": "MDC"
     },
     {
       "name": "Bakary Koné",
@@ -3560,7 +3702,8 @@
           "club": "Al-Ahli",
           "years": "2014-2016"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "Miguel Lopes",
@@ -3581,7 +3724,8 @@
           "club": "Rio Ave",
           "years": "2016-2018"
         }
-      ]
+      ],
+      "posteFr": "DD"
     },
     {
       "name": "Milovan Biševac",
@@ -3606,7 +3750,8 @@
           "club": "Al-Sadd",
           "years": "2015-2016"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Mouhamadou Dabo",
@@ -3623,7 +3768,8 @@
           "club": "Metz",
           "years": "2015-2016"
         }
-      ]
+      ],
+      "posteFr": "DD"
     },
     {
       "name": "Yassine Benzia",
@@ -3652,7 +3798,8 @@
           "club": "Beşiktaş",
           "years": "2021-2022"
         }
-      ]
+      ],
+      "posteFr": "AG"
     },
     {
       "name": "Clinton N'Jie",
@@ -3677,7 +3824,8 @@
           "club": "Marseille",
           "years": "2017-2018"
         }
-      ]
+      ],
+      "posteFr": "AD"
     },
     {
       "name": "Sergi Darder",
@@ -3702,7 +3850,8 @@
           "club": "Mallorca",
           "years": "2019-present"
         }
-      ]
+      ],
+      "posteFr": "MC"
     },
     {
       "name": "Farès Bahlouli",
@@ -3719,7 +3868,8 @@
           "club": "Monaco",
           "years": "2017-2019"
         }
-      ]
+      ],
+      "posteFr": "MOC"
     },
     {
       "name": "Adama Traoré (defender)",
@@ -3732,7 +3882,8 @@
           "club": "Lyon",
           "years": "2011-2016"
         }
-      ]
+      ],
+      "posteFr": "DG"
     },
     {
       "name": "Nicolas N'Koulou",
@@ -3761,7 +3912,8 @@
           "club": "Ajaccio",
           "years": "2023-2024"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Maciej Rybus",
@@ -3790,7 +3942,8 @@
           "club": "Lokomotiv Moscow",
           "years": "2017-2022"
         }
-      ]
+      ],
+      "posteFr": "DG"
     },
     {
       "name": "Emanuel Mammana",
@@ -3819,7 +3972,8 @@
           "club": "River Plate",
           "years": "2020-2022"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Marçal",
@@ -3836,7 +3990,8 @@
           "club": "Lyon",
           "years": "2017-2021"
         }
-      ]
+      ],
+      "posteFr": "DG"
     },
     {
       "name": "Willem Geubbels",
@@ -3861,7 +4016,8 @@
           "club": "Saint-Étienne",
           "years": "2023-2024"
         }
-      ]
+      ],
+      "posteFr": "BU"
     },
     {
       "name": "Andersen (Joachim)",
@@ -3890,7 +4046,8 @@
           "club": "Crystal Palace",
           "years": "2021-present"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Ciprian Tătărușanu",
@@ -3919,7 +4076,8 @@
           "club": "AC Milan",
           "years": "2020-2024"
         }
-      ]
+      ],
+      "posteFr": "G"
     },
     {
       "name": "Jean Lucas",
@@ -3948,7 +4106,8 @@
           "club": "Bologna",
           "years": "2023-present"
         }
-      ]
+      ],
+      "posteFr": "MC"
     },
     {
       "name": "Damien Da Silva",
@@ -3973,7 +4132,8 @@
           "club": "Lyon",
           "years": "2021-2023"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Romain Faivre",
@@ -3998,7 +4158,8 @@
           "club": "RC Lens",
           "years": "2023-present"
         }
-      ]
+      ],
+      "posteFr": "MOC"
     },
     {
       "name": "Emerson Palmieri",
@@ -4027,7 +4188,8 @@
           "club": "West Ham United",
           "years": "2022-present"
         }
-      ]
+      ],
+      "posteFr": "DG"
     },
     {
       "name": "Jerome Boateng",
@@ -4060,7 +4222,8 @@
           "club": "Salernitana",
           "years": "2023"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Henrique",
@@ -4081,7 +4244,8 @@
           "club": "Lyon",
           "years": "2021-2024"
         }
-      ]
+      ],
+      "posteFr": "DC"
     },
     {
       "name": "Rominigue Kouamé",
@@ -4098,7 +4262,8 @@
           "club": "Lyon",
           "years": "2023-present"
         }
-      ]
+      ],
+      "posteFr": "MC"
     },
     {
       "name": "Tetê",
@@ -4123,7 +4288,8 @@
           "club": "Al-Wasl",
           "years": "2023-present"
         }
-      ]
+      ],
+      "posteFr": "AD"
     },
     {
       "name": "Skelly Alvero",
@@ -4140,7 +4306,8 @@
           "club": "Bologna",
           "years": "2024-present"
         }
-      ]
+      ],
+      "posteFr": "MC"
     },
     {
       "name": "Orel Mangala",
@@ -4169,7 +4336,8 @@
           "club": "Everton",
           "years": "2024-present"
         }
-      ]
+      ],
+      "posteFr": "MC"
     }
   ],
   "sources": [

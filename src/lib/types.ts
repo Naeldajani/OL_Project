@@ -10,6 +10,7 @@ export interface Player {
   name: string
   position: Position
   subPosition?: string
+  posteFr?: string
   nationality: string
   yearsAtOL: string
   number?: number
