@@ -6,6 +6,7 @@ interface RawPlayer {
   position: string
   subPosition?: string
   posteFr?: string
+  birthDate?: string
   nationality: string
   yearsAtOL: string
   shirtNumber?: number
@@ -34,6 +35,7 @@ export const seedPlayers: Player[] = (playersRaw as { players: RawPlayer[] }).pl
   position: POSITION_MAP[p.position] ?? 'Milieu',
   subPosition: p.subPosition,
   posteFr: p.posteFr,
+  birthDate: p.birthDate,
   nationality: p.nationality,
   yearsAtOL: p.yearsAtOL,
   number: p.shirtNumber,

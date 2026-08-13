@@ -1,8 +1,10 @@
 import { useMemo, useState } from 'react'
 import Card, { PageHeader } from '../components/Card'
 import ClubCrest from '../components/ClubCrest'
+import PersonPhoto from '../components/PersonPhoto'
 import { seedPlayers } from '../data/seed-players'
 import { NOTABLE } from '../lib/roles'
+import { flagFor } from '../lib/countryFlags'
 import type { Player } from '../lib/types'
 
 type Difficulty = 'facile' | 'moyen' | 'difficile' | 'aleatoire'
@@ -21,12 +23,25 @@ const STARS: Record<Difficulty, string> = {
   aleatoire: '🎲 Aléatoire',
 }
 
+const MAX_ATTEMPTS = 6
+
 function normalize(s: string) {
   return s
     .toLowerCase()
     .normalize('NFD')
     .replace(/[̀-ͯ]/g, '')
     .trim()
+}
+
+function ageOf(birthDate?: string): number | null {
+  if (!birthDate) return null
+  const d = new Date(birthDate + 'T00:00:00')
+  if (Number.isNaN(d.getTime())) return null
+  const now = new Date()
+  let age = now.getFullYear() - d.getFullYear()
+  const hadBirthday = now.getMonth() > d.getMonth() || (now.getMonth() === d.getMonth() && now.getDate() >= d.getDate())
+  if (!hadBirthday) age -= 1
+  return age
 }
 
 // Difficulty is graded by how recognizable the player actually is (our
@@ -42,23 +57,24 @@ function pickPlayer(pool: Player[], difficulty: Difficulty): Player {
   return candidates[Math.floor(Math.random() * candidates.length)]
 }
 
-function initialReveal(player: Player, difficulty: Difficulty): number {
-  if (difficulty === 'facile') return Math.min(3, player.career.length)
-  if (difficulty === 'difficile') return 1
-  return Math.min(2, player.career.length)
+interface Attempt {
+  player: Player
+  posteMatch: boolean
+  nationaliteMatch: boolean
+  ageMatch: boolean | null
+  ageDirection: 'up' | 'down' | null
 }
 
 export default function GuessThePlayerPage() {
-  // A single-club career can't be progressively revealed as a hint — exclude
-  // those few players (incomplete pre/post-OL career data) from the mystery pool.
+  // A single-club career can't be shown as a useful clue — exclude those few
+  // players (incomplete pre/post-OL career data) from the mystery pool.
   const pool = useMemo(() => seedPlayers.filter((p) => p.career.length >= 2), [])
   const [difficulty, setDifficulty] = useState<Difficulty>('facile')
   const [mystery, setMystery] = useState<Player>(() => pickPlayer(pool, 'facile'))
-  const [revealed, setRevealed] = useState(() => initialReveal(mystery, 'facile'))
   const [guess, setGuess] = useState('')
   const [status, setStatus] = useState<'playing' | 'won' | 'lost'>('playing')
   const [message, setMessage] = useState<string | null>(null)
-  const [attempts, setAttempts] = useState<string[]>([])
+  const [attempts, setAttempts] = useState<Attempt[]>([])
 
   const suggestions = useMemo(() => {
     if (!guess.trim()) return []
@@ -72,7 +88,6 @@ export default function GuessThePlayerPage() {
   function newGone(nextDifficulty: Difficulty = difficulty) {
     const p = pickPlayer(pool, nextDifficulty)
     setMystery(p)
-    setRevealed(initialReveal(p, nextDifficulty))
     setGuess('')
     setStatus('playing')
     setMessage(null)
@@ -91,15 +106,38 @@ export default function GuessThePlayerPage() {
       setStatus('won')
       setMessage(`🎉 Bien joué ! C'était bien ${mystery.name}. Nouveau Gone dans un instant...`)
       setTimeout(() => newGone(), 1800)
-    } else {
-      setAttempts((a) => [...a, guess.trim()])
-      if (revealed < mystery.career.length) {
-        setRevealed((r) => r + 1)
-        setMessage(`❌ Raté. Un indice de plus est révélé.`)
-      } else {
+      setGuess('')
+      return
+    }
+
+    const guessedPlayer = pool.find((p) => normalize(p.name) === normalize(guess.trim()))
+    if (guessedPlayer) {
+      const mysteryAge = ageOf(mystery.birthDate)
+      const guessedAge = ageOf(guessedPlayer.birthDate)
+      const ageMatch = mysteryAge != null && guessedAge != null ? mysteryAge === guessedAge : null
+      const ageDirection =
+        mysteryAge != null && guessedAge != null && mysteryAge !== guessedAge
+          ? mysteryAge > guessedAge
+            ? 'up'
+            : 'down'
+          : null
+      const attempt: Attempt = {
+        player: guessedPlayer,
+        posteMatch: !!guessedPlayer.posteFr && guessedPlayer.posteFr === mystery.posteFr,
+        nationaliteMatch: guessedPlayer.nationality === mystery.nationality,
+        ageMatch,
+        ageDirection,
+      }
+      const nextAttempts = [attempt, ...attempts]
+      setAttempts(nextAttempts)
+      if (nextAttempts.length >= MAX_ATTEMPTS) {
         setStatus('lost')
         setMessage(`😔 Perdu. C'était ${mystery.name}.`)
+      } else {
+        setMessage(`❌ Raté. Regarde les indices sous ta tentative.`)
       }
+    } else {
+      setMessage(`❌ "${guess.trim()}" ne correspond à aucun joueur connu.`)
     }
     setGuess('')
   }
@@ -109,13 +147,15 @@ export default function GuessThePlayerPage() {
     setMessage(`C'était ${mystery.name}.`)
   }
 
+  const mysteryAge = ageOf(mystery.birthDate)
+
   return (
     <div>
       <PageHeader
         icon="🎮"
         eyebrow="Jeux"
         title="Devine le Gone"
-        description="Un Gone mystère a joué à l'OL entre 2000 et 2026. Regarde son parcours (sans son nom !) et devine qui c'est. Après chaque essai, des indices t'aident à te rapprocher."
+        description="Un Gone mystère a joué à l'OL entre 2000 et 2026. Regarde son parcours complet (sans son nom !) et devine qui c'est. Chaque essai raté te donne des indices : poste, âge, nationalité."
       />
 
       <Card>
@@ -142,7 +182,7 @@ export default function GuessThePlayerPage() {
         </div>
 
         <div className="flex flex-wrap gap-4 mb-6">
-          {mystery.career.slice(0, revealed).map((step, i) => (
+          {mystery.career.map((step, i) => (
             <div
               key={i}
               className="flex flex-col items-center gap-2 bg-ink-900/50 rounded-xl px-6 py-4 ring-1 ring-white/5"
@@ -200,9 +240,45 @@ export default function GuessThePlayerPage() {
           </button>
         </div>
 
-        {attempts.length > 0 && status === 'playing' && (
-          <div className="mt-3 text-xs text-slate-500">
-            Essais : {attempts.join(', ')}
+        {attempts.length > 0 && (
+          <div className="mt-5 flex flex-col gap-2">
+            {attempts.map((a, i) => (
+              <div
+                key={i}
+                className="flex items-center gap-3 bg-ink-900/50 rounded-xl px-4 py-2.5 ring-1 ring-white/5"
+              >
+                <PersonPhoto name={a.player.name} size={32} />
+                <span className="text-sm font-semibold text-white w-40 truncate">{a.player.name}</span>
+                <span
+                  className={`text-xs font-bold px-2.5 py-1 rounded-full ${
+                    a.posteMatch ? 'bg-emerald-500/20 text-emerald-400' : 'bg-ol-red/20 text-ol-red'
+                  }`}
+                >
+                  {a.player.posteFr || '?'}
+                </span>
+                <span
+                  className={`text-xs font-bold px-2.5 py-1 rounded-full flex items-center gap-1 ${
+                    a.ageMatch === false
+                      ? 'bg-ol-red/20 text-ol-red'
+                      : a.ageMatch === true
+                        ? 'bg-emerald-500/20 text-emerald-400'
+                        : 'bg-slate-500/20 text-slate-300'
+                  }`}
+                >
+                  {ageOf(a.player.birthDate) ?? '?'} ans
+                  {a.ageDirection === 'up' && <span aria-label="plus âgé">↑</span>}
+                  {a.ageDirection === 'down' && <span aria-label="moins âgé">↓</span>}
+                </span>
+                <span
+                  className={`text-xs font-bold px-2.5 py-1 rounded-full flex items-center gap-1 ${
+                    a.nationaliteMatch ? 'bg-emerald-500/20 text-emerald-400' : 'bg-ol-red/20 text-ol-red'
+                  }`}
+                >
+                  <span>{flagFor(a.player.nationality)}</span>
+                  {a.player.nationality}
+                </span>
+              </div>
+            ))}
           </div>
         )}
 
@@ -213,10 +289,18 @@ export default function GuessThePlayerPage() {
             }`}
           >
             {message}
+            {status === 'lost' && mysteryAge != null && (
+              <span className="text-slate-500">
+                {' '}
+                ({mystery.posteFr}, {mysteryAge} ans, {flagFor(mystery.nationality)} {mystery.nationality})
+              </span>
+            )}
           </div>
         )}
 
-        <div className="mt-4 text-xs text-slate-500">{STARS[difficulty]}</div>
+        <div className="mt-4 text-xs text-slate-500">
+          {STARS[difficulty]} · {attempts.length}/{MAX_ATTEMPTS} essais
+        </div>
       </Card>
     </div>
   )

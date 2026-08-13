@@ -1,20 +1,12 @@
 import { useMemo, useState } from 'react'
 import Card, { PageHeader } from '../components/Card'
 import PersonPhoto from '../components/PersonPhoto'
-import { FORMATIONS, eligiblePlayers, randomShortlist } from '../lib/roles'
+import { FORMATIONS, randomShortlist } from '../lib/roles'
 import { coaches } from '../data/coaches'
 import { seedPlayers } from '../data/seed-players'
 
 const byId = new Map(seedPlayers.map((p) => [p.id, p]))
-const STAGGER_MS = 120
-
-function normalize(s: string) {
-  return s
-    .toLowerCase()
-    .normalize('NFD')
-    .replace(/[̀-ͯ]/g, '')
-    .trim()
-}
+const STAGGER_MS = 220
 
 function shuffle<T>(arr: T[]): T[] {
   const a = [...arr]
@@ -73,9 +65,8 @@ export default function BestXIPage() {
 
   const [selection, setSelection] = useState<Record<string, string>>({})
   const [activeRoleId, setActiveRoleId] = useState<string | null>(null)
-  const [search, setSearch] = useState('')
   const [rollKey, setRollKey] = useState<Record<string, number>>({})
-  const [coachId, setCoachId] = useState<string>(coaches[0]?.id ?? '')
+  const [coachId, setCoachId] = useState<string | null>(null)
   const [coachOpen, setCoachOpen] = useState(false)
   const [coachRollKey, setCoachRollKey] = useState(0)
   const [bounce, setBounce] = useState<Record<string, number>>({})
@@ -89,25 +80,18 @@ export default function BestXIPage() {
         .filter(([roleId]) => roleId !== activeRole.id)
         .map(([, playerId]) => playerId),
     )
-    if (search.trim()) {
-      const q = normalize(search)
-      return eligiblePlayers(activeRole)
-        .filter((p) => !takenElsewhere.has(p.id) && normalize(p.name).includes(q))
-        .sort((a, b) => a.name.localeCompare(b.name, 'fr'))
-    }
     return randomShortlist(activeRole, 3, takenElsewhere)
     // re-roll only when the slot is (re)opened or "Relancer" is clicked
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [activeRole, selection, search, rollKey[activeRoleId ?? '']])
+  }, [activeRole, selection, rollKey[activeRoleId ?? '']])
 
   const coachCandidates = useMemo(() => {
-    const taken = new Set([coachId])
+    const taken = new Set(coachId ? [coachId] : [])
     return shuffle(coaches.filter((c) => !taken.has(c.id))).slice(0, 3)
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [coachRollKey])
 
   function openSlot(roleId: string) {
-    setSearch('')
     setRollKey((k) => ({ ...k, [roleId]: (k[roleId] ?? 0) + 1 }))
     setActiveRoleId(roleId)
   }
@@ -169,7 +153,11 @@ export default function BestXIPage() {
             {FORMATIONS.map((f, i) => (
               <button
                 key={f.id}
-                onClick={() => setFormationId(f.id)}
+                onClick={() => {
+                  setFormationId(f.id)
+                  setCoachRollKey((k) => k + 1)
+                  setCoachOpen(true)
+                }}
                 style={{ animationDelay: `${i * STAGGER_MS}ms` }}
                 className="animate-slide-in-x flex flex-col items-center gap-2 rounded-xl p-6 bg-ink-900/50 ring-1 ring-white/10 hover:ring-ol-gold transition-all hover:-translate-y-0.5"
               >
@@ -208,23 +196,25 @@ export default function BestXIPage() {
         <h3 className="text-sm font-bold text-slate-300 uppercase tracking-wide mb-4">
           🧑‍🏫 Entraîneur
         </h3>
-        <button
-          onClick={openCoachPicker}
-          className="flex items-center gap-4 rounded-xl p-2 -m-2 hover:bg-white/5 transition-colors text-left"
-        >
-          <PersonPhoto key={coachId} name={selectedCoach?.name ?? '?'} size={56} className="animate-pop-in" />
-          <div>
-            <div className="text-sm font-bold text-white">{selectedCoach?.name ?? 'Choisir un entraîneur'}</div>
-            {selectedCoach && (
+        {selectedCoach ? (
+          <button
+            onClick={openCoachPicker}
+            className="flex items-center gap-4 rounded-xl p-2 -m-2 hover:bg-white/5 transition-colors text-left"
+          >
+            <PersonPhoto key={coachId} name={selectedCoach.name} size={56} className="animate-pop-in" />
+            <div>
+              <div className="text-sm font-bold text-white">{selectedCoach.name}</div>
               <p className="text-xs text-slate-500 mt-1">
                 Sur le banc : {selectedCoach.seasons[0]}
                 {selectedCoach.seasons.length > 1
                   ? `–${selectedCoach.seasons[selectedCoach.seasons.length - 1]}`
                   : ''}
               </p>
-            )}
-          </div>
-        </button>
+            </div>
+          </button>
+        ) : (
+          <p className="text-sm text-slate-500">En attente de choix...</p>
+        )}
       </Card>
 
       <Card className="mb-6">
@@ -294,19 +284,12 @@ export default function BestXIPage() {
           onClose={() => setActiveRoleId(null)}
           onReroll={() => openSlot(activeRole.id)}
         >
-          <input
-            autoFocus
-            value={search}
-            onChange={(e) => setSearch(e.target.value)}
-            placeholder="🔍 Rechercher un joueur..."
-            className="w-full bg-ink-900/70 ring-1 ring-ol-gold rounded-xl px-4 py-3 text-sm outline-none placeholder:text-slate-500 mb-4"
-          />
           {candidates.length === 0 ? (
             <p className="text-sm text-slate-500">
-              {search.trim() ? 'Aucun joueur ne correspond.' : "Pas assez de joueurs documentés à ce poste précis pour l'instant."}
+              Pas assez de joueurs documentés à ce poste précis pour l'instant.
             </p>
           ) : (
-            <div className="grid grid-cols-4 gap-x-4 gap-y-5 max-h-[420px] overflow-y-auto pr-1">
+            <div className="grid grid-cols-3 gap-x-4 gap-y-5">
               {candidates.map((p, i) => {
                 const selected = selection[activeRole.id] === p.id
                 return (

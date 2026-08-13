@@ -32,7 +32,8 @@
           "years": "2015-2017"
         }
       ],
-      "posteFr": "AG"
+      "posteFr": "AG",
+      "birthDate": "1983-08-02"
     },
     {
       "name": "Steve Marlet",
@@ -58,7 +59,8 @@
           "years": "2007"
         }
       ],
-      "posteFr": "BU"
+      "posteFr": "BU",
+      "birthDate": "1974-01-10"
     },
     {
       "name": "Jérémy Pied",
@@ -84,7 +86,8 @@
           "years": "2021-2022"
         }
       ],
-      "posteFr": "DD"
+      "posteFr": "DD",
+      "birthDate": "1989-02-23"
     },
     {
       "name": "Kader Keïta",
@@ -138,7 +141,8 @@
           "years": "2000-2015"
         }
       ],
-      "posteFr": "AD"
+      "posteFr": "AD",
+      "birthDate": "1981-08-06"
     },
     {
       "name": "Sylvain Vairelles",
@@ -178,7 +182,8 @@
           "years": "2009-2011"
         }
       ],
-      "posteFr": "G"
+      "posteFr": "G",
+      "birthDate": "1972-12-31"
     },
     {
       "name": "Rémy Vercoutre",
@@ -196,7 +201,8 @@
           "years": "2011-2018"
         }
       ],
-      "posteFr": "G"
+      "posteFr": "G",
+      "birthDate": "1980-06-26"
     },
     {
       "name": "Hugo Lloris",
@@ -222,7 +228,8 @@
           "years": "2023-present"
         }
       ],
-      "posteFr": "G"
+      "posteFr": "G",
+      "birthDate": "1986-12-26"
     },
     {
       "name": "Anthony Lopes",
@@ -241,7 +248,8 @@
           "years": "2025-present"
         }
       ],
-      "posteFr": "G"
+      "posteFr": "G",
+      "birthDate": "1990-10-01"
     },
     {
       "name": "Rémy Riou",
@@ -291,7 +299,8 @@
           "years": "2024-"
         }
       ],
-      "posteFr": "G"
+      "posteFr": "G",
+      "birthDate": "1987-08-06"
     },
     {
       "name": "Mathieu Gorgelin",
@@ -309,7 +318,8 @@
           "years": "2018-2021"
         }
       ],
-      "posteFr": "G"
+      "posteFr": "G",
+      "birthDate": "1990-08-05"
     },
     {
       "name": "Joan Hartock",
@@ -339,7 +349,8 @@
           "years": "2022-"
         }
       ],
-      "posteFr": "G"
+      "posteFr": "G",
+      "birthDate": "1987-02-17"
     },
     {
       "name": "Lucas Perri",
@@ -373,7 +384,8 @@
           "years": "2025-present"
         }
       ],
-      "posteFr": "G"
+      "posteFr": "G",
+      "birthDate": "1997-12-10"
     },
     {
       "name": "Rémy Descamps",
@@ -395,7 +407,8 @@
           "years": "2023-present"
         }
       ],
-      "posteFr": "G"
+      "posteFr": "G",
+      "birthDate": "1996-06-25"
     },
     {
       "name": "Dominik Greif",
@@ -417,7 +430,8 @@
           "years": "2024-present"
         }
       ],
-      "posteFr": "G"
+      "posteFr": "G",
+      "birthDate": "1997-04-06"
     },
     {
       "name": "Anthony Réveillère",
@@ -451,7 +465,8 @@
           "years": "1998-2015"
         }
       ],
-      "posteFr": "DD"
+      "posteFr": "DD",
+      "birthDate": "1979-11-10"
     },
     {
       "name": "Éric Abidal",
@@ -489,7 +504,8 @@
           "years": "2014"
         }
       ],
-      "posteFr": "DG"
+      "posteFr": "DG",
+      "birthDate": "1979-09-11"
     },
     {
       "name": "Cris",
@@ -549,7 +565,8 @@
           "years": "2001-2007"
         }
       ],
-      "posteFr": "DC"
+      "posteFr": "DC",
+      "birthDate": "1976-05-29"
     },
     {
       "name": "Patrick Müller",
@@ -571,7 +588,8 @@
           "years": "2008-2010"
         }
       ],
-      "posteFr": "DC"
+      "posteFr": "DC",
+      "birthDate": "1976-12-17"
     },
     {
       "name": "Sébastien Squillaci",
@@ -601,7 +619,8 @@
           "years": "2013-2015"
         }
       ],
-      "posteFr": "DC"
+      "posteFr": "DC",
+      "birthDate": "1980-08-11"
     },
     {
       "name": "Jean-Alain Boumsong",
@@ -639,7 +658,8 @@
           "years": "2011-2013"
         }
       ],
-      "posteFr": "DC"
+      "posteFr": "DC",
+      "birthDate": "1979-12-14"
     },
     {
       "name": "Fabio Grosso",
@@ -677,7 +697,8 @@
           "years": "2009-2012"
         }
       ],
-      "posteFr": "DG"
+      "posteFr": "DG",
+      "birthDate": "1977-11-28"
     },
     {
       "name": "Fábio Santos",
@@ -703,7 +724,8 @@
           "years": "2013-2017"
         }
       ],
-      "posteFr": "DG"
+      "posteFr": "DG",
+      "birthDate": "1985-09-16"
     },
     {
       "name": "Aly Cissokho",
@@ -745,7 +767,8 @@
           "years": "2018-2019"
         }
       ],
-      "posteFr": "DG"
+      "posteFr": "DG",
+      "birthDate": "1987-09-15"
     },
     {
       "name": "Dejan Lovren",
@@ -783,7 +806,8 @@
           "years": "2024-present"
         }
       ],
-      "posteFr": "DC"
+      "posteFr": "DC",
+      "birthDate": "1989-07-05"
     },
     {
       "name": "Samuel Umtiti",
@@ -809,7 +833,8 @@
           "years": "2023-2025"
         }
       ],
-      "posteFr": "DC"
+      "posteFr": "DC",
+      "birthDate": "1993-11-14"
     },
     {
       "name": "Mapou Yanga-Mbiwa",
@@ -839,7 +864,8 @@
           "years": "2019-2021"
         }
       ],
-      "posteFr": "DC"
+      "posteFr": "DC",
+      "birthDate": "1989-05-15"
     },
     {
       "name": "Jason Denayer",
@@ -877,7 +903,8 @@
           "years": "2023-2025"
         }
       ],
-      "posteFr": "DC"
+      "posteFr": "DC",
+      "birthDate": "1995-06-28"
     },
     {
       "name": "Marcelo",
@@ -895,7 +922,8 @@
           "years": "2017-2021"
         }
       ],
-      "posteFr": "DG"
+      "posteFr": "DG",
+      "birthDate": "1988-05-12"
     },
     {
       "name": "Léo Dubois",
@@ -921,7 +949,8 @@
           "years": "2024-2025"
         }
       ],
-      "posteFr": "DD"
+      "posteFr": "DD",
+      "birthDate": "1994-09-14"
     },
     {
       "name": "Kenny Tete",
@@ -943,7 +972,8 @@
           "years": "2019-present"
         }
       ],
-      "posteFr": "DD"
+      "posteFr": "DD",
+      "birthDate": "1995-10-09"
     },
     {
       "name": "Rafael",
@@ -965,7 +995,8 @@
           "years": "2015-2020"
         }
       ],
-      "posteFr": "DD"
+      "posteFr": "DD",
+      "birthDate": "1990-07-09"
     },
     {
       "name": "Maxwel Cornet",
@@ -999,7 +1030,8 @@
           "years": "2025"
         }
       ],
-      "posteFr": "AG"
+      "posteFr": "AG",
+      "birthDate": "1996-09-27"
     },
     {
       "name": "Youssouf Koné",
@@ -1017,7 +1049,8 @@
           "years": "2018-2020"
         }
       ],
-      "posteFr": "DG"
+      "posteFr": "DG",
+      "birthDate": "1995-07-05"
     },
     {
       "name": "Ferland Mendy",
@@ -1039,7 +1072,8 @@
           "years": "2019-present"
         }
       ],
-      "posteFr": "DG"
+      "posteFr": "DG",
+      "birthDate": "1995-06-08"
     },
     {
       "name": "Melvin Bard",
@@ -1057,7 +1091,8 @@
           "years": "2023-present"
         }
       ],
-      "posteFr": "DG"
+      "posteFr": "DG",
+      "birthDate": "2000-11-06"
     },
     {
       "name": "Malo Gusto",
@@ -1075,7 +1110,8 @@
           "years": "2023-present"
         }
       ],
-      "posteFr": "DD"
+      "posteFr": "DD",
+      "birthDate": "2003-05-19"
     },
     {
       "name": "Sinaly Diomandé",
@@ -1123,7 +1159,8 @@
           "years": "2022-2025"
         }
       ],
-      "posteFr": "DG"
+      "posteFr": "DG",
+      "birthDate": "1992-08-31"
     },
     {
       "name": "Duje Ćaleta-Car",
@@ -1153,7 +1190,8 @@
           "years": "2023-2025"
         }
       ],
-      "posteFr": "DC"
+      "posteFr": "DC",
+      "birthDate": "1996-09-17"
     },
     {
       "name": "Castello Lukeba",
@@ -1171,7 +1209,8 @@
           "years": "2023-present"
         }
       ],
-      "posteFr": "DC"
+      "posteFr": "DC",
+      "birthDate": "2002-12-17"
     },
     {
       "name": "Moussa Niakhaté",
@@ -1197,7 +1236,8 @@
           "years": "2025-present"
         }
       ],
-      "posteFr": "DC"
+      "posteFr": "DC",
+      "birthDate": "1996-03-08"
     },
     {
       "name": "Clinton Mata",
@@ -1219,7 +1259,8 @@
           "years": "2023-present"
         }
       ],
-      "posteFr": "DD"
+      "posteFr": "DD",
+      "birthDate": "1992-11-07"
     },
     {
       "name": "Abner",
@@ -1251,7 +1292,8 @@
           "years": "2003-2008"
         }
       ],
-      "posteFr": "DD"
+      "posteFr": "DD",
+      "birthDate": "1984-04-24"
     },
     {
       "name": "Sylvain Monsoreau",
@@ -1293,7 +1335,8 @@
           "years": "2016-2017"
         }
       ],
-      "posteFr": "DC"
+      "posteFr": "DC",
+      "birthDate": "1981-03-20"
     },
     {
       "name": "Mourad Benhamida",
@@ -1327,7 +1370,8 @@
           "years": "2016-"
         }
       ],
-      "posteFr": "DC"
+      "posteFr": "DC",
+      "birthDate": "1986-01-18"
     },
     {
       "name": "Lamine Diatta",
@@ -1381,7 +1425,8 @@
           "years": "2011-2012"
         }
       ],
-      "posteFr": "DC"
+      "posteFr": "DC",
+      "birthDate": "1975-07-02"
     },
     {
       "name": "François Clerc",
@@ -1403,7 +1448,8 @@
           "years": "2010-2013"
         }
       ],
-      "posteFr": "DD"
+      "posteFr": "DD",
+      "birthDate": "1983-04-18"
     },
     {
       "name": "Michaël Ciani",
@@ -1461,7 +1507,8 @@
           "years": "2017-2018"
         }
       ],
-      "posteFr": "DC"
+      "posteFr": "DC",
+      "birthDate": "1984-04-06"
     },
     {
       "name": "Grégory Bergougnoux",
@@ -1575,7 +1622,8 @@
           "years": "2020-2023"
         }
       ],
-      "posteFr": "DG"
+      "posteFr": "DG",
+      "birthDate": "1986-07-29"
     },
     {
       "name": "Mouctar Diakhaby",
@@ -1593,7 +1641,8 @@
           "years": "2018-present"
         }
       ],
-      "posteFr": "DC"
+      "posteFr": "DC",
+      "birthDate": "1996-12-19"
     },
     {
       "name": "Rachid Ghezzal",
@@ -1619,7 +1668,8 @@
           "years": "2020-2024"
         }
       ],
-      "posteFr": "AD"
+      "posteFr": "AD",
+      "birthDate": "1992-05-09"
     },
     {
       "name": "Christophe Jallet",
@@ -1649,7 +1699,8 @@
           "years": "2016-2019"
         }
       ],
-      "posteFr": "DD"
+      "posteFr": "DD",
+      "birthDate": "1983-10-31"
     },
     {
       "name": "Vincent Muratori",
@@ -1693,7 +1744,8 @@
           "years": "2013-2017"
         }
       ],
-      "posteFr": "DG"
+      "posteFr": "DG",
+      "birthDate": "1984-06-04"
     },
     {
       "name": "Milan Baroš",
@@ -1731,7 +1783,8 @@
           "years": "2011-2016"
         }
       ],
-      "posteFr": "BU"
+      "posteFr": "BU",
+      "birthDate": "1981-10-28"
     },
     {
       "name": "Jérémy Toulalan",
@@ -1761,7 +1814,8 @@
           "years": "2016-2018"
         }
       ],
-      "posteFr": "MDC"
+      "posteFr": "MDC",
+      "birthDate": "1983-09-10"
     },
     {
       "name": "Mahamadou Diarra",
@@ -1791,7 +1845,8 @@
           "years": "2013"
         }
       ],
-      "posteFr": "MDC"
+      "posteFr": "MDC",
+      "birthDate": "1981-05-18"
     },
     {
       "name": "Alou Diarra",
@@ -1829,7 +1884,8 @@
           "years": "2015"
         }
       ],
-      "posteFr": "MDC"
+      "posteFr": "MDC",
+      "birthDate": "1981-07-15"
     },
     {
       "name": "Michael Essien",
@@ -1867,7 +1923,8 @@
           "years": "2017"
         }
       ],
-      "posteFr": "MDC"
+      "posteFr": "MDC",
+      "birthDate": "1982-12-03"
     },
     {
       "name": "Juninho Pernambucano",
@@ -1939,7 +1996,8 @@
           "years": "2015-2017"
         }
       ],
-      "posteFr": "AG"
+      "posteFr": "AG",
+      "birthDate": "1980-06-13"
     },
     {
       "name": "Sidney Govou",
@@ -1961,7 +2019,8 @@
           "years": "2011-2013"
         }
       ],
-      "posteFr": "AD"
+      "posteFr": "AD",
+      "birthDate": "1979-07-27"
     },
     {
       "name": "Kim Källström",
@@ -2003,7 +2062,8 @@
           "years": "2017"
         }
       ],
-      "posteFr": "MC"
+      "posteFr": "MC",
+      "birthDate": "1982-08-24"
     },
     {
       "name": "Fred",
@@ -2041,7 +2101,8 @@
           "years": "2020-2022"
         }
       ],
-      "posteFr": "BU"
+      "posteFr": "BU",
+      "birthDate": "1983-10-03"
     },
     {
       "name": "John Carew",
@@ -2087,7 +2148,8 @@
           "years": "2011-2012"
         }
       ],
-      "posteFr": "BU"
+      "posteFr": "BU",
+      "birthDate": "1979-09-05"
     },
     {
       "name": "Sylvain Wiltord",
@@ -2133,7 +2195,8 @@
           "years": "2011-2012"
         }
       ],
-      "posteFr": "AG"
+      "posteFr": "AG",
+      "birthDate": "1974-05-10"
     },
     {
       "name": "Sonny Anderson",
@@ -2183,7 +2246,8 @@
           "years": "2005-2006"
         }
       ],
-      "posteFr": "BU"
+      "posteFr": "BU",
+      "birthDate": "1970-09-19"
     },
     {
       "name": "Peguy Luyindula",
@@ -2201,7 +2265,8 @@
           "years": "2004-2010"
         }
       ],
-      "posteFr": "BU"
+      "posteFr": "BU",
+      "birthDate": "1979-05-25"
     },
     {
       "name": "Karim Benzema",
@@ -2227,7 +2292,8 @@
           "years": "2026-present"
         }
       ],
-      "posteFr": "BU"
+      "posteFr": "BU",
+      "birthDate": "1987-12-19"
     },
     {
       "name": "Hatem Ben Arfa",
@@ -2277,7 +2343,8 @@
           "years": "2022"
         }
       ],
-      "posteFr": "MOC"
+      "posteFr": "MOC",
+      "birthDate": "1987-03-07"
     },
     {
       "name": "Bafétimbi Gomis",
@@ -2319,7 +2386,8 @@
           "years": "2023-2024"
         }
       ],
-      "posteFr": "BU"
+      "posteFr": "BU",
+      "birthDate": "1985-08-06"
     },
     {
       "name": "Lisandro López",
@@ -2357,7 +2425,8 @@
           "years": "2018"
         }
       ],
-      "posteFr": "BU"
+      "posteFr": "BU",
+      "birthDate": "1983-03-02"
     },
     {
       "name": "Yoann Gourcuff",
@@ -2391,7 +2460,8 @@
           "years": "2018-2019"
         }
       ],
-      "posteFr": "MOC"
+      "posteFr": "MOC",
+      "birthDate": "1986-07-11"
     },
     {
       "name": "Maxime Gonalons",
@@ -2421,7 +2491,8 @@
           "years": "2022-2024"
         }
       ],
-      "posteFr": "MDC"
+      "posteFr": "MDC",
+      "birthDate": "1989-03-10"
     },
     {
       "name": "Clément Grenier",
@@ -2455,7 +2526,8 @@
           "years": "2023-2024"
         }
       ],
-      "posteFr": "MOC"
+      "posteFr": "MOC",
+      "birthDate": "1991-01-07"
     },
     {
       "name": "Alexandre Lacazette",
@@ -2482,7 +2554,8 @@
           "years": "2025-present"
         }
       ],
-      "posteFr": "BU"
+      "posteFr": "BU",
+      "birthDate": "1991-05-28"
     },
     {
       "name": "Nabil Fekir",
@@ -2508,7 +2581,8 @@
           "years": "2024-present"
         }
       ],
-      "posteFr": "MOC"
+      "posteFr": "MOC",
+      "birthDate": "1993-07-18"
     },
     {
       "name": "Corentin Tolisso",
@@ -2530,7 +2604,8 @@
           "years": "2022-present"
         }
       ],
-      "posteFr": "MC"
+      "posteFr": "MC",
+      "birthDate": "1994-08-03"
     },
     {
       "name": "Jordan Ferri",
@@ -2548,7 +2623,8 @@
           "years": "2018-present"
         }
       ],
-      "posteFr": "MC"
+      "posteFr": "MC",
+      "birthDate": "1992-03-12"
     },
     {
       "name": "Mathieu Valbuena",
@@ -2582,7 +2658,8 @@
           "years": "2017-2020"
         }
       ],
-      "posteFr": "MOC"
+      "posteFr": "MOC",
+      "birthDate": "1984-09-28"
     },
     {
       "name": "Tanguy Ndombele",
@@ -2620,7 +2697,8 @@
           "years": "2024-present"
         }
       ],
-      "posteFr": "MC"
+      "posteFr": "MC",
+      "birthDate": "1996-12-28"
     },
     {
       "name": "Houssem Aouar",
@@ -2642,7 +2720,8 @@
           "years": "2024-present"
         }
       ],
-      "posteFr": "MC"
+      "posteFr": "MC",
+      "birthDate": "1998-06-30"
     },
     {
       "name": "Bertrand Traoré",
@@ -2688,7 +2767,8 @@
           "years": "2025-present"
         }
       ],
-      "posteFr": "AD"
+      "posteFr": "AD",
+      "birthDate": "1995-09-06"
     },
     {
       "name": "Memphis Depay",
@@ -2722,7 +2802,8 @@
           "years": "2024-present"
         }
       ],
-      "posteFr": "BU"
+      "posteFr": "BU",
+      "birthDate": "1994-02-13"
     },
     {
       "name": "Moussa Dembélé",
@@ -2752,7 +2833,8 @@
           "years": "2022-present"
         }
       ],
-      "posteFr": "BU"
+      "posteFr": "BU",
+      "birthDate": "1996-07-12"
     },
     {
       "name": "Martin Terrier",
@@ -2782,7 +2864,8 @@
           "years": "2024-present"
         }
       ],
-      "posteFr": "AG"
+      "posteFr": "AG",
+      "birthDate": "1997-03-04"
     },
     {
       "name": "Jeff Reine-Adélaïde",
@@ -2808,7 +2891,8 @@
           "years": "2021-2025"
         }
       ],
-      "posteFr": "MOC"
+      "posteFr": "MOC",
+      "birthDate": "1998-01-17"
     },
     {
       "name": "Bruno Guimarães",
@@ -2834,7 +2918,8 @@
           "years": "2022-present"
         }
       ],
-      "posteFr": "MC"
+      "posteFr": "MC",
+      "birthDate": "1997-11-16"
     },
     {
       "name": "Lucas Paquetá",
@@ -2944,7 +3029,8 @@
           "years": "2022"
         }
       ],
-      "posteFr": "BU"
+      "posteFr": "BU",
+      "birthDate": "1988-06-18"
     },
     {
       "name": "Tino Kadewere",
@@ -2974,7 +3060,8 @@
           "years": "2023-2024"
         }
       ],
-      "posteFr": "BU"
+      "posteFr": "BU",
+      "birthDate": "1996-01-05"
     },
     {
       "name": "Rayan Cherki",
@@ -2993,7 +3080,8 @@
           "years": "2025-present"
         }
       ],
-      "posteFr": "MOC"
+      "posteFr": "MOC",
+      "birthDate": "2003-08-17"
     },
     {
       "name": "Maxence Caqueret",
@@ -3011,7 +3099,8 @@
           "years": "2025-present"
         }
       ],
-      "posteFr": "MC"
+      "posteFr": "MC",
+      "birthDate": "2000-02-15"
     },
     {
       "name": "Thiago Mendes",
@@ -3033,7 +3122,8 @@
           "years": "2019-2023"
         }
       ],
-      "posteFr": "MDC"
+      "posteFr": "MDC",
+      "birthDate": "1992-03-15"
     },
     {
       "name": "Xherdan Shaqiri",
@@ -3075,7 +3165,8 @@
           "years": "2024-present"
         }
       ],
-      "posteFr": "MOC"
+      "posteFr": "MOC",
+      "birthDate": "1991-10-10"
     },
     {
       "name": "Johann Lepenant",
@@ -3093,7 +3184,8 @@
           "years": "2021-present"
         }
       ],
-      "posteFr": "MC"
+      "posteFr": "MC",
+      "birthDate": "2002-10-22"
     },
     {
       "name": "Bradley Barcola",
@@ -3111,7 +3203,8 @@
           "years": "2023-present"
         }
       ],
-      "posteFr": "AG"
+      "posteFr": "AG",
+      "birthDate": "2002-09-02"
     },
     {
       "name": "Malick Fofana",
@@ -3129,7 +3222,8 @@
           "years": "2023-present"
         }
       ],
-      "posteFr": "AD"
+      "posteFr": "AD",
+      "birthDate": "2005-03-31"
     },
     {
       "name": "Ernest Nuamah",
@@ -3155,7 +3249,8 @@
           "years": "2023-present"
         }
       ],
-      "posteFr": "AD"
+      "posteFr": "AD",
+      "birthDate": "2003-11-01"
     },
     {
       "name": "Saïd Benrahma",
@@ -3189,7 +3284,8 @@
           "years": "2025-present"
         }
       ],
-      "posteFr": "AG"
+      "posteFr": "AG",
+      "birthDate": "1995-08-10"
     },
     {
       "name": "Nemanja Matić",
@@ -3235,7 +3331,8 @@
           "years": "2024-present"
         }
       ],
-      "posteFr": "MDC"
+      "posteFr": "MDC",
+      "birthDate": "1988-08-01"
     },
     {
       "name": "Georges Mikautadze",
@@ -3269,7 +3366,8 @@
           "years": "2025-present"
         }
       ],
-      "posteFr": "BU"
+      "posteFr": "BU",
+      "birthDate": "2000-10-31"
     },
     {
       "name": "Thiago Almada",
@@ -3313,7 +3411,8 @@
           "years": "2025-present"
         }
       ],
-      "posteFr": "MOC"
+      "posteFr": "MOC",
+      "birthDate": "2000-12-29"
     },
     {
       "name": "Afonso Moreira",
@@ -3331,7 +3430,8 @@
           "years": "2025-present"
         }
       ],
-      "posteFr": "AD"
+      "posteFr": "AD",
+      "birthDate": "2005-03-19"
     },
     {
       "name": "Adam Karabec",
@@ -3349,7 +3449,8 @@
           "years": "2025-present"
         }
       ],
-      "posteFr": "MOC"
+      "posteFr": "MOC",
+      "birthDate": "2003-07-02"
     },
     {
       "name": "Martín Satriano",
@@ -3383,7 +3484,8 @@
           "years": "2025-present"
         }
       ],
-      "posteFr": "BU"
+      "posteFr": "BU",
+      "birthDate": "2001-02-20"
     },
     {
       "name": "Khalis Merah",
@@ -3397,7 +3499,8 @@
           "years": "2025-present"
         }
       ],
-      "posteFr": "MC"
+      "posteFr": "MC",
+      "birthDate": "2007-02-24"
     },
     {
       "name": "Tanner Tessmann",
@@ -3419,7 +3522,8 @@
           "years": "2023-present"
         }
       ],
-      "posteFr": "MDC"
+      "posteFr": "MDC",
+      "birthDate": "2001-09-24"
     },
     {
       "name": "Ainsley Maitland-Niles",
@@ -3449,7 +3553,8 @@
           "years": "2023-2024"
         }
       ],
-      "posteFr": "DD"
+      "posteFr": "DD",
+      "birthDate": "1997-08-29"
     },
     {
       "name": "Amine Gouiri",
@@ -3475,7 +3580,8 @@
           "years": "2025-present"
         }
       ],
-      "posteFr": "BU"
+      "posteFr": "BU",
+      "birthDate": "2000-02-16"
     },
     {
       "name": "Mariano Díaz",
@@ -3497,7 +3603,8 @@
           "years": "2017-2023"
         }
       ],
-      "posteFr": "BU"
+      "posteFr": "BU",
+      "birthDate": "1993-08-01"
     },
     {
       "name": "Steed Malbranque",
@@ -3527,7 +3634,8 @@
           "years": "2010-2013"
         }
       ],
-      "posteFr": "MOC"
+      "posteFr": "MOC",
+      "birthDate": "1980-01-06"
     },
     {
       "name": "Vikash Dhorasoo",
@@ -3561,7 +3669,8 @@
           "years": "2004-2007"
         }
       ],
-      "posteFr": "MOC"
+      "posteFr": "MOC",
+      "birthDate": "1973-10-10"
     },
     {
       "name": "Marc-Vivien Foé",
@@ -3591,7 +3700,8 @@
           "years": "2002-2003"
         }
       ],
-      "posteFr": "MC"
+      "posteFr": "MC",
+      "birthDate": "1975-05-01"
     },
     {
       "name": "Edmílson",
@@ -3617,7 +3727,8 @@
           "years": "2008-2009"
         }
       ],
-      "posteFr": "DC"
+      "posteFr": "DC",
+      "birthDate": "1976-07-10"
     },
     {
       "name": "Éric Carrière",
@@ -3639,7 +3750,8 @@
           "years": "2005-2007"
         }
       ],
-      "posteFr": "MOC"
+      "posteFr": "MOC",
+      "birthDate": "1973-05-24"
     },
     {
       "name": "Jérôme Violeau",
@@ -3687,7 +3799,8 @@
           "years": "2005-2007"
         }
       ],
-      "posteFr": "MC"
+      "posteFr": "MC",
+      "birthDate": "1970-09-12"
     },
     {
       "name": "Christophe Delmotte",
@@ -3757,7 +3870,8 @@
           "years": "2025-"
         }
       ],
-      "posteFr": "DD"
+      "posteFr": "DD",
+      "birthDate": "1969-06-09"
     },
     {
       "name": "Nilmar",
@@ -3783,7 +3897,8 @@
           "years": "2011-2012"
         }
       ],
-      "posteFr": "BU"
+      "posteFr": "BU",
+      "birthDate": "1984-07-14"
     },
     {
       "name": "Julien Viale-Grange",
@@ -3857,7 +3972,8 @@
           "years": "2008-2012"
         }
       ],
-      "posteFr": "MC"
+      "posteFr": "MC",
+      "birthDate": "1986-01-13"
     },
     {
       "name": "Jean Makoun",
@@ -3901,7 +4017,8 @@
           "years": "2007-2017"
         }
       ],
-      "posteFr": "DD"
+      "posteFr": "DD",
+      "birthDate": "1983-05-23"
     },
     {
       "name": "Pape Diakhaté",
@@ -3947,7 +4064,8 @@
           "years": "2017-2018"
         }
       ],
-      "posteFr": "DC"
+      "posteFr": "DC",
+      "birthDate": "1984-06-21"
     },
     {
       "name": "Miralem Pjanić",
@@ -3985,7 +4103,8 @@
           "years": "2022-present"
         }
       ],
-      "posteFr": "MOC"
+      "posteFr": "MOC",
+      "birthDate": "1990-04-02"
     },
     {
       "name": "Cesar Delgado",
@@ -4011,7 +4130,8 @@
           "years": "2010-2016"
         }
       ],
-      "posteFr": "BU"
+      "posteFr": "BU",
+      "birthDate": "1981-08-18"
     },
     {
       "name": "Anthony Mounier",
@@ -4033,7 +4153,8 @@
           "years": "2013-2015"
         }
       ],
-      "posteFr": "AD"
+      "posteFr": "AD",
+      "birthDate": "1987-09-27"
     },
     {
       "name": "Frédéric Piquionne",
@@ -4055,7 +4176,8 @@
           "years": "2010-2012"
         }
       ],
-      "posteFr": "BU"
+      "posteFr": "BU",
+      "birthDate": "1978-12-08"
     },
     {
       "name": "Aly Diarra",
@@ -4111,7 +4233,8 @@
           "years": "2014-2016"
         }
       ],
-      "posteFr": "BU"
+      "posteFr": "BU",
+      "birthDate": "1988-04-27"
     },
     {
       "name": "Miguel Lopes",
@@ -4133,7 +4256,8 @@
           "years": "2016-2018"
         }
       ],
-      "posteFr": "DD"
+      "posteFr": "DD",
+      "birthDate": "1986-12-19"
     },
     {
       "name": "Milovan Biševac",
@@ -4177,7 +4301,8 @@
           "years": "2015-2016"
         }
       ],
-      "posteFr": "DD"
+      "posteFr": "DD",
+      "birthDate": "1986-11-28"
     },
     {
       "name": "Yassine Benzia",
@@ -4207,7 +4332,8 @@
           "years": "2021-2022"
         }
       ],
-      "posteFr": "AG"
+      "posteFr": "AG",
+      "birthDate": "1994-09-08"
     },
     {
       "name": "Clinton N'Jie",
@@ -4233,7 +4359,8 @@
           "years": "2017-2018"
         }
       ],
-      "posteFr": "AD"
+      "posteFr": "AD",
+      "birthDate": "1993-08-15"
     },
     {
       "name": "Sergi Darder",
@@ -4259,7 +4386,8 @@
           "years": "2019-present"
         }
       ],
-      "posteFr": "MC"
+      "posteFr": "MC",
+      "birthDate": "1993-12-22"
     },
     {
       "name": "Farès Bahlouli",
@@ -4277,7 +4405,8 @@
           "years": "2017-2019"
         }
       ],
-      "posteFr": "MOC"
+      "posteFr": "MOC",
+      "birthDate": "1995-04-08"
     },
     {
       "name": "Adama Traoré (defender)",
@@ -4379,7 +4508,8 @@
           "years": "2017-2022"
         }
       ],
-      "posteFr": "DG"
+      "posteFr": "DG",
+      "birthDate": "1989-08-19"
     },
     {
       "name": "Emanuel Mammana",
@@ -4409,7 +4539,8 @@
           "years": "2020-2022"
         }
       ],
-      "posteFr": "DC"
+      "posteFr": "DC",
+      "birthDate": "1996-02-10"
     },
     {
       "name": "Marçal",
@@ -4453,7 +4584,8 @@
           "years": "2023-2024"
         }
       ],
-      "posteFr": "BU"
+      "posteFr": "BU",
+      "birthDate": "2001-08-16"
     },
     {
       "name": "Andersen (Joachim)",
@@ -4513,7 +4645,8 @@
           "years": "2020-2024"
         }
       ],
-      "posteFr": "G"
+      "posteFr": "G",
+      "birthDate": "1986-02-09"
     },
     {
       "name": "Jean Lucas",
@@ -4569,7 +4702,8 @@
           "years": "2021-2023"
         }
       ],
-      "posteFr": "DC"
+      "posteFr": "DC",
+      "birthDate": "1988-05-17"
     },
     {
       "name": "Romain Faivre",
@@ -4595,7 +4729,8 @@
           "years": "2023-present"
         }
       ],
-      "posteFr": "MOC"
+      "posteFr": "MOC",
+      "birthDate": "1998-07-14"
     },
     {
       "name": "Emerson Palmieri",
@@ -4625,7 +4760,8 @@
           "years": "2022-present"
         }
       ],
-      "posteFr": "DG"
+      "posteFr": "DG",
+      "birthDate": "1994-08-03"
     },
     {
       "name": "Jerome Boateng",
@@ -4659,7 +4795,8 @@
           "years": "2023"
         }
       ],
-      "posteFr": "DC"
+      "posteFr": "DC",
+      "birthDate": "1988-09-03"
     },
     {
       "name": "Henrique",
@@ -4681,7 +4818,8 @@
           "years": "2021-2024"
         }
       ],
-      "posteFr": "DC"
+      "posteFr": "DC",
+      "birthDate": "1986-10-14"
     },
     {
       "name": "Rominigue Kouamé",
@@ -4699,7 +4837,8 @@
           "years": "2023-present"
         }
       ],
-      "posteFr": "MC"
+      "posteFr": "MC",
+      "birthDate": "1996-12-17"
     },
     {
       "name": "Tetê",
@@ -4743,7 +4882,8 @@
           "years": "2024-present"
         }
       ],
-      "posteFr": "MC"
+      "posteFr": "MC",
+      "birthDate": "2002-05-02"
     },
     {
       "name": "Orel Mangala",

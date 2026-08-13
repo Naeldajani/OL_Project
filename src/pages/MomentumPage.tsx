@@ -99,6 +99,21 @@ export default function MomentumPage() {
 
   const hasPositions = steps.some((s) => s.position != null)
 
+  const tooltipStyle = {
+    contentStyle: {
+      background: '#111d3d',
+      border: '1px solid rgba(255,255,255,0.1)',
+      borderRadius: 12,
+      color: 'white',
+    },
+    separator: '',
+    labelFormatter: () => '',
+    formatter: ((_v: number, _n: unknown, ctx: { payload: Step }) => {
+      const s = ctx.payload
+      return [`J${s.idx} vs ${opponent(s.match)} (${s.match.homeScore}-${s.match.awayScore})`, '']
+    }) as never,
+  }
+
   function clickableDot(color: (s: Step) => string) {
     return ((props: { cx?: number; cy?: number; payload?: Step }) => {
       const { cx, cy, payload } = props
@@ -186,25 +201,7 @@ export default function MomentumPage() {
                   <CartesianGrid stroke="#1b2d59" strokeDasharray="3 3" />
                   <XAxis dataKey="idx" tick={{ fill: '#94a3b8', fontSize: 12 }} />
                   <YAxis tick={{ fill: '#94a3b8', fontSize: 12 }} allowDecimals={false} />
-                  <Tooltip
-                    contentStyle={{
-                      background: '#111d3d',
-                      border: '1px solid rgba(255,255,255,0.1)',
-                      borderRadius: 12,
-                      color: 'white',
-                    }}
-                    labelFormatter={() => ''}
-                    formatter={((_v: number, _n: unknown, ctx: { payload: Step }) => {
-                      const s = ctx.payload
-                      const lines = [
-                        `J${s.idx} · vs ${opponent(s.match)}`,
-                        `${s.points} pts cumulés`,
-                        s.position != null ? `${s.position}ᵉ au classement` : null,
-                        `Forme (5 matchs) ${s.form}/3`,
-                      ].filter(Boolean)
-                      return [lines.join(' · '), '']
-                    }) as never}
-                  />
+                  <Tooltip {...tooltipStyle} />
                   <Line
                     type="monotone"
                     dataKey="points"
@@ -243,16 +240,7 @@ export default function MomentumPage() {
                       tick={{ fill: '#94a3b8', fontSize: 12 }}
                       allowDecimals={false}
                     />
-                    <Tooltip
-                      contentStyle={{
-                        background: '#111d3d',
-                        border: '1px solid rgba(255,255,255,0.1)',
-                        borderRadius: 12,
-                        color: 'white',
-                      }}
-                      labelFormatter={() => ''}
-                      formatter={((v: number) => [`${v}ᵉ`, 'Classement']) as never}
-                    />
+                    <Tooltip {...tooltipStyle} />
                     <Line
                       type="monotone"
                       dataKey="position"
@@ -278,16 +266,7 @@ export default function MomentumPage() {
                   <CartesianGrid stroke="#1b2d59" strokeDasharray="3 3" />
                   <XAxis dataKey="idx" tick={{ fill: '#94a3b8', fontSize: 12 }} />
                   <YAxis domain={[0, 3]} tick={{ fill: '#94a3b8', fontSize: 12 }} />
-                  <Tooltip
-                    contentStyle={{
-                      background: '#111d3d',
-                      border: '1px solid rgba(255,255,255,0.1)',
-                      borderRadius: 12,
-                      color: 'white',
-                    }}
-                    labelFormatter={() => ''}
-                    formatter={((v: number) => [`${v}/3`, 'Forme (5 matchs)']) as never}
-                  />
+                  <Tooltip {...tooltipStyle} />
                   <Line type="monotone" dataKey="form" stroke="#a78bfa" strokeWidth={2} dot={clickableDot(() => '#a78bfa')} />
                 </LineChart>
               </ResponsiveContainer>
