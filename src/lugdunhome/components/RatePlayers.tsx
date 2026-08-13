@@ -50,6 +50,48 @@ function RatingPicker({
   )
 }
 
+/** Spread of the community's 1–10 votes: shows consensus vs division,
+ * which a single average can't. */
+function Distribution({ buckets, mine }: { buckets: number[]; mine?: number }) {
+  const max = Math.max(...buckets, 1)
+  const total = buckets.reduce((a, b) => a + b, 0)
+  return (
+    <div className="mt-3 rounded-xl border border-lh-line bg-lh-void/50 p-3">
+      <div className="lh-eyebrow mb-2">Répartition des {total.toLocaleString('fr-FR')} notes</div>
+      {/* bars are direct children of a fixed-height flex row so their
+          percentage heights resolve against a definite container */}
+      <div className="flex h-16 items-end gap-1">
+        {buckets.map((count, i) => {
+          const note = i + 1
+          const isMine = mine === note
+          return (
+            <div
+              key={note}
+              title={`${count.toLocaleString('fr-FR')} vote${count > 1 ? 's' : ''} à ${note}/10`}
+              className={`flex-1 rounded-t transition-all ${
+                isMine ? 'bg-lh-red' : note >= 7 ? 'bg-lh-gold/70' : 'bg-lh-muted/45'
+              }`}
+              style={{ height: `${Math.max(4, (count / max) * 100)}%` }}
+            />
+          )
+        })}
+      </div>
+      <div className="mt-1 flex gap-1">
+        {buckets.map((_, i) => (
+          <span
+            key={i}
+            className={`flex-1 text-center text-[9px] font-bold ${
+              mine === i + 1 ? 'text-lh-redSoft' : 'text-lh-muted'
+            }`}
+          >
+            {i + 1}
+          </span>
+        ))}
+      </div>
+    </div>
+  )
+}
+
 export default function RatePlayers({
   match,
   community,
@@ -64,6 +106,7 @@ export default function RatePlayers({
   onRate: (player: string, rating: number) => void
 }) {
   const [expanded, setExpanded] = useState(false)
+  const [openDist, setOpenDist] = useState<string | null>(null)
   const lineup = lineupFor(match.id)
 
   const rows = useMemo(() => {
@@ -161,6 +204,22 @@ export default function RatePlayers({
                       Ta note : <span className="text-lh-text">{mine}/10</span>
                     </div>
                   )
+                )}
+
+                {count > 0 && (
+                  <button
+                    onClick={() =>
+                      setOpenDist((cur) => (cur === entry.player ? null : entry.player))
+                    }
+                    className="mt-2 text-[11px] font-bold text-lh-muted transition-colors hover:text-lh-goldSoft"
+                  >
+                    {openDist === entry.player
+                      ? 'Masquer la répartition ▲'
+                      : 'Voir la répartition des notes ▼'}
+                  </button>
+                )}
+                {openDist === entry.player && community.distribution[entry.player] && (
+                  <Distribution buckets={community.distribution[entry.player]} mine={mine} />
                 )}
               </div>
             </Card>

@@ -2,7 +2,13 @@ import { useCallback, useEffect, useState } from 'react'
 import { backend } from '../lib/backend'
 import type { MatchCommunity } from '../lib/types'
 
-const EMPTY: MatchCommunity = { participants: 0, ratings: {}, motm: {}, debate: {} }
+const EMPTY: MatchCommunity = {
+  participants: 0,
+  ratings: {},
+  distribution: {},
+  motm: {},
+  debate: {},
+}
 
 /**
  * Loads everything one match page needs and re-reads after each vote, so the

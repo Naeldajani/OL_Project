@@ -83,9 +83,13 @@ export const supabaseBackend: Backend = {
     ])
 
     const ratings: MatchCommunity['ratings'] = {}
+    const distribution: MatchCommunity['distribution'] = {}
     for (const r of ratingRows) {
       const cur = ratings[r.player_id] ?? { sum: 0, count: 0 }
       ratings[r.player_id] = { sum: cur.sum + r.rating, count: cur.count + 1 }
+      const bucket = distribution[r.player_id] ?? new Array(10).fill(0)
+      bucket[r.rating - 1] += 1
+      distribution[r.player_id] = bucket
     }
     const motm: Record<string, number> = {}
     for (const r of motmRows) motm[r.player_id] = (motm[r.player_id] ?? 0) + 1
@@ -99,6 +103,7 @@ export const supabaseBackend: Backend = {
     return {
       participants: Math.max(motmRows.length, debateRows.length, participants),
       ratings,
+      distribution,
       motm,
       debate,
     }

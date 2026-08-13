@@ -1,6 +1,13 @@
 import type { Backend, LhUser, LeaderboardRow, MatchCommunity, Prediction } from './types'
 import { seedMatches } from '../../data/seed-matches'
-import { communityPool, participantsFor, simulatedMotm, simulatedRating, rng } from './community'
+import {
+  communityPool,
+  participantsFor,
+  simulatedDistribution,
+  simulatedMotm,
+  simulatedRating,
+  rng,
+} from './community'
 import { simulatedDebate } from './debates'
 import { lineupFor } from './lineups'
 import { scorePrediction } from './scoring'
@@ -63,20 +70,25 @@ export const localBackend: Backend = {
   async getCommunity(matchId: string): Promise<MatchCommunity> {
     const match = matchById.get(matchId)
     if (!match) {
-      return { participants: 0, ratings: {}, motm: {}, debate: {} }
+      return { participants: 0, ratings: {}, distribution: {}, motm: {}, debate: {} }
     }
     const participants = participantsFor(match)
 
     const ratings: MatchCommunity['ratings'] = {}
+    const distribution: MatchCommunity['distribution'] = {}
     for (const entry of lineupFor(matchId)) {
       const { avg, count } = simulatedRating(match, entry.player)
       ratings[entry.player] = { sum: avg * count, count }
+      distribution[entry.player] = simulatedDistribution(match, entry.player, avg, count)
     }
     // fold in this browser's own votes
     const mine = read<Record<string, Record<string, number>>>(K.ratings, {})[matchId] ?? {}
     for (const [player, value] of Object.entries(mine)) {
       const cur = ratings[player] ?? { sum: 0, count: 0 }
       ratings[player] = { sum: cur.sum + value, count: cur.count + 1 }
+      const bucket = distribution[player] ?? new Array(10).fill(0)
+      bucket[value - 1] += 1
+      distribution[player] = bucket
     }
 
     const motm = simulatedMotm(match)
@@ -87,7 +99,13 @@ export const localBackend: Backend = {
     const myDebate = read<Record<string, string>>(K.debate, {})[matchId]
     if (myDebate) debate[myDebate] = (debate[myDebate] ?? 0) + 1
 
-    return { participants: participants + (myMotm || myDebate ? 1 : 0), ratings, motm, debate }
+    return {
+      participants: participants + (myMotm || myDebate ? 1 : 0),
+      ratings,
+      distribution,
+      motm,
+      debate,
+    }
   },
 
   async getMyRatings(matchId: string) {

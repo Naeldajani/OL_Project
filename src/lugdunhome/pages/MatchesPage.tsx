@@ -10,6 +10,7 @@ export default function MatchesPage() {
   const [filter, setFilter] = useState<Filter>('notables')
   const [competition, setCompetition] = useState<string>('Toutes')
   const [season, setSeason] = useState<string>('Toutes')
+  const [query, setQuery] = useState('')
 
   const source = filter === 'notables' ? ratableMatches : allMatches
 
@@ -22,15 +23,23 @@ export default function MatchesPage() {
     [source],
   )
 
-  const list = useMemo(
-    () =>
-      source.filter(
-        (m) =>
-          (competition === 'Toutes' || m.competition === competition) &&
-          (season === 'Toutes' || m.season === season),
-      ),
-    [source, competition, season],
-  )
+  const list = useMemo(() => {
+    const q = query
+      .toLowerCase()
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .trim()
+    return source.filter((m) => {
+      if (competition !== 'Toutes' && m.competition !== competition) return false
+      if (season !== 'Toutes' && m.season !== season) return false
+      if (!q) return true
+      const hay = `${m.home} ${m.away}`
+        .toLowerCase()
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '')
+      return hay.includes(q)
+    })
+  }, [source, competition, season, query])
 
   const record = useMemo(() => {
     let v = 0
@@ -69,6 +78,13 @@ export default function MatchesPage() {
             </button>
           ))}
         </div>
+
+        <input
+          value={query}
+          onChange={(e) => setQuery(e.target.value)}
+          placeholder="🔍 Chercher un adversaire (PSG, Marseille, Bayern...)"
+          className="w-full rounded-xl border border-lh-line bg-lh-surface px-4 py-2.5 text-sm outline-none placeholder:text-lh-muted focus:border-lh-gold/50"
+        />
 
         <div className="flex flex-wrap gap-2">
           <Select value={competition} onChange={setCompetition} options={competitions} />

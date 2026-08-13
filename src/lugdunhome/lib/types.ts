@@ -38,6 +38,8 @@ export interface Prediction {
 export interface MatchCommunity {
   participants: number
   ratings: Record<string, { sum: number; count: number }>
+  /** votes per note 1..10, per player — shows whether the Kop was split */
+  distribution: Record<string, number[]>
   motm: Record<string, number>
   debate: Record<string, number>
 }

@@ -106,6 +106,37 @@ export function simulatedRating(match: Match, playerName: string): { avg: number
   return { avg: Math.round(avg * 10) / 10, count }
 }
 
+/**
+ * How the community's votes spread across the 1–10 scale for one player.
+ * A single average hides whether the Kop was unanimous or split, which is
+ * usually the interesting part, so build a plausible bell around the mean
+ * (wider when the mark is middling, tighter at the extremes).
+ */
+export function simulatedDistribution(
+  match: Match,
+  playerName: string,
+  avg: number,
+  count: number,
+): number[] {
+  const r = rng(`dist-${match.id}-${playerName}`)
+  const spread = 1.05 + (1 - Math.abs(avg - 5.5) / 4.5) * 0.75
+  const weights: number[] = []
+  for (let note = 1; note <= 10; note++) {
+    const d = note - avg
+    const bell = Math.exp(-(d * d) / (2 * spread * spread))
+    weights.push(bell * (0.85 + r() * 0.3))
+  }
+  const total = weights.reduce((a, b) => a + b, 0) || 1
+
+  const out = weights.map((w) => Math.floor((w / total) * count))
+  // give the rounding remainder to the modal note so the total stays exact
+  const assigned = out.reduce((a, b) => a + b, 0)
+  let peak = 0
+  for (let i = 1; i < out.length; i++) if (out[i] > out[peak]) peak = i
+  out[peak] += count - assigned
+  return out
+}
+
 /** Community man-of-the-match distribution, weighted by simulated ratings. */
 export function simulatedMotm(match: Match): Record<string, number> {
   const squad = lineupFor(match.id).filter((p) => p.role === 'titulaire')
