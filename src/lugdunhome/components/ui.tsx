@@ -1,37 +1,34 @@
 import type { ReactNode } from 'react'
-import { CREST_MANIFEST } from '../../data/crest-manifest'
+import { crestGradient, getCrestStyle } from '../../lib/crest'
 import { PHOTO_MANIFEST } from '../../data/photo-manifest'
+import { creditLine } from '../lib/credits'
 
-export function Crest({ club, size = 32, className = '' }: { club: string; size?: number; className?: string }) {
-  const src = CREST_MANIFEST[club]
-  if (!src) {
-    const abbr = club
-      .split(/\s+/)
-      .slice(0, 2)
-      .map((w) => w[0])
-      .join('')
-      .toUpperCase()
-    return (
+/** Blason maison : couleurs du club et initiales. Aucun logo officiel n'est
+ *  diffusé — ce sont des œuvres protégées (cf. scraping/audit_licences.py). */
+export function Crest({
+  club,
+  size = 32,
+  className = '',
+}: {
+  club: string
+  size?: number
+  className?: string
+}) {
+  const { bg, fg, abbr } = getCrestStyle(club)
+  return (
+    <span
+      className={`inline-grid shrink-0 place-items-center rounded-[28%] ring-1 ring-white/10 ${className}`}
+      style={{ width: size, height: size, background: crestGradient(bg) }}
+      title={club}
+      aria-label={club}
+    >
       <span
-        className={`inline-flex shrink-0 items-center justify-center rounded-full bg-lh-raised text-lh-muted font-black ${className}`}
-        style={{ width: size, height: size, fontSize: size * 0.36 }}
-        title={club}
+        className="lh-display leading-none"
+        style={{ color: fg, fontSize: size * (abbr.length > 3 ? 0.235 : abbr.length > 2 ? 0.3 : 0.38) }}
       >
         {abbr}
       </span>
-    )
-  }
-  return (
-    <img
-      src={src}
-      alt={club}
-      title={club}
-      width={size}
-      height={size}
-      loading="lazy"
-      className={`shrink-0 object-contain ${className}`}
-      style={{ width: size, height: size }}
-    />
+    </span>
   )
 }
 
@@ -64,6 +61,10 @@ export function Face({
   className?: string
 }) {
   const src = photoFor(name)
+  // CC BY / CC BY-SA imposent de créditer l'auteur partout où la photo est
+  // affichée. L'infobulle porte l'attribution, la page Crédits la liste
+  // en entier.
+  const credit = creditLine(name)
   const initials = name
     .split(/\s+/)
     .map((w) => w[0])
@@ -86,7 +87,7 @@ export function Face({
     <img
       src={src}
       alt={name}
-      title={name}
+      title={credit ? `${name} — ${credit}` : name}
       width={size}
       height={size}
       loading="lazy"

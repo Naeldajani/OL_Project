@@ -10,6 +10,7 @@ import {
 } from './community'
 import { simulatedDebate } from './debates'
 import { lineupFor } from './lineups'
+import { currentSession, updateLocalSession } from './auth'
 import { scorePrediction } from './scoring'
 
 const K = {
@@ -48,12 +49,17 @@ export const localBackend: Backend = {
   kind: 'local',
 
   async getUser(): Promise<LhUser> {
+    // Le compte fait autorité sur le pseudo et l'avatar : sans ça, changer
+    // de compte sur le même appareil garderait l'ancienne identité.
+    const session = currentSession()
     const existing = read<LhUser | null>(K.user, null)
-    if (existing) return existing
+    if (existing && (!session || existing.id === session.userId)) {
+      return session ? { ...existing, pseudo: session.pseudo, avatar: session.avatar } : existing
+    }
     const created: LhUser = {
-      id: `me-${Math.random().toString(36).slice(2, 9)}`,
-      pseudo: 'Gone anonyme',
-      avatar: '🦁',
+      id: session?.userId ?? `me-${Math.random().toString(36).slice(2, 9)}`,
+      pseudo: session?.pseudo ?? 'Gone anonyme',
+      avatar: session?.avatar ?? '🦁',
       createdAt: new Date().toISOString(),
     }
     write(K.user, created)
@@ -64,6 +70,9 @@ export const localBackend: Backend = {
     const user = await this.getUser()
     const next = { ...user, ...patch }
     write(K.user, next)
+    if (patch.pseudo || patch.avatar) {
+      updateLocalSession({ pseudo: next.pseudo, avatar: next.avatar })
+    }
     return next
   },
 
