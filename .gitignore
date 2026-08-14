@@ -5,3 +5,8 @@ dist-ssr
 data-research/*.raw
 __pycache__/
 *.pyc
+
+# manifestes générés pour la build artefact (gros, reproductibles)
+*.inline.ts
+*.inline.json
+dist-artifact/
