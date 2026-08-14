@@ -1,6 +1,7 @@
 import type { Backend, LhUser, LeaderboardRow, MatchCommunity, Prediction } from './types'
 import { seedMatches } from '../../data/seed-matches'
 import { scorePrediction } from './scoring'
+import { accessToken, currentSession } from './auth'
 
 /**
  * Real multi-user backend, talking to Supabase's PostgREST endpoint over
@@ -8,8 +9,10 @@ import { scorePrediction } from './scoring'
  * VITE_SUPABASE_URL and VITE_SUPABASE_ANON_KEY; see supabase-schema.sql
  * for the tables and row-level-security policies this expects.
  *
- * Identity is a device-scoped anonymous id: a supporter gets a stable
- * profile without a signup wall, which suits a post-match voting product.
+ * L'identité vient du compte connecté (lib/auth). Un supporter qui a choisi
+ * « continuer sans compte » garde un identifiant d'appareil : il vote
+ * toujours, mais ses lignes ne sont rattachées à aucun profil et
+ * n'apparaissent pas au classement.
  */
 const URL_BASE = import.meta.env.VITE_SUPABASE_URL as string | undefined
 const ANON_KEY = import.meta.env.VITE_SUPABASE_ANON_KEY as string | undefined
@@ -20,7 +23,12 @@ export function supabaseConfigured(): boolean {
 
 const DEVICE_KEY = 'lh:device-id'
 
+/** Identifiant qui signe les votes : celui du compte connecté, sinon celui
+ *  de l'appareil. Les politiques RLS n'acceptent d'écrire que sur ses
+ *  propres lignes, donc les deux cas restent cloisonnés. */
 function deviceId(): string {
+  const session = currentSession()
+  if (session?.userId) return session.userId
   let id = localStorage.getItem(DEVICE_KEY)
   if (!id) {
     id = crypto.randomUUID()
@@ -30,11 +38,14 @@ function deviceId(): string {
 }
 
 async function rest<T>(path: string, init: RequestInit = {}): Promise<T> {
+  // Le jeton du compte remplace la clé anonyme : c'est lui que PostgREST
+  // lit pour peupler auth.uid() et appliquer les politiques RLS.
+  const token = (await accessToken()) ?? ANON_KEY!
   const res = await fetch(`${URL_BASE}/rest/v1/${path}`, {
     ...init,
     headers: {
       apikey: ANON_KEY!,
-      Authorization: `Bearer ${ANON_KEY}`,
+      Authorization: `Bearer ${token}`,
       'Content-Type': 'application/json',
       Prefer: 'return=representation,resolution=merge-duplicates',
       ...(init.headers ?? {}),
@@ -54,10 +65,11 @@ export const supabaseBackend: Backend = {
     const id = deviceId()
     const rows = await rest<LhUser[]>(`profiles?id=eq.${id}&select=*`)
     if (rows.length) return rows[0]
+    const session = currentSession()
     const created = {
       id,
-      pseudo: 'Gone anonyme',
-      avatar: '🦁',
+      pseudo: session?.pseudo || 'Gone anonyme',
+      avatar: session?.avatar || '🦁',
       createdAt: new Date().toISOString(),
     }
     await rest('profiles', { method: 'POST', body: JSON.stringify(created) })

@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
+import { ButtonLink } from '../components/Button'
 import MatchHero, { MatchRow } from '../components/MatchHero'
 import CountdownBanner, { useLiveWindow } from '../components/Countdown'
 import { Card, Crest, Face, Pill, ResultBar, SectionTitle, Stat } from '../components/ui'
@@ -69,18 +70,12 @@ export default function HomePage() {
             et trancher le débat. Ici, c’est la communauté qui a le dernier mot.
           </p>
           <div className="mt-5 flex flex-wrap gap-2.5">
-            <Link
-              to={`/matchs/${match.id}`}
-              className="rounded-xl bg-lh-red px-5 py-3 text-sm font-black uppercase tracking-wide text-white shadow-lg shadow-lh-red/25 transition-transform hover:-translate-y-0.5"
-            >
+            <ButtonLink to={`/matchs/${match.id}`} variant="primary" size="lg">
               {live.open ? 'Donner mon avis' : 'Voir le dernier match'}
-            </Link>
-            <Link
-              to="/pronos"
-              className="rounded-xl border border-lh-line px-5 py-3 text-sm font-black uppercase tracking-wide text-lh-text transition-colors hover:border-lh-gold/50 hover:text-lh-goldSoft"
-            >
+            </ButtonLink>
+            <ButtonLink to="/pronos" variant="secondary" size="lg">
               Pronostiquer
-            </Link>
+            </ButtonLink>
           </div>
         </div>
       </section>

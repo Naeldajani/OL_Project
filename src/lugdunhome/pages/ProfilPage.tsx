@@ -1,6 +1,8 @@
 import { useCallback, useEffect, useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
+import Button, { ButtonLink } from '../components/Button'
 import { Card, Crest, EmptyState, Pill, SectionTitle, Stat } from '../components/ui'
+import { useAuth } from '../hooks/useAuth'
 import { backend, isShared } from '../lib/backend'
 import type { LeaderboardRow, LhUser, Prediction } from '../lib/types'
 import { badgesFor, explainPrediction, levelFor, scorePrediction } from '../lib/scoring'
@@ -9,6 +11,7 @@ import { formatShortDate, matchById } from '../lib/matches'
 const AVATARS = ['🦁', '⚽', '🔴', '🔵', '🏟️', '🥇', '🎯', '🔥', '💪', '👑', '🧤', '⭐', '📣', '🇫🇷', '🎽']
 
 export default function ProfilPage() {
+  const { session, signOut } = useAuth()
   const [user, setUser] = useState<LhUser | null>(null)
   const [predictions, setPredictions] = useState<Prediction[]>([])
   const [board, setBoard] = useState<LeaderboardRow[]>([])
@@ -248,23 +251,41 @@ export default function ProfilPage() {
         )}
       </section>
 
+      <section className="grid gap-3 sm:grid-cols-2">
+        <ButtonLink to="/data" variant="secondary" icon="📊" full>
+          Data
+        </ButtonLink>
+        <ButtonLink to="/classements" variant="secondary" icon="🏆" full>
+          Classements
+        </ButtonLink>
+      </section>
+
       <Card className="p-4">
-        <div className="lh-eyebrow mb-2">À propos de ton compte</div>
-        <p className="text-xs leading-relaxed text-lh-muted">
-          {isShared ? (
+        <div className="lh-eyebrow mb-2">Ton compte</div>
+        <p className="mb-3 text-xs leading-relaxed text-lh-muted">
+          {session?.email ? (
             <>
-              Ton profil est <span className="font-bold text-emerald-400">partagé</span> : tes votes
-              comptent dans les totaux vus par toute la communauté.
+              Connecté avec <span className="font-bold text-lh-text">{session.email}</span>.{' '}
+              {isShared
+                ? 'Tes votes comptent dans les totaux vus par toute la communauté et te classent.'
+                : 'Aucun serveur partagé n’est branché pour l’instant : tes votes restent sur cet appareil.'}
             </>
           ) : (
             <>
-              Mode local : ton profil et tes votes vivent dans ce navigateur, et sont mélangés à une
-              communauté simulée pour que chaque écran reste vivant. Dès qu’un backend partagé est
-              branché (voir <code className="text-lh-text">supabase-schema.sql</code>), les votes
-              deviennent réellement collectifs — sans rien changer aux pages.
+              Tu navigues <span className="font-bold text-lh-text">sans compte</span>. Tes votes
+              restent sur cet appareil et n’apparaissent pas au classement — crée un compte pour les
+              retrouver partout et concourir.
             </>
           )}
         </p>
+        <div className="flex flex-wrap gap-2">
+          <Button variant="secondary" size="sm" onClick={signOut}>
+            {session?.email ? 'Se déconnecter' : 'Créer un compte'}
+          </Button>
+          <ButtonLink to="/mentions-legales" variant="ghost" size="sm">
+            Mentions légales et crédits
+          </ButtonLink>
+        </div>
       </Card>
     </div>
   )

@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
+import { Segmented } from '../components/Button'
 import { Card, EmptyState, Pill, SectionTitle } from '../components/ui'
 import { backend } from '../lib/backend'
 import type { LeaderboardRow, LhUser } from '../lib/types'
@@ -55,21 +56,12 @@ export default function ClassementsPage() {
     <div className="flex flex-col gap-5">
       <SectionTitle eyebrow="🏆 Classements" title="Le tableau d’honneur" />
 
-      <div className="lh-rail -mx-1 flex gap-1.5 overflow-x-auto px-1">
-        {BOARDS.map((b) => (
-          <button
-            key={b.id}
-            onClick={() => setBoard(b.id)}
-            className={`shrink-0 rounded-xl border px-3.5 py-2 text-sm font-bold transition-colors ${
-              board === b.id
-                ? 'border-lh-red bg-lh-red/15 text-lh-redSoft'
-                : 'border-lh-line text-lh-muted hover:text-lh-text'
-            }`}
-          >
-            {b.label}
-          </button>
-        ))}
-      </div>
+      <Segmented
+        value={board}
+        onChange={setBoard}
+        className="-mx-1 px-1"
+        options={BOARDS.map((b) => ({ value: b.id, label: b.label }))}
+      />
       <p className="-mt-2 text-xs text-lh-muted">{active.hint}</p>
 
       {myRank >= 0 && (

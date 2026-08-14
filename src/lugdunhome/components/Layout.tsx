@@ -1,16 +1,22 @@
 import type { ReactNode } from 'react'
-import { NavLink } from 'react-router-dom'
+import { Link, NavLink } from 'react-router-dom'
 import { isShared } from '../lib/backend'
+import { useAuth } from '../hooks/useAuth'
 
+/* Les cinq premiers onglets tiennent dans la barre du bas sans défilement :
+   au-delà, le pouce ne les atteint plus. Data et Classements, consultés
+   plus rarement, passent dans le menu du profil. */
 const NAV = [
   { to: '/', label: 'Accueil', icon: '🏠', end: true },
   { to: '/infol', label: "Inf'OL", icon: '📰' },
   { to: '/matchs', label: 'Matchs', icon: '⚽' },
   { to: '/pronos', label: 'Pronos', icon: '🔮' },
   { to: '/debats', label: 'Débats', icon: '🗣️' },
+]
+
+const SECONDARY: typeof NAV = [
   { to: '/data', label: 'Data', icon: '📊' },
   { to: '/classements', label: 'Classements', icon: '🏆' },
-  { to: '/profil', label: 'Profil', icon: '👤' },
 ]
 
 export function Wordmark({ compact = false }: { compact?: boolean }) {
@@ -35,6 +41,8 @@ export function Wordmark({ compact = false }: { compact?: boolean }) {
 }
 
 export default function Layout({ children }: { children: ReactNode }) {
+  const { session } = useAuth()
+
   return (
     <div className="min-h-screen pb-24 lg:pb-0">
       {/* top bar */}
@@ -45,7 +53,7 @@ export default function Layout({ children }: { children: ReactNode }) {
           </NavLink>
 
           <nav className="ml-auto hidden items-center gap-1 lg:flex">
-            {NAV.map((item) => (
+            {[...NAV, ...SECONDARY].map((item) => (
               <NavLink
                 key={item.to}
                 to={item.to}
@@ -63,8 +71,19 @@ export default function Layout({ children }: { children: ReactNode }) {
             ))}
           </nav>
 
+          <NavLink
+            to="/profil"
+            className="ml-auto flex items-center gap-2 rounded-full border border-lh-line bg-lh-raised px-2 py-1 lg:ml-2"
+            title={session ? `Connecté : ${session.pseudo}` : 'Mon compte'}
+          >
+            <span className="text-base leading-none">{session?.avatar ?? '👤'}</span>
+            <span className="hidden max-w-24 truncate text-xs font-bold sm:inline">
+              {session?.pseudo ?? 'Compte'}
+            </span>
+          </NavLink>
+
           <span
-            className="ml-auto lg:ml-0"
+            className="lg:ml-0"
             title={
               isShared
                 ? 'Les votes sont partagés entre tous les supporters'
@@ -91,9 +110,13 @@ export default function Layout({ children }: { children: ReactNode }) {
 
       <footer className="mx-auto max-w-6xl px-4 pb-8 pt-4">
         <div className="lh-rule mb-4" />
-        <p className="text-xs text-lh-muted">
-          Lugdun’Home — plateforme communautaire non officielle, faite par des supporters. Données
-          match et joueurs compilées depuis Wikipédia, Wikidata et Transfermarkt.
+        <p className="text-xs leading-relaxed text-lh-muted">
+          Lugdun’Home — plateforme communautaire non officielle, sans lien avec l’Olympique
+          Lyonnais. Résultats et compositions compilés depuis Wikipédia et Wikidata ; portraits
+          sous licence libre Wikimedia Commons.{' '}
+          <Link to="/mentions-legales" className="font-semibold underline underline-offset-2">
+            Mentions légales et crédits
+          </Link>
         </p>
       </footer>
 

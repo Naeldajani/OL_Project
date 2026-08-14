@@ -1,5 +1,6 @@
 import { useMemo, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
+import { Segmented } from '../components/Button'
 import MatchHero from '../components/MatchHero'
 import CountdownBanner, { useLiveWindow } from '../components/Countdown'
 import RatePlayers from '../components/RatePlayers'
@@ -67,22 +68,12 @@ export default function MatchPage() {
       </div>
 
       {/* tabs */}
-      <div className="lh-rail -mx-1 flex gap-1.5 overflow-x-auto px-1">
-        {TABS.map((t) => (
-          <button
-            key={t.id}
-            onClick={() => setTab(t.id)}
-            className={`shrink-0 rounded-xl border px-3.5 py-2 text-sm font-bold transition-colors ${
-              tab === t.id
-                ? 'border-lh-red bg-lh-red/15 text-lh-redSoft'
-                : 'border-lh-line text-lh-muted hover:border-lh-gold/40 hover:text-lh-text'
-            }`}
-          >
-            <span className="mr-1.5">{t.icon}</span>
-            {t.label}
-          </button>
-        ))}
-      </div>
+      <Segmented
+        value={tab}
+        onChange={setTab}
+        className="-mx-1 px-1"
+        options={TABS.map((t) => ({ value: t.id, label: `${t.icon}  ${t.label}` }))}
+      />
 
       {tab === 'notes' && (
         <RatePlayers

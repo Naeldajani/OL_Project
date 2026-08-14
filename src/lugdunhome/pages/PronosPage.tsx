@@ -1,5 +1,7 @@
 import { useCallback, useEffect, useMemo, useState } from 'react'
-import { Card, Crest, EmptyState, Pill, SectionTitle, Stat } from '../components/ui'
+import Button, { Segmented } from '../components/Button'
+import { Card, Crest, EmptyState, Face, Pill, SectionTitle, Stat } from '../components/ui'
+import { OL_NAMES } from '../../lib/matchHelpers'
 import { backend } from '../lib/backend'
 import type { Prediction } from '../lib/types'
 import { ratableMatches, formatShortDate, matchById } from '../lib/matches'
@@ -115,14 +117,14 @@ export default function PronosPage() {
         </div>
       </Card>
 
-      <div className="flex gap-1.5">
-        <TabButton active={tab === 'avenir'} onClick={() => setTab('avenir')}>
-          À venir ({fixtures.length})
-        </TabButton>
-        <TabButton active={tab === 'passes'} onClick={() => setTab('passes')}>
-          Matchs joués
-        </TabButton>
-      </div>
+      <Segmented
+        value={tab}
+        onChange={setTab}
+        options={[
+          { value: 'avenir', label: `À venir (${fixtures.length})` },
+          { value: 'passes', label: 'Matchs joués' },
+        ]}
+      />
 
       {loading ? (
         <p className="text-sm text-lh-muted">Chargement…</p>
@@ -164,28 +166,17 @@ export default function PronosPage() {
   )
 }
 
-function TabButton({
-  active,
-  onClick,
-  children,
-}: {
-  active: boolean
-  onClick: () => void
-  children: React.ReactNode
-}) {
-  return (
-    <button
-      onClick={onClick}
-      className={`rounded-xl border px-3.5 py-2 text-sm font-bold transition-colors ${
-        active
-          ? 'border-lh-red bg-lh-red/15 text-lh-redSoft'
-          : 'border-lh-line text-lh-muted hover:text-lh-text'
-      }`}
-    >
-      {children}
-    </button>
-  )
-}
+/** Scores fréquents, pour prédire en un geste plutôt qu'en huit appuis. */
+const QUICK_SCORES: [number, number][] = [
+  [1, 0],
+  [2, 0],
+  [2, 1],
+  [3, 1],
+  [1, 1],
+  [0, 0],
+  [0, 1],
+  [1, 2],
+]
 
 function ScoreInputs({
   home,
@@ -202,23 +193,123 @@ function ScoreInputs({
   homeClub: string
   awayClub: string
 }) {
+  const olHome = OL_NAMES.has(homeClub)
+  const diff = home - away
+  const olWins = olHome ? diff > 0 : diff < 0
+  const draw = diff === 0
+
   return (
-    <div className="flex items-center justify-center gap-3">
-      <div className="flex min-w-0 flex-1 items-center justify-end gap-2 text-right">
-        <span className="min-w-0 truncate text-sm font-bold">{homeClub}</span>
-        <Crest club={homeClub} size={30} />
+    <div className="rounded-2xl bg-lh-void/60 p-3.5">
+      <div className="flex items-center gap-2">
+        <TeamSide club={homeClub} align="end" />
+        <div className="flex shrink-0 items-center gap-1.5">
+          <NumberPick value={home} onChange={setHome} label={`Buts ${homeClub}`} />
+          <span className="lh-display pb-1 text-xl text-lh-muted">:</span>
+          <NumberPick value={away} onChange={setAway} label={`Buts ${awayClub}`} />
+        </div>
+        <TeamSide club={awayClub} align="start" />
       </div>
-      <div className="flex shrink-0 items-center gap-1.5">
-        <NumberPick value={home} onChange={setHome} />
-        <span className="text-lh-muted">–</span>
-        <NumberPick value={away} onChange={setAway} />
+
+      <div className="mt-3 flex items-center justify-center">
+        <Pill tone={draw ? 'neutral' : olWins ? 'green' : 'red'}>
+          {draw ? '🤝 Match nul' : olWins ? '🦁 Victoire de l’OL' : '💀 Défaite de l’OL'}
+        </Pill>
       </div>
-      <div className="flex min-w-0 flex-1 items-center gap-2">
-        <Crest club={awayClub} size={30} />
-        <span className="min-w-0 truncate text-sm font-bold">{awayClub}</span>
+
+      <div className="mt-3 flex flex-wrap justify-center gap-1.5">
+        {QUICK_SCORES.map(([h, a]) => {
+          const active = home === h && away === a
+          return (
+            <button
+              key={`${h}-${a}`}
+              onClick={() => {
+                setHome(h)
+                setAway(a)
+              }}
+              className={`lh-tabnum shrink-0 rounded-lg border px-2.5 py-1 text-xs font-black transition-colors ${
+                active
+                  ? 'border-lh-gold bg-lh-gold/15 text-lh-goldSoft'
+                  : 'border-lh-line bg-lh-raised text-lh-muted hover:text-lh-text'
+              }`}
+            >
+              {h}–{a}
+            </button>
+          )
+        })}
       </div>
     </div>
   )
+}
+
+function TeamSide({ club, align }: { club: string; align: 'start' | 'end' }) {
+  return (
+    <div
+      className={`flex min-w-0 flex-1 flex-col justify-center gap-1.5 ${
+        align === 'end' ? 'items-end text-right' : 'items-start text-left'
+      }`}
+    >
+      <Crest club={club} size={34} />
+      <span className="line-clamp-2 text-[11.5px] font-bold leading-tight">{club}</span>
+    </div>
+  )
+}
+
+/** Sélection visuelle du buteur : une grille de visages remplace la liste
+ *  déroulante, qui affichait 11 lignes de texte identiques et masquait
+ *  l'écran sur mobile. */
+function ScorerPicker({
+  squad,
+  value,
+  onChange,
+}: {
+  squad: { player: string; posteFr?: string }[]
+  value: string
+  onChange: (v: string) => void
+}) {
+  return (
+    <div>
+      <div className="mb-2 flex items-center justify-between">
+        <span className="lh-eyebrow">Buteur bonus</span>
+        {value && (
+          <button
+            onClick={() => onChange('')}
+            className="text-[11px] font-bold text-lh-muted hover:text-lh-text"
+          >
+            Effacer
+          </button>
+        )}
+      </div>
+      <div className="grid grid-cols-4 gap-1.5 sm:grid-cols-6">
+        {squad.map((p) => {
+          const active = value === p.player
+          return (
+            <button
+              key={p.player}
+              onClick={() => onChange(active ? '' : p.player)}
+              title={p.player}
+              className={`flex flex-col items-center gap-1 rounded-xl border px-1 py-2 transition-colors ${
+                active
+                  ? 'border-lh-gold bg-lh-gold/12'
+                  : 'border-lh-line bg-lh-raised hover:border-white/25'
+              }`}
+            >
+              <Face name={p.player} size={34} />
+              <span className="w-full truncate text-center text-[10px] font-bold leading-tight">
+                {shortName(p.player)}
+              </span>
+            </button>
+          )
+        })}
+      </div>
+    </div>
+  )
+}
+
+/** « Alexandre Lacazette » ne tient pas sous une vignette de 34 px. */
+function shortName(full: string): string {
+  const parts = full.trim().split(/\s+/)
+  if (parts.length === 1) return parts[0]
+  return `${parts[0][0]}. ${parts[parts.length - 1]}`
 }
 
 function FixtureCard({
@@ -259,16 +350,15 @@ function FixtureCard({
       />
 
       <div className="mt-3 flex flex-wrap items-center gap-2">
-        <button
+        <Button
           onClick={() => {
             onSave(fixture.id, home, away)
             setSaved(true)
             setTimeout(() => setSaved(false), 1600)
           }}
-          className="rounded-xl bg-lh-red px-4 py-2 text-sm font-black text-white transition-transform hover:-translate-y-0.5"
         >
           {prediction ? 'Modifier mon prono' : 'Valider mon prono'}
-        </button>
+        </Button>
         {saved && <span className="text-xs font-bold text-emerald-400">Enregistré ✓</span>}
         {prediction && !saved && (
           <span className="text-[11px] text-lh-muted">
@@ -326,33 +416,20 @@ function PlayedCard({
 
       {squad.length > 0 && (
         <div className="mt-3">
-          <label className="lh-eyebrow mb-1.5 block">Buteur (bonus)</label>
-          <select
-            value={scorer}
-            onChange={(e) => setScorer(e.target.value)}
-            className="w-full rounded-xl border border-lh-line bg-lh-void px-3 py-2 text-sm outline-none focus:border-lh-gold/50"
-          >
-            <option value="">— Aucun —</option>
-            {squad.map((p) => (
-              <option key={p.player} value={p.player}>
-                {p.player}
-              </option>
-            ))}
-          </select>
+          <ScorerPicker squad={squad} value={scorer} onChange={setScorer} />
         </div>
       )}
 
       <div className="mt-3 flex flex-wrap items-center gap-2">
-        <button
+        <Button
           onClick={() => {
             onSave(match.id, home, away, scorer || undefined)
             setSaved(true)
             setTimeout(() => setSaved(false), 1600)
           }}
-          className="rounded-xl bg-lh-red px-4 py-2 text-sm font-black text-white transition-transform hover:-translate-y-0.5"
         >
-          {prediction ? 'Modifier' : 'Valider'}
-        </button>
+          {prediction ? 'Modifier mon prono' : 'Valider mon prono'}
+        </Button>
         {saved && <span className="text-xs font-bold text-emerald-400">Enregistré ✓</span>}
         {prediction && (
           <span className="text-[11px] text-lh-muted">
@@ -364,26 +441,47 @@ function PlayedCard({
   )
 }
 
-function NumberPick({ value, onChange }: { value: number; onChange: (n: number) => void }) {
+function NumberPick({
+  value,
+  onChange,
+  label,
+}: {
+  value: number
+  onChange: (n: number) => void
+  label: string
+}) {
   return (
-    <div className="flex flex-col items-center">
-      <button
-        onClick={() => onChange(Math.min(9, value + 1))}
-        className="px-2 text-xs text-lh-muted hover:text-lh-text"
-        aria-label="Augmenter"
-      >
-        ▲
-      </button>
-      <span className="lh-display lh-tabnum w-10 rounded-lg bg-lh-void py-1 text-center text-xl">
+    <div className="flex flex-col items-center gap-1">
+      <Step onClick={() => onChange(Math.min(9, value + 1))} label={`${label} : plus un`}>
+        +
+      </Step>
+      <span className="lh-display lh-tabnum grid h-12 w-12 place-items-center rounded-xl border border-lh-line bg-lh-surface text-2xl">
         {value}
       </span>
-      <button
-        onClick={() => onChange(Math.max(0, value - 1))}
-        className="px-2 text-xs text-lh-muted hover:text-lh-text"
-        aria-label="Diminuer"
-      >
-        ▼
-      </button>
+      <Step onClick={() => onChange(Math.max(0, value - 1))} label={`${label} : moins un`}>
+        −
+      </Step>
     </div>
+  )
+}
+
+/** Cible de 32 px : en dessous, le pouce rate le bouton une fois sur trois. */
+function Step({
+  onClick,
+  label,
+  children,
+}: {
+  onClick: () => void
+  label: string
+  children: React.ReactNode
+}) {
+  return (
+    <button
+      onClick={onClick}
+      aria-label={label}
+      className="grid h-8 w-12 place-items-center rounded-lg border border-lh-line bg-lh-raised text-sm font-black text-lh-muted transition-colors hover:border-lh-gold/45 hover:text-lh-text active:translate-y-px"
+    >
+      {children}
+    </button>
   )
 }

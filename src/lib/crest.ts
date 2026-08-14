@@ -1,5 +1,11 @@
-// Stylized club badges: curated colors for well-known clubs, deterministic
-// hash-based colors for everything else. No external logos are hotlinked.
+// Blasons stylisés : couleurs curées pour les clubs connus, couleurs
+// déterministes dérivées du nom pour les autres.
+//
+// C'est la seule représentation de club du projet, et c'est un choix
+// juridique autant que graphique : les logos officiels sont des œuvres
+// protégées (l'audit a montré que 267 des 273 récupérés étaient des imports
+// sous exception, celui de l'OL compris). Une couleur et des initiales ne
+// sont protégeables ni l'une ni l'autre.
 
 interface CrestStyle {
   bg: string
@@ -56,6 +62,52 @@ const CURATED: Record<string, CrestStyle> = {
   'Heracles Almelo': { bg: '#000000', fg: '#fcd116', abbr: 'HER' },
 }
 
+/* Les données nomment les clubs comme Wikipédia (« Stade Rennais »,
+   « G. Bordeaux », « LOSC Lille »), pas comme la table ci-dessus. Sans ces
+   renvois, la moitié des clubs de Ligue 1 tombait dans la couleur générée
+   au hasard et affichait des initiales absurdes (« SR », « GB »). */
+const ALIASES: Record<string, string> = {
+  'LOSC Lille': 'Lille',
+  'Stade Rennais': 'Rennes',
+  'OGC Nice': 'Nice',
+  'G. Bordeaux': 'Bordeaux',
+  'FC Nantes': 'Nantes',
+  'RC Lens': 'Lens',
+  'FC Lorient': 'Lorient',
+  'R. Strasbourg': 'Strasbourg',
+  'FC Metz': 'Metz',
+  'AJ Auxerre': 'Auxerre',
+  'Stade de Reims': 'Reims',
+  'Stade Brestois': 'Brest',
+  'Angers SCO': 'Angers',
+  'AC Ajaccio': 'Ajaccio',
+  'Le Havre AC': 'Le Havre',
+  'AS Saint-Étienne': 'Saint-Étienne',
+  'Paris Saint Germain': 'PSG',
+  'Manchester Utd.': 'Manchester United',
+  Barcelone: 'Barcelona',
+  Bayern: 'Bayern Munich',
+  'Inter Milan': 'Inter',
+  'AC Milan': 'Milan',
+}
+
+/* Sigles usuels des clubs français que la table curée ne couvre pas :
+   « FC Sochaux » donnerait « FS », personne ne les appelle comme ça. */
+const KNOWN_ABBR: Record<string, string> = {
+  'FC Sochaux': 'FCSM',
+  'SM Caen': 'SMC',
+  'SC Bastia': 'SCB',
+  'EA Guingamp': 'EAG',
+  'AS Nancy': 'ASNL',
+  'Valenciennes FC': 'VAFC',
+  'Le Mans UC 72': 'LMFC',
+  'CS Sedan': 'CSSA',
+  'Amiens SC': 'ASC',
+  'FC Évian': 'ETG',
+  Dijon: 'DFCO',
+  Guingamp: 'EAG',
+}
+
 function hashHue(input: string): number {
   let hash = 0
   for (let i = 0; i < input.length; i++) {
@@ -65,11 +117,45 @@ function hashHue(input: string): number {
   return Math.abs(hash) % 360
 }
 
+// Mots qui ne portent pas l'identité du club : les garder produit des
+// initiales interchangeables (« FC Nantes » et « FC Metz » donneraient tous
+// deux un F en tête).
+const FILLER = new Set([
+  'fc',
+  'ac',
+  'as',
+  'aj',
+  'sc',
+  'sm',
+  'us',
+  'es',
+  'ea',
+  'rc',
+  'cs',
+  'uc',
+  'sco',
+  'ogc',
+  'losc',
+  'stade',
+  'club',
+  'football',
+  'olympique',
+  'racing',
+  'sporting',
+  'de',
+  'du',
+  'la',
+  'le',
+  'les',
+])
+
 function abbreviate(name: string): string {
-  const cleaned = name.replace(/[^\p{L}\s]/gu, '')
+  const cleaned = name.replace(/[^\p{L}\s]/gu, ' ')
   const words = cleaned.split(/\s+/).filter(Boolean)
-  if (words.length === 1) return words[0].slice(0, 3).toUpperCase()
-  return words
+  const core = words.filter((w) => !FILLER.has(w.toLowerCase()))
+  const kept = core.length ? core : words
+  if (kept.length === 1) return kept[0].slice(0, 3).toUpperCase()
+  return kept
     .slice(0, 3)
     .map((w) => w[0])
     .join('')
@@ -77,11 +163,20 @@ function abbreviate(name: string): string {
 }
 
 export function getCrestStyle(clubName: string): CrestStyle {
-  if (CURATED[clubName]) return CURATED[clubName]
-  const hue = hashHue(clubName)
+  const canonical = ALIASES[clubName] ?? clubName
+  const curated = CURATED[canonical]
+  if (curated) return curated
+
+  const hue = hashHue(canonical)
   return {
     bg: `hsl(${hue}, 55%, 32%)`,
     fg: `hsl(${(hue + 150) % 360}, 70%, 75%)`,
-    abbr: abbreviate(clubName),
+    abbr: KNOWN_ABBR[clubName] ?? KNOWN_ABBR[canonical] ?? abbreviate(canonical),
   }
+}
+
+/** Dégradé du blason : la teinte curée, assombrie vers le bas. Passer par
+ *  color-mix évite de reparser les formats hétérogènes (#hex et hsl()). */
+export function crestGradient(bg: string): string {
+  return `linear-gradient(150deg, ${bg}, color-mix(in srgb, ${bg} 62%, #04060a))`
 }
