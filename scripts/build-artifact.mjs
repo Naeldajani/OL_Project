@@ -23,7 +23,6 @@ const outDir = resolve(root, 'dist-artifact')
 // arrivent par des chemins relatifs différents selon leur profondeur.
 const SWAPS = [
   ['photo-manifest', 'src/data/photo-manifest.inline.ts'],
-  ['crest-manifest', 'src/data/crest-manifest.inline.ts'],
   ['news.json', 'src/lugdunhome/data/news.inline.json'],
 ]
 

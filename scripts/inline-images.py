@@ -25,9 +25,10 @@ ROOT = Path(__file__).resolve().parent.parent
 PUBLIC = ROOT / "public"
 SIZE = int(sys.argv[1]) if len(sys.argv) > 1 else 120
 
+# Plus de manifeste de blasons : les clubs sont dessinés par l'application
+# (src/lib/crest.ts), il n'y a donc plus de logo à embarquer.
 TARGETS = [
     (ROOT / "src/data/photo-manifest.ts", ROOT / "src/data/photo-manifest.inline.ts"),
-    (ROOT / "src/data/crest-manifest.ts", ROOT / "src/data/crest-manifest.inline.ts"),
 ]
 
 ENTRY = re.compile(r'^(\s*)("(?:[^"\\]|\\.)*")\s*:\s*"(/images/[^"]+)"\s*,?\s*$')
