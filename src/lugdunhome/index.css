@@ -1,0 +1,144 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    color-scheme: dark;
+    -webkit-tap-highlight-color: transparent;
+  }
+  body {
+    @apply bg-lh-void text-lh-text antialiased;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    /* stadium floodlight wash, fixed so it doesn't scroll away */
+    background-image:
+      radial-gradient(ellipse 90% 55% at 50% -10%, rgba(225, 0, 15, 0.16), transparent 70%),
+      radial-gradient(ellipse 70% 50% at 85% 0%, rgba(201, 162, 39, 0.09), transparent 65%);
+    background-attachment: fixed;
+  }
+  ::selection {
+    background: rgba(225, 0, 15, 0.35);
+  }
+}
+
+@layer components {
+  /* Display type: heavy, tight, slightly condensed — reads sporting
+     without needing a webfont (the CSP blocks font CDNs). */
+  .lh-display {
+    font-weight: 900;
+    letter-spacing: -0.03em;
+    font-stretch: condensed;
+    line-height: 0.95;
+  }
+  .lh-eyebrow {
+    @apply text-[11px] font-bold uppercase tracking-[0.18em] text-lh-muted;
+  }
+  .lh-card {
+    @apply rounded-2xl border border-lh-line bg-lh-surface/80 backdrop-blur-sm;
+  }
+  .lh-card-raised {
+    @apply rounded-2xl border border-lh-line bg-lh-raised;
+  }
+  /* Thin gold rule used to separate major sections. */
+  .lh-rule {
+    background: linear-gradient(90deg, rgba(201, 162, 39, 0.55), transparent 65%);
+    height: 1px;
+  }
+  .lh-tabnum {
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+/* ---- motion ---- */
+@keyframes lh-rise {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes lh-pop {
+  0% {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  60% {
+    transform: scale(1.03);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+@keyframes lh-grow {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+@keyframes lh-pulse-ring {
+  0% {
+    box-shadow: 0 0 0 0 rgba(225, 0, 15, 0.45);
+  }
+  70% {
+    box-shadow: 0 0 0 14px rgba(225, 0, 15, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(225, 0, 15, 0);
+  }
+}
+@keyframes lh-shine {
+  from {
+    background-position: -180% 0;
+  }
+  to {
+    background-position: 180% 0;
+  }
+}
+
+.animate-lh-rise {
+  animation: lh-rise 420ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+.animate-lh-pop {
+  animation: lh-pop 320ms cubic-bezier(0.34, 1.4, 0.64, 1) both;
+}
+.animate-lh-grow {
+  transform-origin: left;
+  animation: lh-grow 700ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+.animate-lh-live {
+  animation: lh-pulse-ring 2.4s ease-out infinite;
+}
+.lh-shine {
+  background-image: linear-gradient(
+    100deg,
+    transparent 35%,
+    rgba(232, 198, 106, 0.5) 50%,
+    transparent 65%
+  );
+  background-size: 200% 100%;
+  animation: lh-shine 3.2s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-lh-rise,
+  .animate-lh-pop,
+  .animate-lh-grow,
+  .animate-lh-live,
+  .lh-shine {
+    animation: none;
+  }
+}
+
+/* Hide scrollbars on the horizontal rails without losing scrollability. */
+.lh-rail {
+  scrollbar-width: none;
+}
+.lh-rail::-webkit-scrollbar {
+  display: none;
+}

@@ -1,0 +1,271 @@
+import { useCallback, useEffect, useMemo, useState } from 'react'
+import { Link } from 'react-router-dom'
+import { Card, Crest, EmptyState, Pill, SectionTitle, Stat } from '../components/ui'
+import { backend, isShared } from '../lib/backend'
+import type { LeaderboardRow, LhUser, Prediction } from '../lib/types'
+import { badgesFor, explainPrediction, levelFor, scorePrediction } from '../lib/scoring'
+import { formatShortDate, matchById } from '../lib/matches'
+
+const AVATARS = ['🦁', '⚽', '🔴', '🔵', '🏟️', '🥇', '🎯', '🔥', '💪', '👑', '🧤', '⭐', '📣', '🇫🇷', '🎽']
+
+export default function ProfilPage() {
+  const [user, setUser] = useState<LhUser | null>(null)
+  const [predictions, setPredictions] = useState<Prediction[]>([])
+  const [board, setBoard] = useState<LeaderboardRow[]>([])
+  const [editing, setEditing] = useState(false)
+  const [draftPseudo, setDraftPseudo] = useState('')
+
+  const load = useCallback(async () => {
+    const [u, p, lb] = await Promise.all([
+      backend.getUser(),
+      backend.getMyPredictions(),
+      backend.getLeaderboard(),
+    ])
+    setUser(u)
+    setDraftPseudo(u.pseudo)
+    setPredictions(p)
+    setBoard(lb)
+  }, [])
+
+  useEffect(() => {
+    load()
+  }, [load])
+
+  const stats = useMemo(() => {
+    let points = 0
+    let correct = 0
+    let exact = 0
+    for (const p of predictions) {
+      const m = matchById(p.matchId)
+      if (!m) continue
+      const pts = scorePrediction(p, m)
+      points += pts
+      if (pts > 0) correct += 1
+      if (p.homeScore === m.homeScore && p.awayScore === m.awayScore) exact += 1
+    }
+    const mine = board.find((r) => r.userId === user?.id)
+    return {
+      points,
+      correct,
+      exact,
+      total: predictions.length,
+      accuracy: predictions.length ? Math.round((correct / predictions.length) * 100) : 0,
+      ratedMatches: mine?.ratedMatches ?? 0,
+      votes: mine?.votes ?? 0,
+      rank: board.findIndex((r) => r.userId === user?.id) + 1,
+    }
+  }, [predictions, board, user])
+
+  const { level, next, progress } = levelFor(stats.points)
+  const badges = badgesFor({
+    points: stats.points,
+    predictions: stats.total,
+    correct: stats.correct,
+    ratedMatches: stats.ratedMatches,
+    votes: stats.votes,
+    exactScores: stats.exact,
+  })
+  const earned = badges.filter((b) => b.earned).length
+
+  if (!user) return <EmptyState icon="⏳" title="Chargement du profil…" />
+
+  const save = async (patch: Partial<Pick<LhUser, 'pseudo' | 'avatar'>>) => {
+    const next = await backend.updateUser(patch)
+    setUser(next)
+    load()
+  }
+
+  return (
+    <div className="flex flex-col gap-6">
+      <SectionTitle eyebrow="👤 Profil" title="Ton espace" />
+
+      {/* identity card */}
+      <Card raised className="relative overflow-hidden p-5">
+        <div className="pointer-events-none absolute -right-10 -top-10 h-40 w-40 rounded-full bg-lh-red/15 blur-3xl" />
+        <div className="relative flex flex-wrap items-center gap-4">
+          <span className="grid h-16 w-16 shrink-0 place-items-center rounded-2xl bg-lh-void text-3xl ring-1 ring-lh-line">
+            {user.avatar}
+          </span>
+          <div className="min-w-0 flex-1">
+            {editing ? (
+              <div className="flex flex-wrap items-center gap-2">
+                <input
+                  value={draftPseudo}
+                  onChange={(e) => setDraftPseudo(e.target.value)}
+                  maxLength={22}
+                  className="min-w-0 flex-1 rounded-lg border border-lh-line bg-lh-void px-3 py-2 text-sm font-bold outline-none focus:border-lh-gold/50"
+                />
+                <button
+                  onClick={() => {
+                    save({ pseudo: draftPseudo.trim() || 'Gone anonyme' })
+                    setEditing(false)
+                  }}
+                  className="rounded-lg bg-lh-red px-3 py-2 text-xs font-black text-white"
+                >
+                  Enregistrer
+                </button>
+              </div>
+            ) : (
+              <>
+                <div className="lh-display text-2xl">{user.pseudo}</div>
+                <div className="mt-1 flex flex-wrap items-center gap-2">
+                  <Pill tone="gold">
+                    {level.icon} {level.name}
+                  </Pill>
+                  {stats.rank > 0 && <Pill>#{stats.rank} au classement</Pill>}
+                  <button
+                    onClick={() => setEditing(true)}
+                    className="text-[11px] font-bold text-lh-muted underline hover:text-lh-text"
+                  >
+                    Modifier
+                  </button>
+                </div>
+              </>
+            )}
+          </div>
+        </div>
+
+        <div className="relative mt-4">
+          <div className="mb-1.5 flex justify-between text-[11px] font-bold text-lh-muted">
+            <span>{stats.points} pts</span>
+            {next && <span>{next.min} pts → {next.name}</span>}
+          </div>
+          <div className="h-2 overflow-hidden rounded-full bg-lh-void">
+            <div
+              className="animate-lh-grow h-full rounded-full bg-gradient-to-r from-lh-red to-lh-gold"
+              style={{ width: `${progress * 100}%` }}
+            />
+          </div>
+        </div>
+
+        <div className="relative mt-4">
+          <div className="lh-eyebrow mb-2">Avatar</div>
+          <div className="flex flex-wrap gap-1.5">
+            {AVATARS.map((a) => (
+              <button
+                key={a}
+                onClick={() => save({ avatar: a })}
+                className={`grid h-9 w-9 place-items-center rounded-lg text-lg transition-all ${
+                  user.avatar === a
+                    ? 'scale-105 bg-lh-red/20 ring-1 ring-lh-red'
+                    : 'bg-lh-void hover:bg-lh-raised'
+                }`}
+              >
+                {a}
+              </button>
+            ))}
+          </div>
+        </div>
+      </Card>
+
+      <div className="grid grid-cols-2 gap-3 sm:grid-cols-4">
+        <Stat value={stats.points} label="Points" accent />
+        <Stat value={`${stats.accuracy} %`} label="Réussite" />
+        <Stat value={stats.ratedMatches} label="Matchs notés" />
+        <Stat value={stats.votes} label="Votes exprimés" />
+      </div>
+
+      {/* badges */}
+      <section>
+        <SectionTitle
+          eyebrow="Récompenses"
+          title="Badges"
+          action={
+            <Pill tone="gold">
+              {earned}/{badges.length}
+            </Pill>
+          }
+        />
+        <div className="grid grid-cols-2 gap-2.5 sm:grid-cols-3">
+          {badges.map((b) => (
+            <Card
+              key={b.id}
+              className={`flex items-center gap-3 p-3 ${b.earned ? '' : 'opacity-45'}`}
+            >
+              <span
+                className={`grid h-10 w-10 shrink-0 place-items-center rounded-xl text-xl ${
+                  b.earned ? 'bg-lh-gold/15' : 'bg-lh-void'
+                }`}
+              >
+                {b.earned ? b.icon : '🔒'}
+              </span>
+              <span className="min-w-0">
+                <span className="block truncate text-xs font-black">{b.label}</span>
+                <span className="block text-[10px] leading-tight text-lh-muted">
+                  {b.description}
+                </span>
+              </span>
+            </Card>
+          ))}
+        </div>
+      </section>
+
+      {/* prediction history */}
+      <section>
+        <SectionTitle eyebrow="Historique" title="Tes pronostics" />
+        {predictions.length === 0 ? (
+          <EmptyState
+            icon="🔮"
+            title="Aucun pronostic pour l’instant"
+            hint="Va sur la page Pronos pour poser ton premier pari et marquer des points."
+          />
+        ) : (
+          <div className="flex flex-col gap-2">
+            {predictions
+              .slice()
+              .reverse()
+              .map((p) => {
+                const m = matchById(p.matchId)
+                if (!m) return null
+                const pts = scorePrediction(p, m)
+                return (
+                  <Link
+                    key={p.matchId}
+                    to={`/matchs/${p.matchId}`}
+                    className="lh-card flex flex-wrap items-center gap-2.5 p-3 transition-colors hover:border-lh-gold/40"
+                  >
+                    <Crest club={m.home} size={22} />
+                    <Crest club={m.away} size={22} />
+                    <span className="min-w-0 flex-1 truncate text-xs font-bold">
+                      {m.home} vs {m.away}
+                      <span className="ml-1.5 font-normal text-lh-muted">
+                        {formatShortDate(m.date)}
+                      </span>
+                    </span>
+                    <span className="lh-tabnum text-xs text-lh-muted">
+                      Prono {p.homeScore}–{p.awayScore} · Réel {m.homeScore}–{m.awayScore}
+                    </span>
+                    <Pill tone={pts > 0 ? 'green' : 'red'}>
+                      {pts > 0 ? `+${pts}` : '0'} pts
+                    </Pill>
+                    <span className="w-full text-[10px] text-lh-muted">
+                      {explainPrediction(p, m).join(' · ')}
+                    </span>
+                  </Link>
+                )
+              })}
+          </div>
+        )}
+      </section>
+
+      <Card className="p-4">
+        <div className="lh-eyebrow mb-2">À propos de ton compte</div>
+        <p className="text-xs leading-relaxed text-lh-muted">
+          {isShared ? (
+            <>
+              Ton profil est <span className="font-bold text-emerald-400">partagé</span> : tes votes
+              comptent dans les totaux vus par toute la communauté.
+            </>
+          ) : (
+            <>
+              Mode local : ton profil et tes votes vivent dans ce navigateur, et sont mélangés à une
+              communauté simulée pour que chaque écran reste vivant. Dès qu’un backend partagé est
+              branché (voir <code className="text-lh-text">supabase-schema.sql</code>), les votes
+              deviennent réellement collectifs — sans rien changer aux pages.
+            </>
+          )}
+        </p>
+      </Card>
+    </div>
+  )
+}
