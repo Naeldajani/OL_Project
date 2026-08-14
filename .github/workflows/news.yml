@@ -1,0 +1,90 @@
+name: Inf'OL — rafraîchir le fil
+
+# Recollecte l'actualité OL depuis les flux publics et republie le site.
+# Le déploiement est refait ici plutôt que délégué à deploy.yml : un push
+# signé par GITHUB_TOKEN ne déclenche pas d'autre workflow, le fil resterait
+# figé en ligne malgré le commit.
+on:
+  schedule:
+    # toutes les 3 heures
+    - cron: '17 */3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.diff.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - run: pip install requests
+
+      - name: Collecter les flux
+        # Une source qui tombe ne doit pas casser la publication : le script
+        # garde le fichier existant s'il ne récolte rien du tout.
+        run: python3 scraping/scrape_news.py
+
+      - id: diff
+        name: Y a-t-il du nouveau ?
+        run: |
+          if git diff --quiet -- src/lugdunhome/data/news.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commiter le fil
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/lugdunhome/data/news.json
+          git commit -m "Inf'OL : rafraîchir le fil d'actualité"
+          git push
+
+      - uses: actions/setup-node@v4
+        if: steps.diff.outputs.changed == 'true'
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+        if: steps.diff.outputs.changed == 'true'
+
+      - name: Build
+        if: steps.diff.outputs.changed == 'true'
+        env:
+          VITE_BASE: /${{ github.event.repository.name }}/
+          VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
+          VITE_SUPABASE_ANON_KEY: ${{ secrets.VITE_SUPABASE_ANON_KEY }}
+        run: npm run build
+
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.diff.outputs.changed == 'true'
+        with:
+          path: dist
+
+  deploy:
+    needs: refresh
+    if: needs.refresh.outputs.changed == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

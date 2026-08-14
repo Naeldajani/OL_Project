@@ -1,6 +1,7 @@
 import { Route, Routes } from 'react-router-dom'
 import Layout from './components/Layout'
 import HomePage from './pages/HomePage'
+import InfOLPage from './pages/InfOLPage'
 import MatchesPage from './pages/MatchesPage'
 import MatchPage from './pages/MatchPage'
 import PronosPage from './pages/PronosPage'
@@ -15,6 +16,7 @@ export default function App() {
     <Layout>
       <Routes>
         <Route path="/" element={<HomePage />} />
+        <Route path="/infol" element={<InfOLPage />} />
         <Route path="/matchs" element={<MatchesPage />} />
         <Route path="/matchs/:id" element={<MatchPage />} />
         <Route path="/pronos" element={<PronosPage />} />

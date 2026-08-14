@@ -4,6 +4,7 @@ import { isShared } from '../lib/backend'
 
 const NAV = [
   { to: '/', label: 'Accueil', icon: '🏠', end: true },
+  { to: '/infol', label: "Inf'OL", icon: '📰' },
   { to: '/matchs', label: 'Matchs', icon: '⚽' },
   { to: '/pronos', label: 'Pronos', icon: '🔮' },
   { to: '/debats', label: 'Débats', icon: '🗣️' },

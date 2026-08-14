@@ -8,6 +8,7 @@ import { isLatest, latestMatch, ratableMatches } from '../lib/matches'
 import { windowFor } from '../lib/matchWindow'
 import { debateFor } from '../lib/debates'
 import { nextFixture, untilKickoff } from '../lib/fixtures'
+import { news, relativeTime, topicStyle } from '../lib/news'
 import { seedMatches } from '../../data/seed-matches'
 import { result } from '../../lib/matchHelpers'
 
@@ -209,6 +210,8 @@ export default function HomePage() {
         </div>
       </section>
 
+      <NewsTeaser />
+
       <section className="grid gap-3 sm:grid-cols-3">
         <QuickLink to="/pronos" icon="🔮" title="Pronostics" hint="Marque des points sur les prochains matchs" />
         <QuickLink to="/data" icon="📊" title="Data" hint="Toute la mémoire de la communauté" />
@@ -275,6 +278,56 @@ function NextFixtureCard() {
           </Link>
         </div>
       </Card>
+    </section>
+  )
+}
+
+/** Les 3 dernières brèves, pour que l'actu vive dès l'accueil. */
+function NewsTeaser() {
+  const items = news.slice(0, 3)
+  if (!items.length) return null
+
+  return (
+    <section>
+      <SectionTitle
+        eyebrow="📰 Inf'OL"
+        title="Ce qui se dit sur l'OL"
+        action={
+          <Link to="/infol" className="text-xs font-bold text-lh-muted hover:text-lh-text">
+            Tout le fil →
+          </Link>
+        }
+      />
+      <div className="flex flex-col gap-2">
+        {items.map((item) => (
+          <a
+            key={item.id}
+            href={item.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="lh-card group flex items-center gap-3 overflow-hidden p-0"
+          >
+            {item.image ? (
+              <img src={item.image} alt="" loading="lazy" className="h-16 w-20 shrink-0 object-cover sm:h-20 sm:w-28" />
+            ) : (
+              <span className="grid h-16 w-20 shrink-0 place-items-center bg-lh-raised text-xl sm:h-20 sm:w-28">
+                {topicStyle(item.topic).icon}
+              </span>
+            )}
+            <span className="min-w-0 py-2 pr-3">
+              <span className="mb-0.5 block text-[10.5px] font-bold uppercase tracking-wide text-lh-muted">
+                {topicStyle(item.topic).icon} {item.topic} · {item.source}
+              </span>
+              <span className="line-clamp-2 block text-sm font-bold leading-snug group-hover:text-lh-redSoft">
+                {item.title}
+              </span>
+              <span className="mt-0.5 block text-[11px] text-lh-muted">
+                {relativeTime(item.publishedAt)}
+              </span>
+            </span>
+          </a>
+        ))}
+      </div>
     </section>
   )
 }
