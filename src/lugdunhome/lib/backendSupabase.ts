@@ -183,21 +183,21 @@ export const supabaseBackend: Backend = {
         user_id: deviceId(),
         home_score: p.homeScore,
         away_score: p.awayScore,
-        scorer_id: p.scorerId ?? null,
+        bonus_choice: p.bonusChoice ?? null,
       }),
     })
   },
 
   async getMyPredictions() {
     const rows = await rest<
-      { match_id: string; home_score: number; away_score: number; scorer_id: string | null }[]
+      { match_id: string; home_score: number; away_score: number; bonus_choice: string | null }[]
     >(`predictions?user_id=eq.${deviceId()}&select=*`)
     return rows.map((r) => ({
       matchId: r.match_id,
       userId: deviceId(),
       homeScore: r.home_score,
       awayScore: r.away_score,
-      scorerId: r.scorer_id,
+      bonusChoice: r.bonus_choice,
     }))
   },
 
@@ -205,7 +205,7 @@ export const supabaseBackend: Backend = {
     const [profiles, predictions, ratings, motm, debate] = await Promise.all([
       rest<LhUser[]>('profiles?select=*'),
       rest<
-        { user_id: string; match_id: string; home_score: number; away_score: number; scorer_id: string | null }[]
+        { user_id: string; match_id: string; home_score: number; away_score: number; bonus_choice: string | null }[]
       >('predictions?select=*'),
       rest<{ user_id: string; match_id: string }[]>('player_ratings?select=user_id,match_id'),
       rest<{ user_id: string }[]>('motm_votes?select=user_id'),
@@ -236,7 +236,7 @@ export const supabaseBackend: Backend = {
           userId: pred.user_id,
           homeScore: pred.home_score,
           awayScore: pred.away_score,
-          scorerId: pred.scorer_id,
+          bonusChoice: pred.bonus_choice,
         },
         match,
       )

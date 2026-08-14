@@ -48,7 +48,9 @@ create table if not exists predictions (
   user_id uuid not null references auth.users (id) on delete cascade,
   home_score smallint not null check (home_score >= 0),
   away_score smallint not null check (away_score >= 0),
-  scorer_id text,
+  -- option retenue pour la question bonus du match (buteur, écart, nombre
+  -- de buts… la question varie d'un match à l'autre, cf. lib/bonuses.ts)
+  bonus_choice text,
   created_at timestamptz not null default now(),
   primary key (match_id, user_id)
 );

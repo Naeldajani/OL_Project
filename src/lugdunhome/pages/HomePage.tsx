@@ -54,32 +54,6 @@ export default function HomePage() {
 
   return (
     <div className="flex flex-col gap-8">
-      {/* Brand hero */}
-      <section className="relative overflow-hidden rounded-3xl border border-lh-line bg-gradient-to-br from-lh-surface via-lh-night to-lh-void px-5 py-8 sm:px-8 sm:py-10">
-        <div className="pointer-events-none absolute -right-16 -top-16 h-56 w-56 rounded-full bg-lh-red/20 blur-3xl" />
-        <div className="pointer-events-none absolute -bottom-20 -left-10 h-56 w-56 rounded-full bg-lh-gold/10 blur-3xl" />
-        <div className="relative">
-          <div className="lh-eyebrow mb-2 text-lh-goldSoft">Lyon · depuis Lugdunum</div>
-          <h1 className="lh-display text-4xl sm:text-6xl">
-            LA MAISON DES
-            <br />
-            <span className="text-lh-red">SUPPORTERS</span> DE L’OL
-          </h1>
-          <p className="mt-4 max-w-xl text-sm text-lh-muted sm:text-base">
-            Après chaque match, vous avez 24 heures pour noter les joueurs, élire l’Homme du Match
-            et trancher le débat. Ici, c’est la communauté qui a le dernier mot.
-          </p>
-          <div className="mt-5 flex flex-wrap gap-2.5">
-            <ButtonLink to={`/matchs/${match.id}`} variant="primary" size="lg">
-              {live.open ? 'Donner mon avis' : 'Voir le dernier match'}
-            </ButtonLink>
-            <ButtonLink to="/pronos" variant="secondary" size="lg">
-              Pronostiquer
-            </ButtonLink>
-          </div>
-        </div>
-      </section>
-
       {/* Latest match + live window */}
       <section>
         <SectionTitle
@@ -94,6 +68,20 @@ export default function HomePage() {
         <div className="flex flex-col gap-3">
           <MatchHero match={match} />
           {winState && <CountdownBanner state={winState} msLeft={live.msLeft} />}
+
+          {/* Les trois gestes de l'après-match, atteignables sans passer par
+              la page du match : c'est la raison d'être de l'écran d'accueil. */}
+          <div className="grid grid-cols-3 gap-2">
+            <ButtonLink to={`/matchs/${match.id}#notes`} variant="primary" icon="⭐" full>
+              Noter
+            </ButtonLink>
+            <ButtonLink to={`/matchs/${match.id}#hdm`} variant="secondary" icon="🏅" full>
+              Homme du match
+            </ButtonLink>
+            <ButtonLink to={`/matchs/${match.id}#debat`} variant="secondary" icon="🗣️" full>
+              Débattre
+            </ButtonLink>
+          </div>
         </div>
       </section>
 
