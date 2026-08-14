@@ -1,0 +1,23 @@
+{
+  "name": "Lugdun'Home — La maison des supporters de l'OL",
+  "short_name": "Lugdun'Home",
+  "description": "Après chaque match, 24h pour noter les joueurs, élire l'Homme du Match et trancher le débat.",
+  "lang": "fr",
+  "start_url": "./lugdunhome.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#06080d",
+  "theme_color": "#06080d",
+  "categories": ["sports", "social"],
+  "icons": [
+    { "src": "./icons/lh-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icons/lh-512.png", "sizes": "512x512", "type": "image/png" },
+    {
+      "src": "./icons/lh-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

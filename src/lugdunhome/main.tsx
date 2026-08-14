@@ -11,3 +11,15 @@ createRoot(document.getElementById('root')!).render(
     </HashRouter>
   </StrictMode>,
 )
+
+// Offline support + home-screen install. Only on http(s): a service worker
+// can't register from a file:// page (the self-contained artifact build).
+if ('serviceWorker' in navigator && location.protocol.startsWith('http')) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker
+      .register(new URL('lh-sw.js', document.baseURI).pathname)
+      .catch(() => {
+        /* offline mode is a bonus, never block the app on it */
+      })
+  })
+}
