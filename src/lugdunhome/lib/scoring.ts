@@ -1,11 +1,11 @@
 import type { Match } from '../../lib/types'
 import type { Prediction } from './types'
+import { bonusCorrect, bonusFor, labelOf } from './bonuses'
 
 export const POINTS = {
   exactScore: 5,
   rightOutcome: 3,
   rightGoalDiff: 1,
-  scorer: 2,
 } as const
 
 /** Points earned by a prediction once the match is known. */
@@ -26,8 +26,12 @@ export function scorePrediction(p: Prediction, match: Match): number {
     if (predOutcome === realOutcome) pts += POINTS.rightOutcome
     if (p.homeScore - p.awayScore === match.homeScore - match.awayScore) pts += POINTS.rightGoalDiff
   }
-  if (p.scorerId && match.scorers.some((s) => s.player === p.scorerId)) {
-    pts += POINTS.scorer
+  // Le bonus vaut ce que sa question annonce : une prédiction à trois
+  // options ne peut pas rapporter autant qu'un buteur parmi onze.
+  const choice = p.bonusChoice ?? p.scorerId
+  if (choice) {
+    const bonus = bonusFor(p.matchId)
+    if (bonusCorrect(bonus, choice, match)) pts += bonus.points
   }
   return pts
 }
@@ -51,8 +55,12 @@ export function explainPrediction(p: Prediction, match: Match): string[] {
       out.push(`Bon écart +${POINTS.rightGoalDiff}`)
     }
   }
-  if (p.scorerId && match.scorers.some((s) => s.player === p.scorerId)) {
-    out.push(`Buteur trouvé +${POINTS.scorer}`)
+  const choice = p.bonusChoice ?? p.scorerId
+  if (choice) {
+    const bonus = bonusFor(p.matchId)
+    if (bonusCorrect(bonus, choice, match)) {
+      out.push(`${labelOf(bonus, choice)} +${bonus.points}`)
+    }
   }
   if (!out.length) out.push('Aucun point')
   return out

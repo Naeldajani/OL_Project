@@ -1,5 +1,5 @@
-import { useMemo, useState } from 'react'
-import { Link, useParams } from 'react-router-dom'
+import { useEffect, useMemo, useState } from 'react'
+import { Link, useLocation, useParams } from 'react-router-dom'
 import { Segmented } from '../components/Button'
 import MatchHero from '../components/MatchHero'
 import CountdownBanner, { useLiveWindow } from '../components/Countdown'
@@ -21,11 +21,24 @@ const TABS: { id: Tab; label: string; icon: string }[] = [
   { id: 'feuille', label: 'Feuille de match', icon: '📋' },
 ]
 
+/** L'accueil renvoie vers un onglet précis (#hdm, #debat) : sans ça, les
+ *  raccourcis « Homme du match » et « Débattre » retomberaient tous sur les
+ *  notes. HashRouter place ce fragment après la route, d'où le second `#`. */
+function tabFromHash(): Tab {
+  const fragment = window.location.hash.split('#')[2]
+  return TABS.some((t) => t.id === fragment) ? (fragment as Tab) : 'notes'
+}
+
 export default function MatchPage() {
   const { id } = useParams()
   const match = id ? matchById(id) : undefined
-  const [tab, setTab] = useState<Tab>('notes')
+  const [tab, setTab] = useState<Tab>(tabFromHash)
   const [windowKey, setWindowKey] = useState(0)
+  const location = useLocation()
+
+  // arriver depuis l'accueil ne remonte pas le composant si on y est déjà :
+  // l'état initial ne suffit donc pas à suivre le fragment
+  useEffect(() => setTab(tabFromHash()), [location])
 
   const winState = useMemo(
     () => (match ? windowFor(match.id, match.date, isLatest(match.id)) : null),

@@ -1,10 +1,10 @@
 import type { ReactNode } from 'react'
-import { crestGradient, getCrestStyle } from '../../lib/crest'
+import CrestBadge from '../../components/CrestBadge'
 import { PHOTO_MANIFEST } from '../../data/photo-manifest'
 import { creditLine } from '../lib/credits'
 
-/** Blason maison : couleurs du club et initiales. Aucun logo officiel n'est
- *  diffusé — ce sont des œuvres protégées (cf. scraping/audit_licences.py). */
+/** Écusson maison — voir CrestBadge pour le pourquoi du dessin plutôt que
+ *  du logo officiel. */
 export function Crest({
   club,
   size = 32,
@@ -14,22 +14,7 @@ export function Crest({
   size?: number
   className?: string
 }) {
-  const { bg, fg, abbr } = getCrestStyle(club)
-  return (
-    <span
-      className={`inline-grid shrink-0 place-items-center rounded-[28%] ring-1 ring-white/10 ${className}`}
-      style={{ width: size, height: size, background: crestGradient(bg) }}
-      title={club}
-      aria-label={club}
-    >
-      <span
-        className="lh-display leading-none"
-        style={{ color: fg, fontSize: size * (abbr.length > 3 ? 0.235 : abbr.length > 2 ? 0.3 : 0.38) }}
-      >
-        {abbr}
-      </span>
-    </span>
-  )
+  return <CrestBadge club={club} size={size} className={className} />
 }
 
 /** Lineup spellings and research spellings differ on accents often enough

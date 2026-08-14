@@ -29,7 +29,10 @@ export interface Prediction {
   userId: string
   homeScore: number
   awayScore: number
+  /** conservé pour les pronostics posés avant les bonus variables */
   scorerId?: string | null
+  /** option retenue pour la question bonus du match (cf. lib/bonuses) */
+  bonusChoice?: string | null
   /** filled in once the match is played and scored */
   points?: number
 }

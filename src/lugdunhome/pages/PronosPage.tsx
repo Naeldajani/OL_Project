@@ -5,8 +5,8 @@ import { OL_NAMES } from '../../lib/matchHelpers'
 import { backend } from '../lib/backend'
 import type { Prediction } from '../lib/types'
 import { ratableMatches, formatShortDate, matchById } from '../lib/matches'
-import { lineupFor } from '../lib/lineups'
 import { openFixtures, untilKickoff, type UpcomingMatch } from '../lib/fixtures'
+import { bonusFor, type Bonus } from '../lib/bonuses'
 import { POINTS, explainPrediction, levelFor, scorePrediction } from '../lib/scoring'
 
 type Tab = 'avenir' | 'passes'
@@ -59,8 +59,8 @@ export default function PronosPage() {
 
   const { level, next, progress } = levelFor(stats.points)
 
-  const save = async (matchId: string, homeScore: number, awayScore: number, scorerId?: string) => {
-    await backend.savePrediction({ matchId, homeScore, awayScore, scorerId: scorerId ?? null })
+  const save = async (matchId: string, homeScore: number, awayScore: number, bonus?: string) => {
+    await backend.savePrediction({ matchId, homeScore, awayScore, bonusChoice: bonus ?? null })
     load()
   }
 
@@ -113,8 +113,12 @@ export default function PronosPage() {
           <Pill tone="gold">Score exact +{POINTS.exactScore}</Pill>
           <Pill tone="green">Bon vainqueur +{POINTS.rightOutcome}</Pill>
           <Pill>Bon écart +{POINTS.rightGoalDiff}</Pill>
-          <Pill tone="red">Buteur trouvé +{POINTS.scorer}</Pill>
+          <Pill tone="red">Bonus +2 à +4</Pill>
         </div>
+        <p className="mt-2 text-[11px] leading-relaxed text-lh-muted">
+          Chaque match a sa propre question bonus — buteur, écart, nombre de buts, cage inviolée…
+          Plus elle est difficile, plus elle rapporte.
+        </p>
       </Card>
 
       <Segmented
@@ -254,53 +258,79 @@ function TeamSide({ club, align }: { club: string; align: 'start' | 'end' }) {
   )
 }
 
-/** Sélection visuelle du buteur : une grille de visages remplace la liste
- *  déroulante, qui affichait 11 lignes de texte identiques et masquait
- *  l'écran sur mobile. */
-function ScorerPicker({
-  squad,
+/** La question bonus, différente d'un match à l'autre. Deux présentations :
+ *  une grille de visages pour « qui marque ? », des pastilles larges pour
+ *  les questions à 2-4 réponses. */
+function BonusPicker({
+  bonus,
   value,
   onChange,
 }: {
-  squad: { player: string; posteFr?: string }[]
+  bonus: Bonus
   value: string
   onChange: (v: string) => void
 }) {
+  if (!bonus.options.length) return null
+
   return (
-    <div>
-      <div className="mb-2 flex items-center justify-between">
-        <span className="lh-eyebrow">Buteur bonus</span>
+    <div className="rounded-2xl border border-lh-gold/25 bg-lh-gold/[0.06] p-3.5">
+      <div className="mb-1 flex items-center gap-2">
+        <Pill tone="gold">Bonus +{bonus.points}</Pill>
         {value && (
           <button
             onClick={() => onChange('')}
-            className="text-[11px] font-bold text-lh-muted hover:text-lh-text"
+            className="ml-auto text-[11px] font-bold text-lh-muted hover:text-lh-text"
           >
             Effacer
           </button>
         )}
       </div>
-      <div className="grid grid-cols-4 gap-1.5 sm:grid-cols-6">
-        {squad.map((p) => {
-          const active = value === p.player
-          return (
-            <button
-              key={p.player}
-              onClick={() => onChange(active ? '' : p.player)}
-              title={p.player}
-              className={`flex flex-col items-center gap-1 rounded-xl border px-1 py-2 transition-colors ${
-                active
-                  ? 'border-lh-gold bg-lh-gold/12'
-                  : 'border-lh-line bg-lh-raised hover:border-white/25'
-              }`}
-            >
-              <Face name={p.player} size={34} />
-              <span className="w-full truncate text-center text-[10px] font-bold leading-tight">
-                {shortName(p.player)}
-              </span>
-            </button>
-          )
-        })}
-      </div>
+      <p className="mb-0.5 text-sm font-black">{bonus.question}</p>
+      <p className="mb-3 text-[11px] leading-relaxed text-lh-muted">{bonus.hint}</p>
+
+      {bonus.faces ? (
+        <div className="grid grid-cols-4 gap-1.5 sm:grid-cols-6">
+          {bonus.options.map((o) => {
+            const active = value === o.id
+            return (
+              <button
+                key={o.id}
+                onClick={() => onChange(active ? '' : o.id)}
+                title={o.label}
+                className={`flex flex-col items-center gap-1 rounded-xl border px-1 py-2 transition-colors ${
+                  active
+                    ? 'border-lh-gold bg-lh-gold/15'
+                    : 'border-lh-line bg-lh-raised hover:border-white/25'
+                }`}
+              >
+                <Face name={o.player ?? o.label} size={34} />
+                <span className="w-full truncate text-center text-[10px] font-bold leading-tight">
+                  {shortName(o.label)}
+                </span>
+              </button>
+            )
+          })}
+        </div>
+      ) : (
+        <div className="grid grid-cols-2 gap-1.5 sm:grid-cols-4">
+          {bonus.options.map((o) => {
+            const active = value === o.id
+            return (
+              <button
+                key={o.id}
+                onClick={() => onChange(active ? '' : o.id)}
+                className={`rounded-xl border px-2 py-2.5 text-[12.5px] font-bold transition-colors ${
+                  active
+                    ? 'border-lh-gold bg-lh-gold/15 text-lh-goldSoft'
+                    : 'border-lh-line bg-lh-raised text-lh-text hover:border-white/25'
+                }`}
+              >
+                {o.label}
+              </button>
+            )
+          })}
+        </div>
+      )}
     </div>
   )
 }
@@ -319,12 +349,17 @@ function FixtureCard({
 }: {
   fixture: UpcomingMatch
   prediction?: Prediction
-  onSave: (matchId: string, h: number, a: number, scorer?: string) => void
+  onSave: (matchId: string, h: number, a: number, bonus?: string) => void
 }) {
   const [home, setHome] = useState(prediction?.homeScore ?? 1)
   const [away, setAway] = useState(prediction?.awayScore ?? 1)
+  const [choice, setChoice] = useState(prediction?.bonusChoice ?? '')
   const [saved, setSaved] = useState(false)
   const msLeft = fixture.kickoff - Date.now()
+
+  // Aucune composition n'existe pour un match à venir : bonusFor bascule
+  // alors sur une question qui ne dépend pas des joueurs.
+  const bonus = useMemo(() => bonusFor(fixture.id, []), [fixture.id])
 
   return (
     <Card className={`p-4 ${prediction ? 'border-lh-gold/35' : ''}`}>
@@ -349,10 +384,14 @@ function FixtureCard({
         awayClub={fixture.away}
       />
 
+      <div className="mt-3">
+        <BonusPicker bonus={bonus} value={choice} onChange={setChoice} />
+      </div>
+
       <div className="mt-3 flex flex-wrap items-center gap-2">
         <Button
           onClick={() => {
-            onSave(fixture.id, home, away)
+            onSave(fixture.id, home, away, choice || undefined)
             setSaved(true)
             setTimeout(() => setSaved(false), 1600)
           }}
@@ -383,14 +422,14 @@ function PlayedCard({
 }: {
   match: (typeof ratableMatches)[number]
   prediction?: Prediction
-  onSave: (matchId: string, h: number, a: number, scorer?: string) => void
+  onSave: (matchId: string, h: number, a: number, bonus?: string) => void
 }) {
   const [home, setHome] = useState(prediction?.homeScore ?? 1)
   const [away, setAway] = useState(prediction?.awayScore ?? 1)
-  const [scorer, setScorer] = useState(prediction?.scorerId ?? '')
+  const [choice, setChoice] = useState(prediction?.bonusChoice ?? prediction?.scorerId ?? '')
   const [saved, setSaved] = useState(false)
 
-  const squad = lineupFor(match.id).filter((p) => p.role === 'titulaire')
+  const bonus = useMemo(() => bonusFor(match.id), [match.id])
   const pts = prediction ? scorePrediction(prediction, match) : null
 
   return (
@@ -414,16 +453,14 @@ function PlayedCard({
         awayClub={match.away}
       />
 
-      {squad.length > 0 && (
-        <div className="mt-3">
-          <ScorerPicker squad={squad} value={scorer} onChange={setScorer} />
-        </div>
-      )}
+      <div className="mt-3">
+        <BonusPicker bonus={bonus} value={choice} onChange={setChoice} />
+      </div>
 
       <div className="mt-3 flex flex-wrap items-center gap-2">
         <Button
           onClick={() => {
-            onSave(match.id, home, away, scorer || undefined)
+            onSave(match.id, home, away, choice || undefined)
             setSaved(true)
             setTimeout(() => setSaved(false), 1600)
           }}
