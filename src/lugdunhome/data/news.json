@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-14T13:42:02+00:00",
+ "updatedAt": "2026-08-14T16:05:46+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,39 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olacadmieyacinechabtoutprochederejoindrelemcalger",
+   "title": "OL Académie : Yacine Chaïb tout proche de rejoindre le MC Alger",
+   "summary": "Formé à l'OL, Yacine Chaïb devrait s'engager avec le MC Alger. Le joueur de 21 ans n'a jamais eu sa chance avec le groupe professionnel. Selon plusieurs médias algériens, Yacine Chaïb pourrait prochainement quitter l'OL pour rejoindre le Mouloudia Club d'Alger.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-yacine-chaib-tout-proche-de-rejoindre-le-mc-alger,404848.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Thomas Dioudonnat",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F07%2FIMG_2331-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-14T16:02:42+00:00"
+  },
+  {
+   "id": "mercatololattentifaudossierludovicajorque",
+   "title": "Mercato : L'OL attentif au dossier Ludovic Ajorque",
+   "summary": "L'OL surveillerait de près la situation de Ludovic Ajorque, le buteur de Brest. Une piste expérimentée pour renforcer la ligne d'attaque. Selon nos confrères de Foot Mercato, l'OL aurait manifesté son intérêt pour Ludovic Ajorque, l'avant-centre du Stade Brestois.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-lol-attentif-au-dossier-ludovic-ajorque,404842.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Thomas Dioudonnat",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2019%2F03%2FMarcelo-768x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-14T14:30:16+00:00"
+  },
+  {
+   "id": "staderennaismercatounserialbuteurdel1dansleviseurlometlolaus",
+   "title": "Stade Rennais Mercato : un serial buteur de L1 dans le viseur, l’OM et l’OL aussi sur le coup !",
+   "summary": "En quête de solutions offensives pour la fin du mercato, le Stade Rennais surveille de près la situation de Ludovic Ajorque. L’OL et l’OM seraient également attentifs à sa situation.",
+   "url": "https://www.butfootballclub.fr/1690649-stade-rennais-mercato-un-serial-buteur-de-l1-dans-le-viseur-lom-et-lol-aussi-sur-le-coup/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fpronostic-metz-stade-brestois-un-pas-de-plus-vers-la-l2-pour-les-messins-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-14T14:20:00+00:00"
+  },
   {
    "id": "ollyonneslestageallemandadmarraucampusadidas",
    "title": "OL Lyonnes : le stage allemand a démarré au Campus Adidas",
@@ -96,17 +129,6 @@
    "publishedAt": "2026-08-14T07:30:00+00:00"
   },
   {
-   "id": "olmercatolinterimposeunnouveaufreinaudossier40m",
-   "title": "OL Mercato : L’Inter impose un nouveau frein au dossier à 40 M€ !",
-   "summary": "Malick Fofana reste surveillé par l’Inter et la Roma, mais l’OL exige plus de 40 M€ pour envisager un départ en fin de mercato, bientôt.",
-   "url": "https://www.butfootballclub.fr/1690594-ol-mercato-malick-fofana-inter-roma-40m/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Ff863aef8-ol-mercato-malick-fofana-inter-roma-40m-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-14T06:59:09+00:00"
-  },
-  {
    "id": "olnicolstagliaficoledernieracte",
    "title": "OL : Nicolás Tagliafico, le dernier acte",
    "summary": "Annoncé sur le départ, Nicolás Tagliafico aborde le dernier acte de sa carrière. À l'OL comme en sélection, l'heure des choix s'impose. Nicolás Tagliafico fera-t-il encore partie de l'effectif lyonnais au 1er septembre, date de clôture du mercato ?",
@@ -149,28 +171,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a7eac2a0671e-16853507955-995ef90dd5-o.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-14T06:00:00+00:00"
-  },
-  {
-   "id": "olfenerbaheunbarrageretourclassrisquelev",
-   "title": "OL - Fenerbahçe : un barrage retour classé à risque élevé",
-   "summary": "L'OL recevra le Fenerbahçe le 26 août. Un match classé à risque élevé par les autorités. Un dispositif renforcé est attendu à Décines. Un rendez-vous sous très haute surveillance !",
-   "url": "https://www.olympique-et-lyonnais.com/ol-fenerbahce-un-barrage-retour-classe-a-risque-eleve,404793.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Thomas Dioudonnat",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F04%2F000_NJ4HX-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-14T05:30:00+00:00"
-  },
-  {
-   "id": "mercatolompluttqueletorinopourlucasperriexol",
-   "title": "Mercato : l'OM plutôt que le Torino pour Lucas Perri (ex-OL) ?",
-   "summary": "Bien parti pour signer au Torino, Lucas Perri temporise. L'ancien portier de l'OL pourrait finalement s'engager à l'OM. Alors qu'il devait passer sa visite médicale ce jeudi du côté de Turin, Lucas Perri a mis son départ en pause.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-lom-plutot-que-le-torino-pour-lucas-perri-ex-ol,404786.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Thomas Dioudonnat",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F11%2FAFP__20240830__36F663B__v1__HighRes__FblFraLigue1LyonStrasbourg-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-13T16:00:00+00:00"
   },
   {
    "id": "douzeheuresdeboutpour140franclhistoiredelagrandegrvedesovali",
