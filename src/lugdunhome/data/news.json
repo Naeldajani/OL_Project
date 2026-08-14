@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-14T16:05:46+00:00",
+ "updatedAt": "2026-08-14T19:13:20+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,39 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "mercatololserenforceavecleprtdathekameacmilan",
+   "title": "Mercato : l'OL se renforce avec le prêt d'Athekame (AC Milan)",
+   "summary": "Trois jours après sa qualification pour les barrages de la Ligue des champions, l'OL a officialisé l'arrivée de sa huitième recrue de l'été. Dans le cadre d'un prêt sans option d'achat, Zachary Athekame débarque pour un an en provenance de l'AC Milan.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-lol-se-renforce-avec-le-pret-dathekame-ac-milan,404718.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAthekame-est-prete-a-lOL-pour-une-saison-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-14T16:40:06+00:00"
+  },
+  {
+   "id": "liquidationjudiciairelancelamarquisecoulelyon",
+   "title": "Liquidation judiciaire lancée : la Marquise coule à Lyon",
+   "summary": "Après quatre années de galère, la société exploitant la discothèque lyonnaise La Marquise a fait l'objet d'un jugement d'ouverture de liquidation judiciaire ce vendredi 14 août à Lyon.",
+   "url": "https://www.lyonmag.com/article/153602/liquidation-judiciaire-lancee-la-marquise-coule-a-lyon",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a7f447f4b611-484236730-1190605629738410-4948426614945285523-n.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-14T16:37:00+00:00"
+  },
+  {
+   "id": "olzacharyathekameprtjusquau30juin2027",
+   "title": "OL : Zachary Athekame prêté jusqu’au 30 juin 2027",
+   "summary": "Mercato OL : Zachary Athekame rejoint Lyon en prêt jusqu’au 30 juin 2027. Découvrez ses 27 matches en Serie A et son expérience en Ligue des champions.",
+   "url": "https://www.lyonfoot.com/article/13908/mercato-l-ol-se-fait-preter-le-defenseur-suisse-zachary-athekame-par-l-ac-milan-officiel",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a7f3d1425a48-capture-decran-2026-08-14-a-18.png&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-14T16:07:00+00:00"
+  },
   {
    "id": "olacadmieyacinechabtoutprochederejoindrelemcalger",
    "title": "OL Académie : Yacine Chaïb tout proche de rejoindre le MC Alger",
@@ -96,17 +129,6 @@
    "publishedAt": "2026-08-14T09:30:53+00:00"
   },
   {
-   "id": "olunnouveausponsormajeursinstallesurlemaillotlyonnais",
-   "title": "OL : un nouveau sponsor majeur s’installe sur le maillot lyonnais",
-   "summary": "Winamax devient partenaire majeur de l’OL pour trois saisons et apparaîtra sur le maillot lyonnais dès 2026-2027, avec animations au Groupama Stadium.",
-   "url": "https://www.butfootballclub.fr/1690610-ol-nouveau-sponsor-majeur-maillot-lyonnais/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F64dd46cb-ol-nouveau-sponsor-majeur-maillot-lyonnais-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-08-14T09:02:07+00:00"
-  },
-  {
    "id": "mercatomikautadzeexoldansleviseurdufcbarcelone",
    "title": "Mercato : Mikautadze (ex-OL) dans le viseur du FC Barcelone ?",
    "summary": "Le FC Barcelone s'intéresserait à Georges Mikautadze pour succéder à Lewandowski. Un dossier que l'OL suivra de près. D'après le média espagnol Jijantes, le FC Barcelone garderait un œil attentif sur Georges Mikautadze.",
@@ -149,17 +171,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a7eb7883717a-42248950261-10b260c870-o.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-14T06:35:00+00:00"
-  },
-  {
-   "id": "ollyonnestroisfenottesretenuespourlacoupedumondeu20",
-   "title": "OL Lyonnes : trois Fenottes retenues pour la Coupe du monde U20",
-   "summary": "Rafalski, Sangaré et Swierot ont été convoquées avec les Bleuettes pour la Coupe du monde U20, disputée en Pologne fin août.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-trois-fenottes-retenues-pour-la-coupe-du-monde-u20,404798.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Thomas Dioudonnat",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2F679071307_900491026361599_3105090295949108993_n-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-08-14T06:00:00+00:00"
   },
   {
    "id": "lyonunsuspectcrouaprsdescambriolagesensriedecommercesdansle6",
