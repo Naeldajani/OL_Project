@@ -7,7 +7,7 @@ import { getCrestStyle } from '../lib/crest'
  * l'audit des licences a montré que la quasi-totalité de ceux qui circulent
  * sur Wikipédia y sont hébergés sous exception. Ce qu'on dessine ici, ce
  * sont les couleurs et le motif de maillot du club — une combinaison de
- * bandes et de teintes n'est pas protégeable — dans une forme d'écusson
+ * bandes et de teintes n'est pas protégeable — dans une pastille ronde
  * commune à tous les clubs. Le résultat est reconnaissable au premier coup
  * d'œil sans emprunter quoi que ce soit.
  */
@@ -24,13 +24,13 @@ export default function CrestBadge({
   // identifiants uniques : deux <clipPath> homonymes dans la même page et
   // le navigateur applique le premier à tout le monde
   const uid = `crest-${slug(club)}`
-  const fontSize = abbr.length > 3 ? 26 : abbr.length > 2 ? 32 : 40
+  const fontSize = abbr.length > 3 ? 24 : abbr.length > 2 ? 30 : 38
 
   return (
     <svg
-      viewBox="0 0 100 112"
+      viewBox="0 0 100 100"
       width={size}
-      height={size * 1.12}
+      height={size}
       role="img"
       aria-label={club}
       className={`shrink-0 ${className}`}
@@ -38,7 +38,7 @@ export default function CrestBadge({
       <title>{club}</title>
       <defs>
         <clipPath id={`${uid}-shape`}>
-          <path d={SHIELD} />
+          <circle cx="50" cy="50" r="47" />
         </clipPath>
         <linearGradient id={`${uid}-sheen`} x1="0" y1="0" x2="0" y2="1">
           <stop offset="0%" stopColor="#fff" stopOpacity="0.22" />
@@ -48,16 +48,16 @@ export default function CrestBadge({
       </defs>
 
       <g clipPath={`url(#${uid}-shape)`}>
-        <rect width="100" height="112" fill={bg} />
+        <rect width="100" height="100" fill={bg} />
         <Pattern pattern={pattern} fg={fg} />
-        <rect width="100" height="112" fill={`url(#${uid}-sheen)`} />
+        <rect width="100" height="100" fill={`url(#${uid}-sheen)`} />
       </g>
 
-      <path d={SHIELD} fill="none" stroke="rgba(255,255,255,0.35)" strokeWidth="3" />
+      <circle cx="50" cy="50" r="47" fill="none" stroke="rgba(255,255,255,0.35)" strokeWidth="3" />
 
       <text
         x="50"
-        y="58"
+        y="52"
         textAnchor="middle"
         dominantBaseline="middle"
         fontSize={fontSize}
@@ -74,32 +74,29 @@ export default function CrestBadge({
   )
 }
 
-/** Écusson classique : épaules droites, flancs incurvés, pointe en bas. */
-const SHIELD = 'M6 6 H94 V62 Q94 92 50 108 Q6 92 6 62 Z'
-
 function Pattern({ pattern, fg }: { pattern: string; fg: string }) {
   const soft = { fill: fg, opacity: 0.9 }
   switch (pattern) {
     case 'stripes':
       return (
         <>
-          {[14, 42, 70].map((x) => (
-            <rect key={x} x={x} y="0" width="16" height="112" {...soft} />
+          {[10, 40, 70].map((x) => (
+            <rect key={x} x={x} y="0" width="16" height="100" {...soft} />
           ))}
         </>
       )
     case 'hoops':
       return (
         <>
-          {[10, 42, 74].map((y) => (
-            <rect key={y} x="0" y={y} width="100" height="18" {...soft} />
+          {[8, 40, 72].map((y) => (
+            <rect key={y} x="0" y={y} width="100" height="17" {...soft} />
           ))}
         </>
       )
     case 'sash':
-      return <path d="M-10 92 L72 -10 L104 8 L22 110 Z" {...soft} />
+      return <path d="M-14 84 L70 -14 L104 12 L20 110 Z" {...soft} />
     case 'halves':
-      return <rect x="50" y="0" width="50" height="112" {...soft} />
+      return <rect x="50" y="0" width="50" height="100" {...soft} />
     default:
       return null
   }

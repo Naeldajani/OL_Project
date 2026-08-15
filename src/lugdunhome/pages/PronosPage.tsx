@@ -6,7 +6,7 @@ import { backend } from '../lib/backend'
 import type { Prediction } from '../lib/types'
 import { ratableMatches, formatShortDate, matchById } from '../lib/matches'
 import { openFixtures, untilKickoff, type UpcomingMatch } from '../lib/fixtures'
-import { bonusFor, type Bonus } from '../lib/bonuses'
+import { bonusFor, pointsFor, type Bonus } from '../lib/bonuses'
 import { POINTS, explainPrediction, levelFor, scorePrediction } from '../lib/scoring'
 
 type Tab = 'avenir' | 'passes'
@@ -113,11 +113,12 @@ export default function PronosPage() {
           <Pill tone="gold">Score exact +{POINTS.exactScore}</Pill>
           <Pill tone="green">Bon vainqueur +{POINTS.rightOutcome}</Pill>
           <Pill>Bon écart +{POINTS.rightGoalDiff}</Pill>
-          <Pill tone="red">Bonus +2 à +4</Pill>
+          <Pill tone="red">Bonus +3 à +14</Pill>
         </div>
         <p className="mt-2 text-[11px] leading-relaxed text-lh-muted">
-          Chaque match a sa propre question bonus — buteur, écart, nombre de buts, cage inviolée…
-          Plus elle est difficile, plus elle rapporte.
+          La question bonus ne porte jamais sur le score : buteur, ouverture du score, passeur, but
+          de la tête, penalty. Et chaque joueur a sa cote — trouver le défenseur qui marque une fois
+          par saison rapporte bien plus que l’avant-centre.
         </p>
       </Card>
 
@@ -275,7 +276,7 @@ function BonusPicker({
   return (
     <div className="rounded-2xl border border-lh-gold/25 bg-lh-gold/[0.06] p-3.5">
       <div className="mb-1 flex items-center gap-2">
-        <Pill tone="gold">Bonus +{bonus.points}</Pill>
+        <Pill tone="gold">Bonus{value ? ` +${pointsFor(bonus, value)}` : ""}</Pill>
         {value && (
           <button
             onClick={() => onChange('')}
@@ -307,6 +308,11 @@ function BonusPicker({
                 <span className="w-full truncate text-center text-[10px] font-bold leading-tight">
                   {shortName(o.label)}
                 </span>
+                {o.points != null && (
+                  <span className="lh-tabnum text-[10px] font-black text-lh-goldSoft">
+                    +{o.points}
+                  </span>
+                )}
               </button>
             )
           })}
@@ -326,6 +332,9 @@ function BonusPicker({
                 }`}
               >
                 {o.label}
+                {o.points != null && (
+                  <span className="lh-tabnum ml-1.5 text-[11px] text-lh-goldSoft">+{o.points}</span>
+                )}
               </button>
             )
           })}
@@ -359,7 +368,7 @@ function FixtureCard({
 
   // Aucune composition n'existe pour un match à venir : bonusFor bascule
   // alors sur une question qui ne dépend pas des joueurs.
-  const bonus = useMemo(() => bonusFor(fixture.id, []), [fixture.id])
+  const bonus = useMemo(() => bonusFor(fixture.id), [fixture.id])
 
   return (
     <Card className={`p-4 ${prediction ? 'border-lh-gold/35' : ''}`}>

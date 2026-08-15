@@ -11,13 +11,31 @@ export default function Motm({
   myVote,
   open,
   onVote,
+  /** Après une défaite, désigner un « homme du match » sonne faux : la même
+   *  mécanique de vote sert alors à désigner le responsable. */
+  mode = 'motm',
 }: {
   match: Match
   community: MatchCommunity
   myVote: string | null
   open: boolean
   onVote: (player: string) => void
+  mode?: 'motm' | 'blame'
 }) {
+  const blame = mode === 'blame'
+  const copy = blame
+    ? {
+        eyebrow: '😤 Responsable',
+        askTitle: 'À qui la faute ?',
+        doneTitle: 'Le principal responsable',
+        crown: '😤 Désigné par la communauté',
+      }
+    : {
+        eyebrow: '🏆 Homme du match',
+        askTitle: 'Qui est votre Homme du Match ?',
+        doneTitle: 'Homme du Match',
+        crown: '🏆 Élu par la communauté',
+      }
   const starters = lineupFor(match.id).filter((p) => p.role === 'titulaire')
   const total = Object.values(community.motm).reduce((a, b) => a + b, 0) || 1
   const ranked = Object.entries(community.motm)
@@ -28,20 +46,28 @@ export default function Motm({
 
   return (
     <section>
-      <div className="lh-eyebrow mb-1">🏆 Homme du match</div>
-      <h2 className="lh-display mb-3 text-2xl">
-        {open ? 'Qui est votre Homme du Match ?' : 'Homme du Match'}
-      </h2>
+      <div className="lh-eyebrow mb-1">{copy.eyebrow}</div>
+      <h2 className="lh-display mb-3 text-2xl">{open ? copy.askTitle : copy.doneTitle}</h2>
 
       {!open && winner && (
         <Card raised className="animate-lh-pop mb-4 overflow-hidden">
           <div className="relative flex items-center gap-4 p-5">
             <div className="lh-shine pointer-events-none absolute inset-0" />
-            <Face name={winner.player} size={72} className="ring-2 ring-lh-gold" />
+            <Face
+              name={winner.player}
+              size={72}
+              className={`ring-2 ${blame ? 'ring-lh-red' : 'ring-lh-gold'}`}
+            />
             <div className="min-w-0">
-              <div className="lh-eyebrow text-lh-goldSoft">🏆 Élu par la communauté</div>
+              <div className={`lh-eyebrow ${blame ? 'text-lh-redSoft' : 'text-lh-goldSoft'}`}>
+                {copy.crown}
+              </div>
               <div className="lh-display truncate text-2xl sm:text-3xl">{winner.player}</div>
-              <div className="lh-tabnum mt-1 text-sm font-bold text-lh-goldSoft">
+              <div
+                className={`lh-tabnum mt-1 text-sm font-bold ${
+                  blame ? 'text-lh-redSoft' : 'text-lh-goldSoft'
+                }`}
+              >
                 {winner.pct.toFixed(0)} % des votes
                 <span className="ml-2 font-medium text-lh-muted">
                   ({winner.votes.toLocaleString('fr-FR')} voix)
@@ -63,7 +89,9 @@ export default function Motm({
                 style={{ animationDelay: `${Math.min(i, 11) * 40}ms` }}
                 className={`animate-lh-rise flex items-center gap-2.5 rounded-xl border p-2.5 text-left transition-all ${
                   selected
-                    ? 'border-lh-gold bg-lh-gold/12 shadow-lg shadow-lh-gold/10'
+                    ? blame
+                      ? 'border-lh-red bg-lh-red/12 shadow-lg shadow-lh-red/10'
+                      : 'border-lh-gold bg-lh-gold/12 shadow-lg shadow-lh-gold/10'
                     : 'border-lh-line bg-lh-surface/70 hover:border-lh-gold/40'
                 }`}
               >

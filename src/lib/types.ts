@@ -23,6 +23,8 @@ export interface Scorer {
   minute?: number
   player: string
   assist?: string | null
+  /** manière dont le but a été marqué, extraite du détail de la feuille */
+  how?: 'tete' | 'penalty' | 'csc' | 'gauche' | 'droit' | 'autre'
 }
 
 export interface Match {

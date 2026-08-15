@@ -5,6 +5,8 @@ import AuthPage from './pages/AuthPage'
 import HomePage from './pages/HomePage'
 import InfOLPage from './pages/InfOLPage'
 import MatchesPage from './pages/MatchesPage'
+import MercatoPage from './pages/MercatoPage'
+import ReactionPage from './pages/ReactionPage'
 import MatchPage from './pages/MatchPage'
 import PronosPage from './pages/PronosPage'
 import DebatsPage from './pages/DebatsPage'
@@ -37,6 +39,9 @@ function Gate() {
         <Route path="/" element={<HomePage />} />
         <Route path="/infol" element={<InfOLPage />} />
         <Route path="/matchs" element={<MatchesPage />} />
+        <Route path="/reaction" element={<ReactionPage />} />
+        <Route path="/reaction/:id" element={<ReactionPage />} />
+        <Route path="/mercato" element={<MercatoPage />} />
         <Route path="/matchs/:id" element={<MatchPage />} />
         <Route path="/pronos" element={<PronosPage />} />
         <Route path="/debats" element={<DebatsPage />} />
