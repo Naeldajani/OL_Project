@@ -181,6 +181,44 @@
   .cell-fb { color: var(--fb); font-weight: 700; }
   .cell-ol { color: var(--ol); font-weight: 700; }
 
+  /* ---------- Countdown ---------- */
+  .countdown {
+    background: var(--surface); border: 1px solid var(--rule); border-radius: 10px;
+    padding: 15px 18px 17px; box-shadow: var(--shadow);
+    display: flex; flex-direction: column; gap: 10px;
+  }
+  .cd-units { display: flex; gap: 26px; flex-wrap: wrap; }
+  .cd-u { display: flex; flex-direction: column; gap: 2px; }
+  .cd-u b {
+    font-family: var(--display); font-size: 28px; font-weight: 800; letter-spacing: -.04em;
+    line-height: 1; font-variant-numeric: tabular-nums; color: var(--ol);
+  }
+  .cd-u i {
+    font-family: var(--data); font-style: normal; font-size: 10px;
+    letter-spacing: .12em; text-transform: uppercase; color: var(--muted);
+  }
+  #cd-s { color: var(--fb); }
+  .countdown.done .cd-units { display: none; }
+  .cd-msg { font-family: var(--display); font-size: 19px; font-weight: 800; letter-spacing: -.02em; }
+
+  /* ---------- Scenarios ---------- */
+  .scenarios { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 11px; }
+  .scen {
+    background: var(--surface); border: 1px solid var(--rule); border-radius: 9px;
+    padding: 15px 16px 17px; display: flex; flex-direction: column; gap: 8px;
+    border-top: 3px solid var(--sc); box-shadow: var(--shadow);
+    transition: transform .35s var(--ease), box-shadow .35s var(--ease);
+  }
+  .scen:hover { transform: translateY(-3px); box-shadow: var(--shadow-lift); }
+  .scen.good { --sc: var(--ol); }
+  .scen.neutral { --sc: var(--muted); }
+  .scen.bad { --sc: var(--fb); }
+  .scen-tag {
+    font-family: var(--display); font-size: 10.5px; font-weight: 700; letter-spacing: .12em;
+    text-transform: uppercase; color: var(--sc);
+  }
+  .scen p { font-size: 13.5px; line-height: 1.48; color: var(--ink-2); }
+
   /* ---------- Post ---------- */
   .post {
     background: var(--ink); color: #E8EBEF; border-radius: 10px; padding: 22px 20px;
@@ -225,29 +263,35 @@
 <div class="wrap">
 
   <section class="rv">
-    <p class="lede">L'OL n'a jamais perdu contre le Fenerbahçe. Il n'a jamais gagné à Kadıköy non plus. Tout le match aller tient dans cette phrase.</p>
-    <p class="note"><strong>Date :</strong> mardi <strong>18 août</strong> (et non juillet), 21h00. Retour au Groupama les 25-26 août. Le perdant bascule en Ligue Europa.</p>
+    <p class="lede">Cinq rencontres depuis 2001, cinq fois sans défaite lyonnaise. Le Fenerbahçe n'a jamais battu l'OL — y compris chez lui.</p>
+    <div class="countdown" id="cd">
+      <span class="lbl">Coup d'envoi dans</span>
+      <div class="cd-units" id="cd-units">
+        <span class="cd-u"><b id="cd-d">—</b><i>jours</i></span>
+        <span class="cd-u"><b id="cd-h">—</b><i>heures</i></span>
+        <span class="cd-u"><b id="cd-m">—</b><i>min</i></span>
+        <span class="cd-u"><b id="cd-s">—</b><i>sec</i></span>
+      </div>
+    </div>
+    <p class="note"><strong>Date :</strong> mardi <strong>18 août</strong> (et non juillet), 21h00 heure française — 22h00 à Istanbul. Retour au Groupama les 25-26 août. Le perdant bascule en Ligue Europa.</p>
   </section>
 
   <section class="rv">
     <p class="kicker">Le face-à-face</p>
-    <h2>Trois rencontres, zéro victoire turque</h2>
+    <h2>Cinq rencontres, zéro victoire turque</h2>
     <div class="results">
-      <div class="res"><span class="res-yr">2004</span><span class="res-txt">C1, groupes · Istanbul</span><span class="score win">Fener 1 – 3 OL</span></div>
-      <div class="res"><span class="res-yr">2004</span><span class="res-txt">C1, groupes · Gerland</span><span class="score win">OL 4 – 2 Fener</span></div>
+      <div class="res"><span class="res-yr">2001</span><span class="res-txt">C1, groupe F · Istanbul</span><span class="score win">Fener 0 – 1 OL</span></div>
+      <div class="res"><span class="res-yr">2001</span><span class="res-txt">C1, groupe F · Gerland</span><span class="score win">OL 3 – 1 Fener</span></div>
+      <div class="res"><span class="res-yr">2004</span><span class="res-txt">C1, groupe D · Istanbul</span><span class="score win">Fener 1 – 3 OL</span></div>
+      <div class="res"><span class="res-yr">2004</span><span class="res-txt">C1, groupe D · Gerland</span><span class="score win">OL 4 – 2 Fener</span></div>
       <div class="res"><span class="res-yr">2025</span><span class="res-txt">Europa League · Istanbul, 36 722 spectateurs</span><span class="score draw">Fener 0 – 0 OL</span></div>
     </div>
-    <div class="card">
-      <h3>Buts marqués sur les trois confrontations</h3>
-      <div class="legend"><span><i class="sw ol"></i> OL</span><span><i class="sw fb"></i> Fenerbahçe</span></div>
-      <div class="bars">
-        <div class="bar-row"><div class="bar-lbl">OL — total</div><div class="bar-track"><div class="bar ol" style="--w:100%"></div><span class="bar-val">7</span></div></div>
-        <div class="bar-row"><div class="bar-lbl">Fener — total</div><div class="bar-track"><div class="bar fb" style="--w:43%;--d:.1s"></div><span class="bar-val">3</span></div></div>
-        <div class="bar-row"><div class="bar-lbl">OL à Istanbul</div><div class="bar-track"><div class="bar ol" style="--w:43%;--d:.2s"></div><span class="bar-val">3</span></div></div>
-        <div class="bar-row"><div class="bar-lbl">Fener vs OL<br>à domicile</div><div class="bar-track"><div class="bar fb" style="--w:14%;--d:.3s"></div><span class="bar-val">1</span></div></div>
-      </div>
-      <p class="cap">2 victoires OL, 1 nul. Des agrégateurs annoncent 5 rencontres : les 2 supplémentaires n'ont pas pu être vérifiées, elles ne sont pas comptées ici.</p>
+    <div class="tiles">
+      <div class="tile ol"><span class="lbl">Bilan global</span><span class="stat-n">4 V · 1 N</span><p>en 5 matchs pour l'OL. Aucune défaite.</p></div>
+      <div class="tile ol"><span class="lbl">Buts</span><span class="stat-n" data-count="11">11</span><p>marqués par l'OL, contre 4 au Fenerbahçe.</p></div>
+      <div class="tile ol"><span class="lbl">À Istanbul</span><span class="stat-n">2 V · 1 N</span><p>l'OL y a gagné en 2001 et 2004, puis tenu le nul en 2025.</p></div>
     </div>
+    <p class="cap">Sources : fiches UEFA des groupes C1 2001/02 et 2004/05, et ESPN pour la Ligue Europa 2024/25.</p>
   </section>
 
   <section class="rv">
@@ -282,7 +326,7 @@
     <div class="tiles">
       <div class="tile fb"><span class="lbl">Ambiance</span><span class="stat-n" data-count="36722" data-sep="1">36 722</span><p>spectateurs au dernier Fener - OL.</p></div>
       <div class="tile fb"><span class="lbl">Série</span><span class="stat-n" data-count="9">9</span><p>matchs sans défaite avant les barrages.</p></div>
-      <div class="tile ol"><span class="lbl">Bilan OL là-bas</span><span class="stat-n">0-0</span><p>le meilleur résultat lyonnais à Kadıköy, en 2 visites.</p></div>
+      <div class="tile fb"><span class="lbl">Qualifs</span><span class="stat-n">0</span><p>but encaissé par le Fener sur les deux matchs du 3ᵉ tour.</p></div>
     </div>
     <ul>
       <li><strong>La première demi-heure.</strong> Les deux buts du Fener contre le Sturm sont tombés avant la pause, dont un à la 9ᵉ.</li>
@@ -292,13 +336,49 @@
   </section>
 
   <section class="rv">
+    <p class="kicker">Après le coup de sifflet</p>
+    <h2>Les trois scénarios de mardi soir</h2>
+    <div class="scenarios">
+      <div class="scen good">
+        <span class="scen-tag">Victoire ou nul avec buts</span>
+        <p><strong>Position idéale.</strong> Un 1-1 ou mieux, et le retour au Groupama devient un match de gestion devant 50 000 personnes. C'est le résultat que l'OL est allé chercher deux fois là-bas, en 2001 et 2004.</p>
+      </div>
+      <div class="scen neutral">
+        <span class="scen-tag">0-0</span>
+        <p><strong>Le scénario de 2025.</strong> Tout est renvoyé à Lyon, sans avantage. Jouable, mais un seul but turc au retour obligerait l'OL à en marquer deux.</p>
+      </div>
+      <div class="scen bad">
+        <span class="scen-tag">Défaite</span>
+        <p><strong>Première historique.</strong> Le Fenerbahçe n'a jamais battu l'OL. Une défaite d'un but reste rattrapable ; à partir de deux, le retour vire à l'exploit.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="rv">
+    <p class="kicker">Infos pratiques</p>
+    <h2>Le guide du supporter</h2>
+    <div class="tbl-wrap">
+      <table>
+        <tbody>
+          <tr><td class="metric">Coup d'envoi</td><td>Mardi 18 août, 21h00 en France · 22h00 heure locale</td></tr>
+          <tr><td class="metric">Stade</td><td>Ülker Stadyumu Şükrü Saracoğlu, quartier de Kadıköy, Istanbul</td></tr>
+          <tr><td class="metric">Enjeu</td><td>Aller du barrage · retour au Groupama les 25-26 août</td></tr>
+          <tr><td class="metric">En cas d'élimination</td><td>Reversement en phase de ligue de Ligue Europa</td></tr>
+          <tr><td class="metric">Déplacement</td><td>Parcage visiteur très réduit à Istanbul. Les précédents entre les deux clubs ont été classés à risque élevé côté français — passez par la billetterie officielle de l'OL.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="rv">
     <p class="kicker">À copier-coller</p>
     <h2>La version réseaux</h2>
     <div class="post">🔵🔴 FENERBAHÇE – OL · Barrage aller C1
 📅 Mardi 18 août, 21h00 · Kadıköy
 
-FACE-À-FACE : 3 matchs, 2 victoires OL, 1 nul, 0 défaite.
-7 buts marqués contre 3. Mais 0 victoire à Istanbul (1-3 en 2004, 0-0 en 2025).
+FACE-À-FACE : 5 matchs, 4 victoires OL, 1 nul, 0 défaite.
+11 buts marqués contre 4. Et à Istanbul : 0-1 en 2001, 1-3 en 2004, 0-0 en 2025.
+👉 Le Fenerbahçe n'a JAMAIS battu l'OL.
 
 LE CHEMIN : OL 4-2 Sparta Prague · Fener 3-0 Sturm Graz sans encaisser.
 
@@ -307,15 +387,17 @@ LES EFFECTIFS : OL 299,2 M€ (25,1 ans) · Fener 247,9 M€ (27,3 ans).
 
 36 722 spectateurs au dernier duel. 9 matchs sans défaite pour le Fener.
 
-Un nul ramené d'Istanbul et tout se joue au Groupama. 🦁</div>
+Un résultat ramené d'Istanbul et tout se joue au Groupama. 🦁</div>
   </section>
 
   <footer class="rv">
     <p class="srcs"><strong>Sources</strong> —
       <a href="https://www.uefa.com/uefachampionsleague/match/2049213--fenerbahce-vs-lyon/">UEFA</a> ·
       <a href="https://www.matchendirect.fr/live-score/fenerbahce-lyon_a0l58ek8dh8m7ocxcv3x9tjpw.html">Matchendirect</a> ·
+      <a href="https://www.uefa.com/uefachampionsleague/history/h2h/52692/5312">UEFA — face-à-face complet</a> ·
       <a href="https://www.uefa.com/uefachampionsleague/match/79497--fenerbahce-vs-lyon/">UEFA 2004/05 (aller)</a> ·
       <a href="https://www.uefa.com/uefachampionsleague/match/79499--lyon-vs-fenerbahce/">UEFA 2004/05 (retour)</a> ·
+      <a href="https://en.wikipedia.org/wiki/Fenerbah%C3%A7e_S.K._in_European_football">Wikipédia — Fenerbahçe en coupes d'Europe (2001/02)</a> ·
       <a href="https://www.espn.com/soccer/match/_/gameId/720481/lyon-fenerbahce">ESPN 0-0 (2025)</a> ·
       <a href="https://www.footmercato.net/live/6961229653915242214-lyon-vs-sparta-prague">Foot Mercato</a> ·
       <a href="https://www.espn.com/soccer/match/_/gameId/401902674/sk-sturm-graz-fenerbahce">ESPN Fener-Sturm</a> ·
@@ -361,5 +443,34 @@ Un nul ramené d'Istanbul et tout se joue au Groupama. 🦁</div>
     }, { threshold: 0.18, rootMargin: '0px 0px -8% 0px' });
 
     targets.forEach(function (el) { io.observe(el); });
+  })();
+
+  /* Countdown to kick-off: 18 Aug 2026, 21:00 CEST = 19:00 UTC */
+  (function () {
+    var kickoff = Date.UTC(2026, 7, 18, 19, 0, 0);
+    var box = document.getElementById('cd');
+    var d = document.getElementById('cd-d'), h = document.getElementById('cd-h'),
+        m = document.getElementById('cd-m'), s = document.getElementById('cd-s');
+    function pad(n) { return n < 10 ? '0' + n : String(n); }
+    function tick() {
+      var left = kickoff - Date.now();
+      if (left <= 0) {
+        box.classList.add('done');
+        if (!box.querySelector('.cd-msg')) {
+          var p = document.createElement('p');
+          p.className = 'cd-msg';
+          p.textContent = left > -3 * 3600 * 1000 ? 'Le match a commencé.' : 'Match joué.';
+          box.appendChild(p);
+        }
+        return;
+      }
+      var sec = Math.floor(left / 1000);
+      d.textContent = Math.floor(sec / 86400);
+      h.textContent = pad(Math.floor(sec / 3600) % 24);
+      m.textContent = pad(Math.floor(sec / 60) % 60);
+      s.textContent = pad(sec % 60);
+      setTimeout(tick, 1000);
+    }
+    tick();
   })();
 </script>
