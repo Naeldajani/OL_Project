@@ -315,7 +315,14 @@ function PrivacyControls({ onWiped }: { onWiped: () => void }) {
       a.click()
       a.remove()
       URL.revokeObjectURL(url)
-      setNotice('Export téléchargé. Il contient tout ce que le service détient sur toi.')
+      // Certains contextes (aperçu intégré, navigateur verrouillé) bloquent
+      // les téléchargements : le presse-papiers reste alors la seule sortie.
+      try {
+        await navigator.clipboard.writeText(payload)
+        setNotice('Export téléchargé, et copié dans le presse-papiers en secours.')
+      } catch {
+        setNotice('Export téléchargé. Il contient tout ce que le service détient sur toi.')
+      }
     } catch {
       setNotice("L'export a échoué. Réessaie, ou écris-nous depuis la politique de confidentialité.")
     } finally {
