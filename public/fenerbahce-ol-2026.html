@@ -1,0 +1,486 @@
+<title>Le Mur de Kadıköy</title>
+<style>
+  :root {
+    --paper: #FCFCFB;
+    --surface: #FFFFFF;
+    --ink: #12161C;
+    --ink-2: #3D4654;
+    --muted: #6C7686;
+    --rule: #DFE2E8;
+    --ol: #2F6BE0;
+    --fb: #C98209;
+    --band: #F1F3F7;
+    --shadow: 0 1px 2px rgba(18,22,28,.06), 0 8px 24px rgba(18,22,28,.05);
+    --display: "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif;
+    --body: Georgia, "Iowan Old Style", "Times New Roman", serif;
+    --data: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper: #14171B;
+      --surface: #1A1E23;
+      --ink: #EDEFF2;
+      --ink-2: #C3C9D2;
+      --muted: #929BA8;
+      --rule: #2C323A;
+      --ol: #4E86EA;
+      --fb: #BB8412;
+      --band: #1F242A;
+      --shadow: 0 1px 2px rgba(0,0,0,.4), 0 8px 24px rgba(0,0,0,.3);
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper: #14171B;
+    --surface: #1A1E23;
+    --ink: #EDEFF2;
+    --ink-2: #C3C9D2;
+    --muted: #929BA8;
+    --rule: #2C323A;
+    --ol: #4E86EA;
+    --fb: #BB8412;
+    --band: #1F242A;
+    --shadow: 0 1px 2px rgba(0,0,0,.4), 0 8px 24px rgba(0,0,0,.3);
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--body);
+    font-size: 17px;
+    line-height: 1.62;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 0 22px 96px;
+    display: flex;
+    flex-direction: column;
+    gap: 46px;
+  }
+  h1, h2, h3, .kicker, .stat-n, .score, .lbl { font-family: var(--display); }
+  h2 {
+    font-size: 27px;
+    line-height: 1.15;
+    letter-spacing: -.02em;
+    font-weight: 800;
+    margin: 0;
+    text-wrap: balance;
+  }
+  h3 {
+    font-size: 15px;
+    letter-spacing: .01em;
+    font-weight: 700;
+    margin: 0;
+  }
+  p { margin: 0; }
+  section { display: flex; flex-direction: column; gap: 16px; }
+  .kicker {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: .16em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  strong { color: var(--ink); }
+  a { color: var(--ol); }
+
+  /* ---------- Scoreboard header ---------- */
+  header {
+    background: var(--ink);
+    color: #FCFCFB;
+    padding: 34px 22px 30px;
+    margin-bottom: 46px;
+    border-bottom: 4px solid var(--fb);
+  }
+  .hdr-in { max-width: 760px; margin: 0 auto; display: flex; flex-direction: column; gap: 22px; }
+  .hdr-meta {
+    font-family: var(--data);
+    font-size: 11.5px;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    color: #9AA3B0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 14px;
+  }
+  h1 {
+    font-size: clamp(38px, 9vw, 62px);
+    line-height: .95;
+    letter-spacing: -.035em;
+    font-weight: 800;
+    margin: 0;
+    text-wrap: balance;
+  }
+  h1 .sub { display: block; font-size: .34em; letter-spacing: .05em; font-weight: 600; color: #9AA3B0; margin-top: 12px; text-transform: uppercase; }
+  .fixture {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    gap: 14px;
+    border-top: 1px solid #2C323A;
+    padding-top: 20px;
+  }
+  .fx-team { font-family: var(--display); font-weight: 800; font-size: 19px; letter-spacing: -.01em; }
+  .fx-team.away { text-align: right; }
+  .fx-team em { display: block; font-family: var(--data); font-style: normal; font-size: 10.5px; letter-spacing: .12em; color: #9AA3B0; font-weight: 400; margin-top: 4px; text-transform: uppercase; }
+  .fx-vs { font-family: var(--data); font-size: 12px; color: #9AA3B0; letter-spacing: .1em; }
+
+  /* ---------- Blocks ---------- */
+  .lede { font-size: 19.5px; line-height: 1.55; color: var(--ink-2); }
+  .note {
+    background: var(--band);
+    border-left: 3px solid var(--fb);
+    padding: 14px 18px;
+    font-size: 15.5px;
+    color: var(--ink-2);
+    border-radius: 0 4px 4px 0;
+  }
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--rule);
+    border-radius: 8px;
+    padding: 20px 20px 22px;
+    box-shadow: var(--shadow);
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .cap { font-family: var(--data); font-size: 11.5px; line-height: 1.5; color: var(--muted); }
+
+  /* ---------- Legend ---------- */
+  .legend { display: flex; gap: 18px; flex-wrap: wrap; font-family: var(--display); font-size: 12.5px; font-weight: 600; color: var(--ink-2); }
+  .legend span { display: inline-flex; align-items: center; gap: 7px; }
+  .sw { width: 11px; height: 11px; border-radius: 3px; flex: none; }
+  .sw.ol { background: var(--ol); }
+  .sw.fb { background: var(--fb); }
+
+  /* ---------- Bar chart ---------- */
+  .bars { display: flex; flex-direction: column; gap: 14px; }
+  .bar-row { display: grid; grid-template-columns: 128px 1fr; gap: 14px; align-items: center; }
+  .bar-lbl { font-family: var(--display); font-size: 13px; font-weight: 600; color: var(--ink-2); line-height: 1.25; }
+  .bar-track { display: flex; align-items: center; gap: 9px; }
+  .bar {
+    height: 15px;
+    border-radius: 0 4px 4px 0;
+    min-width: 2px;
+    transition: filter .15s ease;
+  }
+  .bar.ol { background: var(--ol); }
+  .bar.fb { background: var(--fb); }
+  .bar-row:hover .bar { filter: brightness(1.12); }
+  .bar-val { font-family: var(--data); font-size: 13px; font-variant-numeric: tabular-nums; color: var(--ink); font-weight: 600; }
+
+  /* ---------- Result strip ---------- */
+  .results { display: flex; flex-direction: column; gap: 10px; }
+  .res {
+    display: grid;
+    grid-template-columns: 62px 1fr auto;
+    gap: 14px;
+    align-items: center;
+    padding: 12px 14px;
+    background: var(--surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+  }
+  .res-yr { font-family: var(--data); font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
+  .res-txt { font-size: 15px; color: var(--ink-2); }
+  .score {
+    font-size: 17px;
+    font-weight: 800;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: -.01em;
+    padding: 3px 10px;
+    border-radius: 4px;
+    white-space: nowrap;
+  }
+  .score.win { background: color-mix(in srgb, var(--ol) 15%, transparent); color: var(--ol); }
+  .score.draw { background: var(--band); color: var(--ink-2); }
+
+  /* ---------- Stat tiles ---------- */
+  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(158px, 1fr)); gap: 12px; }
+  .tile {
+    background: var(--surface);
+    border: 1px solid var(--rule);
+    border-radius: 8px;
+    padding: 16px 16px 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+  .tile.accent-ol { border-top: 3px solid var(--ol); }
+  .tile.accent-fb { border-top: 3px solid var(--fb); }
+  .stat-n { font-size: 30px; font-weight: 800; letter-spacing: -.03em; line-height: 1; font-variant-numeric: tabular-nums; }
+  .lbl { font-size: 11px; font-weight: 700; letter-spacing: .11em; text-transform: uppercase; color: var(--muted); }
+  .tile p { font-size: 13.5px; color: var(--ink-2); line-height: 1.45; }
+
+  /* ---------- Comparison table ---------- */
+  .tbl-wrap { overflow-x: auto; }
+  table { border-collapse: collapse; width: 100%; min-width: 460px; font-size: 15px; }
+  th, td { padding: 11px 12px; text-align: left; border-bottom: 1px solid var(--rule); }
+  thead th { font-family: var(--display); font-size: 11px; letter-spacing: .11em; text-transform: uppercase; color: var(--muted); font-weight: 700; }
+  td.num { font-family: var(--data); font-variant-numeric: tabular-nums; text-align: right; }
+  td.metric { color: var(--ink-2); }
+  .cell-fb { color: var(--fb); font-weight: 700; }
+  .cell-ol { color: var(--ol); font-weight: 700; }
+
+  /* ---------- Key men ---------- */
+  .men { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 12px; }
+  .man { padding: 14px 16px; border-radius: 6px; background: var(--band); display: flex; flex-direction: column; gap: 3px; }
+  .man b { font-family: var(--display); font-size: 15px; }
+  .man span { font-size: 13.5px; color: var(--ink-2); line-height: 1.45; }
+
+  /* ---------- Post copy ---------- */
+  .post {
+    background: var(--ink);
+    color: #E8EBEF;
+    border-radius: 8px;
+    padding: 24px 22px;
+    font-family: var(--data);
+    font-size: 13.5px;
+    line-height: 1.75;
+    white-space: pre-wrap;
+    overflow-x: auto;
+  }
+  ul { margin: 0; padding-left: 20px; display: flex; flex-direction: column; gap: 8px; color: var(--ink-2); font-size: 16px; }
+  li strong { color: var(--ink); }
+  .srcs { font-size: 13.5px; color: var(--muted); line-height: 1.7; }
+  .srcs a { color: var(--muted); }
+  footer { border-top: 1px solid var(--rule); padding-top: 22px; }
+  @media (max-width: 520px) {
+    .bar-row { grid-template-columns: 1fr; gap: 6px; }
+    .fixture { grid-template-columns: 1fr; text-align: left; }
+    .fx-team.away { text-align: left; }
+  }
+</style>
+
+<header>
+  <div class="hdr-in">
+    <div class="hdr-meta">
+      <span>Barrage aller · Ligue des champions 2026-27</span>
+      <span>Mardi 18 août 2026 · 21h00</span>
+      <span>Ülker Stadyumu Şükrü Saracoğlu, Istanbul</span>
+    </div>
+    <h1>Le Mur de Kadıköy
+      <span class="sub">Ce que l'OL doit ramener d'Istanbul</span>
+    </h1>
+    <div class="fixture">
+      <div class="fx-team">Fenerbahçe SK<em>Domicile · 3-0 sur Sturm Graz au T3</em></div>
+      <div class="fx-vs">— ALLER —</div>
+      <div class="fx-team away">Olympique Lyonnais<em>Extérieur · 4-2 sur le Sparta au T3</em></div>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+
+  <section>
+    <p class="lede">Quatre-vingt-dix minutes dans le stade le plus bruyant de Turquie pour garder la porte ouverte. L'OL n'a jamais perdu contre le Fenerbahçe — mais il n'a jamais gagné à Kadıköy non plus. Le programme du match aller, chiffres à l'appui.</p>
+    <div class="note"><strong>Petite correction de calendrier :</strong> le match n'est pas le 18 juillet mais le <strong>mardi 18 août 2026, 21h00</strong>. Le retour est programmé au Groupama Stadium le <strong>mardi 25 ou mercredi 26 août</strong>. Le vainqueur file en phase de ligue (premiers matchs le 8 septembre) ; le perdant bascule en Ligue Europa.</p>
+  </section>
+
+  <section>
+    <p class="kicker">Le face-à-face</p>
+    <h2>Trois rencontres, zéro victoire turque</h2>
+    <p>Les deux clubs se sont croisés trois fois en compétition européenne, et le bilan penche nettement du côté lyonnais — sans que l'OL ait jamais réussi à gagner en Turquie.</p>
+
+    <div class="results">
+      <div class="res">
+        <span class="res-yr">2004</span>
+        <span class="res-txt">C1, phase de groupes — à Istanbul</span>
+        <span class="score win">Fenerbahçe 1 – 3 OL</span>
+      </div>
+      <div class="res">
+        <span class="res-yr">2004</span>
+        <span class="res-txt">C1, phase de groupes — à Gerland</span>
+        <span class="score win">OL 4 – 2 Fenerbahçe</span>
+      </div>
+      <div class="res">
+        <span class="res-yr">2025</span>
+        <span class="res-txt">Ligue Europa, J7 — à Istanbul, 36 722 spectateurs</span>
+        <span class="score draw">Fenerbahçe 0 – 0 OL</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>Buts marqués sur les trois confrontations</h3>
+      <div class="legend">
+        <span><i class="sw ol"></i> Olympique Lyonnais</span>
+        <span><i class="sw fb"></i> Fenerbahçe</span>
+      </div>
+      <div class="bars">
+        <div class="bar-row" title="OL : 7 buts en 3 rencontres">
+          <div class="bar-lbl">OL — total</div>
+          <div class="bar-track"><div class="bar ol" style="width:100%"></div><span class="bar-val">7</span></div>
+        </div>
+        <div class="bar-row" title="Fenerbahçe : 3 buts en 3 rencontres">
+          <div class="bar-lbl">Fenerbahçe — total</div>
+          <div class="bar-track"><div class="bar fb" style="width:42.8%"></div><span class="bar-val">3</span></div>
+        </div>
+        <div class="bar-row" title="OL à Istanbul : 3 buts en 2 déplacements">
+          <div class="bar-lbl">OL à Istanbul</div>
+          <div class="bar-track"><div class="bar ol" style="width:42.8%"></div><span class="bar-val">3</span></div>
+        </div>
+        <div class="bar-row" title="Fenerbahçe à domicile contre l'OL : 1 but en 2 matchs">
+          <div class="bar-lbl">Fener à domicile<br>vs OL</div>
+          <div class="bar-track"><div class="bar fb" style="width:14.3%"></div><span class="bar-val">1</span></div>
+        </div>
+      </div>
+      <p class="cap">2 victoires OL, 1 nul, 0 victoire Fenerbahçe. Certains agrégateurs de stats affichent 5 rencontres et 4 victoires lyonnaises : ces deux matchs supplémentaires n'ont pas pu être vérifiés match par match, donc seules les trois confrontations documentées sont comptabilisées ici.</p>
+    </div>
+  </section>
+
+  <section>
+    <p class="kicker">Le chemin jusqu'ici</p>
+    <h2>Deux qualifiés, deux manières</h2>
+    <div class="tiles">
+      <div class="tile accent-ol">
+        <span class="lbl">OL · 3ᵉ tour</span>
+        <span class="stat-n">4 – 2</span>
+        <p>Battu 2-1 à Prague, puis <strong>3-0</strong> au Groupama contre un Sparta réduit à dix : Nuamah (20ᵉ), Maitland-Niles (66ᵉ), Morton (73ᵉ).</p>
+      </div>
+      <div class="tile accent-fb">
+        <span class="lbl">Fenerbahçe · 3ᵉ tour</span>
+        <span class="stat-n">3 – 0</span>
+        <p><strong>2-0</strong> à domicile face au Sturm Graz (Talisca 9ᵉ, Greenwood 45ᵉ), puis <strong>1-0</strong> en Autriche. Zéro but encaissé.</p>
+      </div>
+    </div>
+    <p>La différence de trajectoire est là : le Fenerbahçe a passé son tour sans trembler et sans encaisser, quand l'OL a dû renverser un match aller perdu. Et le calendrier ne joue pas dans le même sens — la Süper Lig a démarré, la Ligue 1 non : l'OL entamera son championnat <strong>après</strong> ce déplacement, à Toulouse le week-end des 21-23 août. Rythme de compétition contre fraîcheur physique.</p>
+  </section>
+
+  <section>
+    <p class="kicker">Les effectifs</p>
+    <h2>Le mythe du « Fener qui a une sacrée équipe » mérite une nuance</h2>
+    <p>C'est l'idée reçue à corriger avant le match : sur la valeur marchande cumulée, ce n'est pas le Fenerbahçe qui domine. L'OL présente l'effectif le plus valorisé des deux — et de loin le plus jeune.</p>
+
+    <div class="card">
+      <h3>Valeur d'effectif cumulée (Transfermarkt, saison 2026-27)</h3>
+      <div class="legend">
+        <span><i class="sw ol"></i> Olympique Lyonnais</span>
+        <span><i class="sw fb"></i> Fenerbahçe</span>
+      </div>
+      <div class="bars">
+        <div class="bar-row" title="OL : 299,2 M€">
+          <div class="bar-lbl">OL</div>
+          <div class="bar-track"><div class="bar ol" style="width:100%"></div><span class="bar-val">299,2 M€</span></div>
+        </div>
+        <div class="bar-row" title="Fenerbahçe : 247,9 M€">
+          <div class="bar-lbl">Fenerbahçe</div>
+          <div class="bar-track"><div class="bar fb" style="width:82.9%"></div><span class="bar-val">247,9 M€</span></div>
+        </div>
+      </div>
+      <p class="cap">Écart : 51,3 M€ en faveur de l'OL, soit environ 21 %. Les valeurs Transfermarkt sont des estimations de marché, pas des budgets : la masse salariale du Fenerbahçe reste, elle, très supérieure.</p>
+    </div>
+
+    <div class="tbl-wrap">
+      <table>
+        <thead>
+          <tr><th>Indicateur</th><th style="text-align:right">Fenerbahçe</th><th style="text-align:right">OL</th></tr>
+        </thead>
+        <tbody>
+          <tr><td class="metric">Valeur d'effectif</td><td class="num cell-fb">247,9 M€</td><td class="num cell-ol">299,2 M€</td></tr>
+          <tr><td class="metric">Effectif</td><td class="num">27 joueurs</td><td class="num">28 joueurs</td></tr>
+          <tr><td class="metric">Âge moyen</td><td class="num cell-fb">27,3 ans</td><td class="num cell-ol">25,1 ans</td></tr>
+          <tr><td class="metric">Bilan du 3ᵉ tour</td><td class="num">3-0 (0 encaissé)</td><td class="num">4-2</td></tr>
+          <tr><td class="metric">Championnat</td><td class="num">déjà lancé</td><td class="num">pas encore</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="cap">Lecture : l'expérience et le rythme sont turcs, le potentiel et la profondeur de valeur sont lyonnais. C'est exactement le profil de tirage où le match aller se joue sur la gestion, pas sur le talent brut.</p>
+  </section>
+
+  <section>
+    <p class="kicker">Le facteur Kadıköy</p>
+    <h2>Le vrai adversaire n'est pas dans le tableau de valeurs</h2>
+    <p>Le Şükrü Saracoğlu est le principal argument du Fenerbahçe. La dernière visite lyonnaise, en janvier 2025, s'est jouée devant <strong>36 722 spectateurs</strong> — et l'OL en est ressorti avec un 0-0 qui, ce soir-là, ressemblait à un point pris plus qu'à un match manqué.</p>
+    <div class="tiles">
+      <div class="tile accent-fb">
+        <span class="lbl">Ambiance</span>
+        <span class="stat-n">36 722</span>
+        <p>spectateurs lors du dernier Fener - OL à Istanbul.</p>
+      </div>
+      <div class="tile accent-fb">
+        <span class="lbl">Série en cours</span>
+        <span class="stat-n">9</span>
+        <p>matchs sans défaite pour le Fenerbahçe avant les barrages.</p>
+      </div>
+      <div class="tile accent-ol">
+        <span class="lbl">Déplacements OL</span>
+        <span class="stat-n">0-0</span>
+        <p>le seul résultat lyonnais à Kadıköy sur les deux visites : 1-3 en 2004, puis nul vierge en 2025.</p>
+      </div>
+    </div>
+    <p class="note">Côté déplacement : les précédents entre ces deux clubs ont été classés à risque élevé par les autorités françaises lors du retour de 2025. Pour l'aller, le parcage lyonnais est traditionnellement réduit — vérifiez la billetterie officielle de l'OL avant tout déplacement.</p>
+  </section>
+
+  <section>
+    <p class="kicker">Les hommes du match</p>
+    <h2>Qui peut faire basculer l'aller</h2>
+    <div class="men">
+      <div class="man"><b>Talisca</b><span>Fenerbahçe · buteur dès la 9ᵉ minute contre le Sturm Graz. Le point fixe offensif turc.</span></div>
+      <div class="man"><b>Mason Greenwood</b><span>Fenerbahçe · l'autre buteur du 2-0. Le joueur à ne pas laisser rentrer sur son pied gauche.</span></div>
+      <div class="man"><b>Ernest Nuamah</b><span>OL · a lancé la remontada contre le Sparta (20ᵉ). La profondeur en contre, l'arme de l'aller.</span></div>
+      <div class="man"><b>Tyler Morton</b><span>OL · buteur au retour du T3. La maîtrise au milieu, condition n°1 pour survivre au bruit.</span></div>
+      <div class="man"><b>Ainsley Maitland-Niles</b><span>OL · buteur lui aussi. Polyvalence précieuse sur un déplacement à gérer.</span></div>
+      <div class="man"><b>Paulo Fonseca</b><span>OL · entraîneur. Connaît le football turc et les ambiances chaudes ; le plan de match lui appartient.</span></div>
+    </div>
+  </section>
+
+  <section>
+    <p class="kicker">La grille de lecture</p>
+    <h2>Ce qu'il faut regarder mardi soir</h2>
+    <ul>
+      <li><strong>La première demi-heure.</strong> Les deux buts du Fener contre le Sturm sont tombés en première période, dont un à la 9ᵉ. Passer le quart d'heure initial sans encaisser, c'est déjà la moitié du travail.</li>
+      <li><strong>Un but à l'extérieur reste un but à l'extérieur.</strong> La règle ne s'applique plus, mais un 1-1 à Istanbul reste un résultat que l'OL signerait — il transforme le retour en match à gagner simplement.</li>
+      <li><strong>La possession n'est pas l'objectif.</strong> Le 0-0 de 2025 a été obtenu en subissant proprement. Ne jugez pas ce match aller sur les statistiques de ballon.</li>
+      <li><strong>La fraîcheur lyonnaise.</strong> Sans match de championnat dans les jambes, l'OL peut aborder l'aller avec plus de jus — mais aussi moins d'automatismes. C'est la vraie inconnue.</li>
+    </ul>
+  </section>
+
+  <section>
+    <p class="kicker">À copier-coller</p>
+    <h2>La version courte, pour les réseaux</h2>
+    <div class="post">🔵🔴 FENERBAHÇE – OL · Barrage aller C1
+📅 Mardi 18 août, 21h00 · Şükrü Saracoğlu, Istanbul
+
+LE FACE-À-FACE
+• 3 rencontres : 2 victoires OL, 1 nul, 0 victoire Fener
+• 7 buts marqués par l'OL, 3 par le Fener
+• Mais 0 victoire lyonnaise à Kadıköy (1-3 en 2004, 0-0 en 2025)
+
+LE CHEMIN
+• OL : 4-2 sur le Sparta Prague (1-2 puis 3-0)
+• Fener : 3-0 sur le Sturm Graz, sans encaisser
+
+LES EFFECTIFS
+• OL : 299,2 M€ — 28 joueurs — 25,1 ans de moyenne
+• Fener : 247,9 M€ — 27 joueurs — 27,3 ans de moyenne
+👉 Non, le Fener n'a pas l'effectif le plus cher. Il a l'expérience et le rythme.
+
+LE FACTEUR X
+• 36 722 spectateurs au dernier Fener-OL
+• 9 matchs sans défaite pour le Fener
+• La Ligue 1 n'a pas commencé : l'OL arrive frais, mais sans repères
+
+Un nul ramené d'Istanbul, et tout se jouera au Groupama. 🦁</div>
+  </section>
+
+  <footer>
+    <p class="srcs"><strong>Sources</strong> —
+      <a href="https://www.uefa.com/uefachampionsleague/match/2049213--fenerbahce-vs-lyon/">UEFA.com (fiche du match)</a> ·
+      <a href="https://www.matchendirect.fr/live-score/fenerbahce-lyon_a0l58ek8dh8m7ocxcv3x9tjpw.html">Matchendirect (date et horaire)</a> ·
+      <a href="https://www.uefa.com/uefachampionsleague/match/79497--fenerbahce-vs-lyon/">UEFA — Fenerbahçe 1-3 Lyon, 2004/05</a> ·
+      <a href="https://www.uefa.com/uefachampionsleague/match/79499--lyon-vs-fenerbahce/">UEFA — Lyon 4-2 Fenerbahçe, 2004/05</a> ·
+      <a href="https://www.espn.com/soccer/match/_/gameId/720481/lyon-fenerbahce">ESPN — Fenerbahçe 0-0 Lyon, 23/01/2025</a> ·
+      <a href="https://www.footmercato.net/live/6961229653915242214-lyon-vs-sparta-prague">Foot Mercato — OL 3-0 Sparta Prague</a> ·
+      <a href="https://www.espn.com/soccer/match/_/gameId/401902674/sk-sturm-graz-fenerbahce">ESPN — Fenerbahçe 2-0 Sturm Graz</a> ·
+      <a href="https://www.espn.com/soccer/match/_/gameId/401902700/fenerbahce-sk-sturm-graz">ESPN — Sturm Graz 0-1 Fenerbahçe</a> ·
+      <a href="https://www.transfermarkt.us/fenerbahce/kader/verein/36">Transfermarkt — effectif Fenerbahçe</a> ·
+      <a href="https://www.transfermarkt.us/olympique-lyon/kader/verein/1041">Transfermarkt — effectif OL</a> ·
+      <a href="https://www.lyonfoot.com/article/13906/ol-fenerbahce-2-220-supporters-turcs-attendus-le-match-classe-a-risque-eleve">Lyon Foot — classement à risque</a> ·
+      <a href="https://billetterie.ol.fr/fr/fenerbahce-sk-ol">Billetterie OL</a>
+    </p>
+  </footer>
+</div>
