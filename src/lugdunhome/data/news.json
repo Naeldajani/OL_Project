@@ -1,11 +1,45 @@
 {
- "updatedAt": "2026-08-15T12:58:36+00:00",
+ "updatedAt": "2026-08-15T15:34:03+00:00",
  "sources": [
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "prtsparlolbenlahlouetmolebeontconnudespremires",
+   "title": "Prêtés par l'OL, Benlahlou et Molebe ont connu des premières",
+   "summary": "Prêté cette saison pour s'aguerrir au haut niveau, Daryll Benlahlou a connu ses premières minutes en professionnel avec Montpellier. De son côté, Enzo Molebe s'est illustré avec un doublé avec Lausanne Sports.",
+   "url": "https://www.olympique-et-lyonnais.com/pretes-par-lol-benlahlou-et-molebe-ont-connu-des-premieres,404923.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHPc6bm-WkAAWcYr-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-15T14:50:00+00:00"
+  },
+  {
+   "id": "ollyonnesmicahetwaksmanontretouchleballon",
+   "title": "OL Lyonnes : Micah et Waksman ont retouché le ballon",
+   "summary": "En plus des séances collectives, certaines joueuses d’OL Lyonnes profitent du stage en Allemagne pour retrouver des sensations individuelles. C’est notamment le cas pour Teagan Micah et Giovanna Waksman.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-micah-et-waksman-ont-retouche-le-ballon,404908.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F12%2FAFP__20251015__2240814874__v2__HighRes__OlLyonnesVSknStPoltenUefaWomenSChampionsLeag-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-08-15T14:00:00+00:00"
+  },
+  {
+   "id": "mercatoathekameenditplussurlesraisonsdesonarrivelol",
+   "title": "Mercato : Athekame en dit plus sur les raisons de son arrivée à l’OL",
+   "summary": "Huitième recrue de l’été, Zachary Athekame vient renforcer le secteur défensif de l’OL. Le latéral droit souligne encore le discours tenu par la direction sportive pour le convaincre.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-athekame-en-dit-plus-sur-les-raisons-de-son-arrivee-a-lol,404914.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAthekame-est-prete-a-lOL-pour-une-saison-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-15T13:10:00+00:00"
+  },
   {
    "id": "lesjoueusesdollyonnesontreulavisitedunpilotedef1",
    "title": "Les joueuses d’OL Lyonnes ont reçu la visite d’un pilote de F1",
@@ -27,6 +61,17 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260812__HL_BPAVAN_3254206__v1__HighRes__FranceLyonSportFootballChampionsLeagu-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-15T11:30:00+00:00"
+  },
+  {
+   "id": "olgalatasaraysinvitedanslebrasdefer40m",
+   "title": "OL : Galatasaray s’invite dans le bras de fer à 40 M€ !",
+   "summary": "Le dossier Malick Fofana connaît un nouveau rebondissement sur le marché des transferts. Galatasaray vient désormais concurrencer l’AS Roma pour l’international belge, dont l’OL attend toujours 40 M€.",
+   "url": "https://www.butfootballclub.fr/1690815-ol-galatasaray-sinvite-dans-le-bras-de-fer-a-40-me/",
+   "source": "But! Football Club",
+   "author": "Wladimir DELCROS",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fbac5d610-ol-galatasaray-sinvite-dans-le-bras-de-fer-a-40-m-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-15T11:09:07+00:00"
   },
   {
    "id": "quiestemememlemystrieuxraccommodeurdetrottoirslyonnais",
@@ -104,39 +149,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAFP__20260626__B8G22MY__v1__HighRes__FblFraLigue1Lyon-e1782727262141-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-08-15T07:30:00+00:00"
-  },
-  {
-   "id": "fenerbahelancesonchampionnatavantlematchcontrelol",
-   "title": "Fenerbahçe lance son championnat avant le match contre l'OL",
-   "summary": "Trois jours avant d'affronter l'OL en C1, Fenerbahçe se déplace ce samedi sur la pelouse du Gençlerbirliği SK en ouverture du championnat. Avant de recevoir l'OL, le Fenerbahçe reprendra d'abord le chemin de son championnat.",
-   "url": "https://www.olympique-et-lyonnais.com/fenerbahce-lance-son-championnat-avant-le-match-contre-lol,404856.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Thomas Dioudonnat",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20250124__2195550164__v3__HighRes__FenerbahceSkVOlympiqueLyonnaisUefaEuropaLeag-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-15T06:45:00+00:00"
-  },
-  {
-   "id": "liguedeschampionsathekamenepourrajouerlebarrageolfenerbahe",
-   "title": "Ligue des champions : Athekame ne pourra jouer le barrage OL - Fenerbahçe",
-   "summary": "Nouvelle recrue de l'OL depuis vendredi soir, Zachary Athekame fera ses débuts en Ligue 1. Le latéral droit ne peut être inscrit sur la liste lyonnaise pour le barrage de Ligue des champions, la date limite ayant été dépassée ainsi que le délai trop long pour la qualification au niveau national.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-des-champions-athekame-ne-pourra-jouer-le-barrage-ol-fenerbahce,404858.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20250930__maffia-acmilanv250928_npizv__v1__HighRes__AcMilanVSscNapoliSerieAEnil-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-15T06:00:00+00:00"
-  },
-  {
-   "id": "cyrilledolceexoljesuisestampilllyoncestgravvie",
-   "title": "Cyrille Dolce (ex-OL) : \"Je suis estampillé Lyon, c'est gravé à vie\"",
-   "summary": "ENTRETIEN - Formateur historique de l'OL, Cyrille Dolce aura contribué, pendant plusieurs décennies, à polir les diamants bruts de l'Académie pour les transformer en jeunes hommes accomplis.",
-   "url": "https://www.olympique-et-lyonnais.com/cyrille-dolce-ex-ol-je-suis-estampille-lyon-cest-grave-a-vie,404867.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Thomas Dioudonnat",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2021%2F07%2FCyrille-Dolce-e1625293783899-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-15T05:30:00+00:00"
   },
   {
    "id": "liquidationjudiciairelancelamarquisecoulelyon",
