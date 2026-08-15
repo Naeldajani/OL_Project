@@ -48,6 +48,22 @@ const matchById = new Map(seedMatches.map((m) => [m.id, m]))
 export const localBackend: Backend = {
   kind: 'local',
 
+  async exportMyData() {
+    return {
+      exportedAt: new Date().toISOString(),
+      source: 'local',
+      profil: read<unknown>(K.user, null),
+      notes: read<unknown>(K.ratings, {}),
+      hommeDuMatch: read<unknown>(K.motm, {}),
+      debats: read<unknown>(K.debate, {}),
+      pronostics: read<unknown>(K.predictions, {}),
+    }
+  },
+
+  async deleteMyData() {
+    for (const key of Object.values(K)) localStorage.removeItem(key)
+  },
+
   async getUser(): Promise<LhUser> {
     // Le compte fait autorité sur le pseudo et l'avatar : sans ça, changer
     // de compte sur le même appareil garderait l'ancienne identité.

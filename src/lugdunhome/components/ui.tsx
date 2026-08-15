@@ -1,4 +1,4 @@
-import type { ReactNode } from 'react'
+import { useState, type ReactNode } from 'react'
 import CrestBadge from '../../components/CrestBadge'
 import { PHOTO_MANIFEST } from '../../data/photo-manifest'
 import { creditLine } from '../lib/credits'
@@ -185,6 +185,57 @@ export function Pill({
     >
       {children}
     </span>
+  )
+}
+
+/**
+ * Rubrique repliable.
+ *
+ * L'accueil empilait sept blocs de plein pied : tout était visible, donc
+ * plus rien ne ressortait. Chaque thème est désormais une rubrique, et seules
+ * celles qui comptent après un match s'ouvrent d'elles-mêmes.
+ */
+export function Rubric({
+  icon,
+  title,
+  hint,
+  badge,
+  defaultOpen = false,
+  children,
+}: {
+  icon: string
+  title: string
+  hint?: string
+  badge?: ReactNode
+  defaultOpen?: boolean
+  children: ReactNode
+}) {
+  const [open, setOpen] = useState(defaultOpen)
+
+  return (
+    <section className="lh-card overflow-hidden">
+      <button
+        onClick={() => setOpen((o) => !o)}
+        aria-expanded={open}
+        className="flex w-full items-center gap-3 px-4 py-3.5 text-left transition-colors hover:bg-white/[0.03]"
+      >
+        <span className="grid h-9 w-9 shrink-0 place-items-center rounded-xl bg-lh-void text-lg">
+          {icon}
+        </span>
+        <span className="min-w-0 flex-1">
+          <span className="lh-display block text-lg leading-tight">{title}</span>
+          {hint && <span className="block truncate text-[11px] text-lh-muted">{hint}</span>}
+        </span>
+        {badge}
+        <span
+          className={`shrink-0 text-lh-muted transition-transform ${open ? 'rotate-180' : ''}`}
+          aria-hidden
+        >
+          ▾
+        </span>
+      </button>
+      {open && <div className="border-t border-lh-line px-4 py-4">{children}</div>}
+    </section>
   )
 }
 

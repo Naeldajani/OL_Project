@@ -171,9 +171,20 @@ function MatchSheet({ matchId, match }: { matchId: string; match: ReturnType<typ
               </div>
             ))}
         </div>
+        {ol.some((p) => p.role === 'entre') && (
+          <>
+            <div className="lh-eyebrow mb-2 mt-4">Entrés en jeu</div>
+            <p className="text-xs text-lh-muted">
+              {ol
+                .filter((p) => p.role === 'entre')
+                .map((p) => (p.minute ? `${p.player} (${p.minute}ᵉ)` : p.player))
+                .join(' · ')}
+            </p>
+          </>
+        )}
         {ol.some((p) => p.role === 'banc') && (
           <>
-            <div className="lh-eyebrow mb-2 mt-4">Banc</div>
+            <div className="lh-eyebrow mb-2 mt-4">Banc non utilisé</div>
             <p className="text-xs text-lh-muted">
               {ol
                 .filter((p) => p.role === 'banc')

@@ -117,6 +117,10 @@ export default function Layout({ children }: { children: ReactNode }) {
           sous licence libre Wikimedia Commons.{' '}
           <Link to="/mentions-legales" className="font-semibold underline underline-offset-2">
             Mentions légales et crédits
+          </Link>{' '}
+          ·{' '}
+          <Link to="/confidentialite" className="font-semibold underline underline-offset-2">
+            Confidentialité
           </Link>
         </p>
       </footer>

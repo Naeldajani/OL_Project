@@ -141,8 +141,24 @@ create policy "ecriture pronos" on predictions
 create policy "maj pronos" on predictions
   for update using (auth.uid() = user_id) with check (auth.uid() = user_id);
 
--- Droit à l'effacement (RGPD) : supprimer le compte dans auth.users emporte
--- profil, notes, votes et pronostics par cascade.
+-- Droit à l'effacement (RGPD art. 17). Deux chemins mènent au même résultat :
+-- supprimer le compte dans auth.users emporte tout par cascade, et le bouton
+-- « Supprimer mon compte » de l'application efface table par table. Le second
+-- a besoin de politiques de suppression explicites — sans elles, RLS refuse
+-- silencieusement et l'utilisateur croit ses données parties.
 drop policy if exists "suppression pronos" on predictions;
+drop policy if exists "suppression notes" on player_ratings;
+drop policy if exists "suppression hdm" on motm_votes;
+drop policy if exists "suppression debats" on debate_votes;
+drop policy if exists "suppression profil" on profiles;
+
 create policy "suppression pronos" on predictions
   for delete using (auth.uid() = user_id);
+create policy "suppression notes" on player_ratings
+  for delete using (auth.uid() = user_id);
+create policy "suppression hdm" on motm_votes
+  for delete using (auth.uid() = user_id);
+create policy "suppression debats" on debate_votes
+  for delete using (auth.uid() = user_id);
+create policy "suppression profil" on profiles
+  for delete using (auth.uid() = id);

@@ -3,10 +3,14 @@ import { seedPlayers } from '../../data/seed-players'
 
 export interface LineupEntry {
   player: string
-  role: 'titulaire' | 'banc'
+  /** « entre » = remplaçant réellement entré en jeu, relevé sur la feuille de
+   *  match ; « banc » = resté assis, donc non notable. */
+  role: 'titulaire' | 'banc' | 'entre'
   shirt: string
   position: string
   nationality: string
+  /** minute d'entrée pour un remplaçant, de sortie pour un titulaire */
+  minute?: string
 }
 
 interface RawLineup {

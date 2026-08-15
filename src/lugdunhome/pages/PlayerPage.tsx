@@ -245,7 +245,8 @@ export default function PlayerPage() {
                   </div>
                   <div className="text-[10px] text-lh-muted">
                     {formatShortDate(m.date)} · {m.competition}
-                    {a.role === 'banc' && ' · entré en jeu'}
+                    {a.role === 'entre' && ' · entré en jeu'}
+                    {a.role === 'banc' && ' · sur le banc'}
                   </div>
                 </div>
                 <div className="w-20 shrink-0">

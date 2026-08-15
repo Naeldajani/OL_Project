@@ -10,10 +10,10 @@
   body {
     @apply bg-lh-void text-lh-text antialiased;
     font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    /* stadium floodlight wash, fixed so it doesn't scroll away */
+    /* halo de projecteurs, fixé pour ne pas défiler avec la page */
     background-image:
-      radial-gradient(ellipse 90% 55% at 50% -10%, rgba(225, 0, 15, 0.16), transparent 70%),
-      radial-gradient(ellipse 70% 50% at 85% 0%, rgba(201, 162, 39, 0.09), transparent 65%);
+      radial-gradient(ellipse 90% 55% at 50% -10%, rgba(225, 0, 15, 0.13), transparent 70%),
+      radial-gradient(ellipse 70% 50% at 85% 0%, rgba(201, 162, 39, 0.08), transparent 65%);
     background-attachment: fixed;
   }
   ::selection {
