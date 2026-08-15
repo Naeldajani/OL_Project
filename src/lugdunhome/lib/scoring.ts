@@ -1,6 +1,6 @@
 import type { Match } from '../../lib/types'
 import type { Prediction } from './types'
-import { bonusCorrect, bonusFor, labelOf } from './bonuses'
+import { bonusCorrect, bonusFor, labelOf, pointsFor } from './bonuses'
 
 export const POINTS = {
   exactScore: 5,
@@ -31,7 +31,7 @@ export function scorePrediction(p: Prediction, match: Match): number {
   const choice = p.bonusChoice ?? p.scorerId
   if (choice) {
     const bonus = bonusFor(p.matchId)
-    if (bonusCorrect(bonus, choice, match)) pts += bonus.points
+    if (bonusCorrect(bonus, choice, match)) pts += pointsFor(bonus, choice)
   }
   return pts
 }
@@ -59,7 +59,7 @@ export function explainPrediction(p: Prediction, match: Match): string[] {
   if (choice) {
     const bonus = bonusFor(p.matchId)
     if (bonusCorrect(bonus, choice, match)) {
-      out.push(`${labelOf(bonus, choice)} +${bonus.points}`)
+      out.push(`${labelOf(bonus, choice)} +${pointsFor(bonus, choice)}`)
     }
   }
   if (!out.length) out.push('Aucun point')

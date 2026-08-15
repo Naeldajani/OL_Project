@@ -69,19 +69,14 @@ export default function HomePage() {
           <MatchHero match={match} />
           {winState && <CountdownBanner state={winState} msLeft={live.msLeft} />}
 
-          {/* Les trois gestes de l'après-match, atteignables sans passer par
-              la page du match : c'est la raison d'être de l'écran d'accueil. */}
-          <div className="grid grid-cols-3 gap-2">
-            <ButtonLink to={`/matchs/${match.id}#notes`} variant="primary" icon="⭐" full>
-              Noter
-            </ButtonLink>
-            <ButtonLink to={`/matchs/${match.id}#hdm`} variant="secondary" icon="🏅" full>
-              Homme du match
-            </ButtonLink>
-            <ButtonLink to={`/matchs/${match.id}#debat`} variant="secondary" icon="🗣️" full>
-              Débattre
-            </ButtonLink>
-          </div>
+          {/* Une seule porte d'entrée après le match : « Réaction » déroule
+              score, prono, notes, vote et débat dans l'ordre où on y pense. */}
+          <ButtonLink to={`/reaction/${match.id}`} variant="primary" size="lg" icon="🔥" full>
+            Réagir au match
+          </ButtonLink>
+          <p className="-mt-1 text-center text-[11px] text-lh-muted">
+            Ton prono, tes notes du onze, le vote du Kop et le débat — d’un seul défilement.
+          </p>
         </div>
       </section>
 

@@ -11,10 +11,11 @@ const NAV = [
   { to: '/infol', label: "Inf'OL", icon: '📰' },
   { to: '/matchs', label: 'Matchs', icon: '⚽' },
   { to: '/pronos', label: 'Pronos', icon: '🔮' },
-  { to: '/debats', label: 'Débats', icon: '🗣️' },
+  { to: '/mercato', label: "Mercat'OL", icon: '🔁' },
 ]
 
 const SECONDARY: typeof NAV = [
+  { to: '/debats', label: 'Débats', icon: '🗣️' },
   { to: '/data', label: 'Data', icon: '📊' },
   { to: '/classements', label: 'Classements', icon: '🏆' },
 ]
