@@ -1,12 +1,33 @@
 {
- "updatedAt": "2026-08-15T15:34:03+00:00",
+ "updatedAt": "2026-08-15T18:46:53+00:00",
  "sources": [
-  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "can2026bekhaledollyonnessurlebancpourlapetitefinale",
+   "title": "CAN 2026 : Bekhaled (OL Lyonnes) sur le banc pour la petite finale",
+   "summary": "Après avoir échoué à prendre le meilleur sur le Malawi en demi-finale, l'Algérie va tenter de finir sur une note positive face au Maroc. Pour la petite finale de la CAN 2026, Sofia Bekhaled est sur le banc.",
+   "url": "https://www.olympique-et-lyonnais.com/can-2026-bekhaled-ol-lyonnes-sur-le-banc-pour-la-petite-finale,404932.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FCapture-decran-2026-02-06-a-17.42.50-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-08-15T16:20:00+00:00"
+  },
+  {
+   "id": "mercatozeffaneexollessaiaugoalfc",
+   "title": "Mercato : Zeffane (ex-OL) à l’essai au GOAL FC",
+   "summary": "Libre depuis la fin de son aventure à l’ES Mostaganem en janvier dernier, Mehdi Zeffane pourrait bien rebondir dans la région lyonnaise. L’ancien latéral de l’OL est à l’essai au GOAL FC depuis plusieurs semaines.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-zeffane-ex-ol-a-lessai-au-goal-fc,404919.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F06%2F000_33E68KZ-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-15T15:35:00+00:00"
+  },
   {
    "id": "prtsparlolbenlahlouetmolebeontconnudespremires",
    "title": "Prêtés par l'OL, Benlahlou et Molebe ont connu des premières",
@@ -63,17 +84,6 @@
    "publishedAt": "2026-08-15T11:30:00+00:00"
   },
   {
-   "id": "olgalatasaraysinvitedanslebrasdefer40m",
-   "title": "OL : Galatasaray s’invite dans le bras de fer à 40 M€ !",
-   "summary": "Le dossier Malick Fofana connaît un nouveau rebondissement sur le marché des transferts. Galatasaray vient désormais concurrencer l’AS Roma pour l’international belge, dont l’OL attend toujours 40 M€.",
-   "url": "https://www.butfootballclub.fr/1690815-ol-galatasaray-sinvite-dans-le-bras-de-fer-a-40-me/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fbac5d610-ol-galatasaray-sinvite-dans-le-bras-de-fer-a-40-m-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-15T11:09:07+00:00"
-  },
-  {
    "id": "quiestemememlemystrieuxraccommodeurdetrottoirslyonnais",
    "title": "Qui est Ememem, le mystérieux \"raccommodeur de trottoirs\" lyonnais ?",
    "summary": "Depuis 2016, Ememem répare les trottoirs abîmés de Lyon avec des mosaïques colorées réalisées à partir de carreaux récupérés. Baptisée \"flacking\", sa pratique née sur les pentes de la Croix-Rousse s’est depuis exportée dans de nombreuses villes, de Paris à New York.",
@@ -127,28 +137,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a8024d8a17c1-54757957087-ab5bbb6e3c-o.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-15T08:34:00+00:00"
-  },
-  {
-   "id": "ollyonnesprofitezdunavantagede5enoptantpourlabonnementflex",
-   "title": "OL Lyonnes : profitez d'un avantage de 5€ en optant pour l'abonnement \"Flex\"",
-   "summary": "À trois semaines de la reprise du championnat, OL Lyonnes espère pouvoir fidéliser un maximum de supporters pour la saison 2026-2027. En ce sens, le club a lancé un abonnement \"Flex\" avec quatre matchs imposés et quatre autres au choix.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-profitez-dun-avantage-de-5e-en-optant-pour-labonnement-flex,404892.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FOLL-abonnement-2627-FLEX-1080x1350-1-e1786781330260-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-08-15T08:15:00+00:00"
-  },
-  {
-   "id": "olmatthieulouisjeanaeudesoffresdurantlt",
-   "title": "OL : Matthieu Louis-Jean a eu des offres durant l’été",
-   "summary": "Nommé directeur sportif de l’OL au début de l’été, Matthieu Louis-Jean a eu des touches à l’étranger. Toutefois, il a préféré jouer sur la continuité dans la capitale des Gaules. Il n’y a pas que sur le terrain que le mercato bat son plein.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-matthieu-louis-jean-a-eu-des-offres-durant-lete,404888.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAFP__20260626__B8G22MY__v1__HighRes__FblFraLigue1Lyon-e1782727262141-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-15T07:30:00+00:00"
   },
   {
    "id": "liquidationjudiciairelancelamarquisecoulelyon",
