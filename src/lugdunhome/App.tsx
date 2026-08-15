@@ -15,6 +15,7 @@ import ClassementsPage from './pages/ClassementsPage'
 import ProfilPage from './pages/ProfilPage'
 import PlayerPage from './pages/PlayerPage'
 import LegalPage from './pages/LegalPage'
+import PrivacyPage from './pages/PrivacyPage'
 
 export default function App() {
   return (
@@ -50,6 +51,7 @@ function Gate() {
         <Route path="/profil" element={<ProfilPage />} />
         <Route path="/joueur/:name" element={<PlayerPage />} />
         <Route path="/mentions-legales" element={<LegalPage />} />
+        <Route path="/confidentialite" element={<PrivacyPage />} />
       </Routes>
     </Layout>
   )

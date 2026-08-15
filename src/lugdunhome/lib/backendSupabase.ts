@@ -61,6 +61,38 @@ const matchById = new Map(seedMatches.map((m) => [m.id, m]))
 export const supabaseBackend: Backend = {
   kind: 'supabase',
 
+  async exportMyData() {
+    const id = deviceId()
+    const [profil, notes, hommeDuMatch, debats, pronostics] = await Promise.all([
+      rest<unknown[]>(`profiles?id=eq.${id}&select=*`),
+      rest<unknown[]>(`player_ratings?user_id=eq.${id}&select=*`),
+      rest<unknown[]>(`motm_votes?user_id=eq.${id}&select=*`),
+      rest<unknown[]>(`debate_votes?user_id=eq.${id}&select=*`),
+      rest<unknown[]>(`predictions?user_id=eq.${id}&select=*`),
+    ])
+    return {
+      exportedAt: new Date().toISOString(),
+      source: 'supabase',
+      profil: (profil as unknown[])[0] ?? null,
+      notes,
+      hommeDuMatch,
+      debats,
+      pronostics,
+    }
+  },
+
+  async deleteMyData() {
+    const id = deviceId()
+    // Les politiques RLS n'autorisent la suppression que de ses propres
+    // lignes : un identifiant forgé ne toucherait rien.
+    for (const table of ['player_ratings', 'motm_votes', 'debate_votes', 'predictions', 'profiles']) {
+      const column = table === 'profiles' ? 'id' : 'user_id'
+      await rest(`${table}?${column}=eq.${id}`, { method: 'DELETE' }).catch(() => {
+        /* une table déjà vide renvoie une erreur qui ne doit pas tout arrêter */
+      })
+    }
+  },
+
   async getUser(): Promise<LhUser> {
     const id = deviceId()
     const rows = await rest<LhUser[]>(`profiles?id=eq.${id}&select=*`)

@@ -287,6 +287,100 @@ export default function ProfilPage() {
           </ButtonLink>
         </div>
       </Card>
+
+      <PrivacyControls onWiped={signOut} />
     </div>
+  )
+}
+
+/** Droits d'accès, de portabilité et d'effacement, exercés sur place.
+ *  Une politique de confidentialité qui renvoie à un e-mail est un droit
+ *  théorique ; ces deux boutons le rendent effectif. */
+function PrivacyControls({ onWiped }: { onWiped: () => void }) {
+  const [busy, setBusy] = useState<'export' | 'delete' | null>(null)
+  const [confirming, setConfirming] = useState(false)
+  const [notice, setNotice] = useState<string | null>(null)
+
+  const exportData = async () => {
+    setBusy('export')
+    setNotice(null)
+    try {
+      const payload = JSON.stringify(await backend.exportMyData(), null, 2)
+      const blob = new Blob([payload], { type: 'application/json' })
+      const url = URL.createObjectURL(blob)
+      const a = document.createElement('a')
+      a.href = url
+      a.download = `lugdunhome-mes-donnees-${new Date().toISOString().slice(0, 10)}.json`
+      document.body.appendChild(a)
+      a.click()
+      a.remove()
+      URL.revokeObjectURL(url)
+      setNotice('Export téléchargé. Il contient tout ce que le service détient sur toi.')
+    } catch {
+      setNotice("L'export a échoué. Réessaie, ou écris-nous depuis la politique de confidentialité.")
+    } finally {
+      setBusy(null)
+    }
+  }
+
+  const wipe = async () => {
+    setBusy('delete')
+    setNotice(null)
+    try {
+      await backend.deleteMyData()
+      setConfirming(false)
+      onWiped()
+    } catch {
+      setNotice('La suppression a échoué. Réessaie dans un instant.')
+      setBusy(null)
+    }
+  }
+
+  return (
+    <Card className="p-4">
+      <div className="lh-eyebrow mb-2">🔒 Tes données</div>
+      <p className="mb-3 text-xs leading-relaxed text-lh-muted">
+        Tu peux récupérer une copie complète de ce que le service détient, ou tout effacer. Aucune
+        justification n’est demandée, aucun délai n’est imposé.
+      </p>
+
+      {notice && (
+        <p className="mb-3 rounded-xl border border-lh-line bg-lh-raised px-3 py-2 text-[12px] text-lh-text">
+          {notice}
+        </p>
+      )}
+
+      <div className="flex flex-wrap gap-2">
+        <Button variant="secondary" size="sm" loading={busy === 'export'} onClick={exportData}>
+          Exporter mes données
+        </Button>
+
+        {confirming ? (
+          <>
+            <Button variant="danger" size="sm" loading={busy === 'delete'} onClick={wipe}>
+              Confirmer la suppression
+            </Button>
+            <Button variant="ghost" size="sm" onClick={() => setConfirming(false)}>
+              Annuler
+            </Button>
+          </>
+        ) : (
+          <Button variant="danger" size="sm" onClick={() => setConfirming(true)}>
+            Supprimer mon compte
+          </Button>
+        )}
+
+        <ButtonLink to="/confidentialite" variant="ghost" size="sm">
+          Politique de confidentialité
+        </ButtonLink>
+      </div>
+
+      {confirming && (
+        <p className="mt-3 text-[11px] leading-relaxed text-red-300">
+          Cette action efface ton profil, tes notes, tes votes et tes pronostics. Elle est
+          irréversible — pense à exporter avant.
+        </p>
+      )}
+    </Card>
   )
 }

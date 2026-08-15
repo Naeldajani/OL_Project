@@ -80,4 +80,10 @@ export interface Backend {
   getMyPredictions(): Promise<Prediction[]>
 
   getLeaderboard(): Promise<LeaderboardRow[]>
+
+  /** Copie complète des données de l'utilisateur, pour le droit d'accès et
+   *  de portabilité (RGPD art. 15 et 20). */
+  exportMyData(): Promise<unknown>
+  /** Effacement de tout ce qui est rattaché au compte (RGPD art. 17). */
+  deleteMyData(): Promise<void>
 }

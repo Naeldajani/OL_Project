@@ -1,4 +1,5 @@
 import { useMemo, useState } from 'react'
+import { Link } from 'react-router-dom'
 import { Card, Pill, SectionTitle } from '../components/ui'
 import { allCredits, creditsByLicence } from '../lib/credits'
 import { newsSources } from '../lib/news'
@@ -76,6 +77,12 @@ export default function LegalPage() {
           </li>
           <li>Sans compte, tout reste sur l'appareil et ne quitte jamais le navigateur.</li>
         </ul>
+        <Link
+          to="/confidentialite"
+          className="mt-3 inline-block text-xs font-black text-lh-redSoft underline underline-offset-2"
+        >
+          Lire la politique de confidentialité complète →
+        </Link>
       </Card>
 
       <Card className="p-4">
