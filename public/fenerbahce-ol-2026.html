@@ -133,7 +133,7 @@
   .bar.ol { background: var(--ol); }
   .bar.fb { background: var(--fb); }
   .bar-row:hover .bar { filter: brightness(1.14) saturate(1.1); }
-  .bar-val { font-family: var(--data); font-size: 12.5px; font-variant-numeric: tabular-nums; color: var(--ink); font-weight: 600; }
+  .bar-val { font-family: var(--data); font-size: 12.5px; font-variant-numeric: tabular-nums; color: var(--ink); font-weight: 600; white-space: nowrap; }
 
   /* ---------- Results ---------- */
   .results { display: flex; flex-direction: column; gap: 8px; }
@@ -226,10 +226,12 @@
   }
   .line { display: flex; justify-content: center; gap: 6px; flex-wrap: wrap; }
   .pl {
-    font-family: var(--display); font-size: 11.5px; font-weight: 700; line-height: 1.1;
-    padding: 6px 8px; border-radius: 5px; text-align: center;
+    font-family: var(--display); font-size: 10px; font-weight: 700; line-height: 1.15;
+    padding: 6px 3px; letter-spacing: -.01em; border-radius: 5px; text-align: center;
     background: var(--surface); border: 1px solid var(--rule);
     color: var(--ink); flex: 1 1 0; min-width: 0;
+    overflow-wrap: break-word; hyphens: manual;
+    display: flex; align-items: center; justify-content: center;
     opacity: 0; transform: translateY(6px) scale(.94);
     transition: opacity .45s var(--ease), transform .45s var(--ease), border-color .2s ease;
   }
@@ -419,7 +421,7 @@
         <div class="pitch-head"><b>Fenerbahçe</b><span>4-3-3</span></div>
         <div class="pitch">
           <div class="line"><span class="pl">Günok</span></div>
-          <div class="line"><span class="pl">Semedo</span><span class="pl">Škriniar</span><span class="pl">Aké</span><span class="pl">Oosterwolde</span></div>
+          <div class="line"><span class="pl">Semedo</span><span class="pl">Škriniar</span><span class="pl">Aké</span><span class="pl">Oos&shy;terwolde</span></div>
           <div class="line"><span class="pl">Kanté</span><span class="pl">Guendouzi</span><span class="pl">Asensio</span></div>
           <div class="line"><span class="pl">Aktürkoğlu</span><span class="pl">Talisca</span><span class="pl">Greenwood</span></div>
         </div>
