@@ -1,12 +1,66 @@
 {
- "updatedAt": "2026-08-15T09:39:44+00:00",
+ "updatedAt": "2026-08-15T12:58:36+00:00",
  "sources": [
-  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "lesjoueusesdollyonnesontreulavisitedunpilotedef1",
+   "title": "Les joueuses d’OL Lyonnes ont reçu la visite d’un pilote de F1",
+   "summary": "De passage à l’Adidas Campus, Kimi Antonelli a rendu visite aux joueuses d’OL Lyonnes. L’actuel leader du championnat de Formule 1, qui partage le même équipementier, a même assisté à un entraînement.",
+   "url": "https://www.olympique-et-lyonnais.com/les-joueuses-dol-lyonnes-ont-recu-la-visite-dun-pilote-de-f1,404916.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHPwWQ5OXgAABYpx-e1786795774962-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-08-15T12:20:00+00:00"
+  },
+  {
+   "id": "olunpremiercleansheetdepuissixmatchsaumeilleurdesmoments",
+   "title": "OL : un premier clean-sheet depuis six matchs au meilleur des moments ?",
+   "summary": "Face au Sparta Prague, l’OL a mis fin à une série de six matchs officiels en encaissant un but. De bon augure avant d’affronter Fenerbahçe et une ligne d’attaque plus que performante ?",
+   "url": "https://www.olympique-et-lyonnais.com/ol-un-premier-clean-sheet-depuis-six-matchs-au-meilleur-des-moments,404904.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260812__HL_BPAVAN_3254206__v1__HighRes__FranceLyonSportFootballChampionsLeagu-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-15T11:30:00+00:00"
+  },
+  {
+   "id": "quiestemememlemystrieuxraccommodeurdetrottoirslyonnais",
+   "title": "Qui est Ememem, le mystérieux \"raccommodeur de trottoirs\" lyonnais ?",
+   "summary": "Depuis 2016, Ememem répare les trottoirs abîmés de Lyon avec des mosaïques colorées réalisées à partir de carreaux récupérés. Baptisée \"flacking\", sa pratique née sur les pentes de la Croix-Rousse s’est depuis exportée dans de nombreuses villes, de Paris à New York.",
+   "url": "https://www.lyonpoche.com/article/6236/ememem-le-raccommodeur-des-trottoirs-de-lyon",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a789345a255d-p36-flacking-dememem-a-lyon-2021.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-15T11:00:00+00:00"
+  },
+  {
+   "id": "liguedeschampionslukakufenerbaheassuretreprtpouraffronterlol",
+   "title": "Ligue des champions : Lukaku (Fenerbahçe) assure être \"prêt\" pour affronter l'OL",
+   "summary": "Recruté il y a quelques jours par Fenerbahçe, Romelu Lukaku est qualifié pour affronter l'OL. Malgré une préparation tronquée, l'attaquant a assuré être \"prêt\" pour la double confrontation de Ligue des champions.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-des-champions-lukaku-fenerbahce-assure-etre-pret-pour-affronter-lol,404885.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHPnzTWRXYAANrlR-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-15T10:40:00+00:00"
+  },
+  {
+   "id": "ollyonnesinsbenyahiarcuprele10delindseyheaps",
+   "title": "OL Lyonnes : Inès Benyahia récupère le 10 de Lindsey Heaps",
+   "summary": "Suite au départ de Lindsey Heaps vers Denver, le numéro 10 d’OL Lyonnes était vacant. Inès Benyahia a choisi de le porter pour la saison à venir. Qui dit nouvelle saison, dit nouveaux numéros pour les recrues et changements pour certaines déjà présentes.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-ines-benyahia-recupere-le-10-de-lindsey-heaps,404890.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FAFP__20251015__2241254377__v3__HighRes__OlLyonnesVSknStPoltenUefaWomenSChampionsLeag-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-15T09:50:00+00:00"
+  },
   {
    "id": "loletaulasrendenthommagelacombeence15aot",
    "title": "L’OL et Aulas rendent hommage à Lacombe en ce 15 août",
@@ -63,17 +117,6 @@
    "publishedAt": "2026-08-15T06:45:00+00:00"
   },
   {
-   "id": "oldeuxclubssaoudiensetunecurieanglaiseattaquentlyon",
-   "title": "OL : Deux clubs saoudiens et une écurie anglaise attaquent Lyon !",
-   "summary": "Promu directeur sportif de l’OL en juin dernier, Matthieu Louis-Jean a déjà éveillé l’intérêt de plusieurs formations étrangères. Approché cet été, le dirigeant lyonnais a toutefois fait un choix fort pour son avenir.",
-   "url": "https://www.butfootballclub.fr/1690789-ol-deux-clubs-saoudiens-et-une-ecurie-anglaise-attaquent-lyon/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F32213f2d-ol-deux-clubs-saoudiens-et-une-ecurie-anglaise-attaquent-lyon-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-15T06:39:44+00:00"
-  },
-  {
    "id": "liguedeschampionsathekamenepourrajouerlebarrageolfenerbahe",
    "title": "Ligue des champions : Athekame ne pourra jouer le barrage OL - Fenerbahçe",
    "summary": "Nouvelle recrue de l'OL depuis vendredi soir, Zachary Athekame fera ses débuts en Ligue 1. Le latéral droit ne peut être inscrit sur la liste lyonnaise pour le barrage de Ligue des champions, la date limite ayant été dépassée ainsi que le délai trop long pour la qualification au niveau national.",
@@ -96,28 +139,6 @@
    "publishedAt": "2026-08-15T05:30:00+00:00"
   },
   {
-   "id": "ompsgolasserclensfcnantesstaderennaisunnormecoupdurtombepour",
-   "title": "OM, PSG, OL, ASSE, RC Lens, FC Nantes, Stade Rennais : un énorme coup dur tombe pour Bordeaux",
-   "summary": "Le CNOSF a rendu un avis défavorable aux Girondins de Bordeaux, qui espéraient retrouver les championnats nationaux. C’est un nouveau coup dur pour les Girondins de Bordeaux.",
-   "url": "https://www.butfootballclub.fr/1690748-om-psg-ol-asse-rc-lens-fc-nantes-stade-rennais-un-enorme-coup-dur-tombe-pour-bordeaux/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fd6d46d95-om-psg-ol-asse-rc-lens-fc-nantes-stade-rennais-un-enorme-coup-dur-tombe-pour-bordeaux.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-08-14T20:20:00+00:00"
-  },
-  {
-   "id": "mercatololserenforceavecleprtdathekameacmilan",
-   "title": "Mercato : l'OL se renforce avec le prêt d'Athekame (AC Milan)",
-   "summary": "Trois jours après sa qualification pour les barrages de la Ligue des champions, l'OL a officialisé l'arrivée de sa huitième recrue de l'été. Dans le cadre d'un prêt sans option d'achat, Zachary Athekame débarque pour un an en provenance de l'AC Milan.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-lol-se-renforce-avec-le-pret-dathekame-ac-milan,404718.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAthekame-est-prete-a-lOL-pour-une-saison-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-14T16:40:06+00:00"
-  },
-  {
    "id": "liquidationjudiciairelancelamarquisecoulelyon",
    "title": "Liquidation judiciaire lancée : la Marquise coule à Lyon",
    "summary": "Après quatre années de galère, la société exploitant la discothèque lyonnaise La Marquise a fait l'objet d'un jugement d'ouverture de liquidation judiciaire ce vendredi 14 août à Lyon.",
@@ -138,39 +159,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a7f3d1425a48-capture-decran-2026-08-14-a-18.png&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-08-14T16:07:00+00:00"
-  },
-  {
-   "id": "olacadmieyacinechabtoutprochederejoindrelemcalger",
-   "title": "OL Académie : Yacine Chaïb tout proche de rejoindre le MC Alger",
-   "summary": "Formé à l'OL, Yacine Chaïb devrait s'engager avec le MC Alger. Le joueur de 21 ans n'a jamais eu sa chance avec le groupe professionnel. Selon plusieurs médias algériens, Yacine Chaïb pourrait prochainement quitter l'OL pour rejoindre le Mouloudia Club d'Alger.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-yacine-chaib-tout-proche-de-rejoindre-le-mc-alger,404848.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Thomas Dioudonnat",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F07%2FIMG_2331-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-14T16:02:42+00:00"
-  },
-  {
-   "id": "mercatololattentifaudossierludovicajorque",
-   "title": "Mercato : L'OL attentif au dossier Ludovic Ajorque",
-   "summary": "L'OL surveillerait de près la situation de Ludovic Ajorque, le buteur de Brest. Une piste expérimentée pour renforcer la ligne d'attaque. Selon nos confrères de Foot Mercato, l'OL aurait manifesté son intérêt pour Ludovic Ajorque, l'avant-centre du Stade Brestois.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-lol-attentif-au-dossier-ludovic-ajorque,404842.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Thomas Dioudonnat",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2019%2F03%2FMarcelo-768x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-14T14:30:16+00:00"
-  },
-  {
-   "id": "ollyonneslestageallemandadmarraucampusadidas",
-   "title": "OL Lyonnes : le stage allemand a démarré au Campus Adidas",
-   "summary": "Les joueuses d'OL Lyonnes ont posé leurs valises en Allemagne ce jeudi. Retour sur la première journée de ce stage de préparation. Ce jeudi, les joueuses d'OL Lyonnes ont rallié Herzogenaurach pour y entamer un stage de préparation d'une semaine du côté du Campus Adidas.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-le-stage-allemand-a-demarre-au-campus-adidas,404838.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Thomas Dioudonnat",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F05%2F000_34TV9RE-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-14T13:00:30+00:00"
   },
   {
    "id": "olwinamaxvasinstalleraudosdumaillotlyonnaisdscettesaison",
