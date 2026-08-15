@@ -4623,3 +4623,881 @@ match_id,side,minute,player_in,player_out,reason
 3280965,adv,,Amine Adli,Quentin Boisgard,Tactique
 3280965,ol,,Moussa Dembélé,Amine Gouiri,Tactique
 3280965,ol,,Lucas Tousart,Jean Lucas,Blessure
+3199530,ol,,Bertrand Traoré,Jeff Reine-Adélaïde,Blessure
+3199530,ol,,Martin Terrier,Memphis Depay,Blessure
+3199530,adv,,Adrien Hunou,Clément Grenier,Tactique
+3199530,adv,,Joris Gnagnon,Faitout Maouassa,Blessure
+3199530,adv,,Romain Del Castillo,M'Baye Niang,Tactique
+3199530,ol,,Maxwel Cornet,Rafael,Tactique
+3199530,ol,,Bertrand Traoré,Jeff Reine-Adélaïde,Blessure
+3199530,ol,,Martin Terrier,Memphis Depay,Blessure
+3199530,adv,,Adrien Hunou,Clément Grenier,Tactique
+3199530,adv,,Joris Gnagnon,Faitout Maouassa,Blessure
+3199530,adv,,Romain Del Castillo,M'Baye Niang,Tactique
+3199530,ol,,Maxwel Cornet,Rafael,Tactique
+3252239,adv,,Matheus Cunha,Timo Werner,Tactique
+3252239,adv,,Ethan Ampadu,Dayot Upamecano,Tactique
+3252239,ol,,Jeff Reine-Adélaïde,Lucas Tousart,Tactique
+3252239,ol,,Marçal,Rafael,Tactique
+3252239,adv,,Konrad Laimer,Christopher Nkunku,Tactique
+3252239,ol,,Marcelo,Martin Terrier,Tactique
+3252239,adv,,Matheus Cunha,Timo Werner,Tactique
+3252239,adv,,Ethan Ampadu,Dayot Upamecano,Tactique
+3252239,ol,,Jeff Reine-Adélaïde,Lucas Tousart,Tactique
+3252239,ol,,Marçal,Rafael,Tactique
+3252239,adv,,Konrad Laimer,Christopher Nkunku,Tactique
+3252239,ol,,Marcelo,Martin Terrier,Tactique
+3199518,ol,,Melvin Bard,Rafael,Blessure
+3199518,ol,,Lucas Tousart,Maxence Caqueret,Tactique
+3199518,adv,,Théo Sainte-Luce,Lucas Buades,Tactique
+3199518,ol,,Jeff Reine-Adélaïde,Memphis Depay,Tactique
+3199518,adv,,Luca Valls,Florian Miguel,Tactique
+3199518,adv,,Antoine Valério,Zinedine Ferhat,Tactique
+3199518,ol,,Melvin Bard,Rafael,Blessure
+3199518,ol,,Lucas Tousart,Maxence Caqueret,Tactique
+3199518,adv,,Théo Sainte-Luce,Lucas Buades,Tactique
+3199518,ol,,Jeff Reine-Adélaïde,Memphis Depay,Tactique
+3199518,adv,,Luca Valls,Florian Miguel,Tactique
+3199518,adv,,Antoine Valério,Zinedine Ferhat,Tactique
+3199513,ol,,Kenny Tete,Youssouf Koné,Blessure
+3199513,ol,,Houssem Aouar,Memphis Depay,Tactique
+3199513,adv,,Xeka,Boubakary Soumaré,Tactique
+3199513,ol,,Moussa Dembélé,Maxwel Cornet,Tactique
+3199513,adv,,Yusuf Yazıcı,Jonathan Ikoné,Tactique
+3199513,ol,,Kenny Tete,Youssouf Koné,Blessure
+3199513,ol,,Houssem Aouar,Memphis Depay,Tactique
+3199513,adv,,Xeka,Boubakary Soumaré,Tactique
+3199513,ol,,Moussa Dembélé,Maxwel Cornet,Tactique
+3199513,adv,,Yusuf Yazıcı,Jonathan Ikoné,Tactique
+3199497,ol,,Léo Dubois,Youssouf Koné,Tactique
+3199497,adv,,Jean-Ricner Bellegarde,Adrien Thomasson,Tactique
+3199497,adv,,Nuno da Costa,Youssouf Fofana,Tactique
+3199497,ol,,Rafael,Léo Dubois,Blessure
+3199497,adv,,Kévin Zohi,Lebo Mothiba,Tactique
+3199497,ol,4,Joachim Andersen,Moussa Dembélé,Tactique
+3199497,ol,,Léo Dubois,Youssouf Koné,Tactique
+3199497,adv,,Jean-Ricner Bellegarde,Adrien Thomasson,Tactique
+3199497,adv,,Nuno da Costa,Youssouf Fofana,Tactique
+3199497,ol,,Rafael,Léo Dubois,Blessure
+3199497,adv,,Kévin Zohi,Lebo Mothiba,Tactique
+3199497,ol,4,Joachim Andersen,Moussa Dembélé,Tactique
+3252230,ol,,Youssouf Koné,Marçal,Tactique
+3252230,ol,,Rayan Cherki,Maxwel Cornet,Blessure
+3252230,adv,,Yuriy Zhirkov,Sebastián Driussi,Tactique
+3252230,adv,,Aleksandr Erokhin,Sardar Azmoun,Tactique
+3252230,ol,,Amine Gouiri,Joachim Andersen,Tactique
+3252230,adv,2,Aleksey Sutormin,Daler Kuzyaev,Tactique
+3252230,ol,,Youssouf Koné,Marçal,Tactique
+3252230,ol,,Rayan Cherki,Maxwel Cornet,Blessure
+3252230,adv,,Yuriy Zhirkov,Sebastián Driussi,Tactique
+3252230,adv,,Aleksandr Erokhin,Sardar Azmoun,Tactique
+3252230,ol,,Amine Gouiri,Joachim Andersen,Tactique
+3252230,adv,2,Aleksey Sutormin,Daler Kuzyaev,Tactique
+3199489,ol,,Youssouf Koné,Jeff Reine-Adélaïde,Tactique
+3199489,adv,,Malang Sarr,Christophe Hérelle,Tactique
+3199489,adv,,Myziane Maolida,Ignatius Ganago,Tactique
+3199489,ol,,Maxwel Cornet,Bertrand Traoré,Tactique
+3199489,adv,,Arnaud Lusamba,Hicham Boudaoui,Tactique
+3199489,ol,,Rafael,Martin Terrier,Blessure
+3199489,ol,,Youssouf Koné,Jeff Reine-Adélaïde,Tactique
+3199489,adv,,Malang Sarr,Christophe Hérelle,Tactique
+3199489,adv,,Myziane Maolida,Ignatius Ganago,Tactique
+3199489,ol,,Maxwel Cornet,Bertrand Traoré,Tactique
+3199489,adv,,Arnaud Lusamba,Hicham Boudaoui,Tactique
+3199489,ol,,Rafael,Martin Terrier,Blessure
+3199477,ol,,Jean Lucas,Jeff Reine-Adélaïde,Tactique
+3199477,ol,,Rayan Cherki,Houssem Aouar,Blessure
+3199477,adv,,Kevin Strootman,Darío Benedetto,Tactique
+3199477,ol,,Martin Terrier,Bertrand Traoré,Blessure
+3199477,adv,,Valère Germain,Dimitri Payet,Blessure
+3199477,adv,,Saîf-Eddine Khaoui,Maxime Lopez,Tactique
+3199477,ol,,Jean Lucas,Jeff Reine-Adélaïde,Tactique
+3199477,ol,,Rayan Cherki,Houssem Aouar,Blessure
+3199477,adv,,Kevin Strootman,Darío Benedetto,Tactique
+3199477,ol,,Martin Terrier,Bertrand Traoré,Blessure
+3199477,adv,,Valère Germain,Dimitri Payet,Blessure
+3199477,adv,,Saîf-Eddine Khaoui,Maxime Lopez,Tactique
+3252207,adv,,Jardel,Ferro,Blessure
+3252207,adv,,Haris Seferovic,Gedson Fernandes,Tactique
+3252207,ol,,Maxwel Cornet,Memphis Depay,Tactique
+3252207,adv,,Pizzi,Franco Cervi,Tactique
+3252207,ol,,Bertrand Traoré,Jeff Reine-Adélaïde,Tactique
+3252207,ol,1,Marcelo,Houssem Aouar,Tactique
+3252207,adv,,Jardel,Ferro,Blessure
+3252207,adv,,Haris Seferovic,Gedson Fernandes,Tactique
+3252207,ol,,Maxwel Cornet,Memphis Depay,Tactique
+3252207,adv,,Pizzi,Franco Cervi,Tactique
+3252207,ol,,Bertrand Traoré,Jeff Reine-Adélaïde,Tactique
+3252207,ol,1,Marcelo,Houssem Aouar,Tactique
+3199472,adv,,Aaron Leya Iseka,Yaya Sanogo,Tactique
+3199472,ol,,Bertrand Traoré,Lucas Tousart,Tactique
+3199472,ol,,Maxwel Cornet,Jeff Reine-Adélaïde,Tactique
+3199472,adv,,Jean-Victor Makengo,Mathieu Dossevi,Tactique
+3199472,ol,,Jean Lucas,Houssem Aouar,Tactique
+3199472,adv,,Aaron Leya Iseka,Yaya Sanogo,Tactique
+3199472,ol,,Bertrand Traoré,Lucas Tousart,Tactique
+3199472,ol,,Maxwel Cornet,Jeff Reine-Adélaïde,Tactique
+3199472,adv,,Jean-Victor Makengo,Mathieu Dossevi,Tactique
+3199472,ol,,Jean Lucas,Houssem Aouar,Tactique
+3199461,adv,,Opa Nguette,Thierry Ambrose,Tactique
+3199461,ol,,Maxwel Cornet,Houssem Aouar,Tactique
+3199461,adv,,Marvin Gakpa,Adama Traoré,Tactique
+3199461,adv,,Victorien Angban,Habib Maïga,Tactique
+3199461,ol,,Martin Terrier,Jeff Reine-Adélaïde,Blessure
+3199461,ol,,Jean Lucas,Memphis Depay,Tactique
+3199461,adv,,Opa Nguette,Thierry Ambrose,Tactique
+3199461,ol,,Maxwel Cornet,Houssem Aouar,Tactique
+3199461,adv,,Marvin Gakpa,Adama Traoré,Tactique
+3199461,adv,,Victorien Angban,Habib Maïga,Tactique
+3199461,ol,,Martin Terrier,Jeff Reine-Adélaïde,Blessure
+3199461,ol,,Jean Lucas,Memphis Depay,Tactique
+3252199,adv,,Pizzi,Rafa Silva,Blessure
+3252199,ol,,Thiago Mendes,Martin Terrier,Tactique
+3252199,adv,,Carlos Vinícius,Haris Seferovic,Tactique
+3252199,ol,,Bertrand Traoré,Maxwel Cornet,Tactique
+3252199,adv,,Raúl de Tomás,Franco Cervi,Tactique
+3252199,ol,,Jeff Reine-Adélaïde,Houssem Aouar,Tactique
+3252199,adv,,Pizzi,Rafa Silva,Blessure
+3252199,ol,,Thiago Mendes,Martin Terrier,Tactique
+3252199,adv,,Carlos Vinícius,Haris Seferovic,Tactique
+3252199,ol,,Bertrand Traoré,Maxwel Cornet,Tactique
+3252199,adv,,Raúl de Tomás,Franco Cervi,Tactique
+3252199,ol,,Jeff Reine-Adélaïde,Houssem Aouar,Tactique
+3199455,adv,,Frédéric Sammaritano,Bryan Soumaré,
+3199455,ol,,Bertrand Traoré,Martin Terrier,
+3199455,adv,,Senou Coulibaly,Nayef Aguerd,
+3199455,ol,,Jeff Reine-Adélaïde,Thiago Mendes,
+3199455,adv,,Romain Amalfitano,Mounir Chouiar,
+3199455,ol,,Rayan Cherki,Maxwel Cornet,
+3199455,adv,,Frédéric Sammaritano,Bryan Soumaré,
+3199455,ol,,Bertrand Traoré,Martin Terrier,
+3199455,adv,,Senou Coulibaly,Nayef Aguerd,
+3199455,ol,,Jeff Reine-Adélaïde,Thiago Mendes,
+3199455,adv,,Romain Amalfitano,Mounir Chouiar,
+3199455,ol,,Rayan Cherki,Maxwel Cornet,
+3199445,ol,,Moussa Dembélé,Martin Terrier,
+3199445,adv,,Wahbi Khazri,Loïs Diony,
+3199445,ol,,Kenny Tete,Rafael,
+3199445,ol,,Jean Lucas,Thiago Mendes,
+3199445,adv,,Robert Beric,Charles Abi,
+3199445,adv,6,Yohan Cabaye,Zaydou Youssouf,
+3199445,ol,,Moussa Dembélé,Martin Terrier,
+3199445,adv,,Wahbi Khazri,Loïs Diony,
+3199445,ol,,Kenny Tete,Rafael,
+3199445,ol,,Jean Lucas,Thiago Mendes,
+3199445,adv,,Robert Beric,Charles Abi,
+3199445,adv,6,Yohan Cabaye,Zaydou Youssouf,
+3252174,adv,,Nordi Mukiele,Ibrahima Konaté,Blessure
+3252174,adv,,Emil Forsberg,Amadou Haidara,
+3252174,adv,,Christopher Nkunku,Dayot Upamecano,
+3252174,ol,,Bertrand Traoré,Martin Terrier,
+3252174,ol,,Moussa Dembélé,Memphis Depay,
+3252174,ol,,Jean Lucas,Houssem Aouar,
+3252174,adv,,Nordi Mukiele,Ibrahima Konaté,Blessure
+3252174,adv,,Emil Forsberg,Amadou Haidara,
+3252174,adv,,Christopher Nkunku,Dayot Upamecano,
+3252174,ol,,Bertrand Traoré,Martin Terrier,
+3252174,ol,,Moussa Dembélé,Memphis Depay,
+3252174,ol,,Jean Lucas,Houssem Aouar,
+3199432,ol,,Maxwel Cornet,Bertrand Traoré,
+3199432,ol,,Martin Terrier,Jeff Reine-Adélaïde,
+3199432,adv,,Imrân Louza,Cristian Benavente,
+3199432,adv,,Abdoul Kader Bamba,Moses Simon,
+3199432,adv,,Ludovic Blas,Samuel Moutoussamy,
+3199432,ol,,Jean Lucas,Jason Denayer,
+3199432,ol,,Maxwel Cornet,Bertrand Traoré,
+3199432,ol,,Martin Terrier,Jeff Reine-Adélaïde,
+3199432,adv,,Imrân Louza,Cristian Benavente,
+3199432,adv,,Abdoul Kader Bamba,Moses Simon,
+3199432,adv,,Ludovic Blas,Samuel Moutoussamy,
+3199432,ol,,Jean Lucas,Jason Denayer,
+3199418,ol,,Memphis Depay,Moussa Dembélé,
+3199418,adv,,Paul Lasne,Samuel Grandsir,
+3199418,adv,,Alexandre Mendy,Mathias Autret,
+3199418,ol,,Jeff Reine-Adélaïde,Bertrand Traoré,
+3199418,adv,,Cristian Battocchio,Gaëtan Charbonnier,
+3199418,ol,,Memphis Depay,Moussa Dembélé,
+3199418,adv,,Paul Lasne,Samuel Grandsir,
+3199418,adv,,Alexandre Mendy,Mathias Autret,
+3199418,ol,,Jeff Reine-Adélaïde,Bertrand Traoré,
+3199418,adv,,Cristian Battocchio,Gaëtan Charbonnier,
+3199409,adv,,Marco Verratti,Ander Herrera,
+3199409,ol,,Lucas Tousart,Jeff Reine-Adélaïde,
+3199409,adv,,Presnel Kimpembe,Juan Bernat,
+3199409,ol,,Kenny Tete,Marcelo,
+3199409,ol,,Bertrand Traoré,Thiago Mendes,
+3199409,adv,1,Layvin Kurzawa,Neymar,Ralentissement du jeu
+3199409,adv,,Marco Verratti,Ander Herrera,
+3199409,ol,,Lucas Tousart,Jeff Reine-Adélaïde,
+3199409,adv,,Presnel Kimpembe,Juan Bernat,
+3199409,ol,,Kenny Tete,Marcelo,
+3199409,ol,,Bertrand Traoré,Thiago Mendes,
+3199409,adv,1,Layvin Kurzawa,Neymar,Ralentissement du jeu
+3252158,adv,,Magomed Ozdoev,Sardar Azmoun,Blessure
+3252158,adv,,Daler Kuzyaev,Yuriy Zhirkov,Tactique
+3252158,ol,,Maxwel Cornet,Bertrand Traoré,Tactique
+3252158,adv,,Oleg Shatov,Vyacheslav Karavaev,Tactique
+3252158,ol,,Martin Terrier,Jeff Reine-Adélaïde,Tactique
+3252158,adv,,Magomed Ozdoev,Sardar Azmoun,Blessure
+3252158,adv,,Daler Kuzyaev,Yuriy Zhirkov,Tactique
+3252158,ol,,Maxwel Cornet,Bertrand Traoré,Tactique
+3252158,adv,,Oleg Shatov,Vyacheslav Karavaev,Tactique
+3252158,ol,,Martin Terrier,Jeff Reine-Adélaïde,Tactique
+3199405,adv,,Juan Otero,Moussa Konaté,Blessure
+3199405,adv,,Thomas Monconduit,Alexis Blin,
+3199405,ol,,Jean Lucas,Jeff Reine-Adélaïde,
+3199405,ol,,Oumar Solet,Marcelo,
+3199405,ol,,Maxwel Cornet,Martin Terrier,
+3199405,adv,,Mathieu Bodmer,Fousseni Diabaté,
+3199405,adv,,Juan Otero,Moussa Konaté,Blessure
+3199405,adv,,Thomas Monconduit,Alexis Blin,
+3199405,ol,,Jean Lucas,Jeff Reine-Adélaïde,
+3199405,ol,,Oumar Solet,Marcelo,
+3199405,ol,,Maxwel Cornet,Martin Terrier,
+3199405,adv,,Mathieu Bodmer,Fousseni Diabaté,
+3199392,ol,,Lucas Tousart,Jeff Reine-Adélaïde,
+3199392,adv,,Yacine Adli,Aurélien Tchouaméni,
+3199392,adv,,Yassine Benrahou,Ui-jo Hwang,
+3199392,ol,,Bertrand Traoré,Maxwel Cornet,
+3199392,adv,,Josh Maja,Jimmy Briand,
+3199392,ol,,Jean Lucas,Memphis Depay,
+3199392,ol,,Lucas Tousart,Jeff Reine-Adélaïde,
+3199392,adv,,Yacine Adli,Aurélien Tchouaméni,
+3199392,adv,,Yassine Benrahou,Ui-jo Hwang,
+3199392,ol,,Bertrand Traoré,Maxwel Cornet,
+3199392,adv,,Josh Maja,Jimmy Briand,
+3199392,ol,,Jean Lucas,Memphis Depay,
+3199384,ol,,Kenny Tete,Lucas Tousart,
+3199384,ol,,Maxwel Cornet,Bertrand Traoré,
+3199384,adv,,Keagan Dolly,Florent Mollet,
+3199384,ol,,Martin Terrier,Thiago Mendes,
+3199384,adv,1,Mihailo Ristic,Ambroise Oyongo,
+3199384,ol,,Kenny Tete,Lucas Tousart,
+3199384,ol,,Maxwel Cornet,Bertrand Traoré,
+3199384,adv,,Keagan Dolly,Florent Mollet,
+3199384,ol,,Martin Terrier,Thiago Mendes,
+3199384,adv,1,Mihailo Ristic,Ambroise Oyongo,
+3195256,adv,,Casimir Ninga,Vincent Pajot,
+3195256,ol,,Martin Terrier,Moussa Dembélé,
+3195256,ol,,Jean Lucas,Thiago Mendes,
+3195256,adv,,Wilfried Kanga,Rachid Alioui,
+3195256,ol,,Kenny Tete,Léo Dubois,
+3195256,adv,,Stéphane Bahoken,Mathias Pereira Lage,
+3195256,adv,,Casimir Ninga,Vincent Pajot,
+3195256,ol,,Martin Terrier,Moussa Dembélé,
+3195256,ol,,Jean Lucas,Thiago Mendes,
+3195256,adv,,Wilfried Kanga,Rachid Alioui,
+3195256,ol,,Kenny Tete,Léo Dubois,
+3195256,adv,,Stéphane Bahoken,Mathias Pereira Lage,
+3195016,adv,,Gabriel Boschilia,Lyle Foster,Tactique
+3195016,adv,,Adama Traoré,Benjamin Henrichs,Tactique
+3195016,ol,,Jean Lucas,Houssem Aouar,Tactique
+3195016,adv,,Moussa Sylla,Rony Lopes,Tactique
+3195016,ol,,Maxwel Cornet,Bertrand Traoré,Tactique
+3195016,ol,,Kenny Tete,Youssouf Koné,Tactique
+3195016,adv,,Gabriel Boschilia,Lyle Foster,Tactique
+3195016,adv,,Adama Traoré,Benjamin Henrichs,Tactique
+3195016,ol,,Jean Lucas,Houssem Aouar,Tactique
+3195016,adv,,Moussa Sylla,Rony Lopes,Tactique
+3195016,ol,,Maxwel Cornet,Bertrand Traoré,Tactique
+3195016,ol,,Kenny Tete,Youssouf Koné,Tactique
+3047897,ol,,Bertrand Traoré,Martin Terrier,
+3047897,adv,,Baptiste Guillaume,Sada Thioub,
+3047897,ol,,Lucas Tousart,Moussa Dembélé,
+3047897,ol,,Bertrand Traoré,Martin Terrier,
+3047897,adv,,Baptiste Guillaume,Sada Thioub,
+3047897,ol,,Lucas Tousart,Moussa Dembélé,
+3047883,adv,,Herman Moussaki,Saîf-Eddine Khaoui,
+3047883,adv,,Prince Oniangué,Jessy Deminguet,
+3047883,adv,,Yoël Armougom,Enzo Crivelli,
+3047883,ol,,Bertrand Traoré,Memphis Depay,
+3047883,ol,,Lucas Tousart,Houssem Aouar,
+3047883,ol,,Rafael,Léo Dubois,
+3047883,adv,,Herman Moussaki,Saîf-Eddine Khaoui,
+3047883,adv,,Prince Oniangué,Jessy Deminguet,
+3047883,adv,,Yoël Armougom,Enzo Crivelli,
+3047883,ol,,Bertrand Traoré,Memphis Depay,
+3047883,ol,,Lucas Tousart,Houssem Aouar,
+3047883,ol,,Rafael,Léo Dubois,
+3047875,adv,,Florian Thauvin,Nemanja Radonjic,
+3047875,adv,,Valère Germain,Lucas Ocampos,
+3047875,ol,,Moussa Dembélé,Nabil Fekir,
+3047875,adv,,Dimitri Payet,Mario Balotelli,
+3047875,ol,,Rafael,Léo Dubois,
+3047875,ol,,Lucas Tousart,Martin Terrier,
+3047875,adv,,Florian Thauvin,Nemanja Radonjic,
+3047875,adv,,Valère Germain,Lucas Ocampos,
+3047875,ol,,Moussa Dembélé,Nabil Fekir,
+3047875,adv,,Dimitri Payet,Mario Balotelli,
+3047875,ol,,Rafael,Léo Dubois,
+3047875,ol,,Lucas Tousart,Martin Terrier,
+3047862,ol,,Maxwel Cornet,Bertrand Traoré,
+3047862,adv,,Rafael Leão,Loïc Rémy,
+3047862,ol,,Moussa Dembélé,Martin Terrier,
+3047862,adv,,Rui Fonte,Jonathan Ikoné,
+3047862,adv,,Reinildo Mandava,Thiago Maia,
+3047862,ol,,Maxwel Cornet,Bertrand Traoré,
+3047862,adv,,Rafael Leão,Loïc Rémy,
+3047862,ol,,Moussa Dembélé,Martin Terrier,
+3047862,adv,,Rui Fonte,Jonathan Ikoné,
+3047862,adv,,Reinildo Mandava,Thiago Maia,
+3047852,adv,,Yassine Benrahou,Youssouf Sabaly,
+3047852,ol,,Bertrand Traoré,Maxwel Cornet,
+3047852,ol,,Moussa Dembélé,Martin Terrier,
+3047852,adv,,Sergi Palencia,François Kamano,
+3047852,ol,,Ferland Mendy,Kenny Tete,
+3047852,adv,,Zaydou Youssouf,Nicolas de Préville,
+3047852,adv,,Yassine Benrahou,Youssouf Sabaly,
+3047852,ol,,Bertrand Traoré,Maxwel Cornet,
+3047852,ol,,Moussa Dembélé,Martin Terrier,
+3047852,adv,,Sergi Palencia,François Kamano,
+3047852,ol,,Ferland Mendy,Kenny Tete,
+3047852,adv,,Zaydou Youssouf,Nicolas de Préville,
+3047842,adv,,Wilfried Kanga,Pierrick Capelle,
+3047842,adv,,Angelo Fulgini,Thomas Mangani,
+3047842,ol,,Bertrand Traoré,Martin Terrier,
+3047842,adv,,Farid El Melali,Vincent Pajot,
+3047842,ol,,Lucas Tousart,Nabil Fekir,
+3047842,ol,,Moussa Dembélé,Memphis Depay,
+3047842,adv,,Wilfried Kanga,Pierrick Capelle,
+3047842,adv,,Angelo Fulgini,Thomas Mangani,
+3047842,ol,,Bertrand Traoré,Martin Terrier,
+3047842,adv,,Farid El Melali,Vincent Pajot,
+3047842,ol,,Lucas Tousart,Nabil Fekir,
+3047842,ol,,Moussa Dembélé,Memphis Depay,
+3047836,ol,,Memphis Depay,Lucas Tousart,Blessure
+3047836,ol,,Rafael,Marçal,Blessure
+3047836,ol,,Nabil Fekir,Maxwel Cornet,Tactique
+3047836,adv,,Lucas Lima,Anthony Limbombe,Performance extraordinaire
+3047836,adv,2,Gabriel Boschilia,Majeed Waris,Ralentissement du jeu
+3047836,adv,4,Enock Kwateng,Fábio,Ralentissement du jeu
+3047836,ol,,Memphis Depay,Lucas Tousart,Blessure
+3047836,ol,,Rafael,Marçal,Blessure
+3047836,ol,,Nabil Fekir,Maxwel Cornet,Tactique
+3047836,adv,,Lucas Lima,Anthony Limbombe,Performance extraordinaire
+3047836,adv,2,Gabriel Boschilia,Majeed Waris,Ralentissement du jeu
+3047836,adv,4,Enock Kwateng,Fábio,Ralentissement du jeu
+3047824,ol,,Memphis Depay,Moussa Dembélé,
+3047824,ol,,Tanguy Ndombélé,Lucas Tousart,
+3047824,ol,,Bertrand Traoré,Martin Terrier,
+3047824,adv,,Sory Kaba,Benjamin Jeannot,
+3047824,adv,,Mickaël Alphonse,Fouad Chafik,
+3047824,adv,4,Chang-hoon Kwon,Wesley Saïd,
+3162653,ol,,Memphis Depay,Lucas Tousart,Non rapporté
+3162653,adv,,Jérémy Gélin,M'Baye Niang,Non rapporté
+3162653,ol,,Maxwel Cornet,Bertrand Traoré,Non rapporté
+3162653,ol,,Martin Terrier,Moussa Dembélé,Non rapporté
+3047824,ol,,Memphis Depay,Moussa Dembélé,
+3047824,ol,,Tanguy Ndombélé,Lucas Tousart,
+3047824,ol,,Bertrand Traoré,Martin Terrier,
+3047824,adv,,Sory Kaba,Benjamin Jeannot,
+3047824,adv,,Mickaël Alphonse,Fouad Chafik,
+3047824,adv,4,Chang-hoon Kwon,Wesley Saïd,
+3162653,ol,,Memphis Depay,Lucas Tousart,Non rapporté
+3162653,adv,,Jérémy Gélin,M'Baye Niang,Non rapporté
+3162653,ol,,Maxwel Cornet,Bertrand Traoré,Non rapporté
+3162653,ol,,Martin Terrier,Moussa Dembélé,Non rapporté
+3047816,adv,,Jérémy Gélin,James Léa Siliki,
+3047816,ol,,Martin Terrier,Moussa Dembélé,
+3047816,adv,,Romain Del Castillo,M'Baye Niang,
+3047816,ol,,Bertrand Traoré,Memphis Depay,
+3047816,adv,,Jérémy Gélin,James Léa Siliki,
+3047816,ol,,Martin Terrier,Moussa Dembélé,
+3047816,adv,,Romain Del Castillo,M'Baye Niang,
+3047816,ol,,Bertrand Traoré,Memphis Depay,
+3047806,ol,,Léo Dubois,Marçal,Blessure
+3047806,adv,,Facundo Píriz,Ellyes Skhiri,
+3047806,adv,,Mihailo Ristic,Nicolas Cozza,
+3047806,ol,,Maxwel Cornet,Martin Terrier,
+3047806,ol,,Lucas Tousart,Bertrand Traoré,
+3047806,adv,,Souleymane Camara,Paul Lasne,
+3047806,ol,,Léo Dubois,Marçal,Blessure
+3047806,adv,,Facundo Píriz,Ellyes Skhiri,
+3047806,adv,,Mihailo Ristic,Nicolas Cozza,
+3047806,ol,,Maxwel Cornet,Martin Terrier,
+3047806,ol,,Lucas Tousart,Bertrand Traoré,
+3047806,adv,,Souleymane Camara,Paul Lasne,
+3135810,ol,,Mathieu Gorgelin,Anthony Lopes,Blessure
+3135810,adv,,Ousmane Dembélé,Philippe Coutinho,Tactique
+3135810,ol,,Bertrand Traoré,Memphis Depay,Tactique
+3135810,adv,,Arturo Vidal,Arthur Melo,Tactique
+3135810,ol,,Maxwel Cornet,Ferland Mendy,Tactique
+3135810,adv,,Nélson Semedo,Sergi Roberto,Repos
+3135810,ol,,Mathieu Gorgelin,Anthony Lopes,Blessure
+3135810,adv,,Ousmane Dembélé,Philippe Coutinho,Tactique
+3135810,ol,,Bertrand Traoré,Memphis Depay,Tactique
+3135810,adv,,Arturo Vidal,Arthur Melo,Tactique
+3135810,ol,,Maxwel Cornet,Ferland Mendy,Tactique
+3135810,adv,,Nélson Semedo,Sergi Roberto,Repos
+3047799,ol,,Léo Dubois,Marcelo,
+3047799,adv,,Lebo Mothiba,Nuno da Costa,
+3047799,adv,,Kévin Zohi,Ludovic Ajorque,
+3047799,ol,,Nabil Fekir,Pape Cheikh,
+3047799,ol,,Bertrand Traoré,Maxwel Cornet,
+3047799,adv,,Anthony Gonçalves,Adrien Thomasson,
+3047799,ol,,Léo Dubois,Marcelo,
+3047799,adv,,Lebo Mothiba,Nuno da Costa,
+3047799,adv,,Kévin Zohi,Ludovic Ajorque,
+3047799,ol,,Nabil Fekir,Pape Cheikh,
+3047799,ol,,Bertrand Traoré,Maxwel Cornet,
+3047799,adv,,Anthony Gonçalves,Adrien Thomasson,
+3047786,adv,,Yaya Sanogo,Corentin Jean,
+3047786,adv,,Jimmy Durmaz,Kalidou Sidibé,
+3047786,ol,,Rafael,Ferland Mendy,
+3047786,ol,,Yassin Fekir,Moussa Dembélé,
+3047786,ol,,Martin Terrier,Bertrand Traoré,
+3047786,adv,,Yaya Sanogo,Corentin Jean,
+3047786,adv,,Jimmy Durmaz,Kalidou Sidibé,
+3047786,ol,,Rafael,Ferland Mendy,
+3047786,ol,,Yassin Fekir,Moussa Dembélé,
+3047786,ol,,Martin Terrier,Bertrand Traoré,
+3156893,adv,,Fayçal Fajr,Adama Mbengue,Non rapporté
+3156893,adv,,Casimir Ninga,Yacine Bammou,Non rapporté
+3156893,adv,,Malik Tchokounté,Prince Oniangué,Non rapporté
+3156893,ol,,Bertrand Traoré,Maxwel Cornet,Non rapporté
+3156893,ol,,Martin Terrier,Moussa Dembélé,Non rapporté
+3156893,ol,,Maxence Caqueret,Tanguy Ndombélé,Non rapporté
+3156893,adv,,Fayçal Fajr,Adama Mbengue,Non rapporté
+3156893,adv,,Casimir Ninga,Yacine Bammou,Non rapporté
+3156893,adv,,Malik Tchokounté,Prince Oniangué,Non rapporté
+3156893,ol,,Bertrand Traoré,Maxwel Cornet,Non rapporté
+3156893,ol,,Martin Terrier,Moussa Dembélé,Non rapporté
+3156893,ol,,Maxence Caqueret,Tanguy Ndombélé,Non rapporté
+3047774,ol,,Ferland Mendy,Marçal,Blessure
+3047774,ol,,Memphis Depay,Martin Terrier,Blessure
+3047774,adv,,Jean-Eudes Aholou,Aleksandr Golovin,Tactique
+3047774,ol,,Maxwel Cornet,Houssem Aouar,Tactique
+3047774,adv,1,Carlos Vinícius,Gelson Martins,Ralentissement du jeu
+3047774,ol,,Ferland Mendy,Marçal,Blessure
+3047774,ol,,Memphis Depay,Martin Terrier,Blessure
+3047774,adv,,Jean-Eudes Aholou,Aleksandr Golovin,Tactique
+3047774,ol,,Maxwel Cornet,Houssem Aouar,Tactique
+3047774,adv,1,Carlos Vinícius,Gelson Martins,Ralentissement du jeu
+3135805,adv,,Philippe Coutinho,Ousmane Dembélé,
+3135805,ol,,Lucas Tousart,Bertrand Traoré,
+3135805,ol,,Maxwel Cornet,Martin Terrier,
+3135805,adv,,Arturo Vidal,Sergi Roberto,
+3135805,ol,,Pape Cheikh,Tanguy Ndombélé,
+3135805,adv,,Philippe Coutinho,Ousmane Dembélé,
+3135805,ol,,Lucas Tousart,Bertrand Traoré,
+3135805,ol,,Maxwel Cornet,Martin Terrier,
+3135805,adv,,Arturo Vidal,Sergi Roberto,
+3135805,ol,,Pape Cheikh,Tanguy Ndombélé,
+3047765,ol,,Ferland Mendy,Jason Denayer,
+3047765,adv,,Nolan Roux,Alexandre Mendy,
+3047765,adv,,Nicolas Benezet,Ludovic Blas,
+3047765,ol,,Maxwel Cornet,Bertrand Traoré,
+3047765,ol,,Memphis Depay,Moussa Dembélé,
+3047765,adv,,Lucas Deaux,Didier Ndong,
+3047765,ol,,Ferland Mendy,Jason Denayer,
+3047765,adv,,Nolan Roux,Alexandre Mendy,
+3047765,adv,,Nicolas Benezet,Ludovic Blas,
+3047765,ol,,Maxwel Cornet,Bertrand Traoré,
+3047765,ol,,Memphis Depay,Moussa Dembélé,
+3047765,adv,,Lucas Deaux,Didier Ndong,
+3047756,adv,,Maxime Pélican,Myziane Maolida,
+3047756,adv,,Christophe Jallet,Ignatius Ganago,
+3047756,ol,,Martin Terrier,Bertrand Traoré,
+3047756,ol,,Kenny Tete,Léo Dubois,
+3047756,ol,,Maxwel Cornet,Houssem Aouar,
+3047756,adv,,Maxime Pélican,Myziane Maolida,
+3047756,adv,,Christophe Jallet,Ignatius Ganago,
+3047756,ol,,Martin Terrier,Bertrand Traoré,
+3047756,ol,,Kenny Tete,Léo Dubois,
+3047756,ol,,Maxwel Cornet,Houssem Aouar,
+3150635,adv,,Marcus Thuram,Ronny Rodelin,
+3150635,adv,,Alexandre Mendy,Nolan Roux,
+3150635,ol,,Pape Cheikh,Nabil Fekir,
+3150635,adv,,Marcus Coco,Étienne Didot,
+3150635,ol,,Bertrand Traoré,Moussa Dembélé,
+3150635,ol,,Marçal,Ferland Mendy,
+3150635,adv,,Marcus Thuram,Ronny Rodelin,
+3150635,adv,,Alexandre Mendy,Nolan Roux,
+3150635,ol,,Pape Cheikh,Nabil Fekir,
+3150635,adv,,Marcus Coco,Étienne Didot,
+3150635,ol,,Bertrand Traoré,Moussa Dembélé,
+3150635,ol,,Marçal,Ferland Mendy,
+3047745,ol,,Lucas Tousart,Houssem Aouar,
+3047745,ol,,Maxwel Cornet,Bertrand Traoré,
+3047745,adv,,Eric-Maxim Choupo-Moting,Edinson Cavani,
+3047745,adv,,Leandro Paredes,Presnel Kimpembe,
+3047745,adv,,Moussa Diaby,Juan Bernat,
+3047745,ol,,Lucas Tousart,Houssem Aouar,
+3047745,ol,,Maxwel Cornet,Bertrand Traoré,
+3047745,adv,,Eric-Maxim Choupo-Moting,Edinson Cavani,
+3047745,adv,,Leandro Paredes,Presnel Kimpembe,
+3047745,adv,,Moussa Diaby,Juan Bernat,
+3047731,adv,,Eddy Gnahoré,Mathieu Bodmer,
+3047731,adv,,Moussa Konaté,Thomas Monconduit,
+3047731,ol,,Martin Terrier,Maxwel Cornet,
+3047731,ol,,Lucas Tousart,Houssem Aouar,
+3047731,adv,,Sanasi Sy,Juan Otero,
+3047731,adv,,Eddy Gnahoré,Mathieu Bodmer,
+3047731,adv,,Moussa Konaté,Thomas Monconduit,
+3047731,ol,,Martin Terrier,Maxwel Cornet,
+3047731,ol,,Lucas Tousart,Houssem Aouar,
+3047731,adv,,Sanasi Sy,Juan Otero,
+3142690,ol,,Ferland Mendy,Maxwel Cornet,
+3142690,adv,,Juan Otero,Stiven Mendoza,
+3142690,ol,,Bertrand Traoré,Nabil Fekir,
+3142690,adv,,Moussa Konaté,Eddy Gnahoré,
+3142690,adv,,Stanley Segarel,Cheick Timite,
+3142690,ol,,Pape Cheikh,Tanguy Ndombélé,
+3142690,ol,,Ferland Mendy,Maxwel Cornet,
+3142690,adv,,Juan Otero,Stiven Mendoza,
+3142690,ol,,Bertrand Traoré,Nabil Fekir,
+3142690,adv,,Moussa Konaté,Eddy Gnahoré,
+3142690,adv,,Stanley Segarel,Cheick Timite,
+3142690,ol,,Pape Cheikh,Tanguy Ndombélé,
+3047730,ol,,Moussa Dembélé,Bertrand Traoré,
+3047730,adv,,Loïs Diony,Romain Hamouma,
+3047730,ol,,Léo Dubois,Kenny Tete,
+3047730,adv,,Assane Dioussé,Ole Selnæs,
+3047730,ol,,Martin Terrier,Maxwel Cornet,
+3047730,adv,,Pierre-Yves Polomat,Gabriel Silva,
+3047730,ol,,Moussa Dembélé,Bertrand Traoré,
+3047730,adv,,Loïs Diony,Romain Hamouma,
+3047730,ol,,Léo Dubois,Kenny Tete,
+3047730,adv,,Assane Dioussé,Ole Selnæs,
+3047730,ol,,Martin Terrier,Maxwel Cornet,
+3047730,adv,,Pierre-Yves Polomat,Gabriel Silva,
+3047660,ol,,Tanguy Ndombélé,Oumar Solet,
+3047660,ol,,Nabil Fekir,Lucas Tousart,
+3047660,ol,,Moussa Dembélé,Maxwel Cornet,
+3047660,adv,,Mathieu Dossevi,Corentin Jean,
+3047660,adv,,Aaron Leya Iseka,Firmin Mubele,
+3047660,adv,,Bafodé Diakité,Jimmy Durmaz,
+3047660,ol,,Tanguy Ndombélé,Oumar Solet,
+3047660,ol,,Nabil Fekir,Lucas Tousart,
+3047660,ol,,Moussa Dembélé,Maxwel Cornet,
+3047660,adv,,Mathieu Dossevi,Corentin Jean,
+3047660,adv,,Aaron Leya Iseka,Firmin Mubele,
+3047660,adv,,Bafodé Diakité,Jimmy Durmaz,
+3047715,ol,,Maxwel Cornet,Nabil Fekir,
+3047715,ol,,Moussa Dembélé,Marçal,
+3047715,ol,,Martin Terrier,Bertrand Traoré,
+3047715,adv,,Sheyi Ojo,Pablo Chavarría,
+3047715,adv,,Tristan Dingomé,Nolan Mbemba,
+3047715,adv,,Hassane Kamara,Mathieu Cafaro,
+3047715,ol,,Maxwel Cornet,Nabil Fekir,
+3047715,ol,,Moussa Dembélé,Marçal,
+3047715,ol,,Martin Terrier,Bertrand Traoré,
+3047715,adv,,Sheyi Ojo,Pablo Chavarría,
+3047715,adv,,Tristan Dingomé,Nolan Mbemba,
+3047715,adv,,Hassane Kamara,Mathieu Cafaro,
+3136579,adv,,Dimitri Liénard,Kenny Lala,Non rapporté
+3136579,ol,,Bertrand Traoré,Ferland Mendy,Non rapporté
+3136579,ol,,Moussa Dembélé,Memphis Depay,Non rapporté
+3136579,ol,,Tanguy Ndombélé,Pape Cheikh,Non rapporté
+3136579,adv,,Kévin Zohi,Ludovic Ajorque,Non rapporté
+3136579,adv,,Anthony Gonçalves,Ibrahima Sissoko,Non rapporté
+3135774,ol,,Houssem Aouar,Maxence Caqueret,Non rapporté
+3135774,adv,,Jonathan Boteko,Ibou Faye,Non rapporté
+3135774,adv,,Ronald Bafounta,Sanounou Sidibé,Non rapporté
+3135774,adv,,Manuel Pothin,Hans Nze Afatoughe,Non rapporté
+3135774,ol,,Lenny Pintor,Pape Cheikh,Non rapporté
+3135774,ol,,Yassin Fekir,Martin Terrier,Non rapporté
+3136579,adv,,Dimitri Liénard,Kenny Lala,Non rapporté
+3136579,ol,,Bertrand Traoré,Ferland Mendy,Non rapporté
+3136579,ol,,Moussa Dembélé,Memphis Depay,Non rapporté
+3136579,ol,,Tanguy Ndombélé,Pape Cheikh,Non rapporté
+3136579,adv,,Kévin Zohi,Ludovic Ajorque,Non rapporté
+3136579,adv,,Anthony Gonçalves,Ibrahima Sissoko,Non rapporté
+3047704,ol,,Moussa Dembélé,Memphis Depay,Non rapporté
+3047704,adv,,Junior Sambia,Damien Le Tallec,Non rapporté
+3047704,adv,,Petar Skuletic,Gaëtan Laborde,Non rapporté
+3047704,ol,,Martin Terrier,Bertrand Traoré,Non rapporté
+3047704,ol,,Pape Cheikh,Houssem Aouar,Non rapporté
+3047704,adv,3,Paul Lasne,Florent Mollet,Non rapporté
+3135774,ol,,Houssem Aouar,Maxence Caqueret,Non rapporté
+3135774,adv,,Jonathan Boteko,Ibou Faye,Non rapporté
+3135774,adv,,Ronald Bafounta,Sanounou Sidibé,Non rapporté
+3135774,adv,,Manuel Pothin,Hans Nze Afatoughe,Non rapporté
+3135774,ol,,Lenny Pintor,Pape Cheikh,Non rapporté
+3135774,ol,,Yassin Fekir,Martin Terrier,Non rapporté
+3125449,adv,,Jordan Lefort,Mathieu Bodmer,Non rapporté
+3125449,ol,,Jason Denayer,Léo Dubois,Non rapporté
+3125449,adv,,Cheick Timite,Stiven Mendoza,Non rapporté
+3125449,ol,,Ferland Mendy,Marçal,Non rapporté
+3125449,adv,,Saman Ghoddos,Juan Otero,Non rapporté
+3125449,ol,,Yassin Fekir,Bertrand Traoré,Non rapporté
+3047704,ol,,Moussa Dembélé,Memphis Depay,Non rapporté
+3047704,adv,,Junior Sambia,Damien Le Tallec,Non rapporté
+3047704,adv,,Petar Skuletic,Gaëtan Laborde,Non rapporté
+3047704,ol,,Martin Terrier,Bertrand Traoré,Non rapporté
+3047704,ol,,Pape Cheikh,Houssem Aouar,Non rapporté
+3047704,adv,3,Paul Lasne,Florent Mollet,Non rapporté
+3047693,adv,,Moussa Sylla,Benoît Badiashile,Tactique
+3047693,adv,,Sofiane Diop,Nacer Chadli,Tactique
+3047693,ol,,Moussa Dembélé,Bertrand Traoré,Tactique
+3047693,adv,,Han-Noah Massengo,Pelé,Tactique
+3047693,ol,,Pape Cheikh,Houssem Aouar,Tactique
+3047693,ol,,Martin Terrier,Jason Denayer,Tactique
+3125449,adv,,Jordan Lefort,Mathieu Bodmer,Non rapporté
+3125449,ol,,Jason Denayer,Léo Dubois,Non rapporté
+3125449,adv,,Cheick Timite,Stiven Mendoza,Non rapporté
+3125449,ol,,Ferland Mendy,Marçal,Non rapporté
+3125449,adv,,Saman Ghoddos,Juan Otero,Non rapporté
+3125449,ol,,Yassin Fekir,Bertrand Traoré,Non rapporté
+3047693,adv,,Moussa Sylla,Benoît Badiashile,Tactique
+3047693,adv,,Sofiane Diop,Nacer Chadli,Tactique
+3047693,ol,,Moussa Dembélé,Bertrand Traoré,Tactique
+3047693,adv,,Han-Noah Massengo,Pelé,Tactique
+3047693,ol,,Pape Cheikh,Houssem Aouar,Tactique
+3047693,ol,,Martin Terrier,Jason Denayer,Tactique
+3098053,adv,,Bogdan Butko,Davit Khocholava,
+3098053,ol,,Tanguy Ndombélé,Bertrand Traoré,
+3098053,ol,,Moussa Dembélé,Memphis Depay,
+3098053,adv,,Olarenwaju Kayode,Viktor Kovalenko,
+3098053,adv,,Sergiy Bolbat,Marlos,
+3098053,ol,,Léo Dubois,Nabil Fekir,
+3098053,adv,,Bogdan Butko,Davit Khocholava,
+3098053,ol,,Tanguy Ndombélé,Bertrand Traoré,
+3098053,ol,,Moussa Dembélé,Memphis Depay,
+3098053,adv,,Olarenwaju Kayode,Viktor Kovalenko,
+3098053,adv,,Sergiy Bolbat,Marlos,
+3098053,ol,,Léo Dubois,Nabil Fekir,
+3047615,ol,,Pape Cheikh,Tanguy Ndombélé,Non rapporté
+3047615,ol,,Lucas Tousart,Pape Cheikh,Non rapporté
+3047615,adv,,M'Baye Niang,Jordan,Non rapporté
+3047615,ol,,Moussa Dembélé,Jérémy Morel,Non rapporté
+3047615,adv,,Mehdi Zeffane,Ramy Bensebaini,Non rapporté
+3047615,adv,,Romain Del Castillo,Benjamin Bourigeaud,Non rapporté
+3047615,ol,,Pape Cheikh,Tanguy Ndombélé,Non rapporté
+3047615,ol,,Lucas Tousart,Pape Cheikh,Non rapporté
+3047615,adv,,M'Baye Niang,Jordan,Non rapporté
+3047615,ol,,Moussa Dembélé,Jérémy Morel,Non rapporté
+3047615,adv,,Mehdi Zeffane,Ramy Bensebaini,Non rapporté
+3047615,adv,,Romain Del Castillo,Benjamin Bourigeaud,Non rapporté
+3047604,ol,,Martin Terrier,Maxwel Cornet,
+3047604,adv,,Edgar Ié,Jonathan Bamba,
+3047604,ol,,Moussa Dembélé,Marcelo,
+3047604,adv,,Rafael Leão,Loïc Rémy,
+3047604,ol,,Nabil Fekir,Houssem Aouar,
+3047604,adv,,Thiago Maia,Jonathan Ikoné,
+3047604,ol,,Martin Terrier,Maxwel Cornet,
+3047604,adv,,Edgar Ié,Jonathan Bamba,
+3047604,ol,,Moussa Dembélé,Marcelo,
+3047604,adv,,Rafael Leão,Loïc Rémy,
+3047604,ol,,Nabil Fekir,Houssem Aouar,
+3047604,adv,,Thiago Maia,Jonathan Ikoné,
+3098037,adv,,Fabian Delph,Leroy Sané,
+3098037,ol,,Kenny Tete,Rafael,
+3098037,ol,,Bertrand Traoré,Nabil Fekir,
+3098037,ol,,Martin Terrier,Maxwel Cornet,
+3098037,adv,1,Phil Foden,Sergio Agüero,
+3098037,adv,,Fabian Delph,Leroy Sané,
+3098037,ol,,Kenny Tete,Rafael,
+3098037,ol,,Bertrand Traoré,Nabil Fekir,
+3098037,ol,,Martin Terrier,Maxwel Cornet,
+3098037,adv,1,Phil Foden,Sergio Agüero,
+3047594,ol,,Maxwel Cornet,Nabil Fekir,
+3047594,adv,,Yannis Salibur,Loïs Diony,
+3047594,adv,,Romain Hamouma,Kévin Monnet-Paquet,
+3047594,ol,,Lucas Tousart,Moussa Dembélé,
+3047594,adv,,Robert Beric,Ole Selnæs,
+3047594,ol,,Bertrand Traoré,Memphis Depay,
+3047594,ol,,Maxwel Cornet,Nabil Fekir,
+3047594,adv,,Yannis Salibur,Loïs Diony,
+3047594,adv,,Romain Hamouma,Kévin Monnet-Paquet,
+3047594,ol,,Lucas Tousart,Moussa Dembélé,
+3047594,adv,,Robert Beric,Ole Selnæs,
+3047594,ol,,Bertrand Traoré,Memphis Depay,
+3047583,adv,,Guessouma Fofana,Lucas Deaux,
+3047583,ol,,Martin Terrier,Tanguy Ndombélé,
+3047583,adv,,Nathaël Julan,Ludovic Blas,
+3047583,ol,,Rafael,Kenny Tete,
+3047583,ol,,Maxwel Cornet,Moussa Dembélé,
+3047583,adv,,Yeni Ngbakoto,Marcus Coco,
+3047583,adv,,Guessouma Fofana,Lucas Deaux,
+3047583,ol,,Martin Terrier,Tanguy Ndombélé,
+3047583,adv,,Nathaël Julan,Ludovic Blas,
+3047583,ol,,Rafael,Kenny Tete,
+3047583,ol,,Maxwel Cornet,Moussa Dembélé,
+3047583,adv,,Yeni Ngbakoto,Marcus Coco,
+3098022,adv,,Reiss Nelson,Florian Grillitsch,
+3098022,adv,,Ádám Szalai,Ishak Belfodil,
+3098022,ol,,Moussa Dembélé,Nabil Fekir,
+3098022,adv,,Håvard Nordtveit,Kerem Demirbay,
+3098022,ol,,Bertrand Traoré,Memphis Depay,
+3098022,ol,,Pape Cheikh,Tanguy Ndombélé,
+3098022,adv,,Reiss Nelson,Florian Grillitsch,
+3098022,adv,,Ádám Szalai,Ishak Belfodil,
+3098022,ol,,Moussa Dembélé,Nabil Fekir,
+3098022,adv,,Håvard Nordtveit,Kerem Demirbay,
+3098022,ol,,Bertrand Traoré,Memphis Depay,
+3098022,ol,,Pape Cheikh,Tanguy Ndombélé,
+3047573,ol,,Bertrand Traoré,Tanguy Ndombélé,
+3047573,adv,,Andreas Cornelius,Jimmy Briand,
+3047573,ol,,Jordan Ferri,Nabil Fekir,
+3047573,adv,,Nicolas de Préville,François Kamano,
+3047573,ol,,Martin Terrier,Lucas Tousart,
+3047573,ol,,Bertrand Traoré,Tanguy Ndombélé,
+3047573,adv,,Andreas Cornelius,Jimmy Briand,
+3047573,ol,,Jordan Ferri,Nabil Fekir,
+3047573,adv,,Nicolas de Préville,François Kamano,
+3047573,ol,,Martin Terrier,Lucas Tousart,
+3047562,adv,,Mateo Pavlovic,Flavien Tait,Non rapporté
+3047562,ol,,Memphis Depay,Jordan Ferri,Non rapporté
+3047562,adv,,Angelo Fulgini,Pierrick Capelle,Non rapporté
+3047562,adv,,Cristian López,Stéphane Bahoken,Non rapporté
+3047562,ol,,Martin Terrier,Bertrand Traoré,Non rapporté
+3047562,adv,,Mateo Pavlovic,Flavien Tait,Non rapporté
+3047562,ol,,Memphis Depay,Jordan Ferri,Non rapporté
+3047562,adv,,Angelo Fulgini,Pierrick Capelle,Non rapporté
+3047562,adv,,Cristian López,Stéphane Bahoken,Non rapporté
+3047562,ol,,Martin Terrier,Bertrand Traoré,Non rapporté
+3098006,adv,,Joelinton,Ádám Szalai,Tactique
+3098006,adv,,Reiss Nelson,Ermin Bicakcic,Tactique
+3098006,adv,,Steven Zuber,Ishak Belfodil,Tactique
+3098006,ol,,Moussa Dembélé,Memphis Depay,Tactique
+3098006,ol,,Jordan Ferri,Martin Terrier,Tactique
+3098006,ol,,Pape Cheikh,Bertrand Traoré,Ralentissement du jeu
+3098006,adv,,Joelinton,Ádám Szalai,Tactique
+3098006,adv,,Reiss Nelson,Ermin Bicakcic,Tactique
+3098006,adv,,Steven Zuber,Ishak Belfodil,Tactique
+3098006,ol,,Moussa Dembélé,Memphis Depay,Tactique
+3098006,ol,,Jordan Ferri,Martin Terrier,Tactique
+3098006,ol,,Pape Cheikh,Bertrand Traoré,Ralentissement du jeu
+3047553,adv,,Rachid Alioui,Denis Bouanga,
+3047553,ol,,Jordan Ferri,Pape Cheikh,
+3047553,adv,,Umut Bozok,Clément Depres,
+3047553,ol,,Bertrand Traoré,Moussa Dembélé,
+3047553,adv,,Renaud Ripart,Antonin Bobichon,
+3047553,ol,1,Lenny Pintor,Memphis Depay,
+3047553,adv,,Rachid Alioui,Denis Bouanga,
+3047553,ol,,Jordan Ferri,Pape Cheikh,
+3047553,adv,,Umut Bozok,Clément Depres,
+3047553,ol,,Bertrand Traoré,Moussa Dembélé,
+3047553,adv,,Renaud Ripart,Antonin Bobichon,
+3047553,ol,1,Lenny Pintor,Memphis Depay,
+3047549,ol,,Maxwel Cornet,Nabil Fekir,Blessure
+3047549,adv,,Thilo Kehrer,Edinson Cavani,
+3047549,ol,,Léo Dubois,Rafael,Blessure
+3047549,adv,,Julian Draxler,Marco Verratti,
+3047549,ol,,Pape Cheikh,Maxwel Cornet,
+3047549,adv,,Moussa Diaby,Ángel Di María,
+3047549,ol,,Maxwel Cornet,Nabil Fekir,Blessure
+3047549,adv,,Thilo Kehrer,Edinson Cavani,
+3047549,ol,,Léo Dubois,Rafael,Blessure
+3047549,adv,,Julian Draxler,Marco Verratti,
+3047549,ol,,Pape Cheikh,Maxwel Cornet,
+3047549,adv,,Moussa Diaby,Ángel Di María,
+3097990,ol,,Memphis Depay,Bertrand Traoré,
+3097990,adv,,Viktor Kovalenko,Alan Patrick,
+3097990,ol,,Maxwel Cornet,Moussa Dembélé,
+3097990,adv,,Olarenwaju Kayode,Júnior Moraes,
+3097990,ol,,Pape Cheikh,Tanguy Ndombélé,
+3097990,adv,1,Fernando,Marlos,
+3097990,ol,,Memphis Depay,Bertrand Traoré,
+3097990,adv,,Viktor Kovalenko,Alan Patrick,
+3097990,ol,,Maxwel Cornet,Moussa Dembélé,
+3097990,adv,,Olarenwaju Kayode,Júnior Moraes,
+3097990,ol,,Pape Cheikh,Tanguy Ndombélé,
+3097990,adv,1,Fernando,Marlos,
+3047534,ol,,Maxwel Cornet,Moussa Dembélé,
+3047534,ol,,Tanguy Ndombélé,Pape Cheikh,
+3047534,ol,,Rafael,Marçal,
+3047534,adv,,Anthony Limbombe,Gabriel Boschilia,
+3047534,adv,4,Enock Kwateng,Fábio,
+3047534,adv,5,Kalifa Coulibaly,Majeed Waris,
+3047534,ol,,Maxwel Cornet,Moussa Dembélé,
+3047534,ol,,Tanguy Ndombélé,Pape Cheikh,
+3047534,ol,,Rafael,Marçal,
+3047534,adv,,Anthony Limbombe,Gabriel Boschilia,
+3047534,adv,4,Enock Kwateng,Fábio,
+3047534,adv,5,Kalifa Coulibaly,Majeed Waris,
+3047524,adv,,Naïm Sliti,Benjamin Jeannot,
+3047524,adv,,Jules Keita,Mehdi Abeid,
+3047524,ol,,Pape Cheikh,Tanguy Ndombélé,
+3047524,ol,,Jordan Ferri,Martin Terrier,
+3047524,adv,,Yoann Gourcuff,Wesley Lautoa,
+3047524,ol,,Memphis Depay,Bertrand Traoré,
+3047524,adv,,Naïm Sliti,Benjamin Jeannot,
+3047524,adv,,Jules Keita,Mehdi Abeid,
+3047524,ol,,Pape Cheikh,Tanguy Ndombélé,
+3047524,ol,,Jordan Ferri,Martin Terrier,
+3047524,adv,,Yoann Gourcuff,Wesley Lautoa,
+3047524,ol,,Memphis Depay,Bertrand Traoré,
+3047514,ol,,Moussa Dembélé,Memphis Depay,
+3047514,adv,,Valère Germain,Konstantinos Mitroglou,
+3047514,adv,,Boubacar Kamara,Lucas Ocampos,
+3047514,ol,,Lucas Tousart,Pape Cheikh,
+3047514,adv,,Clinton N'Jie,Kevin Strootman,
+3047514,ol,,Martin Terrier,Nabil Fekir,
+3047514,ol,,Moussa Dembélé,Memphis Depay,
+3047514,adv,,Valère Germain,Konstantinos Mitroglou,
+3047514,adv,,Boubacar Kamara,Lucas Ocampos,
+3047514,ol,,Lucas Tousart,Pape Cheikh,
+3047514,adv,,Clinton N'Jie,Kevin Strootman,
+3047514,ol,,Martin Terrier,Nabil Fekir,
+3097966,adv,,Leroy Sané,İlkay Gündoğan,Tactique
+3097966,adv,,Sergio Agüero,Gabriel Jesus,Tactique
+3097966,adv,,Riyad Mahrez,Raheem Sterling,Tactique
+3097966,ol,,Léo Dubois,Rafael,Tactique
+3097966,ol,,Lucas Tousart,Nabil Fekir,Tactique
+3097966,ol,2,Bertrand Traoré,Maxwel Cornet,Ralentissement du jeu
+3097966,adv,,Leroy Sané,İlkay Gündoğan,Tactique
+3097966,adv,,Sergio Agüero,Gabriel Jesus,Tactique
+3097966,adv,,Riyad Mahrez,Raheem Sterling,Tactique
+3097966,ol,,Léo Dubois,Rafael,Tactique
+3097966,ol,,Lucas Tousart,Nabil Fekir,Tactique
+3097966,ol,2,Bertrand Traoré,Maxwel Cornet,Ralentissement du jeu
+3047473,adv,,Romain Genevois,Saîf-Eddine Khaoui,
+3047473,ol,,Martin Terrier,Nabil Fekir,
+3047473,adv,,Yacine Bammou,Enzo Crivelli,
+3047473,ol,,Memphis Depay,Lucas Tousart,
+3047473,ol,,Maxwel Cornet,Bertrand Traoré,
+3047473,adv,,Baissama Sankoh,Claudio Beauvue,
+3047473,adv,,Romain Genevois,Saîf-Eddine Khaoui,
+3047473,ol,,Martin Terrier,Nabil Fekir,
+3047473,adv,,Yacine Bammou,Enzo Crivelli,
+3047473,ol,,Memphis Depay,Lucas Tousart,
+3047473,ol,,Maxwel Cornet,Bertrand Traoré,
+3047473,adv,,Baissama Sankoh,Claudio Beauvue,
+3047464,ol,,Maxwel Cornet,Martin Terrier,
+3047464,adv,,Myziane Maolida,Mario Balotelli,
+3047464,ol,,Pape Cheikh,Lucas Tousart,
+3047464,ol,,Houssem Aouar,Bertrand Traoré,
+3047464,adv,,Racine Coly,Allan Saint-Maximin,
+3047464,ol,,Maxwel Cornet,Martin Terrier,
+3047464,adv,,Myziane Maolida,Mario Balotelli,
+3047464,ol,,Pape Cheikh,Lucas Tousart,
+3047464,ol,,Houssem Aouar,Bertrand Traoré,
+3047464,adv,,Racine Coly,Allan Saint-Maximin,
+3047454,adv,,Ludovic Ajorque,Anthony Gonçalves,
+3047454,adv,,Kévin Zohi,Anthony Caci,
+3047454,ol,,Houssem Aouar,Martin Terrier,
+3047454,ol,,Nabil Fekir,Pape Cheikh,
+3047454,adv,,Youssouf Fofana,Ibrahima Sissoko,
+3047454,ol,,Mariano Díaz,Tanguy Ndombélé,
+3047454,adv,,Ludovic Ajorque,Anthony Gonçalves,
+3047454,adv,,Kévin Zohi,Anthony Caci,
+3047454,ol,,Houssem Aouar,Martin Terrier,
+3047454,ol,,Nabil Fekir,Pape Cheikh,
+3047454,adv,,Youssouf Fofana,Ibrahima Sissoko,
+3047454,ol,,Mariano Díaz,Tanguy Ndombélé,
+3047447,ol,,Maxwel Cornet,Mariano Díaz,
+3047447,ol,,Martin Terrier,Houssem Aouar,
+3047447,adv,,Nolan Mbemba,Marvin Martin,
+3047447,adv,,Mathieu Cafaro,Rémi Oudin,
+3047447,adv,,Hyun-jun Suk,Pablo Chavarría,
+3047447,ol,,Rafael,Léo Dubois,
+3047447,ol,,Maxwel Cornet,Mariano Díaz,
+3047447,ol,,Martin Terrier,Houssem Aouar,
+3047447,adv,,Nolan Mbemba,Marvin Martin,
+3047447,adv,,Mathieu Cafaro,Rémi Oudin,
+3047447,adv,,Hyun-jun Suk,Pablo Chavarría,
+3047447,ol,,Rafael,Léo Dubois,
+3047434,adv,,Quentin Cornette,Gaoussou Traoré,Non rapporté
+3047434,ol,,Martin Terrier,Mariano Díaz,Non rapporté
+3047434,adv,,Mathieu Bodmer,Moussa Konaté,Non rapporté
+3047434,ol,,Maxwel Cornet,Bertrand Traoré,Non rapporté
+3047434,ol,,Pape Cheikh,Lucas Tousart,Non rapporté
+3047434,adv,,Cheick Timite,Juan Otero,Non rapporté
+3047434,adv,,Quentin Cornette,Gaoussou Traoré,Non rapporté
+3047434,ol,,Martin Terrier,Mariano Díaz,Non rapporté
+3047434,adv,,Mathieu Bodmer,Moussa Konaté,Non rapporté
+3047434,ol,,Maxwel Cornet,Bertrand Traoré,Non rapporté
+3047434,ol,,Pape Cheikh,Lucas Tousart,Non rapporté
+3047434,adv,,Cheick Timite,Juan Otero,Non rapporté
