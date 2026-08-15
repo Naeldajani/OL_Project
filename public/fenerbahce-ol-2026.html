@@ -201,6 +201,63 @@
   .countdown.done .cd-units { display: none; }
   .cd-msg { font-family: var(--display); font-size: 19px; font-weight: 800; letter-spacing: -.02em; }
 
+  /* ---------- Pitches ---------- */
+  .pitches { display: grid; grid-template-columns: repeat(auto-fit, minmax(270px, 1fr)); gap: 12px; }
+  .pitch-card {
+    background: var(--surface); border: 1px solid var(--rule); border-radius: 10px;
+    padding: 15px 15px 16px; box-shadow: var(--shadow);
+    display: flex; flex-direction: column; gap: 12px;
+    border-top: 3px solid var(--side);
+    transition: transform .35s var(--ease), box-shadow .35s var(--ease);
+  }
+  .pitch-card:hover { transform: translateY(-2px); box-shadow: var(--shadow-lift); }
+  .pitch-card.fb-side { --side: var(--fb); }
+  .pitch-card.ol-side { --side: var(--ol); }
+  .pitch-head { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; }
+  .pitch-head b { font-family: var(--display); font-size: 15px; letter-spacing: -.01em; }
+  .pitch-head span { font-family: var(--data); font-size: 11.5px; letter-spacing: .1em; color: var(--side); font-weight: 700; }
+  .pitch {
+    display: flex; flex-direction: column; gap: 9px;
+    padding: 14px 10px; border-radius: 7px;
+    background:
+      linear-gradient(var(--band), var(--band)) padding-box,
+      repeating-linear-gradient(180deg, transparent 0 34px, color-mix(in srgb, var(--muted) 12%, transparent) 34px 35px);
+    border: 1px solid var(--rule);
+  }
+  .line { display: flex; justify-content: center; gap: 6px; flex-wrap: wrap; }
+  .pl {
+    font-family: var(--display); font-size: 11.5px; font-weight: 700; line-height: 1.1;
+    padding: 6px 8px; border-radius: 5px; text-align: center;
+    background: var(--surface); border: 1px solid var(--rule);
+    color: var(--ink); flex: 1 1 0; min-width: 0;
+    opacity: 0; transform: translateY(6px) scale(.94);
+    transition: opacity .45s var(--ease), transform .45s var(--ease), border-color .2s ease;
+  }
+  .in .pl { opacity: 1; transform: none; }
+  .pitch .line:nth-child(1) .pl { transition-delay: .05s; }
+  .pitch .line:nth-child(2) .pl { transition-delay: .14s; }
+  .pitch .line:nth-child(3) .pl { transition-delay: .23s; }
+  .pitch .line:nth-child(4) .pl { transition-delay: .32s; }
+  .pitch .line:nth-child(5) .pl { transition-delay: .41s; }
+  .pitch-card:hover .pl { border-color: color-mix(in srgb, var(--side) 45%, var(--rule)); }
+  .pl.unsure { color: var(--muted); font-weight: 600; border-style: dashed; }
+
+  /* ---------- Duels ---------- */
+  .duels { display: flex; flex-direction: column; gap: 9px; }
+  .duel {
+    display: grid; grid-template-columns: 38px 1fr; gap: 4px 12px; align-items: start;
+    background: var(--surface); border: 1px solid var(--rule); border-radius: 9px;
+    padding: 14px 15px 15px;
+    transition: transform .3s var(--ease), border-color .3s var(--ease), box-shadow .3s var(--ease);
+  }
+  .duel:hover { transform: translateX(3px); border-color: color-mix(in srgb, var(--ol) 40%, var(--rule)); box-shadow: 0 0 0 3px var(--glow); }
+  .duel-n {
+    grid-row: span 2; font-family: var(--data); font-size: 17px; font-weight: 700;
+    color: var(--ol); opacity: .55; line-height: 1.1;
+  }
+  .duel b { font-family: var(--display); font-size: 14.5px; letter-spacing: -.01em; }
+  .duel p { font-size: 13.5px; line-height: 1.5; color: var(--ink-2); }
+
   /* ---------- Scenarios ---------- */
   .scenarios { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 11px; }
   .scen {
@@ -324,15 +381,86 @@
     <p class="kicker">Le facteur Kadıköy</p>
     <h2>Le vrai adversaire n'est pas dans le tableau</h2>
     <div class="tiles">
-      <div class="tile fb"><span class="lbl">Ambiance</span><span class="stat-n" data-count="36722" data-sep="1">36 722</span><p>spectateurs au dernier Fener - OL.</p></div>
+      <div class="tile fb"><span class="lbl">Affluence attendue</span><span class="stat-n" data-count="50000" data-sep="1">50 000</span><p>soit un stade plein : la capacité est de 50 530 places.</p></div>
       <div class="tile fb"><span class="lbl">Série</span><span class="stat-n" data-count="9">9</span><p>matchs sans défaite avant les barrages.</p></div>
       <div class="tile fb"><span class="lbl">Qualifs</span><span class="stat-n">0</span><p>but encaissé par le Fener sur les deux matchs du 3ᵉ tour.</p></div>
+    </div>
+    <div class="card">
+      <h3>Affluence : mardi contre la dernière visite lyonnaise</h3>
+      <div class="bars">
+        <div class="bar-row"><div class="bar-lbl">Mardi 18 août<br>(attendu)</div><div class="bar-track"><div class="bar fb" style="--w:100%"></div><span class="bar-val">~50 000</span></div></div>
+        <div class="bar-row"><div class="bar-lbl">Janvier 2025<br>(Europa League)</div><div class="bar-track"><div class="bar fb" style="--w:73%;--d:.12s"></div><span class="bar-val">36 722</span></div></div>
+      </div>
+      <p class="cap">13 000 spectateurs de plus qu'au dernier duel : un barrage de C1 un mardi soir d'août ne se joue pas dans la même atmosphère qu'une 7ᵉ journée d'Europa League en janvier.</p>
     </div>
     <ul>
       <li><strong>La première demi-heure.</strong> Les deux buts du Fener contre le Sturm sont tombés avant la pause, dont un à la 9ᵉ.</li>
       <li><strong>Un 1-1 se signe.</strong> La règle du but à l'extérieur n'existe plus, mais ce score transforme le retour en match simple à gagner.</li>
       <li><strong>La fraîcheur lyonnaise.</strong> Pas encore de Ligue 1 dans les jambes : plus de jus, moins d'automatismes. La vraie inconnue.</li>
     </ul>
+  </section>
+
+  <section class="rv">
+    <p class="kicker">Les onze</p>
+    <h2>Les compositions probables</h2>
+    <p>Reconstituées à partir des équipes alignées au 3ᵉ tour. Côté turc, le onze est connu et devrait peu bouger ; côté lyonnais, la charnière et l'animation sont acquises, les postes de gardien et de latéraux restent à confirmer.</p>
+
+    <div class="pitches">
+      <div class="pitch-card fb-side">
+        <div class="pitch-head"><b>Fenerbahçe</b><span>4-3-3</span></div>
+        <div class="pitch">
+          <div class="line"><span class="pl">Günok</span></div>
+          <div class="line"><span class="pl">Semedo</span><span class="pl">Škriniar</span><span class="pl">Aké</span><span class="pl">Oosterwolde</span></div>
+          <div class="line"><span class="pl">Kanté</span><span class="pl">Guendouzi</span><span class="pl">Asensio</span></div>
+          <div class="line"><span class="pl">Aktürkoğlu</span><span class="pl">Talisca</span><span class="pl">Greenwood</span></div>
+        </div>
+        <p class="cap">Le onze exact aligné contre le Sturm Graz le 5 août (victoire 2-0, buts de Talisca et Greenwood).</p>
+      </div>
+
+      <div class="pitch-card ol-side">
+        <div class="pitch-head"><b>Olympique Lyonnais</b><span>4-2-3-1</span></div>
+        <div class="pitch">
+          <div class="line"><span class="pl unsure">Gardien ?</span></div>
+          <div class="line"><span class="pl unsure">Latéral ?</span><span class="pl">Kluivert</span><span class="pl">Niakhaté</span><span class="pl unsure">Latéral ?</span></div>
+          <div class="line"><span class="pl">Morton</span><span class="pl">Tessmann</span></div>
+          <div class="line"><span class="pl">Fofana</span><span class="pl">Tolisso</span><span class="pl">Nuamah</span></div>
+          <div class="line"><span class="pl">Openda</span></div>
+        </div>
+        <p class="cap">Ossature du retour contre le Sparta (3-0). Tagliafico manquait à gauche ; Maitland-Niles, buteur ce soir-là, est une option sur un côté.</p>
+      </div>
+    </div>
+    <p class="note"><strong>À lire avec prudence :</strong> les compositions officielles tombent une heure avant le coup d'envoi. Les postes marqués d'un « ? » n'ont pas pu être confirmés à partir des feuilles de match publiées.</p>
+  </section>
+
+  <section class="rv">
+    <p class="kicker">L'analyse</p>
+    <h2>Quatre duels qui décident du match</h2>
+    <div class="duels">
+      <div class="duel">
+        <span class="duel-n">01</span>
+        <b>Kanté – Guendouzi contre Morton – Tessmann</b>
+        <p>C'est le cœur du match. Le Fener aligne un double pivot d'expérience internationale face à deux milieux jeunes qui découvrent ce niveau de pression. Si l'OL perd la bataille des seconds ballons dans les vingt premières minutes, le stade fait le reste.</p>
+      </div>
+      <div class="duel">
+        <span class="duel-n">02</span>
+        <b>Le côté gauche lyonnais</b>
+        <p>Sans Tagliafico contre le Sparta, ce couloir a été le point d'interrogation du dernier match. En face, Greenwood rentre sur son pied gauche depuis la droite. C'est là que le Fener ira chercher son premier but.</p>
+      </div>
+      <div class="duel">
+        <span class="duel-n">03</span>
+        <b>Openda et Nuamah contre Škriniar – Aké</b>
+        <p>La vitesse contre l'expérience. La charnière turque est solide dans les duels et n'a rien encaissé au 3ᵉ tour, mais elle est vulnérable dans le dos si l'OL trouve le bon timing en contre. C'est l'arme n°1 d'un match à l'extérieur.</p>
+      </div>
+      <div class="duel">
+        <span class="duel-n">04</span>
+        <b>Talisca dans le demi-espace</b>
+        <p>Buteur dès la 9ᵉ minute contre le Sturm Graz. C'est le joueur qui relie le milieu à l'attaque turque : le laisser se retourner entre les lignes, c'est offrir le tempo au Fenerbahçe.</p>
+      </div>
+    </div>
+    <div class="tiles">
+      <div class="tile fb"><span class="lbl">Le vrai atout turc</span><span class="stat-n">8 / 11</span><p>titulaires du Fener sont passés par un des cinq grands championnats européens : Kanté, Aké, Semedo, Škriniar, Asensio, Guendouzi, Greenwood, Oosterwolde.</p></div>
+      <div class="tile ol"><span class="lbl">Ce que ça dit</span><span class="stat-n">CV &gt; €</span><p>La force du Fenerbahçe n'est pas sa valeur d'effectif — inférieure à celle de l'OL — mais l'expérience du haut niveau accumulée par son onze.</p></div>
+    </div>
   </section>
 
   <section class="rv">
@@ -361,7 +489,8 @@
       <table>
         <tbody>
           <tr><td class="metric">Coup d'envoi</td><td>Mardi 18 août, 21h00 en France · 22h00 heure locale</td></tr>
-          <tr><td class="metric">Stade</td><td>Ülker Stadyumu Şükrü Saracoğlu, quartier de Kadıköy, Istanbul</td></tr>
+          <tr><td class="metric">Stade</td><td>Şükrü Saracoğlu, quartier de Kadıköy, Istanbul — 50 530 places (rebaptisé Chobani Stadyumu depuis 2025-26)</td></tr>
+          <tr><td class="metric">Affluence</td><td>Environ 50 000 spectateurs attendus, à guichets fermés</td></tr>
           <tr><td class="metric">Enjeu</td><td>Aller du barrage · retour au Groupama les 25-26 août</td></tr>
           <tr><td class="metric">En cas d'élimination</td><td>Reversement en phase de ligue de Ligue Europa</td></tr>
           <tr><td class="metric">Déplacement</td><td>Parcage visiteur très réduit à Istanbul. Les précédents entre les deux clubs ont été classés à risque élevé côté français — passez par la billetterie officielle de l'OL.</td></tr>
@@ -383,9 +512,12 @@ FACE-À-FACE : 5 matchs, 4 victoires OL, 1 nul, 0 défaite.
 LE CHEMIN : OL 4-2 Sparta Prague · Fener 3-0 Sturm Graz sans encaisser.
 
 LES EFFECTIFS : OL 299,2 M€ (25,1 ans) · Fener 247,9 M€ (27,3 ans).
-👉 Non, le Fener n'a pas l'effectif le plus cher. Il a l'expérience, le rythme et Kadıköy.
+👉 Non, le Fener n'a pas l'effectif le plus cher. Mais 8 de ses 11 titulaires
+ont joué dans un des cinq grands championnats : Kanté, Aké, Škriniar,
+Semedo, Asensio, Guendouzi, Greenwood, Oosterwolde.
 
-36 722 spectateurs au dernier duel. 9 matchs sans défaite pour le Fener.
+LE DÉCOR : ~50 000 spectateurs attendus, stade plein.
+9 matchs sans défaite pour le Fener, 0 but encaissé au 3ᵉ tour.
 
 Un résultat ramené d'Istanbul et tout se joue au Groupama. 🦁</div>
   </section>
@@ -400,6 +532,9 @@ Un résultat ramené d'Istanbul et tout se joue au Groupama. 🦁</div>
       <a href="https://en.wikipedia.org/wiki/Fenerbah%C3%A7e_S.K._in_European_football">Wikipédia — Fenerbahçe en coupes d'Europe (2001/02)</a> ·
       <a href="https://www.espn.com/soccer/match/_/gameId/720481/lyon-fenerbahce">ESPN 0-0 (2025)</a> ·
       <a href="https://www.footmercato.net/live/6961229653915242214-lyon-vs-sparta-prague">Foot Mercato</a> ·
+      <a href="https://www.footmercato.net/a3215034360929977774-ol-sparta-prague-les-compositions-officielles">Compositions OL - Sparta</a> ·
+      <a href="https://www.ysscores.com/en/lineup/5954870/Fenerbahce-vs-SK-Sturm-Graz">Composition Fenerbahçe - Sturm Graz</a> ·
+      <a href="https://stadiumdb.com/stadiums/tur/sukru_saracoglu_stadyumu">StadiumDB — capacité du stade</a> ·
       <a href="https://www.espn.com/soccer/match/_/gameId/401902674/sk-sturm-graz-fenerbahce">ESPN Fener-Sturm</a> ·
       <a href="https://www.transfermarkt.us/fenerbahce/kader/verein/36">Transfermarkt Fener</a> ·
       <a href="https://www.transfermarkt.us/olympique-lyon/kader/verein/1041">Transfermarkt OL</a> ·
