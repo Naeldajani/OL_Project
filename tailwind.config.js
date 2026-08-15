@@ -19,20 +19,23 @@ export default {
           blue: "#3b82f6",
           gold: "#f5b73d",
         },
-        // Lugdun'Home — stadium at night + Lugdunum bronze.
+        // Lugdun'Home — bleu ardoise plutôt que noir : le fond quasi noir
+        // écrasait les cartes, qui se distinguaient à peine du vide. Chaque
+        // niveau est désormais franchement plus clair que le précédent, et
+        // le texte secondaire remonte assez pour rester lisible en plein jour.
         lh: {
-          void: "#06080d",
-          night: "#0b0e16",
-          surface: "#121724",
-          raised: "#1a2032",
-          line: "#252d42",
+          void: "#141a28",
+          night: "#1a2133",
+          surface: "#222b40",
+          raised: "#2b3651",
+          line: "#3a4767",
           red: "#e1000f",
-          redSoft: "#ff2d3d",
+          redSoft: "#ff5765",
           gold: "#c9a227",
-          goldSoft: "#e8c66a",
-          blue: "#1b3a8c",
-          text: "#eef1f8",
-          muted: "#8a94ac",
+          goldSoft: "#f0d089",
+          blue: "#2f56b8",
+          text: "#f3f5fb",
+          muted: "#a7b1c9",
         },
       },
       fontFamily: {

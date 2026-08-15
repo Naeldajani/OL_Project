@@ -4,6 +4,8 @@ import { lineupFor } from '../lib/lineups'
 import { Card, Face, ResultBar } from './ui'
 
 const PODIUM = ['🥇', '🥈', '🥉']
+/* Un podium pour désigner un fautif serait une récompense : on numérote. */
+const BLAME_RANK = ['①', '②', '③']
 
 export default function Motm({
   match,
@@ -50,9 +52,12 @@ export default function Motm({
       <h2 className="lh-display mb-3 text-2xl">{open ? copy.askTitle : copy.doneTitle}</h2>
 
       {!open && winner && (
-        <Card raised className="animate-lh-pop mb-4 overflow-hidden">
+        <Card
+          raised
+          className={`animate-lh-pop mb-4 overflow-hidden ${blame ? 'border-lh-red/40' : ''}`}
+        >
           <div className="relative flex items-center gap-4 p-5">
-            <div className="lh-shine pointer-events-none absolute inset-0" />
+            {!blame && <div className="lh-shine pointer-events-none absolute inset-0" />}
             <Face
               name={winner.player}
               size={72}
@@ -114,16 +119,26 @@ export default function Motm({
         <div className="flex flex-col gap-3">
           {ranked.slice(0, open ? 3 : 5).map((row, i) => (
             <div key={row.player} className="flex items-center gap-3">
-              <span className="w-5 shrink-0 text-center text-sm">{PODIUM[i] ?? `${i + 1}.`}</span>
+              <span className="w-5 shrink-0 text-center text-sm">
+                {(blame ? BLAME_RANK : PODIUM)[i] ?? `${i + 1}.`}
+              </span>
               <Face name={row.player} size={30} />
               <div className="min-w-0 flex-1">
                 <div className="mb-1 flex items-baseline justify-between gap-2">
                   <span className="truncate text-xs font-bold">{row.player}</span>
-                  <span className="lh-tabnum shrink-0 text-xs font-bold text-lh-goldSoft">
+                  <span
+                    className={`lh-tabnum shrink-0 text-xs font-bold ${
+                      blame ? 'text-lh-redSoft' : 'text-lh-goldSoft'
+                    }`}
+                  >
                     {row.pct.toFixed(0)} %
                   </span>
                 </div>
-                <ResultBar pct={row.pct} color={i === 0 ? 'gold' : 'muted'} delay={i * 70} />
+                <ResultBar
+                  pct={row.pct}
+                  color={i === 0 ? (blame ? 'red' : 'gold') : 'muted'}
+                  delay={i * 70}
+                />
               </div>
             </div>
           ))}

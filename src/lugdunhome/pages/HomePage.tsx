@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import { ButtonLink } from '../components/Button'
 import MatchHero, { MatchRow } from '../components/MatchHero'
 import CountdownBanner, { useLiveWindow } from '../components/Countdown'
-import { Card, Crest, Face, Pill, ResultBar, SectionTitle, Stat } from '../components/ui'
+import { Card, Crest, Face, Pill, ResultBar, Rubric, SectionTitle, Stat } from '../components/ui'
 import { useMatchCommunity } from '../hooks/useMatchCommunity'
 import { isLatest, latestMatch, ratableMatches } from '../lib/matches'
 import { windowFor } from '../lib/matchWindow'
@@ -83,9 +83,13 @@ export default function HomePage() {
       {/* Next fixture — the "before match" state */}
       <NextFixtureCard />
 
-      {/* Community pulse */}
-      <section>
-        <SectionTitle eyebrow="En ce moment" title="La communauté" />
+      {/* Ce que dit le Kop — replié : c'est du contexte, pas une action */}
+      <Rubric
+        icon="🗣️"
+        title="Ce que dit le Kop"
+        hint="Participation, meilleures notes, homme du match et débat"
+        badge={<Pill tone="gold">{community.participants.toLocaleString('fr-FR')}</Pill>}
+      >
         <div className="grid grid-cols-2 gap-3 sm:grid-cols-4">
           <Stat value={community.participants.toLocaleString('fr-FR')} label="Participants" accent />
           <Stat
@@ -118,10 +122,8 @@ export default function HomePage() {
             label="5 derniers matchs"
           />
         </div>
-      </section>
 
-      {/* Top rated + MOTM + debate teaser */}
-      <section className="grid gap-4 lg:grid-cols-3">
+        <div className="mt-4 grid gap-4 lg:grid-cols-3">
         <Card className="p-4">
           <div className="lh-eyebrow mb-3">⭐ Mieux notés</div>
           <div className="flex flex-col gap-3">
@@ -168,33 +170,32 @@ export default function HomePage() {
             {live.open ? 'Donner mon avis →' : 'Voir les résultats →'}
           </Link>
         </Card>
-      </section>
+        </div>
+      </Rubric>
 
-      {/* Recent matches */}
-      <section>
-        <SectionTitle
-          eyebrow="Historique"
-          title="Matchs précédents"
-          action={
-            <Link to="/matchs" className="text-xs font-bold text-lh-muted hover:text-lh-text">
-              Tout voir →
-            </Link>
-          }
-        />
+      <NewsTeaser />
+
+      <Rubric icon="🗂️" title="Matchs précédents" hint="Les six derniers, notés par la communauté">
         <div className="flex flex-col gap-2">
           {ratableMatches.slice(1, 7).map((m) => (
             <MatchRow key={m.id} match={m} />
           ))}
         </div>
-      </section>
+        <Link
+          to="/matchs"
+          className="mt-3 inline-block text-xs font-bold text-lh-muted hover:text-lh-text"
+        >
+          Tout l'historique →
+        </Link>
+      </Rubric>
 
-      <NewsTeaser />
-
-      <section className="grid gap-3 sm:grid-cols-3">
-        <QuickLink to="/pronos" icon="🔮" title="Pronostics" hint="Marque des points sur les prochains matchs" />
-        <QuickLink to="/data" icon="📊" title="Data" hint="Toute la mémoire de la communauté" />
-        <QuickLink to="/classements" icon="🏆" title="Classements" hint="Qui est le meilleur Gone ?" />
-      </section>
+      <Rubric icon="🧭" title="Aller plus loin" hint="Pronos, data, classements">
+        <div className="grid gap-3 sm:grid-cols-3">
+          <QuickLink to="/pronos" icon="🔮" title="Pronostics" hint="Marque des points sur les prochains matchs" />
+          <QuickLink to="/data" icon="📊" title="Data" hint="Toute la mémoire de la communauté" />
+          <QuickLink to="/classements" icon="🏆" title="Classements" hint="Qui est le meilleur Gone ?" />
+        </div>
+      </Rubric>
     </div>
   )
 }
@@ -266,16 +267,12 @@ function NewsTeaser() {
   if (!items.length) return null
 
   return (
-    <section>
-      <SectionTitle
-        eyebrow="📰 Inf'OL"
-        title="Ce qui se dit sur l'OL"
-        action={
-          <Link to="/infol" className="text-xs font-bold text-lh-muted hover:text-lh-text">
-            Tout le fil →
-          </Link>
-        }
-      />
+    <Rubric
+      icon="📰"
+      title="Inf'OL"
+      hint="Ce qui se dit sur l'OL en ce moment"
+      badge={<Pill>{news.length}</Pill>}
+    >
       <div className="flex flex-col gap-2">
         {items.map((item) => (
           <a
@@ -306,7 +303,10 @@ function NewsTeaser() {
           </a>
         ))}
       </div>
-    </section>
+      <Link to="/infol" className="mt-3 inline-block text-xs font-bold text-lh-muted hover:text-lh-text">
+        Tout le fil →
+      </Link>
+    </Rubric>
   )
 }
 
