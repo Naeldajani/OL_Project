@@ -217,8 +217,8 @@
   .pitch-head b { font-family: var(--display); font-size: 15px; letter-spacing: -.01em; }
   .pitch-head span { font-family: var(--data); font-size: 11.5px; letter-spacing: .1em; color: var(--side); font-weight: 700; }
   .pitch {
-    display: flex; flex-direction: column; gap: 9px;
-    padding: 14px 10px; border-radius: 7px;
+    display: flex; flex-direction: column; gap: 13px;
+    padding: 14px 10px 16px; border-radius: 7px;
     background:
       linear-gradient(var(--band), var(--band)) padding-box,
       repeating-linear-gradient(180deg, transparent 0 34px, color-mix(in srgb, var(--muted) 12%, transparent) 34px 35px);
@@ -241,6 +241,16 @@
   .pitch .line:nth-child(5) .pl { transition-delay: .41s; }
   .pitch-card:hover .pl { border-color: color-mix(in srgb, var(--side) 45%, var(--rule)); }
   .pl.unsure { color: var(--muted); font-weight: 600; border-style: dashed; }
+  .pl.weak {
+    border-color: color-mix(in srgb, var(--fb) 55%, var(--rule));
+    background: color-mix(in srgb, var(--fb) 10%, var(--surface));
+    position: relative;
+  }
+  .pl.weak::after {
+    content: "zone ciblée"; position: absolute; left: 50%; bottom: -7px; transform: translateX(-50%);
+    font-family: var(--data); font-size: 8px; letter-spacing: .08em; text-transform: uppercase;
+    color: #FBFBFA; background: var(--fb); padding: 1px 5px; border-radius: 3px; white-space: nowrap;
+  }
 
   /* ---------- Duels ---------- */
   .duels { display: flex; flex-direction: column; gap: 9px; }
@@ -257,6 +267,10 @@
   }
   .duel b { font-family: var(--display); font-size: 14.5px; letter-spacing: -.01em; }
   .duel p { font-size: 13.5px; line-height: 1.5; color: var(--ink-2); }
+  .duel p em { font-style: italic; color: var(--ink); }
+  .duel.alert { border-left: 3px solid var(--fb); background: color-mix(in srgb, var(--fb) 5%, var(--surface)); }
+  .duel.alert .duel-n { color: var(--fb); opacity: .8; }
+  .duel.alert:hover { border-color: color-mix(in srgb, var(--fb) 45%, var(--rule)); border-left-color: var(--fb); box-shadow: 0 0 0 3px color-mix(in srgb, var(--fb) 16%, transparent); }
 
   /* ---------- Scenarios ---------- */
   .scenarios { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 11px; }
@@ -276,11 +290,6 @@
   }
   .scen p { font-size: 13.5px; line-height: 1.48; color: var(--ink-2); }
 
-  /* ---------- Post ---------- */
-  .post {
-    background: var(--ink); color: #E8EBEF; border-radius: 10px; padding: 22px 20px;
-    font-family: var(--data); font-size: 13px; line-height: 1.72; white-space: pre-wrap; overflow-x: auto;
-  }
   ul { margin: 0; padding-left: 19px; display: flex; flex-direction: column; gap: 7px; color: var(--ink-2); font-size: 15.5px; }
   .srcs { font-size: 12.5px; color: var(--muted); line-height: 1.65; }
   .srcs a { color: var(--muted); }
@@ -420,42 +429,57 @@
       <div class="pitch-card ol-side">
         <div class="pitch-head"><b>Olympique Lyonnais</b><span>4-2-3-1</span></div>
         <div class="pitch">
-          <div class="line"><span class="pl unsure">Gardien ?</span></div>
-          <div class="line"><span class="pl unsure">Latéral ?</span><span class="pl">Kluivert</span><span class="pl">Niakhaté</span><span class="pl unsure">Latéral ?</span></div>
+          <div class="line"><span class="pl">Greif</span></div>
+          <div class="line"><span class="pl weak">Maitland-Niles<br>ou Mata</span><span class="pl">Kluivert</span><span class="pl">Niakhaté</span><span class="pl">Tagliafico<br>ou Abner</span></div>
           <div class="line"><span class="pl">Morton</span><span class="pl">Tessmann</span></div>
           <div class="line"><span class="pl">Fofana</span><span class="pl">Tolisso</span><span class="pl">Nuamah</span></div>
           <div class="line"><span class="pl">Openda</span></div>
         </div>
-        <p class="cap">Ossature du retour contre le Sparta (3-0). Tagliafico manquait à gauche ; Maitland-Niles, buteur ce soir-là, est une option sur un côté.</p>
+        <p class="cap">Ossature du retour contre le Sparta (3-0). Le poste de latéral droit — Maitland-Niles ou Mata — reste le maillon fragile de cette défense, et les adversaires le savent.</p>
       </div>
     </div>
-    <p class="note"><strong>À lire avec prudence :</strong> les compositions officielles tombent une heure avant le coup d'envoi. Les postes marqués d'un « ? » n'ont pas pu être confirmés à partir des feuilles de match publiées.</p>
+    <p class="note"><strong>À lire avec prudence :</strong> les compositions officielles tombent une heure avant le coup d'envoi. La charnière, le double pivot et l'animation offensive lyonnaises sont celles du match contre le Sparta ; les latéraux et le gardien sont les choix les plus probables, pas des certitudes.</p>
   </section>
 
   <section class="rv">
     <p class="kicker">L'analyse</p>
-    <h2>Quatre duels qui décident du match</h2>
+    <h2>Les six duels qui décident du match</h2>
     <div class="duels">
-      <div class="duel">
+      <div class="duel alert">
         <span class="duel-n">01</span>
-        <b>Kanté – Guendouzi contre Morton – Tessmann</b>
-        <p>C'est le cœur du match. Le Fener aligne un double pivot d'expérience internationale face à deux milieux jeunes qui découvrent ce niveau de pression. Si l'OL perd la bataille des seconds ballons dans les vingt premières minutes, le stade fait le reste.</p>
+        <b>Le couloir droit lyonnais — la faille connue de tous</b>
+        <p>C'est <em>le</em> point faible de cette équipe, et ce n'est plus un secret pour personne : les adversaires passent systématiquement par là. Le Sparta l'a fait, et ça lui a coûté deux buts à l'aller. Maitland-Niles comme Mata décrochent le poste par défaut plus que par évidence. En face, le Fenerbahçe a exactement le profil pour en profiter : Aktürkoğlu côté gauche, avec Oosterwolde qui double la ligne. Si l'OL ne verrouille pas ce côté à deux — latéral <em>plus</em> Nuamah au repli —, le premier but turc viendra de là.</p>
       </div>
       <div class="duel">
         <span class="duel-n">02</span>
-        <b>Le côté gauche lyonnais</b>
-        <p>Sans Tagliafico contre le Sparta, ce couloir a été le point d'interrogation du dernier match. En face, Greenwood rentre sur son pied gauche depuis la droite. C'est là que le Fener ira chercher son premier but.</p>
+        <b>Kanté – Guendouzi contre Morton – Tessmann</b>
+        <p>Le cœur du match. Le Fener aligne un double pivot d'expérience internationale face à deux milieux jeunes qui découvrent ce niveau de pression. Si l'OL perd la bataille des seconds ballons dans les vingt premières minutes, le stade fait le reste.</p>
       </div>
       <div class="duel">
         <span class="duel-n">03</span>
+        <b>Greenwood contre Tagliafico ou Abner</b>
+        <p>L'autre côté, et l'autre danger. Greenwood rentre sur son pied gauche depuis la droite : le latéral lyonnais doit le pousser vers l'extérieur sans jamais lui ouvrir l'intérieur. Tagliafico apporte l'expérience de ce type de soirée, Abner la vitesse pure. Deux réponses différentes au même problème.</p>
+      </div>
+      <div class="duel">
+        <span class="duel-n">04</span>
         <b>Openda et Nuamah contre Škriniar – Aké</b>
         <p>La vitesse contre l'expérience. La charnière turque est solide dans les duels et n'a rien encaissé au 3ᵉ tour, mais elle est vulnérable dans le dos si l'OL trouve le bon timing en contre. C'est l'arme n°1 d'un match à l'extérieur.</p>
       </div>
       <div class="duel">
-        <span class="duel-n">04</span>
+        <span class="duel-n">05</span>
         <b>Talisca dans le demi-espace</b>
-        <p>Buteur dès la 9ᵉ minute contre le Sturm Graz. C'est le joueur qui relie le milieu à l'attaque turque : le laisser se retourner entre les lignes, c'est offrir le tempo au Fenerbahçe.</p>
+        <p>Buteur dès la 9ᵉ minute contre le Sturm Graz. C'est le joueur qui relie le milieu à l'attaque turque : le laisser se retourner entre les lignes, c'est offrir le tempo au Fenerbahçe. Tolisso a le match dans les jambes pour le suivre, encore faut-il que ce soit sa consigne.</p>
       </div>
+      <div class="duel">
+        <span class="duel-n">06</span>
+        <b>Greif face au bruit et aux coups de pied arrêtés</b>
+        <p>50 000 personnes, une défense qui va reculer, et en face Asensio sur les coups francs plus Škriniar et Aké dans la surface sur corner. Le gardien lyonnais va devoir gérer les sorties aériennes dans un vacarme où la communication ne passe plus. C'est un poste qui gagne ou perd ce genre de match.</p>
+      </div>
+    </div>
+    <div class="tiles">
+      <div class="tile fb"><span class="lbl">Le signal d'alarme</span><span class="stat-n">2 – 1</span><p>la défaite de l'aller à Prague : le Sparta a marqué deux fois en attaquant les couloirs lyonnais.</p></div>
+      <div class="tile fb"><span class="lbl">Vite dans le match</span><span class="stat-n">9ᵉ</span><p>minute du premier but du Fener contre le Sturm. Ils démarrent fort à domicile.</p></div>
+      <div class="tile ol"><span class="lbl">La réponse</span><span class="stat-n">3 – 0</span><p>le retour contre le Sparta : cette équipe sait aussi étouffer un match quand le plan est clair.</p></div>
     </div>
     <div class="tiles">
       <div class="tile fb"><span class="lbl">Le vrai atout turc</span><span class="stat-n">8 / 11</span><p>titulaires du Fener sont passés par un des cinq grands championnats européens : Kanté, Aké, Semedo, Škriniar, Asensio, Guendouzi, Greenwood, Oosterwolde.</p></div>
@@ -497,29 +521,6 @@
         </tbody>
       </table>
     </div>
-  </section>
-
-  <section class="rv">
-    <p class="kicker">À copier-coller</p>
-    <h2>La version réseaux</h2>
-    <div class="post">🔵🔴 FENERBAHÇE – OL · Barrage aller C1
-📅 Mardi 18 août, 21h00 · Kadıköy
-
-FACE-À-FACE : 5 matchs, 4 victoires OL, 1 nul, 0 défaite.
-11 buts marqués contre 4. Et à Istanbul : 0-1 en 2001, 1-3 en 2004, 0-0 en 2025.
-👉 Le Fenerbahçe n'a JAMAIS battu l'OL.
-
-LE CHEMIN : OL 4-2 Sparta Prague · Fener 3-0 Sturm Graz sans encaisser.
-
-LES EFFECTIFS : OL 299,2 M€ (25,1 ans) · Fener 247,9 M€ (27,3 ans).
-👉 Non, le Fener n'a pas l'effectif le plus cher. Mais 8 de ses 11 titulaires
-ont joué dans un des cinq grands championnats : Kanté, Aké, Škriniar,
-Semedo, Asensio, Guendouzi, Greenwood, Oosterwolde.
-
-LE DÉCOR : ~50 000 spectateurs attendus, stade plein.
-9 matchs sans défaite pour le Fener, 0 but encaissé au 3ᵉ tour.
-
-Un résultat ramené d'Istanbul et tout se joue au Groupama. 🦁</div>
   </section>
 
   <footer class="rv">
