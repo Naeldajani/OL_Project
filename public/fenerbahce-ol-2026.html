@@ -148,6 +148,7 @@
   .score { font-size: 16px; font-weight: 800; font-variant-numeric: tabular-nums; letter-spacing: -.01em; padding: 3px 9px; border-radius: 4px; white-space: nowrap; }
   .score.win { background: color-mix(in srgb, var(--ol) 15%, transparent); color: var(--ol); }
   .score.draw { background: var(--band); color: var(--ink-2); }
+  .score.loss { background: color-mix(in srgb, var(--fb) 16%, transparent); color: var(--fb); }
 
   /* ---------- Tiles ---------- */
   .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(152px, 1fr)); gap: 11px; }
@@ -272,6 +273,9 @@
   .duel p em { font-style: italic; color: var(--ink); }
   .duel.alert { border-left: 3px solid var(--fb); background: color-mix(in srgb, var(--fb) 5%, var(--surface)); }
   .duel.alert .duel-n { color: var(--fb); opacity: .8; }
+  .duel.warn { border-left: 3px solid var(--ol); background: color-mix(in srgb, var(--ol) 5%, var(--surface)); }
+  .duel.warn .duel-n { color: var(--ol); opacity: .8; }
+  .duel .duel-n { font-size: 17px; }
   .duel.alert:hover { border-color: color-mix(in srgb, var(--fb) 45%, var(--rule)); border-left-color: var(--fb); box-shadow: 0 0 0 3px color-mix(in srgb, var(--fb) 16%, transparent); }
 
   /* ---------- Scenarios ---------- */
@@ -363,6 +367,46 @@
   </section>
 
   <section class="rv">
+    <p class="kicker">Le match de samedi</p>
+    <h2>La série est tombée trois jours avant l'OL</h2>
+    <div class="results">
+      <div class="res"><span class="res-yr">15/08</span><span class="res-txt">Süper Lig, 1ʳᵉ journée · à Ankara</span><span class="score loss">Gençlerbirliği 2 – 1 Fener</span></div>
+    </div>
+    <p>Talisca ouvre le score à la 13ᵉ, puis Tongya égalise (37ᵉ) et Ülgün renverse tout (56ᵉ). Le Fenerbahçe a perdu son premier match de championnat contre un adversaire très inférieur sur le papier — et sa série de neuf matchs sans défaite avec.</p>
+
+    <div class="card">
+      <h3>Le paradoxe du match : la domination sans le résultat</h3>
+      <div class="bars">
+        <div class="bar-row"><div class="bar-lbl">Tirs tentés</div><div class="bar-track"><div class="bar fb" style="--w:100%"></div><span class="bar-val">20</span></div></div>
+        <div class="bar-row"><div class="bar-lbl">Tirs cadrés</div><div class="bar-track"><div class="bar fb" style="--w:50%;--d:.12s"></div><span class="bar-val">10</span></div></div>
+        <div class="bar-row"><div class="bar-lbl">Buts marqués</div><div class="bar-track"><div class="bar fb" style="--w:5%;--d:.24s"></div><span class="bar-val">1</span></div></div>
+      </div>
+      <p class="cap">Avec environ 70 % de possession. Dix tirs cadrés pour un seul but : c'est un problème de finition, pas de création.</p>
+    </div>
+
+    <p class="note"><strong>Attention à la lecture :</strong> le onze était largement remanié. Günok, Semedo, Oosterwolde, Kanté, Aktürkoğlu et Greenwood étaient au repos ; seuls Aké, Škriniar, Guendouzi, Asensio et Talisca ont enchaîné. Ce n'était pas l'équipe qui jouera mardi — mais ça reste riche d'enseignements.</p>
+
+    <div class="duels">
+      <div class="duel alert">
+        <span class="duel-n">↯</span>
+        <b>La faille dont l'OL peut profiter</b>
+        <p>Deux buts encaissés par une équipe qui n'a quasiment pas eu le ballon. Quand le Fener pousse, il laisse de l'espace derrière sa ligne défensive, et Aké comme Škriniar — les deux qui joueront mardi — étaient déjà sur le terrain sur les deux buts. C'est exactement le scénario que l'OL doit chercher : laisser venir, rester compact, et frapper dans le dos de cette charnière avec la vitesse d'Openda et de Nuamah. Samedi, il a suffi de deux occasions pour faire tomber le Fenerbahçe.</p>
+      </div>
+      <div class="duel warn">
+        <span class="duel-n">⚑</span>
+        <b>Le point où le Fenerbahçe peut pulvériser l'OL</b>
+        <p>Vingt tirs, dix cadrés, 70 % de possession — et ça, sans Kanté, sans Aktürkoğlu et sans Greenwood. Cette équipe est capable d'enfermer un adversaire dans sa surface pendant une heure. Si l'OL choisit de subir mardi à Kadıköy, il ne prendra pas deux occasions mais vingt, avec un stade plein derrière. La différence entre samedi et mardi, c'est qu'un soir sur deux, ces vingt tirs finissent par rentrer.</p>
+      </div>
+    </div>
+
+    <div class="tiles">
+      <div class="tile ol"><span class="lbl">Repos avant le match</span><span class="stat-n">7 j</span><p>pour l'OL, qui n'a plus joué depuis le 11 août et dont la Ligue 1 démarre après.</p></div>
+      <div class="tile fb"><span class="lbl">Repos avant le match</span><span class="stat-n">3 j</span><p>pour le Fener, avec un déplacement à Ankara dans les jambes.</p></div>
+      <div class="tile fb"><span class="lbl">Série</span><span class="stat-n">stoppée</span><p>les 9 matchs sans défaite se sont arrêtés samedi.</p></div>
+    </div>
+  </section>
+
+  <section class="rv">
     <p class="kicker">Les effectifs</p>
     <h2>Non, le Fener n'a pas l'effectif le plus cher</h2>
     <p>C'est l'idée reçue à corriger avant mardi : sur la valeur marchande cumulée, c'est l'OL qui domine — et avec le groupe le plus jeune.</p>
@@ -382,7 +426,7 @@
           <tr><td class="metric">Valeur d'effectif</td><td class="num cell-fb">247,9 M€</td><td class="num cell-ol">299,2 M€</td></tr>
           <tr><td class="metric">Âge moyen</td><td class="num cell-fb">27,3 ans</td><td class="num cell-ol">25,1 ans</td></tr>
           <tr><td class="metric">3ᵉ tour</td><td class="num">3-0 · 0 encaissé</td><td class="num">4-2 · renversé</td></tr>
-          <tr><td class="metric">Championnat</td><td class="num">déjà lancé</td><td class="num">pas encore</td></tr>
+          <tr><td class="metric">Championnat</td><td class="num cell-fb">1ʳᵉ j. perdue</td><td class="num">pas encore lancé</td></tr>
         </tbody>
       </table>
     </div>
@@ -393,7 +437,7 @@
     <h2>Le vrai adversaire n'est pas dans le tableau</h2>
     <div class="tiles">
       <div class="tile fb"><span class="lbl">Affluence attendue</span><span class="stat-n" data-count="50000" data-sep="1">50 000</span><p>soit un stade plein : la capacité est de 50 530 places.</p></div>
-      <div class="tile fb"><span class="lbl">Série</span><span class="stat-n" data-count="9">9</span><p>matchs sans défaite avant les barrages.</p></div>
+      <div class="tile fb"><span class="lbl">Avant samedi</span><span class="stat-n" data-count="9">9</span><p>matchs sans défaite — série stoppée par Gençlerbirliği.</p></div>
       <div class="tile fb"><span class="lbl">Qualifs</span><span class="stat-n">0</span><p>but encaissé par le Fener sur les deux matchs du 3ᵉ tour.</p></div>
     </div>
     <div class="card">
@@ -470,7 +514,7 @@
       <div class="duel">
         <span class="duel-n">05</span>
         <b>Talisca dans le demi-espace</b>
-        <p>Buteur dès la 9ᵉ minute contre le Sturm Graz. C'est le joueur qui relie le milieu à l'attaque turque : le laisser se retourner entre les lignes, c'est offrir le tempo au Fenerbahçe. Tolisso a le match dans les jambes pour le suivre, encore faut-il que ce soit sa consigne.</p>
+        <p>Buteur dès la 9ᵉ minute contre le Sturm Graz, puis encore à la 13ᵉ samedi à Ankara : c'est l'homme qui lance les matchs du Fenerbahçe. Il relie le milieu à l'attaque, et le laisser se retourner entre les lignes revient à lui offrir le tempo. Tolisso a le profil pour le suivre, encore faut-il que ce soit la consigne.</p>
       </div>
       <div class="duel">
         <span class="duel-n">06</span>
@@ -538,6 +582,8 @@
       <a href="https://www.footmercato.net/a3215034360929977774-ol-sparta-prague-les-compositions-officielles">Compositions OL - Sparta</a> ·
       <a href="https://www.ysscores.com/en/lineup/5954870/Fenerbahce-vs-SK-Sturm-Graz">Composition Fenerbahçe - Sturm Graz</a> ·
       <a href="https://stadiumdb.com/stadiums/tur/sukru_saracoglu_stadyumu">StadiumDB — capacité du stade</a> ·
+      <a href="https://www.beinsports.com/en-us/soccer/sper-lig/articles/fenerbah%C3%A7e-stumble-before-champions-league-clash-2026-08-15">beIN Sports — Gençlerbirliği 2-1 Fenerbahçe</a> ·
+      <a href="https://www.ysscores.com/en/lineup/5904708/Genclerbirligi-Ankara-vs-Fenerbahce">Composition Gençlerbirliği - Fenerbahçe</a> ·
       <a href="https://www.espn.com/soccer/match/_/gameId/401902674/sk-sturm-graz-fenerbahce">ESPN Fener-Sturm</a> ·
       <a href="https://www.transfermarkt.us/fenerbahce/kader/verein/36">Transfermarkt Fener</a> ·
       <a href="https://www.transfermarkt.us/olympique-lyon/kader/verein/1041">Transfermarkt OL</a> ·
