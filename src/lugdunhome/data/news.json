@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-16T12:59:45+00:00",
+ "updatedAt": "2026-08-16T15:34:49+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,61 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "can2026unefinalepourcrireencoreunpeupluslhistoirepourchawing",
+   "title": "CAN 2026 : une finale pour écrire encore un peu plus l'histoire pour Chawinga (Malawi)",
+   "summary": "Pour sa première participation à la Coupe d'Afrique des Nations, le Malawi a l'occasion d'écrire son nom au palmarès des nations titrées. Derrière le tandem des soeurs Chawinga, l'équipe africaine doit se défaire du Cameroun en finale ce dimanche soir (21h).",
+   "url": "https://www.olympique-et-lyonnais.com/can-2026-une-finale-pour-ecrire-encore-un-peu-plus-lhistoire-pour-chawinga-malawi,404975.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2F758553845_1484144703740478_1599726461577784990_n-e1785306858109-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-16T15:30:00+00:00"
+  },
+  {
+   "id": "olgiraldezlancetroisrecruesfaceunpremiergrostest",
+   "title": "OL : Giraldez lance trois recrues face à un premier gros test",
+   "summary": "OL Lyonnes teste ses recrues contre l’Eintracht Francfort : Giraldez aligne Weir, Paralluelo et Grohs d’entrée pour un premier test.",
+   "url": "https://www.butfootballclub.fr/1691114-ol-giraldez-trois-recrues-gros-test/",
+   "source": "But! Football Club",
+   "author": "Wladimir DELCROS",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F015f8c23-ol-giraldez-trois-recrues-gros-test-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-16T15:23:47+00:00"
+  },
+  {
+   "id": "olacadmielarserveaccrocheenamicalparmoulinsyzeure",
+   "title": "OL Académie : la réserve accrochée en amical par Moulins-Yzeure",
+   "summary": "Après un premier succès durant l'été face à Feurs le week-end dernier, la réserve de l'OL a concédé un nul face à Moulin-Yzeure (2-2). Les Lyonnais avaient pourtant ouvert le score par l'intermédiaire de Soungalo Coulibaly.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-la-reserve-accrochee-en-amical-par-moulins-yzeure,404960.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F12%2FIMG_2773-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-16T14:40:00+00:00"
+  },
+  {
+   "id": "mercatoavantdaffronterlolfenerbahedgraisseaussi",
+   "title": "Mercato : avant d’affronter l’OL, Fenerbahçe dégraisse aussi",
+   "summary": "Ayant dépensé près de 90 millions d’euros cet été, Fenerbahçe doit aussi dégraisser. Contre l’OL, le club turc ne pourra pas compter sur Fred, libéré de son contrat, et Sidiki Chérif, envoyé en Premier League.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-avant-daffronter-lol-fenerbahce-degraisse-aussi,404965.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2Fgetty-2260262731-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-16T13:50:00+00:00"
+  },
+  {
+   "id": "ollyonnesconcdesapremiredfaitedeltcontrefrancfort21",
+   "title": "OL Lyonnes concède sa première défaite de l'été contre Francfort (2-1)",
+   "summary": "Après un nul à Décines samedi dernier contre la Real Sociedad, OL Lyonnes a concédé une première défaite dans sa préparation (2-1). Menées au score par l'Eintracht Francfort, les Lyonnaises ont réagi par l'intermédiaire de Vicki Becho avant de craquer en fin de match.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-concede-sa-premiere-defaite-de-lete-contre-francfort-2-1,404981.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHP2F69mXsAAAZKH-e1786885396610-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-16T13:04:18+00:00"
+  },
   {
    "id": "fromageblancherbesetchalotedovientledrledenomdelacervelledec",
    "title": "Fromage blanc, herbes et échalote : d’où vient le drôle de nom de la cervelle de canut ?",
@@ -63,17 +118,6 @@
    "publishedAt": "2026-08-16T09:00:00+00:00"
   },
   {
-   "id": "omolstaderennaismercatoajorqueenvoymarseille",
-   "title": "OM, OL, Stade Rennais Mercato : Ajorque envoyé à Marseille !",
-   "summary": "Courtisé par l’OM en début de mercato, Ludovic Ajorque (Stade Brestois, 32 ans) ferait rêver certains supporters du club phocéen. Le mercato de l’OM continue de susciter de nombreuses discussions autour du secteur offensif.",
-   "url": "https://www.butfootballclub.fr/1691009-om-ol-stade-rennais-mercato-ajorque-envoye-a-marseille/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fd6581a1c-om-ol-stade-rennais-mercato-ajorque-envoye-a-marseille.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-16T09:00:00+00:00"
-  },
-  {
    "id": "can2026passeusedcisivebekhaledfinitsurlepodiumaveclalgrie",
    "title": "CAN 2026 : passeuse décisive, Bekhaled finit sur le podium avec l’Algérie",
    "summary": "Sur le banc, Sofia Bekhaled a signé une entrée décisive lors de la petite finale de la CAN 2026. Passeuse sur l'égalisation de l'Algérie, l'attaquante a converti son tir au but et finit troisième avec les Vertes.",
@@ -105,50 +149,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260811__AA_12082026_2911643__v1__HighRes__SturmGrazVFenerbahceUefaChampionsLe-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-08-16T06:45:00+00:00"
-  },
-  {
-   "id": "fenerbaheratesonentreenchampionnatavantlol",
-   "title": "Fenerbahçe rate son entrée en championnat avant l’OL",
-   "summary": "De retour sur la scène nationale ce samedi, Fenerbahçe s’est incliné 2-1 sur la pelouse de Gençlerbirliği. Néanmoins, la formation stambouliote avait été largement remaniée au coup d’envoi.",
-   "url": "https://www.olympique-et-lyonnais.com/fenerbahce-rate-son-entree-en-championnat-avant-lol,404944.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2F41997-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-08-16T06:00:00+00:00"
-  },
-  {
-   "id": "leintrachtfrancfortdeuximegalopdessaipourollyonnes",
-   "title": "L'Eintracht Francfort, deuxième galop d'essai pour OL Lyonnes",
-   "summary": "Après la Real Sociedad samedi dernier, OL Lyonnes dispute un deuxième amical ce dimanche contre l'Eintracht Francfort (13h). Une formation allemande qui affrontera le PSG en tour préliminaire de la Ligue des champions.",
-   "url": "https://www.olympique-et-lyonnais.com/leintracht-francfort-deuxieme-galop-dessai-pour-ol-lyonnes,404929.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2F765872190_1056241463626389_7948558218136725643_n.png-e1786802134686-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-16T05:30:00+00:00"
-  },
-  {
-   "id": "can2026bekhaledollyonnessurlebancpourlapetitefinale",
-   "title": "CAN 2026 : Bekhaled (OL Lyonnes) sur le banc pour la petite finale",
-   "summary": "Après avoir échoué à prendre le meilleur sur le Malawi en demi-finale, l'Algérie va tenter de finir sur une note positive face au Maroc. Pour la petite finale de la CAN 2026, Sofia Bekhaled est sur le banc.",
-   "url": "https://www.olympique-et-lyonnais.com/can-2026-bekhaled-ol-lyonnes-sur-le-banc-pour-la-petite-finale,404932.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FCapture-decran-2026-02-06-a-17.42.50-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-08-15T16:20:00+00:00"
-  },
-  {
-   "id": "mercatozeffaneexollessaiaugoalfc",
-   "title": "Mercato : Zeffane (ex-OL) à l’essai au GOAL FC",
-   "summary": "Libre depuis la fin de son aventure à l’ES Mostaganem en janvier dernier, Mehdi Zeffane pourrait bien rebondir dans la région lyonnaise. L’ancien latéral de l’OL est à l’essai au GOAL FC depuis plusieurs semaines.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-zeffane-ex-ol-a-lessai-au-goal-fc,404919.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F06%2F000_33E68KZ-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-15T15:35:00+00:00"
   },
   {
    "id": "quiestemememlemystrieuxraccommodeurdetrottoirslyonnais",
