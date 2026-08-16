@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-16T06:58:26+00:00",
+ "updatedAt": "2026-08-16T09:40:40+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,61 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "fenerbaheoluncorpsarbitral100allemand",
+   "title": "Fenerbahçe - OL : un corps arbitral 100% allemand",
+   "summary": "Mardi (21h), l’OL se déplace en Turquie pour affronter Fenerbahçe en barrage aller de la Ligue des champions. L’Allemand Sven Jablonski sera l’arbitre de cette rencontre. 180 minutes minimum pour retrouver cette musique qui manque tant aux supporters.",
+   "url": "https://www.olympique-et-lyonnais.com/fenerbahce-ol-un-corps-arbitral-100-allemand,404957.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F10%2FCapture-decran-2024-10-01-102159-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-16T09:00:00+00:00"
+  },
+  {
+   "id": "marielouiserochebillardlalyonnaisequiacrlespremierssyndicats",
+   "title": "Marie-Louise Rochebillard, la Lyonnaise qui a créé les premiers syndicats de femmes en France",
+   "summary": "En 1899, Marie-Louise Rochebillard fonde à Lyon deux organisations réservées aux travailleuses : le Syndicat des femmes employées de commerce et celui des ouvrières de l’aiguille.",
+   "url": "https://www.lyonfemmes.com/article/252491/les-premiers-syndicats-de-femmes-en-france-ont-ete-fondes-a-lyon-en-1899",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a78433fdc2ec-rochebillard.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-16T09:00:00+00:00"
+  },
+  {
+   "id": "omolstaderennaismercatoajorqueenvoymarseille",
+   "title": "OM, OL, Stade Rennais Mercato : Ajorque envoyé à Marseille !",
+   "summary": "Courtisé par l’OM en début de mercato, Ludovic Ajorque (Stade Brestois, 32 ans) ferait rêver certains supporters du club phocéen. Le mercato de l’OM continue de susciter de nombreuses discussions autour du secteur offensif.",
+   "url": "https://www.butfootballclub.fr/1691009-om-ol-stade-rennais-mercato-ajorque-envoye-a-marseille/",
+   "source": "But! Football Club",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fd6581a1c-om-ol-stade-rennais-mercato-ajorque-envoye-a-marseille.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-16T09:00:00+00:00"
+  },
+  {
+   "id": "can2026passeusedcisivebekhaledfinitsurlepodiumaveclalgrie",
+   "title": "CAN 2026 : passeuse décisive, Bekhaled finit sur le podium avec l’Algérie",
+   "summary": "Sur le banc, Sofia Bekhaled a signé une entrée décisive lors de la petite finale de la CAN 2026. Passeuse sur l'égalisation de l'Algérie, l'attaquante a converti son tir au but et finit troisième avec les Vertes.",
+   "url": "https://www.olympique-et-lyonnais.com/can-2026-passeuse-decisive-bekhaled-finit-sur-le-podium-avec-lalgerie,404948.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHPuBEAJWQAAhjjE-e1786862340850-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-16T08:15:00+00:00"
+  },
+  {
+   "id": "olmercatosteevekangoversunprt",
+   "title": "OL - Mercato : Steeve Kango vers un prêt ?",
+   "summary": "Lancé dans le grand bain en mars dernier et passé pro au début de l’été, Steeve Kango pourrait bien aller s’aguerrir en prêt. De quoi relancer l’idée qu’Ainsley Maitland-Niles va rester à l’OL ?",
+   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-steeve-kango-vers-un-pret,404946.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FKango-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-16T07:30:00+00:00"
+  },
   {
    "id": "olfenerbaheungantendormiprttouteslesfolies",
    "title": "OL : Fenerbahçe, un géant endormi prêt à toutes les folies",
@@ -39,17 +94,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2F765872190_1056241463626389_7948558218136725643_n.png-e1786802134686-770x433.jpeg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-16T05:30:00+00:00"
-  },
-  {
-   "id": "olmercatouneppitelyonnaisepourraitdjquitterleclubcett",
-   "title": "OL Mercato : une pépite lyonnaise pourrait déjà quitter le club cet été",
-   "summary": "Révélation de l’OL la saison passée, le jeune latéral Steeve Kango suscite déjà plusieurs intérêts. Révélé au plus haut niveau lors de la saison 2025-2026, Steeve Kango pourrait déjà connaître un nouveau défi loin de l’OL.",
-   "url": "https://www.butfootballclub.fr/1690922-ol-mercato-une-pepite-lyonnaise-pourrait-deja-quitter-le-club-cet-ete/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F048b75c9-ol-mercato-une-pepite-lyonnaise-pourrait-deja-quitter-le-club-cet-ete.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-15T19:42:08+00:00"
   },
   {
    "id": "can2026bekhaledollyonnessurlebancpourlapetitefinale",
@@ -94,39 +138,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F12%2FAFP__20251015__2240814874__v2__HighRes__OlLyonnesVSknStPoltenUefaWomenSChampionsLeag-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Féminines",
    "publishedAt": "2026-08-15T14:00:00+00:00"
-  },
-  {
-   "id": "mercatoathekameenditplussurlesraisonsdesonarrivelol",
-   "title": "Mercato : Athekame en dit plus sur les raisons de son arrivée à l’OL",
-   "summary": "Huitième recrue de l’été, Zachary Athekame vient renforcer le secteur défensif de l’OL. Le latéral droit souligne encore le discours tenu par la direction sportive pour le convaincre.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-athekame-en-dit-plus-sur-les-raisons-de-son-arrivee-a-lol,404914.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAthekame-est-prete-a-lOL-pour-une-saison-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-15T13:10:00+00:00"
-  },
-  {
-   "id": "lesjoueusesdollyonnesontreulavisitedunpilotedef1",
-   "title": "Les joueuses d’OL Lyonnes ont reçu la visite d’un pilote de F1",
-   "summary": "De passage à l’Adidas Campus, Kimi Antonelli a rendu visite aux joueuses d’OL Lyonnes. L’actuel leader du championnat de Formule 1, qui partage le même équipementier, a même assisté à un entraînement.",
-   "url": "https://www.olympique-et-lyonnais.com/les-joueuses-dol-lyonnes-ont-recu-la-visite-dun-pilote-de-f1,404916.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHPwWQ5OXgAABYpx-e1786795774962-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-08-15T12:20:00+00:00"
-  },
-  {
-   "id": "olunpremiercleansheetdepuissixmatchsaumeilleurdesmoments",
-   "title": "OL : un premier clean-sheet depuis six matchs au meilleur des moments ?",
-   "summary": "Face au Sparta Prague, l’OL a mis fin à une série de six matchs officiels en encaissant un but. De bon augure avant d’affronter Fenerbahçe et une ligne d’attaque plus que performante ?",
-   "url": "https://www.olympique-et-lyonnais.com/ol-un-premier-clean-sheet-depuis-six-matchs-au-meilleur-des-moments,404904.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260812__HL_BPAVAN_3254206__v1__HighRes__FranceLyonSportFootballChampionsLeagu-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-15T11:30:00+00:00"
   },
   {
    "id": "quiestemememlemystrieuxraccommodeurdetrottoirslyonnais",
