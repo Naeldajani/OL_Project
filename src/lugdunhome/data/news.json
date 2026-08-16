@@ -1,12 +1,22 @@
 {
- "updatedAt": "2026-08-16T15:34:49+00:00",
+ "updatedAt": "2026-08-16T18:46:40+00:00",
  "sources": [
-  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "fenerbaheolpourquoiathekamepourrafinalementtrequalifi",
+   "title": "Fenerbahçe - OL : pourquoi Athekame pourra finalement être qualifié",
+   "summary": "Annoncé vendredi et censé ne pas être qualifié pour le barrage de Ligue des champions, Zachary Athekame pourra finalement bien prendre l'avion en direction d'Istanbul pour Fenerbahçe - OL.",
+   "url": "https://www.olympique-et-lyonnais.com/fenerbahce-ol-pourquoi-athekame-pourra-finalement-etre-qualifie,404990.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20250930__maffia-acmilanv250928_npizv__v1__HighRes__AcMilanVSscNapoliSerieAEnil-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-16T16:34:33+00:00"
+  },
   {
    "id": "can2026unefinalepourcrireencoreunpeupluslhistoirepourchawing",
    "title": "CAN 2026 : une finale pour écrire encore un peu plus l'histoire pour Chawinga (Malawi)",
@@ -17,17 +27,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2F758553845_1484144703740478_1599726461577784990_n-e1785306858109-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-16T15:30:00+00:00"
-  },
-  {
-   "id": "olgiraldezlancetroisrecruesfaceunpremiergrostest",
-   "title": "OL : Giraldez lance trois recrues face à un premier gros test",
-   "summary": "OL Lyonnes teste ses recrues contre l’Eintracht Francfort : Giraldez aligne Weir, Paralluelo et Grohs d’entrée pour un premier test.",
-   "url": "https://www.butfootballclub.fr/1691114-ol-giraldez-trois-recrues-gros-test/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F015f8c23-ol-giraldez-trois-recrues-gros-test-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-16T15:23:47+00:00"
   },
   {
    "id": "olacadmielarserveaccrocheenamicalparmoulinsyzeure",
@@ -138,17 +137,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FKango-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-08-16T07:30:00+00:00"
-  },
-  {
-   "id": "olfenerbaheungantendormiprttouteslesfolies",
-   "title": "OL : Fenerbahçe, un géant endormi prêt à toutes les folies",
-   "summary": "Privé de titre de champion depuis 2014, Fenerbahçe veut retrouver son lustre d'antan. Le club turc n'a pas lésiné sur les moyens durant l'été, recrutant à tour de bras. Suffisant pour faire peur à l'OL ?",
-   "url": "https://www.olympique-et-lyonnais.com/ol-fenerbahce-un-geant-endormi-pret-a-toutes-les-folies,404934.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260811__AA_12082026_2911643__v1__HighRes__SturmGrazVFenerbahceUefaChampionsLe-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-16T06:45:00+00:00"
   },
   {
    "id": "quiestemememlemystrieuxraccommodeurdetrottoirslyonnais",
