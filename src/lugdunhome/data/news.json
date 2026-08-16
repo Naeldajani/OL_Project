@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-16T09:40:40+00:00",
+ "updatedAt": "2026-08-16T12:59:45+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,39 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "fromageblancherbesetchalotedovientledrledenomdelacervelledec",
+   "title": "Fromage blanc, herbes et échalote : d’où vient le drôle de nom de la cervelle de canut ?",
+   "summary": "La cervelle de canut ne contient pas de cervelle. Origine du nom, claqueret, canuts de la Croix-Rousse : l'histoire vérifiée d'une spécialité lyonnaise.",
+   "url": "https://www.lyonrestaurant.fr/article/10609/cervelle-de-canut-le-plat-lyonnais-qui-ne-contient-pas-la-moindre-cervelle",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a75c03f9259e-688832043-18354359164214003-5125185273867801641-n.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-16T11:00:00+00:00"
+  },
+  {
+   "id": "eintrachtfrancfortollyonneslesrecruesestivalesweirparalluelo",
+   "title": "Eintracht Francfort - OL Lyonnes : les recrues estivales Weir, Paralluelo et Grohs titulaires",
+   "summary": "Ce dimanche après-midi, OL Lyonnes dispute son deuxième match de préparation de l'été. Face à l'Eintracht Francfort, qui prépare son barrage de Ligue des champions contre le PSG, Jonatan Giraldez effectue encore une large revue d'effectif.",
+   "url": "https://www.olympique-et-lyonnais.com/eintracht-francfort-ol-lyonnes-les-recrues-estivales-weir-paralluelo-et-grohs-titulaires,404968.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3793-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-16T10:29:16+00:00"
+  },
+  {
+   "id": "marianodiazexolmetfinquatreansdedisette",
+   "title": "Mariano Diaz (ex-OL) met fin à quatre ans de disette",
+   "summary": "En perdition depuis son départ de l’OL, Mariano Diaz s’est rappelé aux bons souvenirs de ses détracteurs. Toujours à Alavès, l’attaquant a inscrit un but samedi pour la reprise de la Liga.",
+   "url": "https://www.olympique-et-lyonnais.com/mariano-diaz-ex-ol-met-fin-a-quatre-ans-de-disette,404954.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHPyg46wWMAAsPne-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-16T09:45:00+00:00"
+  },
   {
    "id": "fenerbaheoluncorpsarbitral100allemand",
    "title": "Fenerbahçe - OL : un corps arbitral 100% allemand",
@@ -116,28 +149,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F06%2F000_33E68KZ-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-08-15T15:35:00+00:00"
-  },
-  {
-   "id": "prtsparlolbenlahlouetmolebeontconnudespremires",
-   "title": "Prêtés par l'OL, Benlahlou et Molebe ont connu des premières",
-   "summary": "Prêté cette saison pour s'aguerrir au haut niveau, Daryll Benlahlou a connu ses premières minutes en professionnel avec Montpellier. De son côté, Enzo Molebe s'est illustré avec un doublé avec Lausanne Sports.",
-   "url": "https://www.olympique-et-lyonnais.com/pretes-par-lol-benlahlou-et-molebe-ont-connu-des-premieres,404923.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHPc6bm-WkAAWcYr-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-15T14:50:00+00:00"
-  },
-  {
-   "id": "ollyonnesmicahetwaksmanontretouchleballon",
-   "title": "OL Lyonnes : Micah et Waksman ont retouché le ballon",
-   "summary": "En plus des séances collectives, certaines joueuses d’OL Lyonnes profitent du stage en Allemagne pour retrouver des sensations individuelles. C’est notamment le cas pour Teagan Micah et Giovanna Waksman.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-micah-et-waksman-ont-retouche-le-ballon,404908.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F12%2FAFP__20251015__2240814874__v2__HighRes__OlLyonnesVSknStPoltenUefaWomenSChampionsLeag-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-08-15T14:00:00+00:00"
   },
   {
    "id": "quiestemememlemystrieuxraccommodeurdetrottoirslyonnais",
