@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-17T18:56:59+00:00",
+ "updatedAt": "2026-08-17T21:39:50+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "loscrclenspsgomollespremiersgagnantsetperdantsdelt",
+   "title": "LOSC, RC Lens, PSG, OM, OL : les premiers gagnants et perdants de l’été",
+   "summary": "RC Lens et Monaco lancent l’été en force, le PSG reste sans repères, tandis que le LOSC, l’OM et Strasbourg sortent d’une préparation contrastée.",
+   "url": "https://www.butfootballclub.fr/1691353-losc-rc-lens-psg-om-ol-bilan-ete/",
+   "source": "But! Football Club",
+   "author": "Wladimir DELCROS",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F6855d94f-losc-rc-lens-psg-om-ol-bilan-ete-1024x682.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-17T20:25:13+00:00"
+  },
   {
    "id": "olpourpaulofonsecanicolastagliaficonestpasprtphysiquement",
    "title": "OL : Pour Paulo Fonseca, Nicolas Tagliafico \"n'est pas prêt physiquement\"",
@@ -53,17 +64,6 @@
    "publishedAt": "2026-08-17T14:50:00+00:00"
   },
   {
-   "id": "ollinterprparesonoffensivelabataille40msintensifie",
-   "title": "OL : L’Inter prépare son offensive, la bataille à 40 M€ s’intensifie",
-   "summary": "Malick Fofana attire toujours l’Inter, qui prépare une offre pour l’OL. Tottenham et Galatasaray suivent aussi un dossier estimé à 40 M€.",
-   "url": "https://www.butfootballclub.fr/1691319-ol-inter-offensive-malick-fofana-40m/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F9b702402-ol-inter-offensive-malick-fofana-40m-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-17T14:42:08+00:00"
-  },
-  {
    "id": "franceu17leveneuretzekovicolappelschezlesbleuets",
    "title": "France U17 : Leveneur et Zekovic (OL) appelés chez les Bleuets",
    "summary": "Pour la rentrée, l'équipe de France U17 sera en stage du 24 au 27 août à Clairefontaine. Deux Lyonnais, Ethan Leveneur et Bojan Zekovic, seront dans le groupe des 34 jeunes nés en 2010.",
@@ -72,17 +72,6 @@
    "author": "Gwendal Chabas",
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F01%2FIMG_3272-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
-   "publishedAt": "2026-08-17T14:00:00+00:00"
-  },
-  {
-   "id": "oluncoupdurgchedeuxbonnesnouvellesavantfenerbahe",
-   "title": "OL : un coup dur gâche deux bonnes nouvelles avant Fenerbahçe",
-   "summary": "L’OL s’apprête à vivre un rendez-vous capital en Turquie. Les Lyonnais se déplacent sur la pelouse de Fenerbahçe pour leur barrage de Ligue des champions, avec une bonne nouvelle dans le secteur défensif, mais aussi une absence importante à déplorer.",
-   "url": "https://www.butfootballclub.fr/1691287-ol-un-coup-dur-gache-deux-bonnes-nouvelles-avant-fenerbahce/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F84f4ead4-ol-un-coup-dur-gache-deux-bonnes-nouvelles-avant-fenerbahce.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
    "publishedAt": "2026-08-17T14:00:00+00:00"
   },
   {
