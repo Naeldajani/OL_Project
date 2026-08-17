@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-17T15:38:29+00:00",
+ "updatedAt": "2026-08-17T18:56:59+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,39 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olpourpaulofonsecanicolastagliaficonestpasprtphysiquement",
+   "title": "OL : Pour Paulo Fonseca, Nicolas Tagliafico \"n'est pas prêt physiquement\"",
+   "summary": "L'OL compte trois absents avant d'affronter Fenerbahçe, dont Nicolas Tagliafico. Paul Fonseca ne le juge pas \"prêt physiquement\" pour le match de mardi. Nicolas Tagliafico a repris l'entraînement depuis une grosse dizaine de jours avec l'OL.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-pour-paulo-fonseca-nicolas-tagliafico-nest-pas-pret-physiquement,405076.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP__20260319__A3YQ2XG__v1__HighRes__FblEurC3LyonCeltaVigo-e1786991787907-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-17T18:40:00+00:00"
+  },
+  {
+   "id": "olunderniersuspensesecouefenerbaheavantlebarrageeuropen",
+   "title": "OL : un dernier suspense secoue Fenerbahçe avant le barrage européen !",
+   "summary": "Romelu Lukaku n'est toujours pas inscrit par Fenerbahçe pour le barrage contre l'OL, mais le club turc a encore quelques heures pour le qualifier.",
+   "url": "https://www.butfootballclub.fr/1691331-ol-fenerbahce-lukaku-barrage-europeen/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F8215ecac-ol-fenerbahce-lukaku-barrage-europeen-1024x682.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-17T16:43:11+00:00"
+  },
+  {
+   "id": "fenerbaheolunbarrageplusieursmillions",
+   "title": "Fenerbahçe - OL, un barrage à plusieurs millions",
+   "summary": "10 millions d'euros. C'est l'écart, sans les autres primes, entre une victoire ou une élimination en barrage de la Ligue des champions. L'OL sait ce qu'il a à faire contre Fenerbahçe.",
+   "url": "https://www.olympique-et-lyonnais.com/fenerbahce-ol-un-barrage-a-plusieurs-millions,405049.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260812__HL_BPAVAN_3254177__v1__HighRes__FranceLyonSportFootballChampionsLeagu-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-17T15:40:00+00:00"
+  },
   {
    "id": "lolgarderatilsonavantagesurfenerbahe",
    "title": "L'OL gardera-t-il son avantage sur Fenerbahçe ?",
@@ -86,17 +119,6 @@
    "publishedAt": "2026-08-17T11:25:00+00:00"
   },
   {
-   "id": "assemercatokilmervientdegrillerloletmonacopourcetterecrue",
-   "title": "ASSE Mercato : Kilmer vient de griller l’OL et Monaco pour cette recrue !",
-   "summary": "En attirant le milieu tunisien Elyes Dhaoui (18 ans) à l’ASSE, Kilmer Sports Ventures a réalisé un joli tout de force avec ses concurrents de Ligue 1. L’ASSE vient peut-être de réaliser un joli coup sur le marché des jeunes talents.",
-   "url": "https://www.butfootballclub.fr/1691231-asse-mercato-kilmer-vient-de-griller-lol-et-monaco-pour-cette-recrue/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F168801e6-asse-cathro-a-encore-fait-des-siennes-apres-sochaux-breum-ny-est-pas-pour-rien.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-17T11:20:00+00:00"
-  },
-  {
    "id": "fenerbahesansromelulukakucontrelol",
    "title": "Fenerbahçe sans Romelu Lukaku contre l'OL ?",
    "summary": "Dernière recrue de Fenerbahçe, Romelu Lukaku pourra-t-il jouer face à l'OL ? L'attaquant n'est pas dans la liste des Turcs pour le barrage. C'est LA recrue clinquante de Fenerbahçe.",
@@ -163,17 +185,6 @@
    "publishedAt": "2026-08-17T08:11:29+00:00"
   },
   {
-   "id": "canlervedumalawietdechawingaprendfinenfinale",
-   "title": "CAN : le rêve du Malawi et de Chawinga prend fin en finale",
-   "summary": "Équipe surprise de la CAN, le Malawi a explosé en finale contre le Cameroun. Tabitha Chawinga n'a pas pu empêcher la défaite 3 à 0 de son pays. Après 30 minutes de jeu, le suspense était déjà bien entamé dans cette finale de la CAN 2026.",
-   "url": "https://www.olympique-et-lyonnais.com/can-le-reve-du-malawi-et-de-chawinga-prend-fin-en-finale,405008.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHPUGHivXkAAJIfT-e1786352560237-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-17T08:10:00+00:00"
-  },
-  {
    "id": "silyaautantdecerisesdanslelyonnaisentasestapprisquelquepart",
    "title": "S'il y a autant de cerises dans le lyonnais en été, ça s’est appris quelque part",
    "summary": "Le Rhône est l’un des premiers départements producteurs de cerises en France. La moitié de cette récolte tient dans un mouchoir de poche autour de Bessenay.",
@@ -183,17 +194,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a82bcfac3ede-1200x675-6a798d6317bba-1200x675-6a70ab4cd7f0f-whatsapp-image-2026-08-03-at-16-04-47.jpeg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-08-17T08:00:00+00:00"
-  },
-  {
-   "id": "olpavelulcseraitattendujeudilentranement",
-   "title": "OL : Pavel Šulc serait attendu jeudi à l'entraînement",
-   "summary": "L'OL fera encore sans Pavel Šulc mardi contre Fenerbahçe. Mais le Tchèque pourrait revenir à l'entraînement jeudi, après le match aller contre les Turcs. L'été de Pavel Šulc est décidément bien difficile.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-pavel-sulc-serait-attendu-jeudi-a-lentrainement,405006.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2FAFP__20260122__93PH2TH__v1__HighRes__FblEurC3YoungBoysLyon-e1769106504838-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-17T07:25:00+00:00"
   },
   {
    "id": "battueparfrancfortollyonnestoujourslarecherchedunevictoirece",
