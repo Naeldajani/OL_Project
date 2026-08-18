@@ -1,23 +1,55 @@
 {
- "updatedAt": "2026-08-18T18:55:40+00:00",
+ "updatedAt": "2026-08-18T21:37:29+00:00",
  "sources": [
   "20 Minutes",
-  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
   {
-   "id": "olgreenwoodlefacteurx39mdsignparvalbuena",
-   "title": "OL : Greenwood, le facteur X à 39 M€ désigné par Valbuena",
-   "summary": "Mathieu Valbuena désigne Mason Greenwood comme le facteur X du choc OL-Fenerbahçe, à 39 M€. Lyon veut le contenir avant le retour à domicile.",
-   "url": "https://www.butfootballclub.fr/1691543-ol-greenwood-facteur-x-39m-valbuena/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F9bb0efeb-ol-greenwood-facteur-x-39m-valbuena-1024x683.jpg&w=800&output=webp&q=78",
+   "id": "fenerbaheol11lebaromtredumatchcequilfautretenir",
+   "title": "Fenerbahçe - OL (1-1) : le baromètre du match, ce qu’il faut retenir",
+   "summary": "Ayant tenu tête à Fenerbahçe dans ce barrage aller, l'OL est toujours en vie grâce à une prestation solide. Retrouvez le baromètre de ce match. On a aimé Niakhaté a été solide Bien évidemment les efforts et le but de Loïs Openda en font le grand monsieur de cette soirée stambouliote.",
+   "url": "https://www.olympique-et-lyonnais.com/fenerbahce-ol-1-1-le-barometre-du-match-ce-quil-faut-retenir,405150.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__C4Y66TV__v1__HighRes__FblEurC1QualifyingFenerbahceLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-18T21:32:19+00:00"
+  },
+  {
+   "id": "opendaaprsfenerbaheol11aresteencore5050",
+   "title": "Openda après Fenerbahçe - OL (1-1) : \"Ça reste encore 50-50\"",
+   "summary": "Buteur pour la première fois avec l’OL, Loïs Openda n’a encore pas lésiné sur ses efforts. En position favorable avec ce résultat à l’aller (1-1), le Belge compte sur le soutien du Parc OL pour prendre l’ascendant sur Fenerbahçe.",
+   "url": "https://www.olympique-et-lyonnais.com/openda-apres-fenerbahce-ol-1-1-ca-reste-encore-50-50,405152.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__AA_18082026_2918764__v1__HighRes__FenerbahceVOlympiqueLyonnaisUefaCha-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
-   "publishedAt": "2026-08-18T17:47:20+00:00"
+   "publishedAt": "2026-08-18T21:13:39+00:00"
+  },
+  {
+   "id": "liguedeschampionsloltientfenerbaheenchecavantunretourdcisifl",
+   "title": "Ligue des champions : l’OL tient Fenerbahçe en échec avant un retour décisif à Lyon",
+   "summary": "L’OL n’a pas cédé dans l’ambiance d’Istanbul. Devants au score grâce au premier but lyonnais de Loïs Openda, les hommes de Paulo Fonseca ont finalement concédé le nul face à Fenerbahçe (1-1).",
+   "url": "https://www.lyonfoot.com/article/13898/fenerbahce-ol-tout-se-jouera-a-lyon-1-1",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a84c6a9395d3-hqcgodgxgaayvfn.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-18T20:55:00+00:00"
+  },
+  {
+   "id": "loltientttefenerbahe11ettoutresteouvert",
+   "title": "L'OL tient tête à Fenerbahçe (1-1) et tout reste ouvert",
+   "summary": "A la mi-temps du barrage de la Ligue des champions, l'OL est toujours bien en vie face à Fenerbahçe. Auteurs d'une prestation solides, les Lyonnais ramènent un bon nul d'Istanbul (1-1).",
+   "url": "https://www.olympique-et-lyonnais.com/lol-tient-tete-a-fenerbahce-1-1-et-tout-reste-ouvert,405145.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__C4Y66KZ__v1__HighRes__FblEurC1QualifyingFenerbahceLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-18T20:53:48+00:00"
   },
   {
    "id": "fenerbaheolfofanabientitulairedelacontinuitdansleonzelyonnai",
@@ -51,17 +83,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260812__HL_BPAVAN_3254206__v1__HighRes__FranceLyonSportFootballChampionsLeagu-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-18T13:10:00+00:00"
-  },
-  {
-   "id": "olmercatountransfert35mlhorizonlyon",
-   "title": "OL Mercato : un transfert à 35 M€ à l’horizon à Lyon !",
-   "summary": "Malgré son retour prometteur dans le onze de l’OL, Malick Fofana (21 ans) se dirige plus que jamais vers un départ vers Rome. Après plusieurs mois compliqués en raison d’une grave blessure à la cheville droite, Malick Fofana a enfin retrouvé les terrains et même une place dans le onze de l’OL.",
-   "url": "https://www.butfootballclub.fr/1691463-ol-mercato-un-transfert-a-35-me-a-lhorizon-a-lyon/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F553187095_1116591977347259_5677435748764510650_n-1.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-18T12:40:00+00:00"
   },
   {
    "id": "faceunolquiaimeconserverleballonfenerbaheveutpresserhaut",
@@ -106,50 +127,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F09%2FAFP__20240922__36GV8FP__v1__HighRes__FblFraLigue1LyonMarseille-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-08-18T09:50:00+00:00"
-  },
-  {
-   "id": "fenerbaheavecedersondanslebutcontrelol",
-   "title": "Fenerbahçe avec Ederson dans le but contre l’OL",
-   "summary": "Face à l’OL, Ederson connaitra sa première titularisation de la saison. L’ancien portier de Manchester City profite de la blessure de Mert Günok, touché depuis quelques jours. Comme Paulo Fonseca, Ismaïl Kartal est plutôt sûr de ses choix et ne devrait pas réserver de grosses surprises.",
-   "url": "https://www.olympique-et-lyonnais.com/fenerbahce-avec-ederson-dans-le-but-contre-lol,405117.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2Fgetty-2261972954-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-08-18T09:00:00+00:00"
-  },
-  {
-   "id": "fenerbaheolcompoprobablediffusiontvhoraire",
-   "title": "Fenerbahçe - OL : compo probable, diffusion TV, horaire",
-   "summary": "Composition probable, horaire, diffusion TV, retrouvez toutes les informations pratiques avant Fenerbahçe - OL, ce mardi à Istanbul. Avant-match 180 minutes pour retrouver la Ligue des champions.",
-   "url": "https://www.olympique-et-lyonnais.com/fenerbahce-ol-compo-probable-diffusion-tv-horaire,405112.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F01%2FAFP__20250123__AA_23012025_2046349__v1__HighRes__FenerbahceVOlympiqueLyonnaisUefaEur-e1737662845718-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-18T08:15:19+00:00"
-  },
-  {
-   "id": "fonsecaavantfenerbaheolleretournecompteraquavecunbonrsultatl",
-   "title": "Fonseca avant Fenerbahçe - OL : \"Le retour ne comptera qu'avec un bon résultat à l'aller\"",
-   "summary": "En déplacement à Istanbul ce mardi (21h), l'OL affronte Fenerbahçe dans un match qui sent la poudre. Conscient qu'une grosse partie de la qualification en Ligue des champions se jouera mercredi prochain à Décines, Paulo Fonseca ne veut pas revivre le scénario du tour précédent à Prague.",
-   "url": "https://www.olympique-et-lyonnais.com/fonseca-avant-fenerbahce-ol-le-retour-ne-comptera-quavec-un-bon-resultat-a-laller,405105.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260817__AA_17082026_2917888__v1__HighRes__AheadOfFenerbahceVOlympiqueLyonnais-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-18T07:30:00+00:00"
-  },
-  {
-   "id": "liguedeschampionslolfaceaudfifenerbahepoursonbarragealler",
-   "title": "Ligue des champions : l’OL face au défi Fenerbahçe pour son barrage aller",
-   "summary": "L’OL joue une première partie de son avenir européen ce mardi soir à Istanbul. Les Lyonnais affrontent un Fenerbahçe considérablement renforcé cet été, avec l’objectif de ramener un résultat avant le match retour.",
-   "url": "https://www.lyonfoot.com/article/13898/fenerbahce-ol-un-vrai-test-pour-lyon-dans-l-enfer-turc",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a83cafbc1b1f-hpruewqxaaa6rep.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-18T04:30:00+00:00"
   },
   {
    "id": "mercatoretoureneuropelesbleusquelavenirpourbenzemapoussversl",
