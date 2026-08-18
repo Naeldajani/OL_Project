@@ -1,24 +1,12 @@
 {
- "updatedAt": "2026-08-18T01:49:56+00:00",
+ "updatedAt": "2026-08-18T03:56:52+00:00",
  "sources": [
   "20 Minutes",
-  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
-  {
-   "id": "loscrclenspsgomollespremiersgagnantsetperdantsdelt",
-   "title": "LOSC, RC Lens, PSG, OM, OL : les premiers gagnants et perdants de l’été",
-   "summary": "RC Lens et Monaco lancent l’été en force, le PSG reste sans repères, tandis que le LOSC, l’OM et Strasbourg sortent d’une préparation contrastée.",
-   "url": "https://www.butfootballclub.fr/1691353-losc-rc-lens-psg-om-ol-bilan-ete/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F6855d94f-losc-rc-lens-psg-om-ol-bilan-ete-1024x682.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-17T20:25:13+00:00"
-  },
   {
    "id": "olpourpaulofonsecanicolastagliaficonestpasprtphysiquement",
    "title": "OL : Pour Paulo Fonseca, Nicolas Tagliafico \"n'est pas prêt physiquement\"",
@@ -29,17 +17,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP__20260319__A3YQ2XG__v1__HighRes__FblEurC3LyonCeltaVigo-e1786991787907-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-08-17T18:40:00+00:00"
-  },
-  {
-   "id": "olunderniersuspensesecouefenerbaheavantlebarrageeuropen",
-   "title": "OL : un dernier suspense secoue Fenerbahçe avant le barrage européen !",
-   "summary": "Romelu Lukaku n'est toujours pas inscrit par Fenerbahçe pour le barrage contre l'OL, mais le club turc a encore quelques heures pour le qualifier.",
-   "url": "https://www.butfootballclub.fr/1691331-ol-fenerbahce-lukaku-barrage-europeen/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F8215ecac-ol-fenerbahce-lukaku-barrage-europeen-1024x682.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-17T16:43:11+00:00"
   },
   {
    "id": "fenerbaheolunbarrageplusieursmillions",
