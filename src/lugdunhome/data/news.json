@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-18T13:07:11+00:00",
+ "updatedAt": "2026-08-18T15:45:36+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,28 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "liguedeschampionslessupportersdefenerbahepromettentlenferlol",
+   "title": "Ligue des champions : les supporters de Fenerbahçe promettent \"l'enfer\" à l'OL",
+   "summary": "Dans un stade Sukru Saracoglu qui affichera complet ce mardi soir, les supporters de Fenerbahçe ont choisi de mettre les petits plats dans les grands. Ils prévoient un \"spectacle visuel inhabituel et qui fera grand bruit\" avant le match contre l'OL.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-des-champions-les-supporters-de-fenerbahce-promettent-lenfer-a-lol,405128.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2F221521-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-18T14:00:00+00:00"
+  },
+  {
+   "id": "fenerbaheolunmanquedexpriencecrucialctlyonnais",
+   "title": "Fenerbahçe - OL : un manque d’expérience crucial côté lyonnais ?",
+   "summary": "Ce mardi soir (21h), l’OL doit se frotter à la pression populaire de Fenerbahçe, en plus d’un déficit d’expérience criant. Seulement, seule la réalité du terrain fera foi. Gérer au mieux le match aller pour continuer d’espérer au match retour.",
+   "url": "https://www.olympique-et-lyonnais.com/fenerbahce-ol-un-manque-dexperience-crucial-cote-lyonnais,405126.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260812__HL_BPAVAN_3254206__v1__HighRes__FranceLyonSportFootballChampionsLeagu-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-18T13:10:00+00:00"
+  },
   {
    "id": "olmercatountransfert35mlhorizonlyon",
    "title": "OL Mercato : un transfert à 35 M€ à l’horizon à Lyon !",
@@ -117,28 +139,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260811__C4F29KX__v1__HighRes__FblEurC1QualifyingLyonPrague-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-18T06:45:00+00:00"
-  },
-  {
-   "id": "niakhatavantfenerbaheolcestnotrehistoire",
-   "title": "Niakhaté avant Fenerbahçe - OL : \"C’est notre histoire\"",
-   "summary": "Qualifié pour les barrages de la Ligue des champions, l’OL n’est plus qu’à deux matchs de retrouver la compétition phare. Il faudra sortir le grand jeu contre Fenerbahçe.",
-   "url": "https://www.olympique-et-lyonnais.com/niakhate-avant-fenerbahce-ol-cest-notre-histoire,405101.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20250124__2195550164__v3__HighRes__FenerbahceSkVOlympiqueLyonnaisUefaEuropaLeag-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-18T06:00:00+00:00"
-  },
-  {
-   "id": "olmercatomalickfofanalegrosdossierdelafindelt",
-   "title": "OL - Mercato : Malick Fofana, le gros dossier de la fin de l'été ?",
-   "summary": "Malick Fofana aurait trouvé un accord avec l'AS Rome pour un transfert. Mais une éventuelle opération n'aura vraisemblablement pas lieu de suite, les Romains étant concentrés sur une autre piste.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-malick-fofana-le-gros-dossier-de-la-fin-de-lete,405089.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F09%2FAFP__20250919__766Y34J__v1__HighRes__FblFraLigue1LyonAngers-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-18T05:30:00+00:00"
   },
   {
    "id": "liguedeschampionslolfaceaudfifenerbahepoursonbarragealler",
