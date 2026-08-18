@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-18T15:45:36+00:00",
+ "updatedAt": "2026-08-18T18:55:40+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,28 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olgreenwoodlefacteurx39mdsignparvalbuena",
+   "title": "OL : Greenwood, le facteur X à 39 M€ désigné par Valbuena",
+   "summary": "Mathieu Valbuena désigne Mason Greenwood comme le facteur X du choc OL-Fenerbahçe, à 39 M€. Lyon veut le contenir avant le retour à domicile.",
+   "url": "https://www.butfootballclub.fr/1691543-ol-greenwood-facteur-x-39m-valbuena/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F9bb0efeb-ol-greenwood-facteur-x-39m-valbuena-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-18T17:47:20+00:00"
+  },
+  {
+   "id": "fenerbaheolfofanabientitulairedelacontinuitdansleonzelyonnai",
+   "title": "Fenerbahçe - OL : Fofana bien titulaire, de la continuité dans le onze lyonnais",
+   "summary": "Ce mardi à 21h, l'OL disputera son barrage aller pour une qualification en Ligue des champions. Face à Fenerbahçe, Paulo Fonseca a choisi de relancer le onze qui avait débuté contre le Sparta Prague il y a une semaine.",
+   "url": "https://www.olympique-et-lyonnais.com/fenerbahce-ol-fofana-bien-titulaire-de-la-continuite-dans-le-onze-lyonnais,405140.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260812__HL_BPAVAN_3254177__v1__HighRes__FranceLyonSportFootballChampionsLeagu-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-18T17:46:50+00:00"
+  },
   {
    "id": "liguedeschampionslessupportersdefenerbahepromettentlenferlol",
    "title": "Ligue des champions : les supporters de Fenerbahçe promettent \"l'enfer\" à l'OL",
@@ -51,17 +73,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2Fismail-kartal-henuz-sezonun-basinda-kader_1e7763e54f_o.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-18T12:20:00+00:00"
-  },
-  {
-   "id": "staderennaisolloscmercatopluiederebondissementspourkvindanoi",
-   "title": "Stade Rennais, OL, LOSC Mercato : pluie de rebondissements pour Kévin Danois",
-   "summary": "Dans le viseur de plusieurs clubs de Ligue 1 au mercato, Kévin Danois (22 ans) a vu son statut changer du côté de l’AJ Auxerre cet été. Le mercato de Kévin Danois est loin d’être un long fleuve tranquille.",
-   "url": "https://www.butfootballclub.fr/1691504-stade-rennais-ol-losc-mercato-pluie-de-rebondissements-pour-kevin-danois/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F8b74dcdf-stade-rennais-ol-losc-mercato-pluie-de-rebondissements-pour-kevin-danois.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-18T11:40:00+00:00"
   },
   {
    "id": "fenerbaheoldeuxclubslarecherchedutempsperdu",
@@ -128,17 +139,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260817__AA_17082026_2917888__v1__HighRes__AheadOfFenerbahceVOlympiqueLyonnais-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-18T07:30:00+00:00"
-  },
-  {
-   "id": "liguedeschampionslolenfindattaquefacefenerbahe",
-   "title": "Ligue des champions : l'OL enfin d'attaque face à Fenerbahçe ?",
-   "summary": "Après un tour précédent où le match aller avait été raté, l'OL sait qu'il n'a pas le droit à l'erreur contre Fenerbahçe ce mardi soir (21h). Une partie de son futur à court terme se joue déjà à Istanbul.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-des-champions-lol-enfin-dattaque-face-a-fenerbahce,405103.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260811__C4F29KX__v1__HighRes__FblEurC1QualifyingLyonPrague-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-18T06:45:00+00:00"
   },
   {
    "id": "liguedeschampionslolfaceaudfifenerbahepoursonbarragealler",
