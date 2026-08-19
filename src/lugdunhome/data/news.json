@@ -1,12 +1,24 @@
 {
- "updatedAt": "2026-08-18T21:37:29+00:00",
+ "updatedAt": "2026-08-19T01:52:18+00:00",
  "sources": [
   "20 Minutes",
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "staderennaisolunnouveauduel10magitelemercato",
+   "title": "Stade Rennais, OL : un nouveau duel à 10 M€ agite le mercato !",
+   "summary": "Déjà courtisé par Strasbourg, Djaoui Cissé figure désormais sur les tablettes de l’OL. Le milieu du Stade Rennais dispose d’un bon de sortie, mais son long contrat pourrait rapidement faire grimper les enchères.",
+   "url": "https://www.butfootballclub.fr/1691568-stade-rennais-ol-un-nouveau-duel-a-10-me-agite-le-mercato/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F63d36f3f-stade-rennais-ol-un-nouveau-duel-a-10-m-agite-le-mercato-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-18T21:47:17+00:00"
+  },
   {
    "id": "fenerbaheol11lebaromtredumatchcequilfautretenir",
    "title": "Fenerbahçe - OL (1-1) : le baromètre du match, ce qu’il faut retenir",
@@ -50,6 +62,17 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__C4Y66KZ__v1__HighRes__FblEurC1QualifyingFenerbahceLyon-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-18T20:53:48+00:00"
+  },
+  {
+   "id": "olgreenwoodlefacteurx39mdsignparvalbuena",
+   "title": "OL : Greenwood, le facteur X à 39 M€ désigné par Valbuena",
+   "summary": "Mathieu Valbuena désigne Mason Greenwood comme le facteur X du choc OL-Fenerbahçe, à 39 M€. Lyon veut le contenir avant le retour à domicile.",
+   "url": "https://www.butfootballclub.fr/1691543-ol-greenwood-facteur-x-39m-valbuena/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F9bb0efeb-ol-greenwood-facteur-x-39m-valbuena-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-18T17:47:20+00:00"
   },
   {
    "id": "fenerbaheolfofanabientitulairedelacontinuitdansleonzelyonnai",
