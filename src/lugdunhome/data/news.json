@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-19T15:45:33+00:00",
+ "updatedAt": "2026-08-19T18:52:28+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,39 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olmercatoune8eetune9erecrueenapproche",
+   "title": "OL Mercato : une 8e et une 9e recrue en approche ?",
+   "summary": "Déjà très actif depuis le début du mercato, l’OL pourrait encore se renforcer avec les arrivées d’un ailier et d’un milieu défensif.",
+   "url": "https://www.butfootballclub.fr/1691822-ol-mercato-une-8e-et-une-9e-recrue-en-approche/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F151f4a33-ol-mercato-une-8e-et-une-9e-recrue-en-approche.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-19T17:40:00+00:00"
+  },
+  {
+   "id": "cassedumusejacqueschiracencorrzecinqlyonnaisdansleviseurdese",
+   "title": "Casse du musée Jacques-Chirac en Corrèze : cinq Lyonnais dans le viseur des enquêteurs",
+   "summary": "Cinq Lyonnais déjà mis en examen pour des cambriolages commis en Suisse pourraient être liés au vol survenu le 6 août au musée Jacques-Chirac, en Corrèze. Une Porsche Panamera semblable à celle utilisée par l’équipe aurait notamment été repérée devant le musée.",
+   "url": "https://www.lyonmag.com/article/153659/casse-du-musee-jacques-chirac-en-correze-cinq-lyonnais-dans-le-viseur-des-enqueteurs",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a85e68910489-musee-sarran-expo-2024-3-scaled.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-19T17:20:00+00:00"
+  },
+  {
+   "id": "olunnullallerlextrieurpasforcmentgagedequalification",
+   "title": "OL : un nul à l’aller à l’extérieur, pas forcément gage de qualification",
+   "summary": "En ramenant un nul d'Istanbul, l'OL garde toutes ses chances de se qualifier pour la Ligue des champions. Néanmoins, ce résultat à l'extérieur, positif sur le papier, n'est pas forcément signe de réussite pour le club lyonnais au 21e siècle.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-un-nul-a-laller-a-lexterieur-pas-forcement-gage-de-qualification,405196.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP__20260312__A3346JB__v1__HighRes__FblEurC3CeltaVigoLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-19T16:30:00+00:00"
+  },
   {
    "id": "pourleretourcontrefenerbahelolveutunparcolbouillant",
    "title": "Pour le retour contre Fenerbahçe, l’OL veut un Parc OL bouillant",
@@ -64,17 +97,6 @@
    "publishedAt": "2026-08-19T12:20:00+00:00"
   },
   {
-   "id": "olmercatofonsecalcheungrosindicesurlavenirdefofana",
-   "title": "OL Mercato : Fonseca lâche un gros indice sur l’avenir de Fofana",
-   "summary": "Courtisé ardemment par l’AS Rome sur ce mercato estival, Malick Fofana (21 ans) devrait rester encore peu à l’OL. L’avenir de Malick Fofana continue d’alimenter les discussions dans les dernières semaines du mercato.",
-   "url": "https://www.butfootballclub.fr/1691661-ol-mercato-fonseca-lache-un-gros-indice-sur-lavenir-de-fofana/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fafe5afb5-ol-mercato-fonseca-lache-un-gros-indice-sur-lavenir-de-fofana.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-19T11:40:00+00:00"
-  },
-  {
    "id": "ollyonneskanerydatopredesaruptureduligamentcrois",
    "title": "OL Lyonnes : Kaneryd a été opérée de sa rupture du ligament croisé",
    "summary": "Touchée à l'entraînement il y a quinze jours, Johanna Kaneryd a subi une rupture du ligament croisé antérieur. La Suédoise est passée sur le billard ces derniers jours et a entamé sa rééducation pour revenir sur les terrains avec OL Lyonnes.",
@@ -97,17 +119,6 @@
    "publishedAt": "2026-08-19T10:40:00+00:00"
   },
   {
-   "id": "psgomrclensolstaderennaisloscleplusgrosdpartdelhistoiredelal",
-   "title": "PSG, OM, RC Lens, OL, Stade Rennais, LOSC : le plus gros départ de l’histoire de la L1 bouclé cette semaine ?",
-   "summary": "Le transfert d’Ayyoub Bouaddi du LOSC à Manchester City devrait accélérer dans les prochains jours avec le départ de Rodri au FC Barcelone et déboucher sans doute sur la plus grosse vente pour un joueur quittant la L1.",
-   "url": "https://www.butfootballclub.fr/1691698-psg-om-rc-lens-ol-stade-rennais-losc-le-plus-gros-depart-de-lhistoire-de-la-l1-boucle-cette-semaine/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F9cc5cff3-psg-om-rc-lens-ol-stade-rennais-losc-le-plus-gros-depart-de-lhistoire-de-la-l1-boucle-cette-semaine.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-19T10:20:00+00:00"
-  },
-  {
    "id": "fenerbaheol11pasderetournocturnepourleslyonnais",
    "title": "Fenerbahçe - OL (1-1) : pas de retour nocturne pour les Lyonnais",
    "summary": "Après le match au stade Şükrü Saracoğlu, l’OL n’a pas pris la direction de l’aéroport d’Istanbul. Après un horaire de match tardif en Turquie (22h), les Lyonnais ont dormi sur place avant de rejoindre Lyon, ce mercredi dans la journée.",
@@ -128,17 +139,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260819__DPPI_40427002_018__v1__HighRes__FootballChampionsLeagueFenerbahceVLyo-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-19T09:00:00+00:00"
-  },
-  {
-   "id": "fenerbaheol11niakhatregretteunmanquedtincelledevant",
-   "title": "Fenerbahçe - OL (1-1) : Niakhaté regrette \"un manque d’étincelle\" devant",
-   "summary": "Estimant que le match nul entre Fenerbahçe et l’OL était logique, Moussa Niakhaté espère que la formation lyonnaise réglera quelques points avant le retour. Notamment dans le secteur offensif.",
-   "url": "https://www.olympique-et-lyonnais.com/fenerbahce-ol-1-1-niakhate-regrette-un-manque-detincelle-devant,405178.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__C4Y66NL__v1__HighRes__FblEurC1QualifyingFenerbahceLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-19T08:15:00+00:00"
   },
   {
    "id": "fenerbaheolsuprieurunequipeconstruitecoupsdemillionslyoncroi",
