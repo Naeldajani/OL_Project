@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-19T03:57:52+00:00",
+ "updatedAt": "2026-08-19T07:05:02+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,50 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olentroismatchsopendalesatousmisdaccord",
+   "title": "OL : en trois matchs, Openda les a tous mis d'accord",
+   "summary": "Buteur contre Fenerbahçe mardi soir, Loïs Openda a mis fin à une disette qui durait depuis plusieurs mois. Il a surtout confirmé que son intégration à l'OL avait été express, lui qui n'est là que depuis une vingtaine de jours.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-en-trois-matchs-openda-les-a-tous-mis-daccord,405168.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__AA_18082026_2918814__v1__HighRes__FenerbahceVOlympiqueLyonnaisUefaCha-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-19T06:45:00+00:00"
+  },
+  {
+   "id": "fenerbaheolsuprieurunequipeconstruitecoupsdemillionslyoncroi",
+   "title": "Fenerbahçe-OL : Supérieur à une équipe construite à coups de millions, Lyon croit plus que jamais en la qualif en C1",
+   "summary": "Les Lyonnais ont montré un visage conquérant face à une équipe du Fener' loin d’être au niveau malgré un recrutement cinq étoiles. En ramenant le match nul de Turquie, les chances de qualif sont grandes la semaine prochaine au Groupama Stadium",
+   "url": "https://www.20minutes.fr/sport/football/ligue_des_champions/4239822-20260819-fenerbahce-ol-superieur-equipe-construite-coups-millions-lyon-croit-plus-jamais-qualif-c1?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FrsFatn9DQf6zMAQVgZMo6Sk%2F1444x920_lois-openda-a-inscrit-son-premier-but-sous-le-maillot-lyonnais&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-19T06:42:28+00:00"
+  },
+  {
+   "id": "tolissoaprsfenerbaheol11fierdemesgars",
+   "title": "Tolisso après Fenerbahçe - OL (1-1) : \"Fier de mes gars\"",
+   "summary": "Regrettant d'avoir concédé l'égalisation un peu trop vite, Corentin Tolisso ne pouvait que se satisfaire d'avoir vu l'OL faire déjouer Fenerbahçe. Le capitaine lyonnais donne désormais rendez-vous à Décines.",
+   "url": "https://www.olympique-et-lyonnais.com/tolisso-apres-fenerbahce-ol-1-1-fier-de-mes-gars,405158.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__AA_19082026_2918906__v1__HighRes__FenerbahceVOlympiqueLyonnaisUefaCha-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-19T06:00:00+00:00"
+  },
+  {
+   "id": "fenerbaheol11fonsecanaaucunregretaprslenul",
+   "title": "Fenerbahçe - OL (1-1) : Fonseca n'a \"aucun regret\" après le nul",
+   "summary": "Ayant réussi à prendre l'avantage à Istanbul, l'OL aurait pu être dans une position très confortable avant le retour à Décines. Néanmoins, Paulo Fonseca s'est montré satisfait du visage de ses joueurs contre Fenerbahçe.",
+   "url": "https://www.olympique-et-lyonnais.com/fenerbahce-ol-1-1-fonseca-na-aucun-regret-apres-le-nul,405166.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__C4Y66LR__v1__HighRes__FblEurC1QualifyingFenerbahceLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-19T05:30:00+00:00"
+  },
   {
    "id": "staderennaisolunnouveauduel10magitelemercato",
    "title": "Stade Rennais, OL : un nouveau duel à 10 M€ agite le mercato !",
@@ -119,39 +163,6 @@
    "publishedAt": "2026-08-18T12:20:00+00:00"
   },
   {
-   "id": "fenerbaheoldeuxclubslarecherchedutempsperdu",
-   "title": "Fenerbahçe - OL : deux clubs à la recherche du temps perdu",
-   "summary": "Ce mardi et mercredi prochain, l'OL et Fenerbahçe se disputent une place pour rejoindre la phase de ligue de la Ligue des champions. Une compétition que les deux clubs regardent de loin depuis plusieurs saisons.",
-   "url": "https://www.olympique-et-lyonnais.com/fenerbahce-ol-deux-clubs-a-la-recherche-du-temps-perdu,405120.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F01%2FCapture-decran-2025-01-23-194234-e1737661006503-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-18T11:30:00+00:00"
-  },
-  {
-   "id": "fenerbaheolpeudesupporterslyonnaisistanbul",
-   "title": "Fenerbahçe - OL : peu de supporters lyonnais à Istanbul",
-   "summary": "Habitués à faire du bruit dans les stades adverses depuis plusieurs mois, les supporters de l'OL risquent d'avoir du mal à se faire entendre à Istanbul. En plus de l'ambiance électrique du stade Şükrü Saracoğlu, les Lyonnais seront en présence réduite en Turquie.",
-   "url": "https://www.olympique-et-lyonnais.com/fenerbahce-ol-peu-de-supporters-lyonnais-a-istanbul,405122.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F04%2FAFP__20250413__428Q6T3__v1__HighRes__FblFraLigue1AuxerreLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-08-18T10:40:00+00:00"
-  },
-  {
-   "id": "lepassmarseillaisdegreenwoodfenerbahecommemotivationfacelol",
-   "title": "Le passé marseillais de Greenwood (Fenerbahçe) comme motivation face à l’OL ?",
-   "summary": "Recrue la plus chère de Fenerbahçe, Mason Greenwood est attendu au tournant sur les deux matchs contre l’OL. Mathieu Valbuena, passé par Fenerbahçe et le club lyonnais, voit une motivation supplémentaire pour l’Anglais.",
-   "url": "https://www.olympique-et-lyonnais.com/le-passe-marseillais-de-greenwood-fenerbahce-comme-motivation-face-a-lol,405124.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F09%2FAFP__20240922__36GV8FP__v1__HighRes__FblFraLigue1LyonMarseille-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-18T09:50:00+00:00"
-  },
-  {
    "id": "mercatoretoureneuropelesbleusquelavenirpourbenzemapoussversl",
    "title": "Mercato : Retour en Europe, les Bleus… Quel avenir pour Benzema, poussé vers la sortie par Al-Hilal ?",
    "summary": "Alors qu’Al-Hilal semble envisager l’idée de rompre le contrat de Karim Benzema, l’ancien attaquant de l’OL et du Real pourrait être tenté par un retour en Europe en vue de taper dans l’œil de Zizou et des Bleus",
@@ -249,17 +260,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a78433fdc2ec-rochebillard.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-16T09:00:00+00:00"
-  },
-  {
-   "id": "quiestemememlemystrieuxraccommodeurdetrottoirslyonnais",
-   "title": "Qui est Ememem, le mystérieux \"raccommodeur de trottoirs\" lyonnais ?",
-   "summary": "Depuis 2016, Ememem répare les trottoirs abîmés de Lyon avec des mosaïques colorées réalisées à partir de carreaux récupérés. Baptisée \"flacking\", sa pratique née sur les pentes de la Croix-Rousse s’est depuis exportée dans de nombreuses villes, de Paris à New York.",
-   "url": "https://www.lyonpoche.com/article/6236/ememem-le-raccommodeur-des-trottoirs-de-lyon",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a789345a255d-p36-flacking-dememem-a-lyon-2021.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-15T11:00:00+00:00"
   },
   {
    "id": "ol30spartaceneserapasfacileavouetolissoavantdaffronterfenerb",
