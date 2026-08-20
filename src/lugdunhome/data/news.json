@@ -1,13 +1,66 @@
 {
- "updatedAt": "2026-08-20T09:49:38+00:00",
+ "updatedAt": "2026-08-20T13:10:43+00:00",
  "sources": [
   "20 Minutes",
-  "But! Football Club",
   "Lyon Mag",
-  "Olympique-et-Lyonnais",
-  "RMC Sport"
+  "Olympique-et-Lyonnais"
  ],
  "items": [
+  {
+   "id": "ligue1pouraccueillirloltoulouseadchangersapelouseenurgence",
+   "title": "Ligue 1 : pour accueillir l'OL, Toulouse a dû changer sa pelouse en urgence",
+   "summary": "Ce samedi, l'OL lance sa saison 2026-2027 en Ligue 1 avec un déplacement à Toulouse. Face aux chaleurs qui ont touché la France depuis plusieurs semaines, le club toulousain a dû changer la pelouse du Stadium en dernière minute.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-1-pour-accueillir-lol-toulouse-a-du-changer-sa-pelouse-en-urgence,405192.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260510__B2FB2KJ__v1__HighRes__FblFraLigue1ToulouseLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-20T13:10:00+00:00"
+  },
+  {
+   "id": "lehavreollyonnesprogrammlevendredi18septembre19h",
+   "title": "Le Havre - OL Lyonnes programmé le vendredi 18 septembre (19h)",
+   "summary": "Dans la dernière ligne droite de sa préparation estivale, OL Lyonnes commence à avoir un aperçu de son calendrier de reprise en Première Ligue. Après Fleury et le Paris FC, la formation lyonnaise se rendra au Havre le vendredi 18 septembre (19h).",
+   "url": "https://www.olympique-et-lyonnais.com/le-havre-ol-lyonnes-programme-le-vendredi-18-septembre-19h,405217.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FIMG_3833-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-08-20T12:20:00+00:00"
+  },
+  {
+   "id": "oltkydgretourdevotremissioncelundi24aot19h",
+   "title": "OL - TKYDG : retour de votre émission ce lundi 24 août à 19h",
+   "summary": "Après une trêve estivale pour recharger les batteries, votre émission \"Tant qu'il y aura des Gones\" sera de retour ce lundi 24 août en direct à partir de 19h. Avec quelques nouveautés pour décrypter la saison à venir de l'OL.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-tkydg-retour-de-votre-emission-ce-lundi-24-aout-a-19h,405210.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHP-8BXVWYAAi50O-e1787144925376-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-08-20T11:30:00+00:00"
+  },
+  {
+   "id": "toulouseoldeshommagesrendusbryanbergougnoux",
+   "title": "Toulouse - OL : des hommages rendus à Bryan Bergougnoux",
+   "summary": "Décédé brutalement fin mai, Bryan Bergougnoux va recevoir des hommages appuyés samedi. À l'occasion de Toulouse - OL, deux de ses anciens clubs, le Stadium devrait honorer la mémoire de son ancien joueur.",
+   "url": "https://www.olympique-et-lyonnais.com/toulouse-ol-des-hommages-rendus-a-bryan-bergougnoux,405249.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2022%2F05%2F000_Par1458444-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-20T10:40:00+00:00"
+  },
+  {
+   "id": "mercatoretournementdesituationdansledossierdepayexol",
+   "title": "Mercato : retournement de situation dans le dossier Depay (ex-OL)",
+   "summary": "Libre de tout contrat, Memphis Depay pensait prolonger avec les Corinthians avant que ces derniers n’annoncent la fin de l’aventure. Finalement, les deux parties ont trouvé un terrain d’entente pour deux saisons supplémentaires.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-retournement-de-situation-dans-le-dossier-depay-ex-ol,405138.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2021%2F02%2FMemphis-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-20T09:50:00+00:00"
+  },
   {
    "id": "commelolfenerbahejouerabienunmatchdechampionnatavantlebarrag",
    "title": "Comme l'OL, Fenerbahçe jouera bien un match de championnat avant le barrage retour",
@@ -64,17 +117,6 @@
    "publishedAt": "2026-08-20T06:24:00+00:00"
   },
   {
-   "id": "staderennaismercatocestconfirmpourunnouveaunumro9",
-   "title": "Stade Rennais Mercato : c’est confirmé pour un nouveau numéro 9 !",
-   "summary": "Le Stade Rennais travaille encore sur le renfort de son attaque à quelques jours de la clôture du mercato.",
-   "url": "https://www.butfootballclub.fr/1691900-stade-rennais-mercato-cest-confirme-pour-un-nouveau-numero-9/",
-   "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F3c10046c-stade-rennais-mercato-cest-confirme-pour-un-nouveau-numero-9.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-20T06:20:00+00:00"
-  },
-  {
    "id": "dfenseurdeloldanslesannes50robertmouynetsestteint",
    "title": "Défenseur de l'OL dans les années 50, Robert Mouynet s'est éteint",
    "summary": "Passé par l'OL pendant quatre saisons et ayant disputé 149 matchs, Robert Mouynet s'est éteint mercredi. L'ancien défenseur international avait 96 ans. Il peut se targuer d'avoir vécu une Coupe du monde en 1958 et d'avoir évolué aux côtés de Raymond Kopa ou encore Just Fontaine.",
@@ -86,17 +128,6 @@
    "publishedAt": "2026-08-20T06:00:00+00:00"
   },
   {
-   "id": "enjouantlejeucontrefenerbahelolsestrassurdfensivement",
-   "title": "En jouant le jeu contre Fenerbahçe, l'OL s'est rassuré défensivement",
-   "summary": "À la différence de la stratégie utilisée à Prague il y a quinze jours, l'OL n'a pas fermé le jeu à proprement dit contre Fenerbahçe. Et cela a permis à la formation lyonnaise d'être bien plus solide.",
-   "url": "https://www.olympique-et-lyonnais.com/en-jouant-le-jeu-contre-fenerbahce-lol-sest-rassure-defensivement,405215.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__C4Y66TV__v1__HighRes__FblEurC1QualifyingFenerbahceLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-20T05:30:00+00:00"
-  },
-  {
    "id": "cassedumusejacqueschiracencorrzecinqlyonnaisdansleviseurdese",
    "title": "Casse du musée Jacques-Chirac en Corrèze : cinq Lyonnais dans le viseur des enquêteurs",
    "summary": "Cinq Lyonnais déjà mis en examen pour des cambriolages commis en Suisse pourraient être liés au vol survenu le 6 août au musée Jacques-Chirac, en Corrèze. Une Porsche Panamera semblable à celle utilisée par l’équipe aurait notamment été repérée devant le musée.",
@@ -106,50 +137,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a85e68910489-musee-sarran-expo-2024-3-scaled.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-19T17:20:00+00:00"
-  },
-  {
-   "id": "olunnullallerlextrieurpasforcmentgagedequalification",
-   "title": "OL : un nul à l’aller à l’extérieur, pas forcément gage de qualification",
-   "summary": "En ramenant un nul d'Istanbul, l'OL garde toutes ses chances de se qualifier pour la Ligue des champions. Néanmoins, ce résultat à l'extérieur, positif sur le papier, n'est pas forcément signe de réussite pour le club lyonnais au 21e siècle.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-un-nul-a-laller-a-lexterieur-pas-forcement-gage-de-qualification,405196.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP__20260312__A3346JB__v1__HighRes__FblEurC3CeltaVigoLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-19T16:30:00+00:00"
-  },
-  {
-   "id": "pourleretourcontrefenerbahelolveutunparcolbouillant",
-   "title": "Pour le retour contre Fenerbahçe, l’OL veut un Parc OL bouillant",
-   "summary": "Face à l’ambiance et l’atmosphère hostiles à Istanbul, l’OL a réussi à répondre présent et à repartir avec un nul. Mercredi prochain, les Lyonnais espèrent compter sur un Parc OL tout aussi bouillant pour aller chercher la qualification.",
-   "url": "https://www.olympique-et-lyonnais.com/pour-le-retour-contre-fenerbahce-lol-veut-un-parc-ol-bouillant,405188.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260811__C4F34Y8__v1__HighRes__FblEurC1QualifyingLyonPrague-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-19T15:40:00+00:00"
-  },
-  {
-   "id": "olligue1lanouvellegrilletarifairedeligue1",
-   "title": "OL - Ligue 1 : la nouvelle grille tarifaire de Ligue 1+",
-   "summary": "Ce mercredi, Ligue 1+ faisait sa rentrée en qualité d’unique diffuseur du championnat de France. En plus du nouveau dispositif qui intègre la Ligue 3, les nouvelles formules d’abonnement ont été dévoilées.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-ligue-1-la-nouvelle-grille-tarifaire-de-ligue-1,405203.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F09%2F4UBICDYSXJCKVGHMC2RPOQX2HQ-2-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-08-19T14:50:00+00:00"
-  },
-  {
-   "id": "olsuivezvotremdiaolympiqueetlyonnaissurinstagram",
-   "title": "OL : suivez votre média Olympique-et-Lyonnais sur Instagram !",
-   "summary": "Votre média indépendant Olympique-et-Lyonnais est présent sur Instagram (@tkydg.oetl). N’hésitez pas à nous suivre pour ne rien manquer de l’actualité de l’OL. Olympique-et-Lyonnais est de retour sur Instagram depuis quelques semaines.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-suivez-votre-media-olympique-et-lyonnais-sur-instagram-4,405206.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2F730585012_122112797781310812_3530105501615620084_n-1-e1785233915912-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-08-19T14:00:00+00:00"
   },
   {
    "id": "fenerbaheolsuprieurunequipeconstruitecoupsdemillionslyoncroi",
@@ -172,28 +159,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a84c6a9395d3-hqcgodgxgaayvfn.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-18T20:55:00+00:00"
-  },
-  {
-   "id": "mtrodlyondesinterruptionschaquelundietmardisoirdsle14septemb",
-   "title": "Métro D à Lyon : des interruptions chaque lundi et mardi soir dès le 14 septembre",
-   "summary": "La ligne D du métro lyonnais va connaître plusieurs interruptions partielles en soirée entre septembre et décembre. Les travaux débuteront le 14 septembre et seront réalisés les lundis et mardis à partir d’environ 21h30, avec des bus relais sur les secteurs concernés.",
-   "url": "https://www.lyonmag.com/article/153629/metro-d-a-lyon-des-interruptions-chaque-lundi-et-mardi-soir-des-le-14-septembre",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a82d732b09c2-55093711576-752d77e3e7-o.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-17T10:00:00+00:00"
-  },
-  {
-   "id": "ligue1touslesmaillotsdelasaison202627",
-   "title": "Ligue 1 : Tous les maillots de la saison 2026/27",
-   "summary": "Découvrez les maillots des 18 équipes de Ligue 1, version domicile et extérieur, pour la saison 2026/2027. Avec le PSG, l'OM, l'OL, le Losc, Lens, les promus Le Mans et Troeys...",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-ligue-1-tous-les-maillots-de-la-saison-2026-27_VN-202608170228.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Fmtp_mcM7lOEm-qdJMhgCBR1L_Rc%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FLigue-1-Tous-les-maillots-de-la-saison-2026-27-2333111.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-08-17T08:11:29+00:00"
   }
  ]
 }
