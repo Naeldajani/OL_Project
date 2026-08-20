@@ -1,11 +1,45 @@
 {
- "updatedAt": "2026-08-20T13:10:43+00:00",
+ "updatedAt": "2026-08-20T15:48:25+00:00",
  "sources": [
   "20 Minutes",
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais"
  ],
  "items": [
+  {
+   "id": "ligue1toulouseapasmalchangdepuissavictoiresurlolenmaidernier",
+   "title": "Ligue 1 : Toulouse a pas mal changé depuis sa victoire sur l'OL en mai dernier",
+   "summary": "Ce samedi, l'OL lance sa saison en Ligue 1 du côté de Toulouse. Un club qui ne laisse pas forcément de bons souvenirs, mais qui a connu pas mal de mouvements durant l'été. Toulouse et son Stadium.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-1-toulouse-a-pas-mal-change-depuis-sa-victoire-sur-lol-en-mai-dernier,405234.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FAFP__20251005__77R89CM__v1__HighRes__FblFraLigue1LyonToulouse-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-20T15:40:00+00:00"
+  },
+  {
+   "id": "olacadmielarserverecevrabourgoinmeyzieule29aot",
+   "title": "OL Académie : la réserve recevra Bourgoin à Meyzieu le 29 août",
+   "summary": "Encore en pleine préparation estivale, la réserve de l'OL ne reprendra la compétition que le samedi 29 août prochain. Une reprise contre Bourgoin qui se fera à Meyzieu et non pas au GOLTC, en raison du match amical d'OL Lyonnes.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-la-reserve-recevra-bourgoin-a-meyzieu,405232.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F07%2FIMG_2961-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-20T14:50:00+00:00"
+  },
+  {
+   "id": "toulouseoldplacementencadrpourlesplusdemillesupporterslyonna",
+   "title": "Toulouse - OL : déplacement encadré pour les plus de mille supporters lyonnais",
+   "summary": "Pour le déplacement à Toulouse, l'OL pourra compter sur le soutien de ses supporters. Ils seront un peu plus de mille au Stadium samedi soir (20h45). Avec un déplacement encadré par la préfecture de la Haute-Garonne.",
+   "url": "https://www.olympique-et-lyonnais.com/toulouse-ol-deplacement-encadre-pour-les-plus-de-mille-supporters-lyonnais,405265.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F08%2FAFP__20250816__69PJ29F__v1__HighRes__FblFraLigue1LensLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-20T14:00:00+00:00"
+  },
   {
    "id": "ligue1pouraccueillirloltoulouseadchangersapelouseenurgence",
    "title": "Ligue 1 : pour accueillir l'OL, Toulouse a dû changer sa pelouse en urgence",
@@ -51,6 +85,28 @@
    "publishedAt": "2026-08-20T10:40:00+00:00"
   },
   {
+   "id": "olmercatolyonattendencoredeuxrecruesunpremiernomafuit",
+   "title": "OL Mercato : Lyon attend encore deux recrues, un premier nom a fuité !",
+   "summary": "Selon Alexandre Corboz, correspondant de But! À Lyon, l’OL cherche encore deux recrues pour boucler son mercato estival. Un premier nom a fuité. L’OL n’en a pas terminé avec son mercato estival.",
+   "url": "https://www.butfootballclub.fr/1691989-ol-mercato-lyon-attend-encore-deux-recrues-un-premier-nom-a-fuite/",
+   "source": "But! Football Club",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F151f4a33-ol-mercato-une-8e-et-une-9e-recrue-en-approche.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-20T10:40:00+00:00"
+  },
+  {
+   "id": "ommercatouneoffreestpartiepourunanciendeloltodiboensalledatt",
+   "title": "OM Mercato : une offre est partie pour un ancien de l’OL, Todibo en salle d’attente",
+   "summary": "L’Olympique de Marseille accélère sur le mercato. Après avoir multiplié les discussions sous la forme de prêts avec option d’achat, le club phocéen aurait transmis une offre à Wolfsburg pour le défenseur Saël Kumbedi.",
+   "url": "https://www.butfootballclub.fr/1692061-om-mercato-une-offre-est-partie-pour-un-ancien-de-lol-todibo-en-salle-dattente/",
+   "source": "But! Football Club",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fe92f0608-om-mercato-cest-confirme-pour-kumbedi-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-20T10:29:00+00:00"
+  },
+  {
    "id": "mercatoretournementdesituationdansledossierdepayexol",
    "title": "Mercato : retournement de situation dans le dossier Depay (ex-OL)",
    "summary": "Libre de tout contrat, Memphis Depay pensait prolonger avec les Corinthians avant que ces derniers n’annoncent la fin de l’aventure. Finalement, les deux parties ont trouvé un terrain d’entente pour deux saisons supplémentaires.",
@@ -84,28 +140,6 @@
    "publishedAt": "2026-08-20T08:15:00+00:00"
   },
   {
-   "id": "oldeuxsancesdentrainementavantderejoindretoulouse",
-   "title": "OL : deux séances d’entrainement avant de rejoindre Toulouse",
-   "summary": "Rentrés mercredi après-midi à Lyon, les joueurs de l’OL vont reprendre l’entrainement ce jeudi. Ils n’auront que deux séances pour préparer le déplacement à Toulouse, samedi soir (20h45).",
-   "url": "https://www.olympique-et-lyonnais.com/ol-deux-seances-dentrainement-avant-de-rejoindre-toulouse,405226.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__AA_18082026_2918732__v1__HighRes__FenerbahceVOlympiqueLyonnaisUefaCha-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-20T07:30:00+00:00"
-  },
-  {
-   "id": "ligue1toulouseolarbitrparguillaumeparadis",
-   "title": "Ligue 1 : Toulouse - OL arbitré par Guillaume Paradis",
-   "summary": "Coincé entre les deux matchs de barrage de la Ligue des champions, le match de reprise de l'OL en Ligue 1 à Toulouse n'arrive pas forcément au bon moment. Cette rencontre sera arbitrée par Guillaume Paradis.",
-   "url": "https://www.olympique-et-lyonnais.com/arbitre-toulouse-ol,405190.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260419__A8CA9YD__v1__HighRes__FblFraLigue1NantesBrest-e1787206891540-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-20T06:45:00+00:00"
-  },
-  {
    "id": "robertmouynetancienjoueurdeloletderniersurvivantdesbleusde19",
    "title": "Robert Mouynet, ancien joueur de l’OL et dernier survivant des Bleus de 1958, est mort",
    "summary": "L’ancien défenseur Robert Mouynet est décédé ce mercredi à Toulouse à l’âge de 96 ans. Passé notamment par l’Olympique Lyonnais, où il avait disputé 149 matchs, il était le dernier membre encore vivant du groupe français de la Coupe du monde 1958.",
@@ -115,17 +149,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a869d906ae55-hqg4rs7xaaaqf0o.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-20T06:24:00+00:00"
-  },
-  {
-   "id": "dfenseurdeloldanslesannes50robertmouynetsestteint",
-   "title": "Défenseur de l'OL dans les années 50, Robert Mouynet s'est éteint",
-   "summary": "Passé par l'OL pendant quatre saisons et ayant disputé 149 matchs, Robert Mouynet s'est éteint mercredi. L'ancien défenseur international avait 96 ans. Il peut se targuer d'avoir vécu une Coupe du monde en 1958 et d'avoir évolué aux côtés de Raymond Kopa ou encore Just Fontaine.",
-   "url": "https://www.olympique-et-lyonnais.com/defenseur-de-lol-dans-les-annees-50-robert-mouynet-sest-eteint,405219.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHEQ4II4XkAERIuG-e1787205311190-682x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-20T06:00:00+00:00"
   },
   {
    "id": "cassedumusejacqueschiracencorrzecinqlyonnaisdansleviseurdese",
