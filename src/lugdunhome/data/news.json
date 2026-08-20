@@ -1,12 +1,46 @@
 {
- "updatedAt": "2026-08-20T07:05:28+00:00",
+ "updatedAt": "2026-08-20T09:49:38+00:00",
  "sources": [
   "20 Minutes",
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "commelolfenerbahejouerabienunmatchdechampionnatavantlebarrag",
+   "title": "Comme l'OL, Fenerbahçe jouera bien un match de championnat avant le barrage retour",
+   "summary": "Dos à dos après le match aller, l'OL et Fenerbahçe joueront leur qualification en Ligue des champions mercredi prochain à Décines. Avant cela, les deux équipes disputeront un match de championnat, samedi.",
+   "url": "https://www.olympique-et-lyonnais.com/comme-lol-fenerbahce-jouera-bien-un-match-de-championnat-avant-le-barrage-retour,405213.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2Fismail-kartal-henuz-sezonun-basinda-kader_1e7763e54f_o.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-20T09:00:00+00:00"
+  },
+  {
+   "id": "sangaretswierotollyonnesretiresdelalistepourlacoupedumondeu2",
+   "title": "Sangaré et Swierot (OL Lyonnes) retirées de la liste pour la Coupe du monde U20",
+   "summary": "Initialement retenues avec l'équipe de France U20, Wassa Sangaré et Julie Swierot ne font plus partie de la liste française pour la Coupe du monde. Un refus d'OL Lyonnes de libérer ces deux jeunes sur lesquelles le club semble compter cette saison.",
+   "url": "https://www.olympique-et-lyonnais.com/sangare-et-swierot-ol-lyonnes-retirees-de-la-liste-pour-la-coupe-du-monde-u20,405136.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F12%2FIMG_2820-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-08-20T08:15:00+00:00"
+  },
+  {
+   "id": "oldeuxsancesdentrainementavantderejoindretoulouse",
+   "title": "OL : deux séances d’entrainement avant de rejoindre Toulouse",
+   "summary": "Rentrés mercredi après-midi à Lyon, les joueurs de l’OL vont reprendre l’entrainement ce jeudi. Ils n’auront que deux séances pour préparer le déplacement à Toulouse, samedi soir (20h45).",
+   "url": "https://www.olympique-et-lyonnais.com/ol-deux-seances-dentrainement-avant-de-rejoindre-toulouse,405226.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__AA_18082026_2918732__v1__HighRes__FenerbahceVOlympiqueLyonnaisUefaCha-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-20T07:30:00+00:00"
+  },
   {
    "id": "ligue1toulouseolarbitrparguillaumeparadis",
    "title": "Ligue 1 : Toulouse - OL arbitré par Guillaume Paradis",
@@ -28,6 +62,17 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a869d906ae55-hqg4rs7xaaaqf0o.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-20T06:24:00+00:00"
+  },
+  {
+   "id": "staderennaismercatocestconfirmpourunnouveaunumro9",
+   "title": "Stade Rennais Mercato : c’est confirmé pour un nouveau numéro 9 !",
+   "summary": "Le Stade Rennais travaille encore sur le renfort de son attaque à quelques jours de la clôture du mercato.",
+   "url": "https://www.butfootballclub.fr/1691900-stade-rennais-mercato-cest-confirme-pour-un-nouveau-numero-9/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F3c10046c-stade-rennais-mercato-cest-confirme-pour-un-nouveau-numero-9.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-20T06:20:00+00:00"
   },
   {
    "id": "dfenseurdeloldanslesannes50robertmouynetsestteint",
@@ -107,39 +152,6 @@
    "publishedAt": "2026-08-19T14:00:00+00:00"
   },
   {
-   "id": "fenerbaheol1180ematcheuropenencarrirepourtolisso",
-   "title": "Fenerbahçe - OL (1-1) : 80e match européen en carrière pour Tolisso",
-   "summary": "Capitaine de l’OL et passeur décisif sur le but de Loïs Openda, Corentin Tolisso a franchi la barre des 80 matchs en Coupe d’Europe avec l’OL et le Bayern Munich. Sera-t-il le capitaine qui va ramener l’OL en Ligue des champions ?",
-   "url": "https://www.olympique-et-lyonnais.com/fenerbahce-ol-1-1-80e-match-europeen-en-carriere-pour-tolisso,405194.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260730__DPPI_40827004_021__v1__HighRes__FootballFriendlyGameBetisVLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-19T13:10:00+00:00"
-  },
-  {
-   "id": "aprscanalplusclmentgrenierexolrejointligue1",
-   "title": "Après Canal Plus, Clément Grenier (ex-OL) rejoint Ligue 1+",
-   "summary": "Présent sur les chaînes du groupe Canal Plus depuis deux saisons, Clément Grenier officiera désormais sur la Ligue 1. L'ancien milieu de l'OL fait partie des nouveaux consultants présentés, ce mercredi, par Ligue 1+ pour la saison à venir.",
-   "url": "https://www.olympique-et-lyonnais.com/apres-canal-plus-clement-grenier-ex-ol-rejoint-ligue-1-2,405199.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F04%2FIMG_3301-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-19T12:20:00+00:00"
-  },
-  {
-   "id": "ollyonneskanerydatopredesaruptureduligamentcrois",
-   "title": "OL Lyonnes : Kaneryd a été opérée de sa rupture du ligament croisé",
-   "summary": "Touchée à l'entraînement il y a quinze jours, Johanna Kaneryd a subi une rupture du ligament croisé antérieur. La Suédoise est passée sur le billard ces derniers jours et a entamé sa rééducation pour revenir sur les terrains avec OL Lyonnes.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-kaneryd-a-ete-operee-de-sa-rupture-du-ligament-croise,405186.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FSans-titre-1-copie-975x633-1-770x433.webp&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-08-19T11:30:00+00:00"
-  },
-  {
    "id": "fenerbaheolsuprieurunequipeconstruitecoupsdemillionslyoncroi",
    "title": "Fenerbahçe-OL : Supérieur à une équipe construite à coups de millions, Lyon croit plus que jamais en la qualif en C1",
    "summary": "Les Lyonnais ont montré un visage conquérant face à une équipe du Fener' loin d’être au niveau malgré un recrutement cinq étoiles. En ramenant le match nul de Turquie, les chances de qualif sont grandes la semaine prochaine au Groupama Stadium",
@@ -182,28 +194,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Fmtp_mcM7lOEm-qdJMhgCBR1L_Rc%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FLigue-1-Tous-les-maillots-de-la-saison-2026-27-2333111.jpg&w=800&output=webp&q=78",
    "topic": "Club",
    "publishedAt": "2026-08-17T08:11:29+00:00"
-  },
-  {
-   "id": "silyaautantdecerisesdanslelyonnaisentasestapprisquelquepart",
-   "title": "S'il y a autant de cerises dans le lyonnais en été, ça s’est appris quelque part",
-   "summary": "Le Rhône est l’un des premiers départements producteurs de cerises en France. La moitié de cette récolte tient dans un mouchoir de poche autour de Bessenay.",
-   "url": "https://www.lyonmag.com/article/153628/s-il-y-a-autant-de-cerises-dans-le-lyonnais-en-ete-ca-s-est-appris-quelque-part",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a82bcfac3ede-1200x675-6a798d6317bba-1200x675-6a70ab4cd7f0f-whatsapp-image-2026-08-03-at-16-04-47.jpeg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-17T08:00:00+00:00"
-  },
-  {
-   "id": "battueparfrancfortollyonnestoujourslarecherchedunevictoirece",
-   "title": "Battue par Francfort, OL Lyonnes toujours à la recherche d'une victoire cet été",
-   "summary": "La préparation estivale d'OL Lyonnes se poursuit en Allemagne. Les coéquipières de Wendie Renard ont été battues dimanche par Francfort et restent à la recherche d'une victoire avant la reprise de la Première Ligue.",
-   "url": "https://www.lyonfoot.com/article/13927/ol-lyonnes-toujours-sans-victoire-en-preparation-apres-sa-defaite-contre-francfort",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a82af291994f-hp2f69mxsaaazkh.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-17T07:10:00+00:00"
   }
  ]
 }
