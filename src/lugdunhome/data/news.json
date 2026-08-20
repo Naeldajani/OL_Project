@@ -1,12 +1,22 @@
 {
- "updatedAt": "2026-08-20T15:48:25+00:00",
+ "updatedAt": "2026-08-20T18:58:25+00:00",
  "sources": [
   "20 Minutes",
-  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais"
  ],
  "items": [
+  {
+   "id": "optalancesesprdictionssurleclassementfinaldelolenligue1",
+   "title": "Opta lance ses prédictions sur le classement final de l'OL en Ligue 1",
+   "summary": "Ce week-end, la Ligue 1 reprend ses droits pour une nouvelle saison. Qui réussira à faire tomber le PSG de son piédestal ? L'OL ? D'après les prédictions d'Opta, l'exercice 2026-2027 s'annonce dans la continuité du dernier pour le club lyonnais.",
+   "url": "https://www.olympique-et-lyonnais.com/opta-lance-ses-predictions-sur-le-classement-final-de-lol-en-ligue-1,405236.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__C4Y66TY__v1__HighRes__FblEurC1QualifyingFenerbahceLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-20T16:30:00+00:00"
+  },
   {
    "id": "ligue1toulouseapasmalchangdepuissavictoiresurlolenmaidernier",
    "title": "Ligue 1 : Toulouse a pas mal changé depuis sa victoire sur l'OL en mai dernier",
@@ -85,28 +95,6 @@
    "publishedAt": "2026-08-20T10:40:00+00:00"
   },
   {
-   "id": "olmercatolyonattendencoredeuxrecruesunpremiernomafuit",
-   "title": "OL Mercato : Lyon attend encore deux recrues, un premier nom a fuité !",
-   "summary": "Selon Alexandre Corboz, correspondant de But! À Lyon, l’OL cherche encore deux recrues pour boucler son mercato estival. Un premier nom a fuité. L’OL n’en a pas terminé avec son mercato estival.",
-   "url": "https://www.butfootballclub.fr/1691989-ol-mercato-lyon-attend-encore-deux-recrues-un-premier-nom-a-fuite/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F151f4a33-ol-mercato-une-8e-et-une-9e-recrue-en-approche.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-20T10:40:00+00:00"
-  },
-  {
-   "id": "ommercatouneoffreestpartiepourunanciendeloltodiboensalledatt",
-   "title": "OM Mercato : une offre est partie pour un ancien de l’OL, Todibo en salle d’attente",
-   "summary": "L’Olympique de Marseille accélère sur le mercato. Après avoir multiplié les discussions sous la forme de prêts avec option d’achat, le club phocéen aurait transmis une offre à Wolfsburg pour le défenseur Saël Kumbedi.",
-   "url": "https://www.butfootballclub.fr/1692061-om-mercato-une-offre-est-partie-pour-un-ancien-de-lol-todibo-en-salle-dattente/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fe92f0608-om-mercato-cest-confirme-pour-kumbedi-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-20T10:29:00+00:00"
-  },
-  {
    "id": "mercatoretournementdesituationdansledossierdepayexol",
    "title": "Mercato : retournement de situation dans le dossier Depay (ex-OL)",
    "summary": "Libre de tout contrat, Memphis Depay pensait prolonger avec les Corinthians avant que ces derniers n’annoncent la fin de l’aventure. Finalement, les deux parties ont trouvé un terrain d’entente pour deux saisons supplémentaires.",
@@ -127,17 +115,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2Fismail-kartal-henuz-sezonun-basinda-kader_1e7763e54f_o.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-20T09:00:00+00:00"
-  },
-  {
-   "id": "sangaretswierotollyonnesretiresdelalistepourlacoupedumondeu2",
-   "title": "Sangaré et Swierot (OL Lyonnes) retirées de la liste pour la Coupe du monde U20",
-   "summary": "Initialement retenues avec l'équipe de France U20, Wassa Sangaré et Julie Swierot ne font plus partie de la liste française pour la Coupe du monde. Un refus d'OL Lyonnes de libérer ces deux jeunes sur lesquelles le club semble compter cette saison.",
-   "url": "https://www.olympique-et-lyonnais.com/sangare-et-swierot-ol-lyonnes-retirees-de-la-liste-pour-la-coupe-du-monde-u20,405136.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F12%2FIMG_2820-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-08-20T08:15:00+00:00"
   },
   {
    "id": "robertmouynetancienjoueurdeloletderniersurvivantdesbleusde19",
