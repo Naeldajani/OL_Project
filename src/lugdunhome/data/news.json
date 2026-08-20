@@ -1,23 +1,55 @@
 {
- "updatedAt": "2026-08-20T03:58:22+00:00",
+ "updatedAt": "2026-08-20T07:05:28+00:00",
  "sources": [
   "20 Minutes",
-  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
   {
-   "id": "olmercatoune8eetune9erecrueenapproche",
-   "title": "OL Mercato : une 8e et une 9e recrue en approche ?",
-   "summary": "Déjà très actif depuis le début du mercato, l’OL pourrait encore se renforcer avec les arrivées d’un ailier et d’un milieu défensif.",
-   "url": "https://www.butfootballclub.fr/1691822-ol-mercato-une-8e-et-une-9e-recrue-en-approche/",
-   "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F151f4a33-ol-mercato-une-8e-et-une-9e-recrue-en-approche.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-19T17:40:00+00:00"
+   "id": "ligue1toulouseolarbitrparguillaumeparadis",
+   "title": "Ligue 1 : Toulouse - OL arbitré par Guillaume Paradis",
+   "summary": "Coincé entre les deux matchs de barrage de la Ligue des champions, le match de reprise de l'OL en Ligue 1 à Toulouse n'arrive pas forcément au bon moment. Cette rencontre sera arbitrée par Guillaume Paradis.",
+   "url": "https://www.olympique-et-lyonnais.com/arbitre-toulouse-ol,405190.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260419__A8CA9YD__v1__HighRes__FblFraLigue1NantesBrest-e1787206891540-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-20T06:45:00+00:00"
+  },
+  {
+   "id": "robertmouynetancienjoueurdeloletderniersurvivantdesbleusde19",
+   "title": "Robert Mouynet, ancien joueur de l’OL et dernier survivant des Bleus de 1958, est mort",
+   "summary": "L’ancien défenseur Robert Mouynet est décédé ce mercredi à Toulouse à l’âge de 96 ans. Passé notamment par l’Olympique Lyonnais, où il avait disputé 149 matchs, il était le dernier membre encore vivant du groupe français de la Coupe du monde 1958.",
+   "url": "https://www.lyonfoot.com/article/13942/ol-robert-mouynet-ancien-defenseur-lyonnais-et-dernier-bleu-du-mondial-1958-est-mort-a-96-ans",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a869d906ae55-hqg4rs7xaaaqf0o.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-20T06:24:00+00:00"
+  },
+  {
+   "id": "dfenseurdeloldanslesannes50robertmouynetsestteint",
+   "title": "Défenseur de l'OL dans les années 50, Robert Mouynet s'est éteint",
+   "summary": "Passé par l'OL pendant quatre saisons et ayant disputé 149 matchs, Robert Mouynet s'est éteint mercredi. L'ancien défenseur international avait 96 ans. Il peut se targuer d'avoir vécu une Coupe du monde en 1958 et d'avoir évolué aux côtés de Raymond Kopa ou encore Just Fontaine.",
+   "url": "https://www.olympique-et-lyonnais.com/defenseur-de-lol-dans-les-annees-50-robert-mouynet-sest-eteint,405219.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHEQ4II4XkAERIuG-e1787205311190-682x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-20T06:00:00+00:00"
+  },
+  {
+   "id": "enjouantlejeucontrefenerbahelolsestrassurdfensivement",
+   "title": "En jouant le jeu contre Fenerbahçe, l'OL s'est rassuré défensivement",
+   "summary": "À la différence de la stratégie utilisée à Prague il y a quinze jours, l'OL n'a pas fermé le jeu à proprement dit contre Fenerbahçe. Et cela a permis à la formation lyonnaise d'être bien plus solide.",
+   "url": "https://www.olympique-et-lyonnais.com/en-jouant-le-jeu-contre-fenerbahce-lol-sest-rassure-defensivement,405215.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__C4Y66TV__v1__HighRes__FblEurC1QualifyingFenerbahceLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-20T05:30:00+00:00"
   },
   {
    "id": "cassedumusejacqueschiracencorrzecinqlyonnaisdansleviseurdese",
@@ -108,39 +140,6 @@
    "publishedAt": "2026-08-19T11:30:00+00:00"
   },
   {
-   "id": "faceaufenerbidstrupaenfinfaitsesdbutsofficielsaveclol",
-   "title": "Face au \"Fener\", Bidstrup a enfin fait ses débuts officiels avec l’OL",
-   "summary": "Blessé depuis la mi-juillet, Mads Bidstrup avait manqué les deux premiers matchs officiels contre le Sparta Prague. La recrue la plus chère de l’été a enfin pu faire ses débuts avec l’OL en Turquie.",
-   "url": "https://www.olympique-et-lyonnais.com/face-au-fener-bidstrup-a-enfin-fait-ses-debuts-officiels-avec-lol,405184.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__AA_18082026_2918735__v1__HighRes__FenerbahceVOlympiqueLyonnaisUefaCha-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-19T10:40:00+00:00"
-  },
-  {
-   "id": "fenerbaheol11pasderetournocturnepourleslyonnais",
-   "title": "Fenerbahçe - OL (1-1) : pas de retour nocturne pour les Lyonnais",
-   "summary": "Après le match au stade Şükrü Saracoğlu, l’OL n’a pas pris la direction de l’aéroport d’Istanbul. Après un horaire de match tardif en Turquie (22h), les Lyonnais ont dormi sur place avant de rejoindre Lyon, ce mercredi dans la journée.",
-   "url": "https://www.olympique-et-lyonnais.com/fenerbahce-ol-1-1-pas-de-retour-nocturne-pour-les-lyonnais,405161.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__C4Y66TY__v1__HighRes__FblEurC1QualifyingFenerbahceLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-19T09:50:00+00:00"
-  },
-  {
-   "id": "fenerbaheol11pasunedceptionpourguendouzi",
-   "title": "Fenerbahçe - OL (1-1) : \"Pas une déception\", pour Guendouzi",
-   "summary": "Porté par tout un stade, Fenerbahçe aurait certainement aimé gagner la première manche contre l'OL. Néanmoins, l'égalisation de Mason Greenwood permet aux coéquipiers de Mattéo Guendouzi d'être toujours dans le match avant le retour mercredi prochain.",
-   "url": "https://www.olympique-et-lyonnais.com/fenerbahce-ol-1-1-pas-une-deception-pour-guendouzi,405181.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260819__DPPI_40427002_018__v1__HighRes__FootballChampionsLeagueFenerbahceVLyo-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-19T09:00:00+00:00"
-  },
-  {
    "id": "fenerbaheolsuprieurunequipeconstruitecoupsdemillionslyoncroi",
    "title": "Fenerbahçe-OL : Supérieur à une équipe construite à coups de millions, Lyon croit plus que jamais en la qualif en C1",
    "summary": "Les Lyonnais ont montré un visage conquérant face à une équipe du Fener' loin d’être au niveau malgré un recrutement cinq étoiles. En ramenant le match nul de Turquie, les chances de qualif sont grandes la semaine prochaine au Groupama Stadium",
@@ -205,28 +204,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a82af291994f-hp2f69mxsaaazkh.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-17T07:10:00+00:00"
-  },
-  {
-   "id": "madsbidstrupremisdesablessureaugenouledanoisprtpourfenerbahe",
-   "title": "Mads Bidstrup remis de sa blessure au genou, le Danois prêt pour Fenerbahçe-OL ?",
-   "summary": "C'est un renfort inattendu pour Paulo Fonseca. Le milieu de terrain Mads Bidstrup, porté disparu cet été à cause de son genou, a repris l'entraînement et candidate à une place dans le groupe lyonnais pour Fenerbahçe-OL ce mardi soir.",
-   "url": "https://www.lyonfoot.com/article/13926/fenerbahce-ol-mads-bidstrup-deja-de-retour",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a82a46f46be1-55380617212-748f8819af-o.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-17T06:03:00+00:00"
-  },
-  {
-   "id": "lyonfauxdiplomateduvaticanvraisbijouxunitaliensouponndavoire",
-   "title": "Lyon : faux diplomate du Vatican, vrais bijoux… un Italien soupçonné d’avoir escroqué plusieurs commerçants",
-   "summary": "Costume impeccable, faux document du Vatican et récit soigneusement construit : un Italien de 57 ans est soupçonné d’avoir convaincu plusieurs professionnels de l’or de la Presqu’île lyonnaise de lui remettre bijoux, montres et pièces précieuses.",
-   "url": "https://www.lyonmag.com/article/153623/lyon-faux-diplomate-du-vatican-vrais-bijoux-un-italien-soupconne-d-avoir-escroque-plusieurs-commercants",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a8288ea7958a-high-angle-women-working-as-wedding-planners.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-17T04:04:00+00:00"
   }
  ]
 }
