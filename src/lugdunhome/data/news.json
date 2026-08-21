@@ -1,11 +1,100 @@
 {
- "updatedAt": "2026-08-21T03:59:56+00:00",
+ "updatedAt": "2026-08-21T07:06:57+00:00",
  "sources": [
   "20 Minutes",
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais"
  ],
  "items": [
+  {
+   "id": "toulouseoldjlheuredelagestiondeffectif",
+   "title": "Toulouse - OL : déjà l'heure de la gestion d'effectif ?",
+   "summary": "Évidemment, le déplacement samedi à Toulouse n'est pas à occulter pour l'OL qui aimerait bien lancer son championnat. Mais mercredi, il doit disputer un match crucial face à Fenerbahçe, et forcément, cela pourrait jouer sur la composition d'équipe ce week-end.",
+   "url": "https://www.olympique-et-lyonnais.com/toulouse-ol-deja-lheure-de-la-gestion,405273.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260812__HL_BPAVAN_3254177__v1__HighRes__FranceLyonSportFootballChampionsLeagu-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-21T06:40:00+00:00"
+  },
+  {
+   "id": "oldeuxtoulousainssuspenduspourlematchdesamedi",
+   "title": "OL : deux Toulousains suspendus pour le match de samedi",
+   "summary": "Pour la première journée de Ligue 1, Toulouse se passera de deux joueurs suspendus face à l'OL : le défenseur Dayann Methalie et le milieu Alexis Vossah. Si l'on en croit le dernier match amical de Toulouse, ils n'auraient pas été titulaires contre l'OL samedi (20h45).",
+   "url": "https://www.olympique-et-lyonnais.com/ol-deux-toulousains-suspendus-pour-le-match-de-samedi,405270.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260510__DPPI_40026042_001__v1__HighRes__FootballFrenchChampToulouseVLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-21T06:00:00+00:00"
+  },
+  {
+   "id": "olmonacoaccentuelapressiondanslabatailledelindiceuefa",
+   "title": "OL : Monaco accentue la pression dans la bataille de l’indice UEFA",
+   "summary": "Le succès de Monaco en Ligue Conférence permet à la France de rester dans le vert à l’indice UEFA. Mais la poussée du Portugal oblige désormais l’OL et le club du Rocher à terminer le travail lors des matches retour.",
+   "url": "https://www.butfootballclub.fr/1692196-ol-monaco-accentue-la-pression-dans-la-bataille-de-lindice-uefa/",
+   "source": "But! Football Club",
+   "author": "Wladimir DELCROS",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Feeef298e-ol-monaco-accentue-la-pression-dans-la-bataille-de-lindice-uefa-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-21T05:37:04+00:00"
+  },
+  {
+   "id": "ollyonnesterminesonstageenallemagneavecunamicalcontreastonvi",
+   "title": "OL Lyonnes termine son stage en Allemagne avec un amical contre Aston Villa (11h)",
+   "summary": "Après une semaine de stage à Herzogenaurach, OL Lyonnes referme ce chapitre allemand avec un amical contre Aston Villa (11h). Suite au revers contre l'Eintracht Francfort dimanche dernier, une réaction est attendue.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-termine-son-stage-en-allemagne-avec-un-amical-contre-aston-villa,405238.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FIMG_3819-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-08-21T05:30:00+00:00"
+  },
+  {
+   "id": "karimbenzemaversunretoureneuropelolpasintress",
+   "title": "Karim Benzema vers un retour en Europe, l'OL pas intéressé",
+   "summary": "Et si Karim Benzema venait terminer sa carrière en Europe après un exil doré en Arabie saoudite ? Le natif de Bron est annoncé du côté de l'Espagne, tandis que l'OL ne peut pas se permettre d'y penser.",
+   "url": "https://www.lyonfoot.com/article/13947/karim-benzema-de-retour-en-europe-le-betis-se-positionne-l-ol-reste-a-l-ecart",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a87e05b4eaaa-763398457-18613907137026340-4554169469999314691-n.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-21T05:19:00+00:00"
+  },
+  {
+   "id": "ligue1202627lesaffichesdela1rejournenepasmanquerceweekend",
+   "title": "Ligue 1 2026/27 : Les affiches de la 1re journée à ne pas manquer ce week-end",
+   "summary": "OM-Strasbourg et Rennes-PSG seront les deux matches à ne pas manquer, à l’instar de Lens-Auxerre, Toulouse-OL, Nice-Lorient, Troyes-Paris FC, Le Mans-Brest, Angers-Lille et Le Havre-Monaco",
+   "url": "https://www.20minutes.fr/sport/football/4240057-20260821-ligue-1-2026-27-affiches-1re-journee-manquer-week-end?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FcWqrTjqIReeYpq8hap2A5yk%2F1444x920_khvicha-kvaratskhelia-et-le-psg-seront-en-deplacement-a-rennes-a-l-occasion-de-la-1re-journee-dimanche-soir-photo-d-illustration&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-21T05:02:37+00:00"
+  },
+  {
+   "id": "omrclensassestaderennaisolloscuncrackespagnol8mrecal",
+   "title": "OM, RC Lens, ASSE, Stade Rennais, OL, LOSC : un crack espagnol à 8 M€ recalé !",
+   "summary": "Proposé à plusieurs gros clubs français, l’attaquant espagnol Pablo Garcia pourrait finalement quitter le Real Betis pour rejoindre Hull City. Une opportunité que les écuries de Ligue 1 n’ont pas saisie.",
+   "url": "https://www.butfootballclub.fr/1692171-om-rc-lens-asse-stade-rennais-ol-losc-un-crack-espagnol-a-8-me-recale/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fee7e259a-asse-mercato-une-offre-est-partie-pour-le-remplacant-de-stassin.jpg&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-08-20T20:20:00+00:00"
+  },
+  {
+   "id": "ompsgrclensolstaderennaisloscleclassementfinaldelaligue1adjf",
+   "title": "OM, PSG, RC Lens, OL, Stade Rennais, LOSC : le classement final de la Ligue 1 a déjà fuité !",
+   "summary": "À quelques heures du coup d’envoi de la saison 2026-2027 de Ligue 1, Opta a livré ses projections. Et si le classement de la prochaine Ligue 1 était déjà connu ? Évidemment, il ne s’agit que d’une projection, mais le super-ordinateur d’Opta a livré ses premières tendances pour la saison 2026-2027.",
+   "url": "https://www.butfootballclub.fr/1692164-om-psg-rc-lens-ol-stade-rennais-losc-le-classement-final-de-la-ligue-1-a-deja-fuite/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F53a7ce7c-om-psg-rc-lens-ol-stade-rennais-losc-le-classement-final-de-la-ligue-1-a-deja-fuite.jpg&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-08-20T19:40:00+00:00"
+  },
   {
    "id": "optalancesesprdictionssurleclassementfinaldelolenligue1",
    "title": "Opta lance ses prédictions sur le classement final de l'OL en Ligue 1",
@@ -82,39 +171,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHP-8BXVWYAAi50O-e1787144925376-770x433.jpeg&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-08-20T11:30:00+00:00"
-  },
-  {
-   "id": "toulouseoldeshommagesrendusbryanbergougnoux",
-   "title": "Toulouse - OL : des hommages rendus à Bryan Bergougnoux",
-   "summary": "Décédé brutalement fin mai, Bryan Bergougnoux va recevoir des hommages appuyés samedi. À l'occasion de Toulouse - OL, deux de ses anciens clubs, le Stadium devrait honorer la mémoire de son ancien joueur.",
-   "url": "https://www.olympique-et-lyonnais.com/toulouse-ol-des-hommages-rendus-a-bryan-bergougnoux,405249.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2022%2F05%2F000_Par1458444-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-20T10:40:00+00:00"
-  },
-  {
-   "id": "mercatoretournementdesituationdansledossierdepayexol",
-   "title": "Mercato : retournement de situation dans le dossier Depay (ex-OL)",
-   "summary": "Libre de tout contrat, Memphis Depay pensait prolonger avec les Corinthians avant que ces derniers n’annoncent la fin de l’aventure. Finalement, les deux parties ont trouvé un terrain d’entente pour deux saisons supplémentaires.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-retournement-de-situation-dans-le-dossier-depay-ex-ol,405138.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2021%2F02%2FMemphis-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-20T09:50:00+00:00"
-  },
-  {
-   "id": "commelolfenerbahejouerabienunmatchdechampionnatavantlebarrag",
-   "title": "Comme l'OL, Fenerbahçe jouera bien un match de championnat avant le barrage retour",
-   "summary": "Dos à dos après le match aller, l'OL et Fenerbahçe joueront leur qualification en Ligue des champions mercredi prochain à Décines. Avant cela, les deux équipes disputeront un match de championnat, samedi.",
-   "url": "https://www.olympique-et-lyonnais.com/comme-lol-fenerbahce-jouera-bien-un-match-de-championnat-avant-le-barrage-retour,405213.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2Fismail-kartal-henuz-sezonun-basinda-kader_1e7763e54f_o.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-20T09:00:00+00:00"
   },
   {
    "id": "robertmouynetancienjoueurdeloletderniersurvivantdesbleusde19",
