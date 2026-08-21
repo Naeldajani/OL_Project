@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-21T13:09:57+00:00",
+ "updatedAt": "2026-08-21T15:47:41+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,50 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olacadmieretourdeschampionnatsleprogrammeduweekend",
+   "title": "OL académie : retour des championnats, le programme du week-end",
+   "summary": "Ce week-end, les U17 et U19 de l'OL reprendront le championnat dimanche. Avant ça, la réserve disputera un dernier match amical samedi. Tout le monde parle aujourd'hui du retour de la Ligue 1.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-retour-des-championnats-le-programme-du-week-end,405353.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2020%2F01%2FOLacad%C3%A9mie-650x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-21T15:00:00+00:00"
+  },
+  {
+   "id": "ligue1rongierandrleesmeloutolissoquepensentlescapitainesdesn",
+   "title": "Ligue 1 : Rongier, André, Lees-Melou, Tolisso… que pensent les capitaines des nouvelles règles d’arbitrage ?",
+   "summary": "Valentin Rongier (Stade Rennais), Benjamin André (Losc), Pierre Lees-Melou (Paris FC), Corentin Tolisso (OL)… avant la première journée de Ligue 1, certains capitaines du championnat de France ont été interrogés sur les nouvelles règles mises en place par la LFP au niveau de l’arbitrage.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-ligue-1-rongier-andre-lees-melou-tolisso-que-pensent-les-capitaines-des-nouvelles-regles-d-arbitrage_VN-202608210419.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Fb8Ty3Io9MjHI4iYviyg19LX1qE8%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FLigue-1-Rongier-Andre-Lees-Melou-Tolisso-que-pensent-les-capitaines-des-nouvelles-regles-d-arbitrage-2335010.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-21T14:30:32+00:00"
+  },
+  {
+   "id": "olcorentintolissosesentdattaquepourtoulouse",
+   "title": "OL : Corentin Tolisso se sent d'attaque pour Toulouse",
+   "summary": "L'aspect physique a occupé les discussions ce vendredi midi à Décines. Avant le match à Toulouse samedi, Corentin Tolisso a affirmé qu'il était prêt à enchaîner, comme le reste de l'équipe.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-corentin-tolisso-se-sent-dattaque-pour-toulouse,405347.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FHNh3NBeWcAAkknO-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-21T14:10:00+00:00"
+  },
+  {
+   "id": "olpaulofonsecasatisfaitdelaprofondeurdeffectif",
+   "title": "OL : Paulo Fonseca satisfait de la profondeur d'effectif",
+   "summary": "Un effectif qui lui convient ? Paulo Fonseca s'est exprimé ce vendredi concernant son groupe, qu'il juge plus compétitif que la saison dernière. Bien malin aujourd'hui qui peut dire où terminera l'OL en Ligue 1.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-paulo-fonseca-satisfait-de-la-profondeur-deffectif,405340.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260517__B34V8FH__v1__HighRes__FblFraLigue1LyonLens-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-21T13:20:00+00:00"
+  },
   {
    "id": "olunanciengonequittelaligue1aprslemondial",
    "title": "OL : un ancien Gone quitte la Ligue 1 après le Mondial",
@@ -86,17 +130,6 @@
    "publishedAt": "2026-08-21T10:55:00+00:00"
   },
   {
-   "id": "ollaromasagaceetmenacedelcherledossier30m",
-   "title": "OL : la Roma s’agace et menace de lâcher le dossier à 30 M€ !",
-   "summary": "La Roma s’impatiente pour Malick Fofana et relance Luis Henrique. L’OL attend jeudi avant d’étudier une offre à plus de 30 M€, cet été.",
-   "url": "https://www.butfootballclub.fr/1692220-ol-roma-fofana-menace-dossier-30m/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F176c38c1-ol-roma-fofana-menace-dossier-30m-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-21T08:57:09+00:00"
-  },
-  {
    "id": "ligue1psgollensommonacolillerennesquelfavorialepirecalendrie",
    "title": "Ligue 1: PSG, OL, Lens, OM, Monaco, Lille, Rennes… quel favori a le pire calendrier pour le début de saison?",
    "summary": "Avant la première trêve internationale, plusieurs cadors vont déjà devoir se frotter à des adversaires de premier plan lors de la saison 2026-2027 de Ligue 1. Et sur le papier, le PSG et l’AS Monaco sont les deux clubs les plus mal lotis avec des débuts en championnat particulièrement corsés.",
@@ -141,17 +174,6 @@
    "publishedAt": "2026-08-21T08:45:00+00:00"
   },
   {
-   "id": "oldeuxabsencesconfirmestoulouseavantlareprise",
-   "title": "OL : deux absences confirmées à Toulouse avant la reprise",
-   "summary": "Toulouse sera privé de Methalie et Vossah contre l’OL, tandis que Paulo Fonseca attend des nouvelles de Tagliafico, Merah et Šulc avant la reprise.",
-   "url": "https://www.butfootballclub.fr/1692216-ol-toulouse-deux-absences-confirmees-reprise/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fcce6c70a-ol-toulouse-deux-absences-confirmees-reprise-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-08-21T08:17:05+00:00"
-  },
-  {
    "id": "lentraneurdetoulousesattendunolaussicomptitifquefacefenerbah",
    "title": "L'entraîneur de Toulouse s'attend à un OL \"aussi compétitif\" que face à Fenerbahçe",
    "summary": "Lancé dans une période intense, l'OL s'apprête à affronter Toulouse, entre deux matchs contre Fenerbahçe. Le Téfécé s'attend à défier un Olympique lyonnais \"compétitif\". Toulouse saura-t-il en tirer profit ?",
@@ -161,39 +183,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAskou-e1787296797719-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-08-21T08:10:00+00:00"
-  },
-  {
-   "id": "mercatololauraitlilunailiernerlandais",
-   "title": "Mercato : l'OL aurait à l'œil un ailier néerlandais",
-   "summary": "Ailier gauche du KV Mechelen, Myron van Brederode brille en ce début de saison. L'OL l'aurait inscrit sur ses tablettes. Après ses neuf buts et six passes décisives en championnat la saison passée, Myron van Brederode est reparti sur de bonnes bases en 2026-2027.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-lol-aurait-a-loeil-un-ailier-neerlandais,405280.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260816__C4TE49E__v1__HighRes__FblBelProleagueMechelenStandardLiege-e1787293530431-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-21T07:25:00+00:00"
-  },
-  {
-   "id": "toulouseoldjlheuredelagestiondeffectif",
-   "title": "Toulouse - OL : déjà l'heure de la gestion d'effectif ?",
-   "summary": "Évidemment, le déplacement samedi à Toulouse n'est pas à occulter pour l'OL qui aimerait bien lancer son championnat. Mais mercredi, il doit disputer un match crucial face à Fenerbahçe, et forcément, cela pourrait jouer sur la composition d'équipe ce week-end.",
-   "url": "https://www.olympique-et-lyonnais.com/toulouse-ol-deja-lheure-de-la-gestion,405273.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260812__HL_BPAVAN_3254177__v1__HighRes__FranceLyonSportFootballChampionsLeagu-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-21T06:40:00+00:00"
-  },
-  {
-   "id": "oldeuxtoulousainssuspenduspourlematchdesamedi",
-   "title": "OL : deux Toulousains suspendus pour le match de samedi",
-   "summary": "Pour la première journée de Ligue 1, Toulouse se passera de deux joueurs suspendus face à l'OL : le défenseur Dayann Methalie et le milieu Alexis Vossah. Si l'on en croit le dernier match amical de Toulouse, ils n'auraient pas été titulaires contre l'OL samedi (20h45).",
-   "url": "https://www.olympique-et-lyonnais.com/ol-deux-toulousains-suspendus-pour-le-match-de-samedi,405270.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260510__DPPI_40026042_001__v1__HighRes__FootballFrenchChampToulouseVLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-21T06:00:00+00:00"
   },
   {
    "id": "karimbenzemaversunretoureneuropelolpasintress",
