@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-21T09:51:53+00:00",
+ "updatedAt": "2026-08-21T13:09:57+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,83 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olunanciengonequittelaligue1aprslemondial",
+   "title": "OL : un ancien Gone quitte la Ligue 1 après le Mondial",
+   "summary": "Elisha Owusu quitte l’AJ Auxerre pour Erzurumspor après trois ans et demi dans l’Yonne. L’ancien milieu de l’OL tourne la page de la Ligue 1.",
+   "url": "https://www.butfootballclub.fr/1692252-ol-ancien-gone-quitte-ligue-1-apres-mondial/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F356faa23-ol-ancien-gone-quitte-ligue-1-apres-mondial-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-21T12:59:11+00:00"
+  },
+  {
+   "id": "pronostictoulouseollesgonesdjtournsversfenerbahe",
+   "title": "Pronostic Toulouse – OL : les Gones déjà tournés vers Fenerbahçe ?",
+   "summary": "Voici l’analyse complète du match de la première journée de Ligue 1 entre Toulouse et l’OL, ainsi que notre pronostic de la rencontre.",
+   "url": "https://www.butfootballclub.fr/1692239-pronostic-toulouse-ol-les-gones-deja-tournes-vers-fenerbahce/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F212805af-toulouse-ol-2-684x1024.png&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-21T12:35:43+00:00"
+  },
+  {
+   "id": "mercatoelishaowusuexolquittelaligue1",
+   "title": "Mercato : Elisha Owusu (ex-OL) quitte la Ligue 1",
+   "summary": "Formé à l'OL, Elisha Owusu jouait à Auxerre depuis trois ans et demi. Le milieu de terrain s'est envolé pour la Turquie lors de ce mercato. Une deuxième expérience à l'étranger pour Elisha Owusu.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-elisha-owusu-ex-ol-quitte-la-ligue-1,405292.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F01%2FElisha-Owusu-e1673896384519-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-21T12:35:00+00:00"
+  },
+  {
+   "id": "olnousvivonsdesmomentsgostesfonsecaettolissodusparlenonrepor",
+   "title": "OL : “Nous vivons des moments égoïstes…”, Fonseca et Tolisso “déçus” par le non report du match face à Toulouse",
+   "summary": "L’Olympique Lyonnais affronte Toulouse pour sa première journée de Ligue 1, samedi à 20h45, au Stadium de Toulouse.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-ol-nous-vivons-des-moments-egoistes-fonseca-et-tolisso-decus-par-le-non-report-du-match-face-a-toulouse_VN-202608210347.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Fq-aj2b1zOEBli-_JrSLUDdPNcqw%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FOL-Nous-vivons-des-moments-egoistes-Fonseca-et-Tolisso-decus-par-le-non-report-du-match-face-a-Toulouse-2334944.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-21T12:17:17+00:00"
+  },
+  {
+   "id": "toulouseolleslyonnaisnecomprennentpaslerefusdureportparlalfp",
+   "title": "Toulouse - OL : les Lyonnais \"ne comprennent pas\" le refus du report par la LFP",
+   "summary": "Ce vendredi, Corentin Tolisso et Paulo Fonseca ont exprimé leur \"incompréhension\" vis-à-vis de la décision de la LFP de ne pas reporter le match à Toulouse. La LFP avait pris cette décision début juillet.",
+   "url": "https://www.olympique-et-lyonnais.com/toulouse-ol-les-lyonnais-ne-comprennent-pas-le-refus-du-report-par-la-lfp,405331.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F08%2FIMG_3592-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-21T11:45:00+00:00"
+  },
+  {
+   "id": "olmoussaniakhatseraaptepourlematchtoulouse",
+   "title": "OL : Moussa Niakhaté sera apte pour le match à Toulouse",
+   "summary": "Absent de la séance de ce vendredi, Moussa Niakhaté n'est pas blessé. Paulo Fonseca a confirmé que le Sénégalais sera disponible pour le voyage à Toulouse. Paulo Fonseca fera \"naturellement des changements\" samedi face à Toulouse (20h45).",
+   "url": "https://www.olympique-et-lyonnais.com/ol-moussa-niakhate-sera-apte-pour-le-match-a-toulouse,405323.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F07%2FIMG_3476-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-21T11:15:00+00:00"
+  },
+  {
+   "id": "ollyonnessoffreunpremiersuccsenamicalcontreastonvilla31",
+   "title": "OL Lyonnes s'offre un premier succès en amical contre Aston Villa (3-1)",
+   "summary": "Mené au score contre le cours du jeu, OL Lyonnes a bien réagi face à Aston Villa ce vendredi. En deuxième période, les Lyonnaises ont validé leur domination générale. Elles ont clairement affiché un visage bien plus séduisant contre Aston Villa ce vendredi.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-soffre-un-premier-succes-en-amical-contre-aston-villa-3-1,405309.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FIMG_3823-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-21T10:55:00+00:00"
+  },
   {
    "id": "ollaromasagaceetmenacedelcherledossier30m",
    "title": "OL : la Roma s’agace et menace de lâcher le dossier à 30 M€ !",
@@ -119,28 +196,6 @@
    "publishedAt": "2026-08-21T06:00:00+00:00"
   },
   {
-   "id": "olmonacoaccentuelapressiondanslabatailledelindiceuefa",
-   "title": "OL : Monaco accentue la pression dans la bataille de l’indice UEFA",
-   "summary": "Le succès de Monaco en Ligue Conférence permet à la France de rester dans le vert à l’indice UEFA. Mais la poussée du Portugal oblige désormais l’OL et le club du Rocher à terminer le travail lors des matches retour.",
-   "url": "https://www.butfootballclub.fr/1692196-ol-monaco-accentue-la-pression-dans-la-bataille-de-lindice-uefa/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Feeef298e-ol-monaco-accentue-la-pression-dans-la-bataille-de-lindice-uefa-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-21T05:37:04+00:00"
-  },
-  {
-   "id": "ollyonnesterminesonstageenallemagneavecunamicalcontreastonvi",
-   "title": "OL Lyonnes termine son stage en Allemagne avec un amical contre Aston Villa (11h)",
-   "summary": "Après une semaine de stage à Herzogenaurach, OL Lyonnes referme ce chapitre allemand avec un amical contre Aston Villa (11h). Suite au revers contre l'Eintracht Francfort dimanche dernier, une réaction est attendue.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-termine-son-stage-en-allemagne-avec-un-amical-contre-aston-villa,405238.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FIMG_3819-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-08-21T05:30:00+00:00"
-  },
-  {
    "id": "karimbenzemaversunretoureneuropelolpasintress",
    "title": "Karim Benzema vers un retour en Europe, l'OL pas intéressé",
    "summary": "Et si Karim Benzema venait terminer sa carrière en Europe après un exil doré en Arabie saoudite ? Le natif de Bron est annoncé du côté de l'Espagne, tandis que l'OL ne peut pas se permettre d'y penser.",
@@ -163,39 +218,6 @@
    "publishedAt": "2026-08-21T05:02:37+00:00"
   },
   {
-   "id": "optalancesesprdictionssurleclassementfinaldelolenligue1",
-   "title": "Opta lance ses prédictions sur le classement final de l'OL en Ligue 1",
-   "summary": "Ce week-end, la Ligue 1 reprend ses droits pour une nouvelle saison. Qui réussira à faire tomber le PSG de son piédestal ? L'OL ? D'après les prédictions d'Opta, l'exercice 2026-2027 s'annonce dans la continuité du dernier pour le club lyonnais.",
-   "url": "https://www.olympique-et-lyonnais.com/opta-lance-ses-predictions-sur-le-classement-final-de-lol-en-ligue-1,405236.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__C4Y66TY__v1__HighRes__FblEurC1QualifyingFenerbahceLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-20T16:30:00+00:00"
-  },
-  {
-   "id": "ligue1toulouseapasmalchangdepuissavictoiresurlolenmaidernier",
-   "title": "Ligue 1 : Toulouse a pas mal changé depuis sa victoire sur l'OL en mai dernier",
-   "summary": "Ce samedi, l'OL lance sa saison en Ligue 1 du côté de Toulouse. Un club qui ne laisse pas forcément de bons souvenirs, mais qui a connu pas mal de mouvements durant l'été. Toulouse et son Stadium.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-1-toulouse-a-pas-mal-change-depuis-sa-victoire-sur-lol-en-mai-dernier,405234.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FAFP__20251005__77R89CM__v1__HighRes__FblFraLigue1LyonToulouse-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-20T15:40:00+00:00"
-  },
-  {
-   "id": "olacadmielarserverecevrabourgoinmeyzieule29aot",
-   "title": "OL Académie : la réserve recevra Bourgoin à Meyzieu le 29 août",
-   "summary": "Encore en pleine préparation estivale, la réserve de l'OL ne reprendra la compétition que le samedi 29 août prochain. Une reprise contre Bourgoin qui se fera à Meyzieu et non pas au GOLTC, en raison du match amical d'OL Lyonnes.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-la-reserve-recevra-bourgoin-a-meyzieu,405232.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F07%2FIMG_2961-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-20T14:50:00+00:00"
-  },
-  {
    "id": "robertmouynetancienjoueurdeloletderniersurvivantdesbleusde19",
    "title": "Robert Mouynet, ancien joueur de l’OL et dernier survivant des Bleus de 1958, est mort",
    "summary": "L’ancien défenseur Robert Mouynet est décédé ce mercredi à Toulouse à l’âge de 96 ans. Passé notamment par l’Olympique Lyonnais, où il avait disputé 149 matchs, il était le dernier membre encore vivant du groupe français de la Coupe du monde 1958.",
@@ -216,17 +238,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a85e68910489-musee-sarran-expo-2024-3-scaled.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-19T17:20:00+00:00"
-  },
-  {
-   "id": "liguedeschampionsloltientfenerbaheenchecavantunretourdcisifl",
-   "title": "Ligue des champions : l’OL tient Fenerbahçe en échec avant un retour décisif à Lyon",
-   "summary": "L’OL n’a pas cédé dans l’ambiance d’Istanbul. Devants au score grâce au premier but lyonnais de Loïs Openda, les hommes de Paulo Fonseca ont finalement concédé le nul face à Fenerbahçe (1-1).",
-   "url": "https://www.lyonfoot.com/article/13898/fenerbahce-ol-tout-se-jouera-a-lyon-1-1",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a84c6a9395d3-hqcgodgxgaayvfn.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-18T20:55:00+00:00"
   }
  ]
 }
