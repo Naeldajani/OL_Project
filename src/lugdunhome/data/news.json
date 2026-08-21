@@ -1,12 +1,101 @@
 {
- "updatedAt": "2026-08-21T07:06:57+00:00",
+ "updatedAt": "2026-08-21T09:51:53+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
   "Lyon Mag",
-  "Olympique-et-Lyonnais"
+  "Olympique-et-Lyonnais",
+  "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ollaromasagaceetmenacedelcherledossier30m",
+   "title": "OL : la Roma s’agace et menace de lâcher le dossier à 30 M€ !",
+   "summary": "La Roma s’impatiente pour Malick Fofana et relance Luis Henrique. L’OL attend jeudi avant d’étudier une offre à plus de 30 M€, cet été.",
+   "url": "https://www.butfootballclub.fr/1692220-ol-roma-fofana-menace-dossier-30m/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F176c38c1-ol-roma-fofana-menace-dossier-30m-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-21T08:57:09+00:00"
+  },
+  {
+   "id": "ligue1psgollensommonacolillerennesquelfavorialepirecalendrie",
+   "title": "Ligue 1: PSG, OL, Lens, OM, Monaco, Lille, Rennes… quel favori a le pire calendrier pour le début de saison?",
+   "summary": "Avant la première trêve internationale, plusieurs cadors vont déjà devoir se frotter à des adversaires de premier plan lors de la saison 2026-2027 de Ligue 1. Et sur le papier, le PSG et l’AS Monaco sont les deux clubs les plus mal lotis avec des débuts en championnat particulièrement corsés.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/ligue-1-psg-ol-lens-om-monaco-lille-rennes-quel-favori-a-le-pire-calendrier-pour-le-debut-de-saison_AV-202608210247.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F05ciJ4_srmBUOZTIi6kthirhIsg%3D%2F0x74%3A2048x1226%2F800x0%2Fimages%2FMaghnes-Akliouche-lors-du-match-Lens-PSG-le-16-aout-2026-2334859.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-21T08:55:47+00:00"
+  },
+  {
+   "id": "ollyonnesavecwendierenardcontreastonvilla",
+   "title": "OL Lyonnes avec Wendie Renard contre Aston Villa",
+   "summary": "Après le revers face à Francfort, OL Lyonnes poursuit sa préparation ce vendredi contre Aston Villa, toujours en Allemagne (11h). Avec la première apparition de Wendie Renard. Jonatan Giráldez n'était pas content de la performance de son équipe dimanche dernier.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-avec-wendie-renard-contre-aston-villa,405305.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FAFP__20251111__2246241204__v1__HighRes__OlLyonnesVVflWolfsburgUefaWomenSChampionsLea-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-08-21T08:55:00+00:00"
+  },
+  {
+   "id": "corentintolissomeilleurjoueurdesrecruesinquitanteslesnotesde",
+   "title": "Corentin Tolisso meilleur joueur, des recrues inquiétantes : les notes de l'OL dans FC27 dévoilées",
+   "summary": "Le jeu phare d'EA Sports, FC27, sortira en septembre. Les notes des joueurs de l'OL viennent d'être dévoilées, Corentin Tolisso sera le meilleur élément de l'équipe.",
+   "url": "https://www.lyonfoot.com/article/13949/fc27-les-notes-des-joueurs-de-l-ol-devoilees-corentin-tolisso-meilleur-lyonnais-du-jeu",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a88129f63d77-tolisso-fc26.png&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-21T08:55:00+00:00"
+  },
+  {
+   "id": "olulcetmerahlentranementavanttoulousepasniakhat",
+   "title": "OL : Šulc et Merah à l'entraînement avant Toulouse, pas Niakhaté",
+   "summary": "Absent depuis plus d'un mois, Pavel Šulc a bien repris l'entraînement avec le groupe. Idem pour Khalis Merah. En revanche, pas de Moussa Niakhaté. En attendant la prise de parole de Paulo Fonseca ce vendredi, à la veille de Toulouse - OL, l'entraînement du jour nous a donné des informations.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-sulc-et-merah-a-lentrainement-avant-toulouse-pas-niakhate,405295.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F08%2FIMG_3575-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-08-21T08:45:00+00:00"
+  },
+  {
+   "id": "oldeuxabsencesconfirmestoulouseavantlareprise",
+   "title": "OL : deux absences confirmées à Toulouse avant la reprise",
+   "summary": "Toulouse sera privé de Methalie et Vossah contre l’OL, tandis que Paulo Fonseca attend des nouvelles de Tagliafico, Merah et Šulc avant la reprise.",
+   "url": "https://www.butfootballclub.fr/1692216-ol-toulouse-deux-absences-confirmees-reprise/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fcce6c70a-ol-toulouse-deux-absences-confirmees-reprise-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-08-21T08:17:05+00:00"
+  },
+  {
+   "id": "lentraneurdetoulousesattendunolaussicomptitifquefacefenerbah",
+   "title": "L'entraîneur de Toulouse s'attend à un OL \"aussi compétitif\" que face à Fenerbahçe",
+   "summary": "Lancé dans une période intense, l'OL s'apprête à affronter Toulouse, entre deux matchs contre Fenerbahçe. Le Téfécé s'attend à défier un Olympique lyonnais \"compétitif\". Toulouse saura-t-il en tirer profit ?",
+   "url": "https://www.olympique-et-lyonnais.com/lentraineur-de-toulouse-sattend-a-un-ol-aussi-competitif-que-face-a-fenerbahce,405285.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAskou-e1787296797719-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-21T08:10:00+00:00"
+  },
+  {
+   "id": "mercatololauraitlilunailiernerlandais",
+   "title": "Mercato : l'OL aurait à l'œil un ailier néerlandais",
+   "summary": "Ailier gauche du KV Mechelen, Myron van Brederode brille en ce début de saison. L'OL l'aurait inscrit sur ses tablettes. Après ses neuf buts et six passes décisives en championnat la saison passée, Myron van Brederode est reparti sur de bonnes bases en 2026-2027.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-lol-aurait-a-loeil-un-ailier-neerlandais,405280.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260816__C4TE49E__v1__HighRes__FblBelProleagueMechelenStandardLiege-e1787293530431-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-21T07:25:00+00:00"
+  },
   {
    "id": "toulouseoldjlheuredelagestiondeffectif",
    "title": "Toulouse - OL : déjà l'heure de la gestion d'effectif ?",
@@ -74,28 +163,6 @@
    "publishedAt": "2026-08-21T05:02:37+00:00"
   },
   {
-   "id": "omrclensassestaderennaisolloscuncrackespagnol8mrecal",
-   "title": "OM, RC Lens, ASSE, Stade Rennais, OL, LOSC : un crack espagnol à 8 M€ recalé !",
-   "summary": "Proposé à plusieurs gros clubs français, l’attaquant espagnol Pablo Garcia pourrait finalement quitter le Real Betis pour rejoindre Hull City. Une opportunité que les écuries de Ligue 1 n’ont pas saisie.",
-   "url": "https://www.butfootballclub.fr/1692171-om-rc-lens-asse-stade-rennais-ol-losc-un-crack-espagnol-a-8-me-recale/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fee7e259a-asse-mercato-une-offre-est-partie-pour-le-remplacant-de-stassin.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-08-20T20:20:00+00:00"
-  },
-  {
-   "id": "ompsgrclensolstaderennaisloscleclassementfinaldelaligue1adjf",
-   "title": "OM, PSG, RC Lens, OL, Stade Rennais, LOSC : le classement final de la Ligue 1 a déjà fuité !",
-   "summary": "À quelques heures du coup d’envoi de la saison 2026-2027 de Ligue 1, Opta a livré ses projections. Et si le classement de la prochaine Ligue 1 était déjà connu ? Évidemment, il ne s’agit que d’une projection, mais le super-ordinateur d’Opta a livré ses premières tendances pour la saison 2026-2027.",
-   "url": "https://www.butfootballclub.fr/1692164-om-psg-rc-lens-ol-stade-rennais-losc-le-classement-final-de-la-ligue-1-a-deja-fuite/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F53a7ce7c-om-psg-rc-lens-ol-stade-rennais-losc-le-classement-final-de-la-ligue-1-a-deja-fuite.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-08-20T19:40:00+00:00"
-  },
-  {
    "id": "optalancesesprdictionssurleclassementfinaldelolenligue1",
    "title": "Opta lance ses prédictions sur le classement final de l'OL en Ligue 1",
    "summary": "Ce week-end, la Ligue 1 reprend ses droits pour une nouvelle saison. Qui réussira à faire tomber le PSG de son piédestal ? L'OL ? D'après les prédictions d'Opta, l'exercice 2026-2027 s'annonce dans la continuité du dernier pour le club lyonnais.",
@@ -129,50 +196,6 @@
    "publishedAt": "2026-08-20T14:50:00+00:00"
   },
   {
-   "id": "toulouseoldplacementencadrpourlesplusdemillesupporterslyonna",
-   "title": "Toulouse - OL : déplacement encadré pour les plus de mille supporters lyonnais",
-   "summary": "Pour le déplacement à Toulouse, l'OL pourra compter sur le soutien de ses supporters. Ils seront un peu plus de mille au Stadium samedi soir (20h45). Avec un déplacement encadré par la préfecture de la Haute-Garonne.",
-   "url": "https://www.olympique-et-lyonnais.com/toulouse-ol-deplacement-encadre-pour-les-plus-de-mille-supporters-lyonnais,405265.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F08%2FAFP__20250816__69PJ29F__v1__HighRes__FblFraLigue1LensLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-20T14:00:00+00:00"
-  },
-  {
-   "id": "ligue1pouraccueillirloltoulouseadchangersapelouseenurgence",
-   "title": "Ligue 1 : pour accueillir l'OL, Toulouse a dû changer sa pelouse en urgence",
-   "summary": "Ce samedi, l'OL lance sa saison 2026-2027 en Ligue 1 avec un déplacement à Toulouse. Face aux chaleurs qui ont touché la France depuis plusieurs semaines, le club toulousain a dû changer la pelouse du Stadium en dernière minute.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-1-pour-accueillir-lol-toulouse-a-du-changer-sa-pelouse-en-urgence,405192.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260510__B2FB2KJ__v1__HighRes__FblFraLigue1ToulouseLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-20T13:10:00+00:00"
-  },
-  {
-   "id": "lehavreollyonnesprogrammlevendredi18septembre19h",
-   "title": "Le Havre - OL Lyonnes programmé le vendredi 18 septembre (19h)",
-   "summary": "Dans la dernière ligne droite de sa préparation estivale, OL Lyonnes commence à avoir un aperçu de son calendrier de reprise en Première Ligue. Après Fleury et le Paris FC, la formation lyonnaise se rendra au Havre le vendredi 18 septembre (19h).",
-   "url": "https://www.olympique-et-lyonnais.com/le-havre-ol-lyonnes-programme-le-vendredi-18-septembre-19h,405217.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FIMG_3833-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-08-20T12:20:00+00:00"
-  },
-  {
-   "id": "oltkydgretourdevotremissioncelundi24aot19h",
-   "title": "OL - TKYDG : retour de votre émission ce lundi 24 août à 19h",
-   "summary": "Après une trêve estivale pour recharger les batteries, votre émission \"Tant qu'il y aura des Gones\" sera de retour ce lundi 24 août en direct à partir de 19h. Avec quelques nouveautés pour décrypter la saison à venir de l'OL.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-tkydg-retour-de-votre-emission-ce-lundi-24-aout-a-19h,405210.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHP-8BXVWYAAi50O-e1787144925376-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-08-20T11:30:00+00:00"
-  },
-  {
    "id": "robertmouynetancienjoueurdeloletderniersurvivantdesbleusde19",
    "title": "Robert Mouynet, ancien joueur de l’OL et dernier survivant des Bleus de 1958, est mort",
    "summary": "L’ancien défenseur Robert Mouynet est décédé ce mercredi à Toulouse à l’âge de 96 ans. Passé notamment par l’Olympique Lyonnais, où il avait disputé 149 matchs, il était le dernier membre encore vivant du groupe français de la Coupe du monde 1958.",
@@ -193,17 +216,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a85e68910489-musee-sarran-expo-2024-3-scaled.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-19T17:20:00+00:00"
-  },
-  {
-   "id": "fenerbaheolsuprieurunequipeconstruitecoupsdemillionslyoncroi",
-   "title": "Fenerbahçe-OL : Supérieur à une équipe construite à coups de millions, Lyon croit plus que jamais en la qualif en C1",
-   "summary": "Les Lyonnais ont montré un visage conquérant face à une équipe du Fener' loin d’être au niveau malgré un recrutement cinq étoiles. En ramenant le match nul de Turquie, les chances de qualif sont grandes la semaine prochaine au Groupama Stadium",
-   "url": "https://www.20minutes.fr/sport/football/ligue_des_champions/4239822-20260819-fenerbahce-ol-superieur-equipe-construite-coups-millions-lyon-croit-plus-jamais-qualif-c1?at_medium=display&at_campaign=149",
-   "source": "20 Minutes",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FrsFatn9DQf6zMAQVgZMo6Sk%2F1444x920_lois-openda-a-inscrit-son-premier-but-sous-le-maillot-lyonnais&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-19T06:42:28+00:00"
   },
   {
    "id": "liguedeschampionsloltientfenerbaheenchecavantunretourdcisifl",
