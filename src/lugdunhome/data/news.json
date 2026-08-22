@@ -1,11 +1,78 @@
 {
- "updatedAt": "2026-08-22T12:59:47+00:00",
+ "updatedAt": "2026-08-22T15:34:33+00:00",
  "sources": [
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "directtoulouseolsuivezlematchdelapremirejournedeligue1enlive",
+   "title": "DIRECT. Toulouse-OL: suivez le match de la première journée de Ligue 1 en live",
+   "summary": "L'Olympique lyonnais se déplace sur la pelouse de Toulouse ce samedi pour la 1ere journée de Ligue 1, à quatre jours de son barrage retour de Ligue des champions contre le Fenerbahçe.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-toulouse-ol-suivez-le-match-de-la-premiere-journee-de-ligue-1-en-live_LS-202608220285.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F229GQc35LTHsTm52YobvF1qM1dM%3D%2F0x106%3A2048x1258%2F800x0%2Fimages%2FLois-Openda-le-11-aout-2026-2335329.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-22T15:20:17+00:00"
+  },
+  {
+   "id": "olleretourenligue1desonanciengardienseprcise",
+   "title": "OL : le retour en Ligue 1 de son ancien gardien se précise",
+   "summary": "Mathieu Patouillet, ancien gardien de l’OL, est sur le point de signer trois ans avec Brest et de retrouver la Ligue 1 après Al-Hilal.",
+   "url": "https://www.butfootballclub.fr/1692582-patouillet-brest-retour-ligue-1-ol/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F8830ff6d-patouillet-brest-retour-ligue-1-ol-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-22T15:05:07+00:00"
+  },
+  {
+   "id": "olcorentintolissoligieuxenversmadsbidstrup",
+   "title": "OL : Corentin Tolisso éligieux envers Mads Bidstrup",
+   "summary": "À l'avenir, ils pourraient régulièrement être associés au milieu. Corentin Tolisso semble beaucoup apprécier le profil de Mads Bidstrup. Après une période d'un mois loin des terrains, Mads Bidstrup a enfin retrouvé la compétition.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-corentin-tolisso-eligieux-envers-mads-bidstrup,405426.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3780-e1784293530710-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-22T14:50:00+00:00"
+  },
+  {
+   "id": "ollyonnesfindustageenallemagneetretourdcinespourlegroupe",
+   "title": "OL Lyonnes : fin du stage en Allemagne et retour à Décines pour le groupe",
+   "summary": "Dès la fin du match contre Aston Villa vendredi (3-1), OL Lyonnes est reparti en direction de Lyon. La fin de la préparation se passera à Décines. Des entraînements, des activités de cohésion, quelques plages de repos ou encore une rencontre entre membres du staff...",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-fin-du-stage-en-allemagne-et-retour-a-decines-pour-le-groupe,405419.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260522__B3RK3BN__v1__HighRes__FblEurC1WomenBarcelonaLyonTraining-e1785600331195-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-22T14:00:00+00:00"
+  },
+  {
+   "id": "ollarecruequibousculedjlesplansdepaulofonseca",
+   "title": "OL : la recrue qui bouscule déjà les plans de Paulo Fonseca",
+   "summary": "Arrivé de Nice, Kaïl Boudache séduit Paulo Fonseca à l’OL et pourrait profiter de la rotation à Toulouse pour gagner du temps de jeu.",
+   "url": "https://www.butfootballclub.fr/1692545-ol-kail-boudache-bouscule-plans-paulo-fonseca/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F26a54060-ol-kail-boudache-bouscule-plans-paulo-fonseca-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-22T13:45:12+00:00"
+  },
+  {
+   "id": "entreloletfenerbahepasdejalouxavantleretour",
+   "title": "Entre l'OL et Fenerbahçe, pas de jaloux avant le retour",
+   "summary": "Adversaires en barrage de Ligue des champions, l'OL et Fenerbahçe joueront tous les deux en championnat ce samedi. Aucune différence de ce point de vue donc entre les deux rivaux. Jouer sa saison dès le 26 août.",
+   "url": "https://www.olympique-et-lyonnais.com/entre-lol-et-fenerbahce-pas-de-jaloux,405413.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__C4Y66KZ__v1__HighRes__FblEurC1QualifyingFenerbahceLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-22T13:10:00+00:00"
+  },
   {
    "id": "ligue1lesrsultatsdespremiersmatchsdeloldepuis5ans",
    "title": "Ligue 1 : les résultats des premiers matchs de l'OL depuis 5 ans",
@@ -93,39 +160,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F07%2FIMG_2962-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-22T07:25:00+00:00"
-  },
-  {
-   "id": "ligue1lolviselastabilitdanslehautduclassement",
-   "title": "Ligue 1 : l'OL vise la stabilité dans le haut du classement",
-   "summary": "La Ligue 1 redémarre ce samedi soir à Toulouse pour l'OL (20h45). Avec la nécessité pour le club de se pérenniser dans le top 5 du championnat. Le début de ce cru 2026-2027 a une saveur particulière du côté de l'OL.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-1-lol-vise-la-stabilite-dans-le-haut-du-classement,405386.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260425__A8Y66TE__v2__HighRes__FblFraLigue1LyonAuxerre-e1777352976487-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-22T06:40:00+00:00"
-  },
-  {
-   "id": "toulouseolcompoprobablediffusiontvhoraire",
-   "title": "Toulouse - OL : compo probable, diffusion TV, horaire",
-   "summary": "Composition probable, horaire, diffusion TV, retrouvez toutes les informations pratiques avant Toulouse - OL ce samedi. La première pour les Lyonnais en Ligue 1. Avant-match La question à trois points.",
-   "url": "https://www.olympique-et-lyonnais.com/toulouse-ol-compo-probable-diffusion-tv-horaire,405376.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260510__B2FB6NQ__v1__HighRes__FblFraLigue1ToulouseLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-22T06:00:00+00:00"
-  },
-  {
-   "id": "toulouseencorelabtenoiredelol",
-   "title": "Toulouse, encore la bête noire de l'OL ?",
-   "summary": "La saison dernière, l'OL avait perdu à deux reprises contre Toulouse, dont la dernière fois au Stadium alors qu'il visait le podium. Ce samedi, il retourne sur les lieux de la débâcle.",
-   "url": "https://www.olympique-et-lyonnais.com/toulouse-encore-la-bete-noire-de-lol,405366.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FAFP__20251005__77RD2QA__v1__HighRes__FblFraLigue1LyonToulouse-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-08-22T05:30:00+00:00"
   },
   {
    "id": "toulouseollyonnapaslatteauchampionnat",
