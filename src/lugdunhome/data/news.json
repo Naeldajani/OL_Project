@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-22T15:34:33+00:00",
+ "updatedAt": "2026-08-22T18:48:11+00:00",
  "sources": [
-  "But! Football Club",
+  "20 Minutes",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
@@ -16,24 +16,35 @@
    "author": null,
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F229GQc35LTHsTm52YobvF1qM1dM%3D%2F0x106%3A2048x1258%2F800x0%2Fimages%2FLois-Openda-le-11-aout-2026-2335329.jpg&w=800&output=webp&q=78",
    "topic": "Match",
-   "publishedAt": "2026-08-22T15:20:17+00:00"
+   "publishedAt": "2026-08-22T18:45:33+00:00"
   },
   {
-   "id": "olleretourenligue1desonanciengardienseprcise",
-   "title": "OL : le retour en Ligue 1 de son ancien gardien se précise",
-   "summary": "Mathieu Patouillet, ancien gardien de l’OL, est sur le point de signer trois ans avec Brest et de retrouver la Ligue 1 après Al-Hilal.",
-   "url": "https://www.butfootballclub.fr/1692582-patouillet-brest-retour-ligue-1-ol/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F8830ff6d-patouillet-brest-retour-ligue-1-ol-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-22T15:05:07+00:00"
+   "id": "toulouseoldescampsbacherhimbertfonsecachangetout",
+   "title": "Toulouse - OL : Descamps, Bacher, Himbert... Fonseca change tout",
+   "summary": "Première journée de Ligue 1 ce samedi pour l'OL (20h45). Pour ce déplacement à Toulouse, Paulo Fonseca change tout son 11 par rapport au match nul à Fenerbahçe. C'est ce qui s'appelle un choix tranché.",
+   "url": "https://www.olympique-et-lyonnais.com/toulouse-ol-descamps-bacher-himbert-fonseca-change-tout,405439.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2FAFP__20260112__DPPI_40026005_022__v1__HighRes__FootballFrenchCupLilleVLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-22T17:51:03+00:00"
   },
   {
-   "id": "olcorentintolissoligieuxenversmadsbidstrup",
-   "title": "OL : Corentin Tolisso éligieux envers Mads Bidstrup",
+   "id": "endirecttfcollyonveutsurfersursonrythmeeuropenpourbiendmarre",
+   "title": "EN DIRECT TFC - OL : Lyon veut surfer sur son rythme européen pour bien démarrer… Suivez la 1re journée de Ligue 1 avec nous",
+   "summary": "Suivez avec nous le match entre le Toulouse Football Club et l’Olympique lyonnais comptant pour la première journée de Ligue 1 (20h45)",
+   "url": "https://www.20minutes.fr/sport/football/ligue-1/4240281-20260822-direct-tfc-ol-lyon-veut-surfer-rythme-europeen-bien-demarrer-suivez-1re-journee-ligue-1?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FezY8OSfDRMS0jIbgEFCeTSk%2F1444x920_lois-openda-et-ses-coequipiers-lyonnais-ont-deja-trois-matchs-europeens-dans-les-jambes-ce-qui-pourrait-leur-servir-a-toulouse-lors-de-la-premiere-journee-de-ligue-1&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-22T16:32:36+00:00"
+  },
+  {
+   "id": "olcorentintolissologieuxenversmadsbidstrup",
+   "title": "OL : Corentin Tolisso élogieux envers Mads Bidstrup",
    "summary": "À l'avenir, ils pourraient régulièrement être associés au milieu. Corentin Tolisso semble beaucoup apprécier le profil de Mads Bidstrup. Après une période d'un mois loin des terrains, Mads Bidstrup a enfin retrouvé la compétition.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-corentin-tolisso-eligieux-envers-mads-bidstrup,405426.html",
+   "url": "https://www.olympique-et-lyonnais.com/ol-corentin-tolisso-elogieux-envers-mads-bidstrup,405426.html",
    "source": "Olympique-et-Lyonnais",
    "author": "Gwendal Chabas",
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3780-e1784293530710-770x433.jpg&w=800&output=webp&q=78",
@@ -50,17 +61,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260522__B3RK3BN__v1__HighRes__FblEurC1WomenBarcelonaLyonTraining-e1785600331195-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-22T14:00:00+00:00"
-  },
-  {
-   "id": "ollarecruequibousculedjlesplansdepaulofonseca",
-   "title": "OL : la recrue qui bouscule déjà les plans de Paulo Fonseca",
-   "summary": "Arrivé de Nice, Kaïl Boudache séduit Paulo Fonseca à l’OL et pourrait profiter de la rotation à Toulouse pour gagner du temps de jeu.",
-   "url": "https://www.butfootballclub.fr/1692545-ol-kail-boudache-bouscule-plans-paulo-fonseca/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F26a54060-ol-kail-boudache-bouscule-plans-paulo-fonseca-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-22T13:45:12+00:00"
   },
   {
    "id": "entreloletfenerbahepasdejalouxavantleretour",
@@ -151,17 +151,6 @@
    "publishedAt": "2026-08-22T08:10:00+00:00"
   },
   {
-   "id": "derniresortiedelaprparationpourlarservedelol",
-   "title": "Dernière sortie de la préparation pour la réserve de l'OL",
-   "summary": "Dans une semaine, la réserve de l'OL recevra Bourgoin pour le début du championnat. Avant ça, les Lyonnais accueillent Dijon pour un dernier match amical. Une défaite, deux nuls et un succès.",
-   "url": "https://www.olympique-et-lyonnais.com/derniere-sortie-de-la-preparation-pour-la-reserve-de-lol,405368.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F07%2FIMG_2962-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-22T07:25:00+00:00"
-  },
-  {
    "id": "toulouseollyonnapaslatteauchampionnat",
    "title": "Toulouse-OL : Lyon n'a pas la tête au championnat",
    "summary": "Ce samedi soir, l'OL se déplace à Toulouse dans le cadre de la 1ère journée de Ligue 1. Mais l'équipe a la tête plutôt tournée vers son barrage retour de Ligue des Champions.",
@@ -204,17 +193,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Fb8Ty3Io9MjHI4iYviyg19LX1qE8%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FLigue-1-Rongier-Andre-Lees-Melou-Tolisso-que-pensent-les-capitaines-des-nouvelles-regles-d-arbitrage-2335010.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-21T14:30:32+00:00"
-  },
-  {
-   "id": "olnousvivonsdesmomentsgostesfonsecaettolissodusparlenonrepor",
-   "title": "OL : “Nous vivons des moments égoïstes…”, Fonseca et Tolisso “déçus” par le non report du match face à Toulouse",
-   "summary": "L’Olympique Lyonnais affronte Toulouse pour sa première journée de Ligue 1, samedi à 20h45, au Stadium de Toulouse.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-ol-nous-vivons-des-moments-egoistes-fonseca-et-tolisso-decus-par-le-non-report-du-match-face-a-toulouse_VN-202608210347.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Fq-aj2b1zOEBli-_JrSLUDdPNcqw%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FOL-Nous-vivons-des-moments-egoistes-Fonseca-et-Tolisso-decus-par-le-non-report-du-match-face-a-Toulouse-2334944.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-21T12:17:17+00:00"
   },
   {
    "id": "corentintolissomeilleurjoueurdesrecruesinquitanteslesnotesde",
