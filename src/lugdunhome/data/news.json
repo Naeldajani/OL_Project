@@ -1,13 +1,55 @@
 {
- "updatedAt": "2026-08-22T06:58:52+00:00",
+ "updatedAt": "2026-08-22T09:41:08+00:00",
  "sources": [
-  "20 Minutes",
-  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "toulouseavecsesrecruesmaissansdonnumfacelol",
+   "title": "Toulouse avec ses recrues mais sans Donnum face à l'OL",
+   "summary": "Pour son premier match officiel à la tête de Toulouse, Jens Berthel Askou a convoqué ses nouvelles recrues. Mais il reste quelques absents. Après la dernière de Carles Martínez Novell en Stadium en mai dernier, l'OL aura le droit à la première officielle de Jens Berthel Askou à Toulouse.",
+   "url": "https://www.olympique-et-lyonnais.com/toulouse-avec-ses-recrues-mais-sans-donnum-face-a-lol,405391.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F03%2F000_34LK72A-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-22T09:00:00+00:00"
+  },
+  {
+   "id": "rouvertureduchaletduparcyannarthusbertrandproposedyphotograp",
+   "title": "Réouverture du Chalet du Parc : Yann Arthus-Bertrand propose d'y photographier les Lyonnais",
+   "summary": "À l’occasion de la réouverture du Chalet du Parc, fermé depuis dix ans, Yann Arthus-Bertrand installera son studio photo au parc de la Tête d’Or du 18 au 20 septembre. Les Lyonnais pourront poser pour son projet \"Vivre Ensemble\".",
+   "url": "https://www.lyonmag.com/article/153682/reouverture-du-chalet-du-parc-yann-arthus-bertrand-propose-d-y-photographier-les-lyonnais",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a89469645d3e-51990149751-8cd88318f7-o.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-22T09:00:00+00:00"
+  },
+  {
+   "id": "olkalboudachealaissunebonnepremireimpression",
+   "title": "OL : Kaïl Boudache a laissé une bonne première impression",
+   "summary": "Mardi, Kaïl Boudache a effectué une rentrée intéressante contre Fenerbahçe. L'ailier a eu droit à un commentaire positif de Paulo Fonseca. Pour l'instant, Paulo Fonseca accorde sa confiance à Ernest Nuamah sur le côté droit de l'attaque.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-kail-boudache-a-laisse-une-bonne-premiere-impression,405373.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3790-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-22T08:10:00+00:00"
+  },
+  {
+   "id": "derniresortiedelaprparationpourlarservedelol",
+   "title": "Dernière sortie de la préparation pour la réserve de l'OL",
+   "summary": "Dans une semaine, la réserve de l'OL recevra Bourgoin pour le début du championnat. Avant ça, les Lyonnais accueillent Dijon pour un dernier match amical. Une défaite, deux nuls et un succès.",
+   "url": "https://www.olympique-et-lyonnais.com/derniere-sortie-de-la-preparation-pour-la-reserve-de-lol,405368.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F07%2FIMG_2962-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-22T07:25:00+00:00"
+  },
   {
    "id": "ligue1lolviselastabilitdanslehautduclassement",
    "title": "Ligue 1 : l'OL vise la stabilité dans le haut du classement",
@@ -75,17 +117,6 @@
    "publishedAt": "2026-08-22T04:30:00+00:00"
   },
   {
-   "id": "ompsgolasserclensfcnantesstaderennaisterriblenouvellepourunc",
-   "title": "OM, PSG, OL, ASSE, RC Lens, FC Nantes, Stade Rennais : terrible nouvelle pour un club historique",
-   "summary": "Les Girondins de Bordeaux sont fixés. Le tribunal administratif de Paris a confirmé ce vendredi leur exclusion des championnats nationaux. Le couperet est tombé.",
-   "url": "https://www.butfootballclub.fr/1692353-om-psg-ol-asse-rc-lens-fc-nantes-stade-rennais-terrible-nouvelle-pour-un-club-historique/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F56ade3aa-om-psg-ol-asse-rc-lens-fc-nantes-stade-rennais-terrible-nouvelle-pour-un-club-historique.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-08-21T18:40:00+00:00"
-  },
-  {
    "id": "oltagliaficoetulcderetourfacetoulouseladfenseentirementrenou",
    "title": "OL : Tagliafico et Šulc de retour face à Toulouse, la défense entièrement renouvelée",
    "summary": "Pour la première fois de l'été, Paulo Fonseca a tout son groupe à disposition. Nicolas Tagliafico et Pavel Šulc reviennent pour le déplacement à Toulouse. Voilà, nous y sommes. Ce samedi soir (20h45), l'OL renoue avec le championnat.",
@@ -141,28 +172,6 @@
    "publishedAt": "2026-08-21T14:10:00+00:00"
   },
   {
-   "id": "olpaulofonsecasatisfaitdelaprofondeurdeffectif",
-   "title": "OL : Paulo Fonseca satisfait de la profondeur d'effectif",
-   "summary": "Un effectif qui lui convient ? Paulo Fonseca s'est exprimé ce vendredi concernant son groupe, qu'il juge plus compétitif que la saison dernière. Bien malin aujourd'hui qui peut dire où terminera l'OL en Ligue 1.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-paulo-fonseca-satisfait-de-la-profondeur-deffectif,405340.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260517__B34V8FH__v1__HighRes__FblFraLigue1LyonLens-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-21T13:20:00+00:00"
-  },
-  {
-   "id": "mercatoelishaowusuexolquittelaligue1",
-   "title": "Mercato : Elisha Owusu (ex-OL) quitte la Ligue 1",
-   "summary": "Formé à l'OL, Elisha Owusu jouait à Auxerre depuis trois ans et demi. Le milieu de terrain s'est envolé pour la Turquie lors de ce mercato. Une deuxième expérience à l'étranger pour Elisha Owusu.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-elisha-owusu-ex-ol-quitte-la-ligue-1,405292.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F01%2FElisha-Owusu-e1673896384519-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-21T12:35:00+00:00"
-  },
-  {
    "id": "olnousvivonsdesmomentsgostesfonsecaettolissodusparlenonrepor",
    "title": "OL : “Nous vivons des moments égoïstes…”, Fonseca et Tolisso “déçus” par le non report du match face à Toulouse",
    "summary": "L’Olympique Lyonnais affronte Toulouse pour sa première journée de Ligue 1, samedi à 20h45, au Stadium de Toulouse.",
@@ -172,17 +181,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Fq-aj2b1zOEBli-_JrSLUDdPNcqw%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FOL-Nous-vivons-des-moments-egoistes-Fonseca-et-Tolisso-decus-par-le-non-report-du-match-face-a-Toulouse-2334944.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-21T12:17:17+00:00"
-  },
-  {
-   "id": "toulouseolleslyonnaisnecomprennentpaslerefusdureportparlalfp",
-   "title": "Toulouse - OL : les Lyonnais \"ne comprennent pas\" le refus du report par la LFP",
-   "summary": "Ce vendredi, Corentin Tolisso et Paulo Fonseca ont exprimé leur \"incompréhension\" vis-à-vis de la décision de la LFP de ne pas reporter le match à Toulouse. La LFP avait pris cette décision début juillet.",
-   "url": "https://www.olympique-et-lyonnais.com/toulouse-ol-les-lyonnais-ne-comprennent-pas-le-refus-du-report-par-la-lfp,405331.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F08%2FIMG_3592-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-21T11:45:00+00:00"
   },
   {
    "id": "ligue1psgollensommonacolillerennesquelfavorialepirecalendrie",
@@ -216,17 +214,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a87e05b4eaaa-763398457-18613907137026340-4554169469999314691-n.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-21T05:19:00+00:00"
-  },
-  {
-   "id": "ligue1202627lesaffichesdela1rejournenepasmanquerceweekend",
-   "title": "Ligue 1 2026/27 : Les affiches de la 1re journée à ne pas manquer ce week-end",
-   "summary": "OM-Strasbourg et Rennes-PSG seront les deux matches à ne pas manquer, à l’instar de Lens-Auxerre, Toulouse-OL, Nice-Lorient, Troyes-Paris FC, Le Mans-Brest, Angers-Lille et Le Havre-Monaco",
-   "url": "https://www.20minutes.fr/sport/football/4240057-20260821-ligue-1-2026-27-affiches-1re-journee-manquer-week-end?at_medium=display&at_campaign=149",
-   "source": "20 Minutes",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FcWqrTjqIReeYpq8hap2A5yk%2F1444x920_khvicha-kvaratskhelia-et-le-psg-seront-en-deplacement-a-rennes-a-l-occasion-de-la-1re-journee-dimanche-soir-photo-d-illustration&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-21T05:02:37+00:00"
   },
   {
    "id": "robertmouynetancienjoueurdeloletderniersurvivantdesbleusde19",
