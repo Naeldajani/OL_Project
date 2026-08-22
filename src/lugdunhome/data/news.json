@@ -1,11 +1,55 @@
 {
- "updatedAt": "2026-08-22T09:41:08+00:00",
+ "updatedAt": "2026-08-22T12:59:47+00:00",
  "sources": [
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ligue1lesrsultatsdespremiersmatchsdeloldepuis5ans",
+   "title": "Ligue 1 : les résultats des premiers matchs de l'OL depuis 5 ans",
+   "summary": "L'OL se rend à Toulouse ce samedi pour son premier match de Ligue 1 en 2026-2027. Depuis cinq ans, ses résultats en ouverture de la saison sont équilibrés. Il y a eu des débâcles, mais aussi quelques jolies performances.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-1-les-resultats-des-premiers-matchs-de-lol-depuis-5-ans,405408.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F08%2FAFP__20250816__69PN66B__v1__HighRes__FblFraLigue1LensLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-22T12:20:00+00:00"
+  },
+  {
+   "id": "toulouseollespremierspasattendusdefelixbacheretzacharyatheka",
+   "title": "Toulouse - OL : les premiers pas attendus de Felix Bacher et Zachary Athekame",
+   "summary": "Pour l'instant, ils n'ont fait que participer aux entraînements. Ce samedi, Felix Bacher et Zachary Athekame devraient faire leurs débuts avec l'OL en tant que titulaires à Toulouse.",
+   "url": "https://www.olympique-et-lyonnais.com/toulouse-ol-les-premiers-pas-attendus-de-bacher-et-athekame,405402.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20250930__maffia-acmilanv250928_npizv__v1__HighRes__AcMilanVSscNapoliSerieAEnil-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-08-22T11:30:00+00:00"
+  },
+  {
+   "id": "lolpluttfavorableauxnouveautsarbitralesdelasaison",
+   "title": "L'OL plutôt favorable aux nouveautés arbitrales de la saison",
+   "summary": "Cette saison 2026-2027 est marquée par quelques changements dans l'arbitrage, notamment pour limiter les gains de temps. Ce que Corentin Tolisso et Paulo Fonseca apprécient. La Coupe du monde a servi de test grandeur nature.",
+   "url": "https://www.olympique-et-lyonnais.com/lol-plutot-favorable-aux-nouveautes-arbitrales-de-la-saison,405397.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP__20260315__A3CU2NG__v1__HighRes__FblFraLigue1LeHavreLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-22T10:40:00+00:00"
+  },
+  {
+   "id": "mercatoversunretourdemathieupatouilletenligue1",
+   "title": "Mercato : vers un retour de Mathieu Patouillet en Ligue 1",
+   "summary": "Libre depuis la fin de son aventure en Arabie saoudite, Mathieu Patouillet se dirige vers un retour en France. L'ancien gardien de l'OL pourrait rejoindre Brest. Grégoire Coudert étant parti en Angleterre, Brest est en quête d'un nouveau gardien.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-vers-un-retour-de-mathieu-patouillet-en-ligue-1,405395.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F03%2FIMG_2272-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-22T09:50:00+00:00"
+  },
   {
    "id": "toulouseavecsesrecruesmaissansdonnumfacelol",
    "title": "Toulouse avec ses recrues mais sans Donnum face à l'OL",
@@ -117,39 +161,6 @@
    "publishedAt": "2026-08-22T04:30:00+00:00"
   },
   {
-   "id": "oltagliaficoetulcderetourfacetoulouseladfenseentirementrenou",
-   "title": "OL : Tagliafico et Šulc de retour face à Toulouse, la défense entièrement renouvelée",
-   "summary": "Pour la première fois de l'été, Paulo Fonseca a tout son groupe à disposition. Nicolas Tagliafico et Pavel Šulc reviennent pour le déplacement à Toulouse. Voilà, nous y sommes. Ce samedi soir (20h45), l'OL renoue avec le championnat.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-tagliafico-et-sulc-de-retour-face-a-toulouse-la-defense-entierement-renouvelee,405375.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FGettyImages-2238964032.jpg-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-21T17:03:38+00:00"
-  },
-  {
-   "id": "olpaulofonsecanapasdebonssouvenirsdetoulouse",
-   "title": "OL : Paulo Fonseca n'a pas de bons souvenirs de Toulouse",
-   "summary": "Les Lyonnais retrouvent Toulouse samedi pour la 1re journée de Ligue 1. Un adversaire qui a battu deux fois l'OL l'an dernier. Que reste-t-il du Toulouse qui est la seule formation à avoir battu deux fois l'OL en 2025-2026 ?",
-   "url": "https://www.olympique-et-lyonnais.com/ol-paulo-fonseca-na-pas-de-bons-souvenirs-de-toulouse,405360.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FAFP__20250707__662N726__v5__HighRes__FblFraLigue1LyonTraining-e1766472569904-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-21T15:50:00+00:00"
-  },
-  {
-   "id": "olacadmieretourdeschampionnatsleprogrammeduweekend",
-   "title": "OL académie : retour des championnats, le programme du week-end",
-   "summary": "Ce week-end, les U17 et U19 de l'OL reprendront le championnat dimanche. Avant ça, la réserve disputera un dernier match amical samedi. Tout le monde parle aujourd'hui du retour de la Ligue 1.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-retour-des-championnats-le-programme-du-week-end,405353.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2020%2F01%2FOLacad%C3%A9mie-650x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-21T15:00:00+00:00"
-  },
-  {
    "id": "ligue1rongierandrleesmeloutolissoquepensentlescapitainesdesn",
    "title": "Ligue 1 : Rongier, André, Lees-Melou, Tolisso… que pensent les capitaines des nouvelles règles d’arbitrage ?",
    "summary": "Valentin Rongier (Stade Rennais), Benjamin André (Losc), Pierre Lees-Melou (Paris FC), Corentin Tolisso (OL)… avant la première journée de Ligue 1, certains capitaines du championnat de France ont été interrogés sur les nouvelles règles mises en place par la LFP au niveau de l’arbitrage.",
@@ -161,17 +172,6 @@
    "publishedAt": "2026-08-21T14:30:32+00:00"
   },
   {
-   "id": "olcorentintolissosesentdattaquepourtoulouse",
-   "title": "OL : Corentin Tolisso se sent d'attaque pour Toulouse",
-   "summary": "L'aspect physique a occupé les discussions ce vendredi midi à Décines. Avant le match à Toulouse samedi, Corentin Tolisso a affirmé qu'il était prêt à enchaîner, comme le reste de l'équipe.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-corentin-tolisso-se-sent-dattaque-pour-toulouse,405347.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FHNh3NBeWcAAkknO-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-21T14:10:00+00:00"
-  },
-  {
    "id": "olnousvivonsdesmomentsgostesfonsecaettolissodusparlenonrepor",
    "title": "OL : “Nous vivons des moments égoïstes…”, Fonseca et Tolisso “déçus” par le non report du match face à Toulouse",
    "summary": "L’Olympique Lyonnais affronte Toulouse pour sa première journée de Ligue 1, samedi à 20h45, au Stadium de Toulouse.",
@@ -181,17 +181,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Fq-aj2b1zOEBli-_JrSLUDdPNcqw%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FOL-Nous-vivons-des-moments-egoistes-Fonseca-et-Tolisso-decus-par-le-non-report-du-match-face-a-Toulouse-2334944.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-21T12:17:17+00:00"
-  },
-  {
-   "id": "ligue1psgollensommonacolillerennesquelfavorialepirecalendrie",
-   "title": "Ligue 1: PSG, OL, Lens, OM, Monaco, Lille, Rennes… quel favori a le pire calendrier pour le début de saison?",
-   "summary": "Avant la première trêve internationale, plusieurs cadors vont déjà devoir se frotter à des adversaires de premier plan lors de la saison 2026-2027 de Ligue 1. Et sur le papier, le PSG et l’AS Monaco sont les deux clubs les plus mal lotis avec des débuts en championnat particulièrement corsés.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/ligue-1-psg-ol-lens-om-monaco-lille-rennes-quel-favori-a-le-pire-calendrier-pour-le-debut-de-saison_AV-202608210247.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F05ciJ4_srmBUOZTIi6kthirhIsg%3D%2F0x74%3A2048x1226%2F800x0%2Fimages%2FMaghnes-Akliouche-lors-du-match-Lens-PSG-le-16-aout-2026-2334859.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-21T08:55:47+00:00"
   },
   {
    "id": "corentintolissomeilleurjoueurdesrecruesinquitanteslesnotesde",
