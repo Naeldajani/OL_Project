@@ -1,22 +1,78 @@
 {
- "updatedAt": "2026-08-22T18:48:11+00:00",
+ "updatedAt": "2026-08-22T21:34:55+00:00",
  "sources": [
   "20 Minutes",
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
   {
-   "id": "directtoulouseolsuivezlematchdelapremirejournedeligue1enlive",
-   "title": "DIRECT. Toulouse-OL: suivez le match de la première journée de Ligue 1 en live",
-   "summary": "L'Olympique lyonnais se déplace sur la pelouse de Toulouse ce samedi pour la 1ere journée de Ligue 1, à quatre jours de son barrage retour de Ligue des champions contre le Fenerbahçe.",
+   "id": "toulouseol02paulofonsecalouelavictoiredesjoueurs",
+   "title": "Toulouse - OL (0-2) : Paulo Fonseca loue la \"victoire des joueurs\"",
+   "summary": "Une belle soirée pour l'OL. Ce samedi, il a disposé de Toulouse 2 à 0. Paulo Fonseca a apprécié la partition de ses joueurs. L'OL est bien rentré dans son championnat. Ce ne fut pas toujours évident, notamment lors de la première heure de jeu, mais il a tenu bon et finalement battu Toulouse sur […]",
+   "url": "https://www.olympique-et-lyonnais.com/toulouse-ol-0-2-paulo-fonseca-loue-la-victoire-des-joueurs,405461.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260811__C4EZ2R6__v1__HighRes__FblEurC1QualifyingLyonPrague-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-22T21:30:00+00:00"
+  },
+  {
+   "id": "toulouseol02lebaromtredumatchcequilfautretenir",
+   "title": "Toulouse - OL (0-2) : le baromètre du match, ce qu’il faut retenir",
+   "summary": "Les rotations de Paulo Fonseca à Toulouse (0-2) ont porté leurs fruits, à l'image du duo Zachary Athekame - Kaïl Boudache. Retrouvez le baromètre de ce match.",
+   "url": "https://www.olympique-et-lyonnais.com/toulouse-ol-0-2-le-barometre-du-match-ce-quil-faut-retenir,405452.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FNartey-Athekame-e1787431539963-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-22T21:00:00+00:00"
+  },
+  {
+   "id": "toulouseolavecunequipebislyonrussitsoncoupetsimpose20",
+   "title": "Toulouse-OL : avec une équipe bis, Lyon réussit son coup et s’impose 2-0",
+   "summary": "Paulo Fonseca avait profondément fait tourner son équipe ce samedi à Toulouse, mais l’OL est tout de même reparti avec les trois points (0-2). Noah Nartey puis Malick Fofana ont fait la différence en seconde période, à quelques jours du barrage retour de Ligue des champions.",
+   "url": "https://www.lyonfoot.com/article/13956/toulouse-ol-un-lyon-bis-fait-la-bonne-operation-0-2",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a8a090482c8a-hqwcb9dxcaao2kz.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-22T20:39:00+00:00"
+  },
+  {
+   "id": "ligue1avantfernebahelolympiquelyonnaisfaitcraquertoulousepou",
+   "title": "Ligue 1: avant Fernebahçe, l’Olympique Lyonnais fait craquer Toulouse pour débuter en championnat",
+   "summary": "D’abord bousculé par une équipe de Toulouse très offensive, mais incapable de concrétiser ses occasions, l’Olympique lyonnais a fini par faire la différence pour sa première sortie en Ligue 1, ce samedi 22 août (2-0).",
    "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-toulouse-ol-suivez-le-match-de-la-premiere-journee-de-ligue-1-en-live_LS-202608220285.html",
    "source": "RMC Sport",
    "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F229GQc35LTHsTm52YobvF1qM1dM%3D%2F0x106%3A2048x1258%2F800x0%2Fimages%2FLois-Openda-le-11-aout-2026-2335329.jpg&w=800&output=webp&q=78",
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Fc4cNljYaUcgEYk0C7tEBnWq0cZM%3D%2F0x107%3A2048x1259%2F800x0%2Fimages%2FNoah-Nartey-le-22-aout-2026-2335395.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-22T20:39:00+00:00"
+  },
+  {
+   "id": "lolremodelsimposetoulouseetentamebienlaligue102",
+   "title": "L'OL remodelé s'impose à Toulouse et entame bien la Ligue 1 (0-2)",
+   "summary": "Paulo Fonseca avait fait un choix fort, changer tout son 11 à Toulouse. Cela a payé avec une victoire 2 à 0 en ouverture du championnat. Il était difficile de prévoir quel visage allait montrer l’OL lors de cette entame de championnat à Toulouse.",
+   "url": "https://www.olympique-et-lyonnais.com/lol-remodele-simpose-a-toulouse-et-entame-bien-la-ligue-1-2-0,405445.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FNartey-e1787429714559-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
-   "publishedAt": "2026-08-22T18:45:33+00:00"
+   "publishedAt": "2026-08-22T20:38:42+00:00"
+  },
+  {
+   "id": "staderennaisollosclecapitaineauxerroiscalmelejeu",
+   "title": "Stade Rennais, OL, LOSC : le capitaine auxerrois calme le jeu",
+   "summary": "Après la défaite d’Auxerre à Lens, Kevin Danois calme les rumeurs sur Rennes, l’OL et le LOSC. Le capitaine dit rester serein à l’AJA.",
+   "url": "https://www.butfootballclub.fr/1692637-stade-rennais-ol-losc-kevin-danois/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fe97e337e-stade-rennais-ol-losc-kevin-danois-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-22T18:07:13+00:00"
   },
   {
    "id": "toulouseoldescampsbacherhimbertfonsecachangetout",
@@ -30,13 +86,35 @@
    "publishedAt": "2026-08-22T17:51:03+00:00"
   },
   {
+   "id": "oldeuxrecruesrebattentdjlescartesavantfenerbahe",
+   "title": "OL : Deux recrues rebattent déjà les cartes avant Fenerbahçe",
+   "summary": "Felix Bacher et Zachary Athekame devraient débuter avec l’OL à Toulouse, un test avant le barrage retour de Ligue des champions contre Fenerbahçe.",
+   "url": "https://www.butfootballclub.fr/1692629-ol-bacher-athekame-fenerbahce-toulouse/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F5537b921-ol-bacher-athekame-fenerbahce-toulouse-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-22T17:47:45+00:00"
+  },
+  {
+   "id": "olfonsecaprpareunlargeturnoverpourlancerlaligue1",
+   "title": "OL : Fonseca prépare un large turnover pour lancer la Ligue 1",
+   "summary": "Paulo Fonseca devrait largement faire tourner l’OL à Toulouse pour lancer la Ligue 1, entre deux matches cruciaux contre Fenerbahçe.",
+   "url": "https://www.butfootballclub.fr/1692607-ol-fonseca-large-turnover-ligue-1/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F2d34aaae-ol-fonseca-large-turnover-ligue-1-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-22T16:45:13+00:00"
+  },
+  {
    "id": "endirecttfcollyonveutsurfersursonrythmeeuropenpourbiendmarre",
    "title": "EN DIRECT TFC - OL : Lyon veut surfer sur son rythme européen pour bien démarrer… Suivez la 1re journée de Ligue 1 avec nous",
    "summary": "Suivez avec nous le match entre le Toulouse Football Club et l’Olympique lyonnais comptant pour la première journée de Ligue 1 (20h45)",
    "url": "https://www.20minutes.fr/sport/football/ligue-1/4240281-20260822-direct-tfc-ol-lyon-veut-surfer-rythme-europeen-bien-demarrer-suivez-1re-journee-ligue-1?at_medium=display&at_campaign=149",
    "source": "20 Minutes",
    "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FezY8OSfDRMS0jIbgEFCeTSk%2F1444x920_lois-openda-et-ses-coequipiers-lyonnais-ont-deja-trois-matchs-europeens-dans-les-jambes-ce-qui-pourrait-leur-servir-a-toulouse-lors-de-la-premiere-journee-de-ligue-1&w=800&output=webp&q=78",
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FXJmE2yOsRlW1_PZXX7IxKik%2F1444x920_l-attaquant-argentin-de-toulouse-07-julian-vignolo-l-se-bat-pour-le-ballon-avec-le-milieu-de-terrain-danois-de-lyon-99-noah-nartey-r-lors-du-match-de-football-francais-de-l1-entre-le-toulouse-football-club-tfc-et-l-olympique-lyonnais-ol-au-stade-de-toulouse-dans-le-sud-ouest-de-la-france-le-22-aout-2026-photo-de-valentine-chapuis-afp&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-22T16:32:36+00:00"
   },
@@ -107,28 +185,6 @@
    "publishedAt": "2026-08-22T10:40:00+00:00"
   },
   {
-   "id": "mercatoversunretourdemathieupatouilletenligue1",
-   "title": "Mercato : vers un retour de Mathieu Patouillet en Ligue 1",
-   "summary": "Libre depuis la fin de son aventure en Arabie saoudite, Mathieu Patouillet se dirige vers un retour en France. L'ancien gardien de l'OL pourrait rejoindre Brest. Grégoire Coudert étant parti en Angleterre, Brest est en quête d'un nouveau gardien.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-vers-un-retour-de-mathieu-patouillet-en-ligue-1,405395.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F03%2FIMG_2272-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-22T09:50:00+00:00"
-  },
-  {
-   "id": "toulouseavecsesrecruesmaissansdonnumfacelol",
-   "title": "Toulouse avec ses recrues mais sans Donnum face à l'OL",
-   "summary": "Pour son premier match officiel à la tête de Toulouse, Jens Berthel Askou a convoqué ses nouvelles recrues. Mais il reste quelques absents. Après la dernière de Carles Martínez Novell en Stadium en mai dernier, l'OL aura le droit à la première officielle de Jens Berthel Askou à Toulouse.",
-   "url": "https://www.olympique-et-lyonnais.com/toulouse-avec-ses-recrues-mais-sans-donnum-face-a-lol,405391.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F03%2F000_34LK72A-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-22T09:00:00+00:00"
-  },
-  {
    "id": "rouvertureduchaletduparcyannarthusbertrandproposedyphotograp",
    "title": "Réouverture du Chalet du Parc : Yann Arthus-Bertrand propose d'y photographier les Lyonnais",
    "summary": "À l’occasion de la réouverture du Chalet du Parc, fermé depuis dix ans, Yann Arthus-Bertrand installera son studio photo au parc de la Tête d’Or du 18 au 20 septembre. Les Lyonnais pourront poser pour son projet \"Vivre Ensemble\".",
@@ -138,28 +194,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a89469645d3e-51990149751-8cd88318f7-o.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-22T09:00:00+00:00"
-  },
-  {
-   "id": "olkalboudachealaissunebonnepremireimpression",
-   "title": "OL : Kaïl Boudache a laissé une bonne première impression",
-   "summary": "Mardi, Kaïl Boudache a effectué une rentrée intéressante contre Fenerbahçe. L'ailier a eu droit à un commentaire positif de Paulo Fonseca. Pour l'instant, Paulo Fonseca accorde sa confiance à Ernest Nuamah sur le côté droit de l'attaque.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-kail-boudache-a-laisse-une-bonne-premiere-impression,405373.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3790-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-22T08:10:00+00:00"
-  },
-  {
-   "id": "toulouseollyonnapaslatteauchampionnat",
-   "title": "Toulouse-OL : Lyon n'a pas la tête au championnat",
-   "summary": "Ce samedi soir, l'OL se déplace à Toulouse dans le cadre de la 1ère journée de Ligue 1. Mais l'équipe a la tête plutôt tournée vers son barrage retour de Ligue des Champions.",
-   "url": "https://www.lyonfoot.com/article/13864/toulouse-ol-l-europe-en-tete-pour-lyon",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a892c680e187-hqbomhcweaapymq.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-22T05:00:00+00:00"
   },
   {
    "id": "volmorteldanslemtrolyongrgorydoucetrenvoielaquestiondelascur",
