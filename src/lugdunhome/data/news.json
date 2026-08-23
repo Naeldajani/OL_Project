@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-23T13:00:58+00:00",
+ "updatedAt": "2026-08-23T15:35:28+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,61 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olacadmielesu17dmarrentlasaisonparunsuccs",
+   "title": "OL académie : les U17 démarrent la saison par un succès",
+   "summary": "La fin de la présaison n'était pas rassurante, mais les U17 ont balayé tout ça ce dimanche en ouverture du championnat. L'OL a battu Torcy 3 à 1 à Meyzieu. Le week-end passé, les U17 de l'OL avaient participé à un tournoi en Seine-et-Marne.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-les-u17-demarrent-la-saison-par-un-succes,405548.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FIMG_3700-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-23T15:35:00+00:00"
+  },
+  {
+   "id": "olmercatonormerebondissementpourfofanaunflopdelomlyon",
+   "title": "OL Mercato : énorme rebondissement pour Fofana, un flop de l’OM à Lyon ?",
+   "summary": "L’OL penserait à un ancien de l’OM pour renforcer son milieu, tandis qu’un gros rebondissement se dessinerait dans le dossier Malick Fofana.",
+   "url": "https://www.butfootballclub.fr/1692877-ol-mercato-enorme-rebondissement-pour-fofana-un-flop-de-lom-a-lyon/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F7573ea29-ol-mercato-enorme-rebondissement-pour-fofana-un-flop-de-lom-a-lyon.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-23T15:18:00+00:00"
+  },
+  {
+   "id": "olnicolastagliaficodevraencorepatienter",
+   "title": "OL : Nicolas Tagliafico devra encore patienter",
+   "summary": "De retour pour la première fois dans le groupe ce week-end, Nicolas Tagliafico n'est pas entré en jeu samedi à Toulouse (0-2). Le défenseur n'a pas joué depuis la finale de la Coupe du monde en juillet.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-nicolas-tagliafico-devra-encore-patienter,405538.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F04%2F000_34PF2YH-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-08-23T14:50:00+00:00"
+  },
+  {
+   "id": "oltaliscaaktrkoglufenerbahedonnedesnouvellesdesdeuxattaquant",
+   "title": "OL : Talisca, Aktürkoglu... Fenerbahçe donne des nouvelles des deux attaquants",
+   "summary": "Lors de la victoire contre Konyaspor samedi, Talisca était absent, et Kerem Aktürkoglu est sorti sur civière. Fenerbahçe s'est exprimé sur ces sujets. A priori, l'OL sera au complet face à Fenerbahçe pour le barrage retour de Ligue des champions mercredi.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-talisca-akturkoglu-fenerbahce-donne-des-nouvelles-des-deux-attaquants,405530.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260811__AA_12082026_2911643__v1__HighRes__SturmGrazVFenerbahceUefaChampionsLe-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-23T14:00:00+00:00"
+  },
+  {
+   "id": "mercatololcitparmilesclubsintresssparmattorileybrighton",
+   "title": "Mercato : l'OL cité parmi les clubs intéressés par Matt O'Riley (Brighton)",
+   "summary": "Sur le départ de Brighton, le milieu Matt O'Riley aurait des courtisans. Parmi eux, l'OL est évoqué par la presse anglaise. On se rapproche de la fin, mais il reste encore une bonne semaine de mercato.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-lol-cite-parmi-les-clubs-interesses-par-matt-oriley-brighton,405527.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FCapture-decran-2026-08-23-135303-770x433.png&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-23T13:10:00+00:00"
+  },
   {
    "id": "toulouseol02askouregrettelemanquedefficacitdestoulousains",
    "title": "Toulouse - OL (0-2) : Askou regrette le manque d'efficacité des Toulousains",
@@ -63,17 +118,6 @@
    "publishedAt": "2026-08-23T09:00:00+00:00"
   },
   {
-   "id": "olgreenwoodfaittomberunepluiedemauvaisesnouvelleslyon",
-   "title": "OL : Greenwood fait tomber une pluie de mauvaises nouvelles à Lyon",
-   "summary": "Si une équipe de l’OL bis est allé s’imposer à Toulouse (0-2) samedi en Ligue 1, le prochain choc contre Fenerbahçe en barrage de Ligue des Champions promet des étincelles. À quatre jours du barrage retour de Ligue des champions contre l’OL, Fenerbahçe a parfaitement préparé son déplacement à Lyon.",
-   "url": "https://www.butfootballclub.fr/1692724-ol-greenwood-fait-tomber-une-pluie-de-mauvaises-nouvelles-a-lyon/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fc5f1353f-ol-greenwood-fait-tomber-une-pluie-de-mauvaises-nouvelles-a-lyon.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-23T08:40:00+00:00"
-  },
-  {
    "id": "toulouseol02changertoutson11unepremiredepuis2013",
    "title": "Toulouse - OL (0-2) : changer tout son 11, une première depuis 2013",
    "summary": "Samedi à Toulouse, Paulo Fonseca a modifié l'intégralité de son 11. Il faut remonter à 2013 pour voir un coach lyonnais faire le même choix. Au coup de sifflet final, Paulo Fonseca a confié qu'il avait adoré \"la réponse des joueurs\" samedi à Toulouse.",
@@ -83,28 +127,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FNartey-et-les-Lyonnais-e1787468342329-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-23T08:10:00+00:00"
-  },
-  {
-   "id": "toulousemalickfofanaetpavelulcsontredevenusdcisifs",
-   "title": "À Toulouse, Malick Fofana et Pavel Šulc sont redevenus décisifs",
-   "summary": "Remplaçants au coup d'envoi à Toulouse, Malick Fofana et Pavel Šulc sont bien entrés dans leur match. Le premier a marqué, le second s'est mué en passeur décisif. Et la \"cavalerie\" est arrivée.",
-   "url": "https://www.olympique-et-lyonnais.com/a-toulouse-malick-fofana-et-pavel-sulc-sont-redevenus-decisifs,405488.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FFofana-e1787465740537-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-23T07:25:00+00:00"
-  },
-  {
-   "id": "remanietbouscullolsortfinalementrenforcdesonvoyagetoulouse02",
-   "title": "Remanié et bousculé, l'OL sort finalement renforcé de son voyage à Toulouse (0-2)",
-   "summary": "Avec un 11 inédit et inexpérimenté, l'OL a fait le dos rond puis trouvé la clé du coffre pour battre Toulouse (0-2). Un samedi soir riche en enseignements pour le staff, avec la bonne nouvelle au bout.",
-   "url": "https://www.olympique-et-lyonnais.com/remanie-et-bouscule-lol-sort-renforce-de-son-voyage-a-toulouse-0-2,405469.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FOuedraogo-e1787461591236-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-23T06:40:00+00:00"
   },
   {
    "id": "ollobjectifcestlaliguedeschampionsrappelledescamps",
@@ -118,17 +140,6 @@
    "publishedAt": "2026-08-23T06:36:00+00:00"
   },
   {
-   "id": "olacadmielarservefinitsaprparationparunmatchnul",
-   "title": "OL académie : la réserve finit sa préparation par un match nul",
-   "summary": "Un duel plein d'enseignements. Samedi, la réserve de l'OL a conclu sa préparation par une opposition contre Dijon II. Les deux formations, adversaires en N2, n'ont pas pu se départager.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-la-reserve-finit-sa-preparation-par-un-match-nul,405433.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FHLBtzb6W0AAm5gs-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-23T06:00:00+00:00"
-  },
-  {
    "id": "jenesuispasfouleparirussidepaulofonsecapourtoulouseol",
    "title": "\"Je ne suis pas fou\" : le pari réussi de Paulo Fonseca pour Toulouse-OL",
    "summary": "Malgré une équipe bis alignée à Toulouse, l'OL a remporté sa 1ère journée de Ligue 1. Paulo Fonseca défend son choix payant d'avoir préservé ses cadres en vue du barrage retour de Ligue des Champions.",
@@ -138,17 +149,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a8a8b2c81d80-hqplhkzwwaazsg8.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-23T06:00:00+00:00"
-  },
-  {
-   "id": "felixbacheretzacharyathekameontlancleurhistoireaveclol",
-   "title": "Felix Bacher et Zachary Athekame ont lancé leur histoire avec l'OL",
-   "summary": "C'était l'une des attractions de ce match à Toulouse (0-2). Samedi, les défenseurs Felix Bacher et Zachary Athekame ont disputé leurs premières rencontres avec l'OL. Au-delà du début du championnat, ce Toulouse - OL (0-2) est devenu d'autant plus intéressant que Paulo Fonseca lançait un 11 inédit.",
-   "url": "https://www.olympique-et-lyonnais.com/felix-bacher-et-zachary-athekame-ont-lance-leur-histoire-avec-lol,405464.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAthekame-e1787434339215-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-23T05:30:00+00:00"
   },
   {
    "id": "toulouse02lyonlavictoiredesjoueursfonsecaheureuxdeseschoix",
