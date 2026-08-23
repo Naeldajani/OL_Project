@@ -1,12 +1,46 @@
 {
- "updatedAt": "2026-08-23T15:35:28+00:00",
+ "updatedAt": "2026-08-23T18:47:42+00:00",
  "sources": [
+  "20 Minutes",
   "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "onsaitquandilnestpascontentcherkisortdubancetsauvemanchester",
+   "title": "« On sait quand il n’est pas content »… Cherki sort du banc et sauve Manchester City avec deux passes décisives",
+   "summary": "Une nouvelle fois boudé au coup d’envoi par Maresca, Rayan Cherki a répondu par un doublé de passes décisives pour sortir les Citizens du pétrin face à Bornemouth",
+   "url": "https://www.20minutes.fr/sport/football/4240411-20260823-sait-quand-content-cherki-sort-banc-sauve-manchester-city-deux-passes-decisives?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FvVaHkorLQSmcI74CoLAIfCk%2F1444x920_manchester-angleterre-23-aout-rayan-cherki-de-manchester-city-reagit-lors-du-match-de-premier-league-2026-27-entre-manchester-city-et-l-afc-bournemouth-a-l-etihad-stadium-le-23-aout-2026-a-manchester-en-angleterre-photo-de-naomi-baker-getty-images-photo-de-naomi-baker-getty-images-europe-getty-images-via-afp&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-23T17:50:21+00:00"
+  },
+  {
+   "id": "deuxforfaitspourfenerbahefacelol",
+   "title": "Deux forfaits pour Fenerbahçe face à l'OL",
+   "summary": "C'est maintenant acté. Fenerbahçe se déplacera sans deux éléments offensifs mercredi à Décines. Pas de Marco Asensio ni de Kerem Aktürkoglu contre l'OL. Si l'on peut reprocher à l'OL sa communication sur les blessés, Fenerbahçe, lui, multiplie les sorties officielles à ce sujet.",
+   "url": "https://www.olympique-et-lyonnais.com/deux-forfaits-pour-fenerbahce-face-a-lol,405542.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAsensio-e1787493280359-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-08-23T16:20:00+00:00"
+  },
+  {
+   "id": "staderennaismercatotroisgrosdpartsseprcisent",
+   "title": "Stade Rennais Mercato : trois gros départs se précisent !",
+   "summary": "Breel Embolo, Seko Fofana et Lilian Brassier se rapprocheraient tous trois d’un départ du Stade Rennais en cette fin de mercato estival.",
+   "url": "https://www.butfootballclub.fr/1692881-stade-rennais-mercato-trois-gros-departs-se-precisent/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fdbf38077-stade-rennais-mercato-trois-gros-departs-se-precisent.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-23T15:40:00+00:00"
+  },
   {
    "id": "olacadmielesu17dmarrentlasaisonparunsuccs",
    "title": "OL académie : les U17 démarrent la saison par un succès",
@@ -118,17 +152,6 @@
    "publishedAt": "2026-08-23T09:00:00+00:00"
   },
   {
-   "id": "toulouseol02changertoutson11unepremiredepuis2013",
-   "title": "Toulouse - OL (0-2) : changer tout son 11, une première depuis 2013",
-   "summary": "Samedi à Toulouse, Paulo Fonseca a modifié l'intégralité de son 11. Il faut remonter à 2013 pour voir un coach lyonnais faire le même choix. Au coup de sifflet final, Paulo Fonseca a confié qu'il avait adoré \"la réponse des joueurs\" samedi à Toulouse.",
-   "url": "https://www.olympique-et-lyonnais.com/toulouse-ol-0-2-changer-tout-son-11-une-premiere-depuis-2013,405493.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FNartey-et-les-Lyonnais-e1787468342329-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-23T08:10:00+00:00"
-  },
-  {
    "id": "ollobjectifcestlaliguedeschampionsrappelledescamps",
    "title": "OL : \"L'objectif, c'est la Ligue des champions\" rappelle Descamps",
    "summary": "L’Olympique lyonnais s'est imposé face à Toulouse (2-0) pour sa première sortie en Ligue 1 ce samedi soir. Une belle performance avant le barrage retour face à Fenerbahçe dans quelques jours.",
@@ -226,17 +249,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a892641aa9d3-51566020045-9c380c8786-o.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-22T04:31:00+00:00"
-  },
-  {
-   "id": "toulouselyonendirectsurquellechanetvetquelleheureregarderlem",
-   "title": "Toulouse - Lyon en direct : sur quelle chaîne TV et à quelle heure regarder le match de Ligue 1 ce soir ?",
-   "summary": "Entre un Toulouse version Jens Berkel Askou, qui promet un football intense et imprévisible, et un Olympique Lyonnais déterminé à jouer les premiers rôles cette saison, cette affiche de la première journée s’annonce déjà passionnante.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/toulouse-lyon-en-direct-sur-quelle-chaine-tv-et-a-quelle-heure-regarder-le-match-de-ligue-1-ce-soir_AN-202608220004.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F0QXjZogEwEbhlBoime5YLpaMK3g%3D%2F0x0%3A1600x900%2F800x0%2Fimages%2FToulouse-Lyon-en-direct-sur-quelle-chaine-TV-et-a-quelle-heure-regarder-le-match-de-Ligue-1-ce-soir-2329174.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-22T04:30:00+00:00"
   },
   {
    "id": "corentintolissomeilleurjoueurdesrecruesinquitanteslesnotesde",
