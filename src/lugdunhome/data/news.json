@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-23T09:42:13+00:00",
+ "updatedAt": "2026-08-23T13:00:58+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -8,9 +8,53 @@
  ],
  "items": [
   {
+   "id": "toulouseol02askouregrettelemanquedefficacitdestoulousains",
+   "title": "Toulouse - OL (0-2) : Askou regrette le manque d'efficacité des Toulousains",
+   "summary": "L'entraîneur de Toulouse, Jens Berthel Askou, a apprécié sa première au Stadium samedi. De la défaite, il en retient le bon visage de son équipe, mais le but n'est jamais venu. Comme la grande majorité des écuries de Ligue 1, Toulouse a changé son entraîneur à l'intersaison.",
+   "url": "https://www.olympique-et-lyonnais.com/toulouse-ol-0-2-askou-regrette-le-manque-defficacite-des-toulousains,405517.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAskou-e1787296797719-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-23T12:20:00+00:00"
+  },
+  {
+   "id": "aprstoulousepaulofonsecadjtournversfenerbahe",
+   "title": "Après Toulouse, Paulo Fonseca déjà tourné vers Fenerbahçe",
+   "summary": "La victoire à Toulouse n'est pas à galvauder, mais le match le plus important arrive mercredi pour l'OL. Un choc contre Fenerbahçe déjà dans toutes les têtes, dont celle de Paulo Fonseca.",
+   "url": "https://www.olympique-et-lyonnais.com/apres-toulouse-paulo-fonseca-deja-tourne-vers-fenerbahce,405513.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F07%2FAFP__20250727__dpa-pa_250727-99-569216_dpai__v1__HighRes__TestMatchHamburgerSvOlympi-e1754126755790-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-23T11:30:00+00:00"
+  },
+  {
+   "id": "olrmydescampslecoachpourraencorecomptersurnouslavenir",
+   "title": "OL - Rémy Descamps : \"Le coach pourra encore compter sur nous à l'avenir\"",
+   "summary": "Titulaire surprise samedi à Toulouse (0-2), Rémy Descamps a parfaitement joué sa partition. Les habituels remplaçants ont marqué des points au Stadium. Les changements étaient prévus, mais sa titularisation était une petite surprise.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-remy-descamps-le-coach-pourra-encore-compter-sur-nous-a-lavenir,405510.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FDescamps-e1787475089455-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-23T10:40:00+00:00"
+  },
+  {
+   "id": "olathekameappellevitebasculersurlebarragecontrefenerbahe",
+   "title": "OL : Athekame appelle à \"vite basculer\" sur le barrage contre Fenerbahçe",
+   "summary": "Une victoire bonne à prendre, des enseignements, mais surtout la tête au barrage retour. Après le succès à Toulouse samedi, Zachary Athekame savourait le succès, mais il se projetait surtout sur le choc face à Fenerbahçe.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-athekame-appelle-a-vite-basculer-sur-le-barrage-contre-fenerbahce,405503.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260419__A8BN2JW__v1__HighRes__FblItaSerieAHellasVeronaMilan-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-23T09:50:00+00:00"
+  },
+  {
    "id": "avecsonquipetypefenerbahegagneavantderetrouverlol",
    "title": "Avec son équipe-type, Fenerbahçe gagne avant de retrouver l'OL",
-   "summary": "Comme l'OL, Fenerbahçe jouait en championnat samedi soir. Les Turcs ont gagné en alignant un 11 presque semblable à celui qui a battu l'OL. Deux choix opposés.",
+   "summary": "Comme l'OL, Fenerbahçe jouait en championnat samedi soir. Les Turcs ont gagné en alignant un 11 presque semblable à celui qui avait défié l'OL mardi. Deux choix opposés.",
    "url": "https://www.olympique-et-lyonnais.com/avec-son-equipe-type-fenerbahce-gagne-avant-de-jouer-lol,405499.html",
    "source": "Olympique-et-Lyonnais",
    "author": "Gwendal Chabas",
@@ -140,28 +184,6 @@
    "publishedAt": "2026-08-22T21:40:29+00:00"
   },
   {
-   "id": "toulouseol02paulofonsecalouelavictoiredesjoueurs",
-   "title": "Toulouse - OL (0-2) : Paulo Fonseca loue la \"victoire des joueurs\"",
-   "summary": "Une belle soirée pour l'OL. Ce samedi, il a disposé de Toulouse 2 à 0. Paulo Fonseca a apprécié la partition de ses joueurs. L'OL est bien rentré dans son championnat. Ce ne fut pas toujours évident, notamment lors de la première heure de jeu, mais il a tenu bon et finalement battu Toulouse sur […]",
-   "url": "https://www.olympique-et-lyonnais.com/toulouse-ol-0-2-paulo-fonseca-loue-la-victoire-des-joueurs,405461.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260811__C4EZ2R6__v1__HighRes__FblEurC1QualifyingLyonPrague-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-22T21:30:00+00:00"
-  },
-  {
-   "id": "toulouseol02lebaromtredumatchcequilfautretenir",
-   "title": "Toulouse - OL (0-2) : le baromètre du match, ce qu’il faut retenir",
-   "summary": "Les rotations de Paulo Fonseca à Toulouse (0-2) ont porté leurs fruits, à l'image du duo Zachary Athekame - Kaïl Boudache. Retrouvez le baromètre de ce match.",
-   "url": "https://www.olympique-et-lyonnais.com/toulouse-ol-0-2-le-barometre-du-match-ce-quil-faut-retenir,405452.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FNartey-Athekame-e1787431539963-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-22T21:00:00+00:00"
-  },
-  {
    "id": "toulouseolavecunequipebislyonrussitsoncoupetsimpose20",
    "title": "Toulouse-OL : avec une équipe bis, Lyon réussit son coup et s’impose 2-0",
    "summary": "Paulo Fonseca avait profondément fait tourner son équipe ce samedi à Toulouse, mais l’OL est tout de même reparti avec les trois points (0-2). Noah Nartey puis Malick Fofana ont fait la différence en seconde période, à quelques jours du barrage retour de Ligue des champions.",
@@ -182,28 +204,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Fc4cNljYaUcgEYk0C7tEBnWq0cZM%3D%2F0x107%3A2048x1259%2F800x0%2Fimages%2FNoah-Nartey-le-22-aout-2026-2335395.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-22T20:39:00+00:00"
-  },
-  {
-   "id": "lolremodelsimposetoulouseetentamebienlaligue102",
-   "title": "L'OL remodelé s'impose à Toulouse et entame bien la Ligue 1 (0-2)",
-   "summary": "Paulo Fonseca avait fait un choix fort, changer tout son 11 à Toulouse. Cela a payé avec une victoire 2 à 0 en ouverture du championnat. Il était difficile de prévoir quel visage allait montrer l’OL lors de cette entame de championnat à Toulouse.",
-   "url": "https://www.olympique-et-lyonnais.com/lol-remodele-simpose-a-toulouse-et-entame-bien-la-ligue-1-2-0,405445.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FNartey-e1787429714559-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-22T20:38:42+00:00"
-  },
-  {
-   "id": "toulouseoldescampsbacherhimbertfonsecachangetout",
-   "title": "Toulouse - OL : Descamps, Bacher, Himbert... Fonseca change tout",
-   "summary": "Première journée de Ligue 1 ce samedi pour l'OL (20h45). Pour ce déplacement à Toulouse, Paulo Fonseca change tout son 11 par rapport au match nul à Fenerbahçe. C'est ce qui s'appelle un choix tranché.",
-   "url": "https://www.olympique-et-lyonnais.com/toulouse-ol-descamps-bacher-himbert-fonseca-change-tout,405439.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2FAFP__20260112__DPPI_40026005_022__v1__HighRes__FootballFrenchCupLilleVLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-22T17:51:03+00:00"
   },
   {
    "id": "rouvertureduchaletduparcyannarthusbertrandproposedyphotograp",
@@ -259,17 +259,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a87e05b4eaaa-763398457-18613907137026340-4554169469999314691-n.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-21T05:19:00+00:00"
-  },
-  {
-   "id": "robertmouynetancienjoueurdeloletderniersurvivantdesbleusde19",
-   "title": "Robert Mouynet, ancien joueur de l’OL et dernier survivant des Bleus de 1958, est mort",
-   "summary": "L’ancien défenseur Robert Mouynet est décédé ce mercredi à Toulouse à l’âge de 96 ans. Passé notamment par l’Olympique Lyonnais, où il avait disputé 149 matchs, il était le dernier membre encore vivant du groupe français de la Coupe du monde 1958.",
-   "url": "https://www.lyonfoot.com/article/13942/ol-robert-mouynet-ancien-defenseur-lyonnais-et-dernier-bleu-du-mondial-1958-est-mort-a-96-ans",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a869d906ae55-hqg4rs7xaaaqf0o.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-20T06:24:00+00:00"
   }
  ]
 }
