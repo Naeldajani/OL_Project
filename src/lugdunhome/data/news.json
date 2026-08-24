@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-24T15:55:30+00:00",
+ "updatedAt": "2026-08-24T18:58:23+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,39 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "asse35ansrobertbericarefaitlecoupduderby",
+   "title": "ASSE : à 35 ans, Robert Beric a refait le coup du derby !",
+   "summary": "À 35 ans, Robert Beric n’a rien perdu de son sens du but. Pour sa première apparition sous les couleurs du FC Koper, l’ancien attaquant de l’ASSE a offert la victoire à son nouveau club dans le temps additionnel.",
+   "url": "https://www.butfootballclub.fr/1693251-asse-mercato-a-35-ans-robert-beric-a-refait-le-coup-du-derby/",
+   "source": "But! Football Club",
+   "author": "Laurent Hess",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fb25c9af9-asse-mercato-a-35-ans-robert-beric-a-refait-le-coup-du-derby.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-24T18:40:00+00:00"
+  },
+  {
+   "id": "olmercatounnouveaudpartofficialis",
+   "title": "OL Mercato : un nouveau départ officialisé !",
+   "summary": "Un nouveau jeune quitte l’OL : Yacine Chaïb s’est engagé pour deux saisons avec le MC Alger. L’Olympique Lyonnais a enregistré ces dernières heures le départ d’un nouveau jeune joueur : Yacine Chaïb.",
+   "url": "https://www.butfootballclub.fr/1693236-ol-mercato-un-nouveau-depart-officialise/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F32ad97d8-ol-mercato-un-nouveau-depart-officialise.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-24T17:20:00+00:00"
+  },
+  {
+   "id": "tkydgobjectifliguedeschampionsloljouedjsasaison",
+   "title": "TKYDG : objectif Ligue des champions, l’OL joue (déjà) sa saison",
+   "summary": "Jour de rentrée pour \"Tant qu'il y aura des Gones\" ce lundi 24 août. Autour de Razik Brikh et Nicolas Puydebois, l'équipe de TKYDG accueille de nouveaux chroniqueurs cette saison, à commencer par le créateur de contenus Aulasinho ce jour.",
+   "url": "https://www.olympique-et-lyonnais.com/tkydg-objectif-ligue-des-champions-lol-joue-deja-sa-saison-contre-fenerbahce,405599.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260819__DPPI_40427002_018__v1__HighRes__FootballChampionsLeagueFenerbahceVLyo-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-24T16:55:00+00:00"
+  },
   {
    "id": "olmercatolenouvelindicequienditlongsurlavenirdemalickfofana",
    "title": "OL Mercato : le nouvel indice qui en dit long sur l’avenir de Malick Fofana",
@@ -152,17 +185,6 @@
    "publishedAt": "2026-08-24T07:30:00+00:00"
   },
   {
-   "id": "olfofanapresqueunanplustard",
-   "title": "OL : Fofana, presque un an plus tard",
-   "summary": "Auteur du but du 2-0 pour l'OL samedi soir à Toulouse, Malick Fofana a mis fin à une longue disette liée à sa blessure. L'ailier belge n'avait plus marqué avec l'OL depuis octobre 2025.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-fofana-presque-un-an-plus-tard,405566.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260822__C6AZ864__v1__HighRes__FblFraLigue1ToulouseLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-08-24T06:45:00+00:00"
-  },
-  {
    "id": "ligue1202627dcouvrezleclassementetlesrsultatsaprsla1rejourne",
    "title": "Ligue 1 2026/27 : Découvrez le classement et les résultats après la 1re journée",
    "summary": "Retrouvez les scores d’OM-Strasbourg, Lens-Auxerre, Le Mans-Brest, Nice-Lorient, TFC-OL, Troyes-Paris FC, Angers-LOSC, HAC-ASM et Rennes-PSG",
@@ -247,17 +269,6 @@
    "source": "Lyon Mag",
    "author": null,
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a8a090482c8a-hqwcb9dxcaao2kz-61795.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-22T20:39:00+00:00"
-  },
-  {
-   "id": "ligue1avantfernebahelolympiquelyonnaisfaitcraquertoulousepou",
-   "title": "Ligue 1: avant Fernebahçe, l’Olympique Lyonnais fait craquer Toulouse pour débuter en championnat",
-   "summary": "D’abord bousculé par une équipe de Toulouse très offensive, mais incapable de concrétiser ses occasions, l’Olympique lyonnais a fini par faire la différence pour sa première sortie en Ligue 1, ce samedi 22 août (2-0).",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-toulouse-ol-suivez-le-match-de-la-premiere-journee-de-ligue-1-en-live_LS-202608220285.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Fc4cNljYaUcgEYk0C7tEBnWq0cZM%3D%2F0x107%3A2048x1259%2F800x0%2Fimages%2FNoah-Nartey-le-22-aout-2026-2335395.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-22T20:39:00+00:00"
   },
