@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-24T07:19:24+00:00",
+ "updatedAt": "2026-08-24T10:03:00+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,61 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "mercatochabquittelolpourlad1algrienne",
+   "title": "Mercato : Chaïb quitte l'OL pour la D1 algérienne",
+   "summary": "Barré par la concurrence à l'OL et n'ayant pas de perspective dans son club formateur, Yacine Chaïb a mis les voiles. Le latéral gauche a signé à MC Alger en première division algérienne.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-chaib-quitte-lol-pour-la-d1-algerienne,405578.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHQXM81sXwAA7_UX-e1787561391798-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-24T09:23:44+00:00"
+  },
+  {
+   "id": "olpluiedebonnesnouvellesavantfenerbahe",
+   "title": "OL : pluie de bonnes nouvelles avant Fenerbahçe",
+   "summary": "À deux jours du barrage retour de Ligue des Champions face à Fenerbahçe, l’OL vient de recevoir d’excellentes nouvelles. Le timing ne pouvait pas être plus favorable pour l’Olympique Lyonnais.",
+   "url": "https://www.butfootballclub.fr/1693067-ol-pluie-de-bonnes-nouvelles-avant-fenerbahce/",
+   "source": "But! Football Club",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fc5f1353f-ol-greenwood-fait-tomber-une-pluie-de-mauvaises-nouvelles-a-lyon.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-24T08:40:00+00:00"
+  },
+  {
+   "id": "avantfenerbahelessupportersavaientunmessagepourlesjoueursdel",
+   "title": "Avant Fenerbahçe, les supporters avaient un message pour les joueurs de l'OL",
+   "summary": "Vainqueur de son premier match en Ligue 1, l'OL a parfaitement préparé la réception de Fenerbahçe, ce mercredi en Ligue des champions. Les supporters ont affiché leur soutien pour ce barrage décisif.",
+   "url": "https://www.olympique-et-lyonnais.com/avant-fenerbahce-les-supporters-avaient-un-message-pour-les-joueurs-de-lol,405572.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHQWrVqLXgAAxJmD-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-24T08:15:00+00:00"
+  },
+  {
+   "id": "pourquoilepredecetteanciennejoueusedollyonnespourraittoucher",
+   "title": "Pourquoi le père de cette ancienne joueuse d’OL Lyonnes pourrait toucher près de 60 000 euros de l’OL ?",
+   "summary": "L’OL condamné à verser près de 60 000 euros dans un litige avec un auteur de bande dessinée.",
+   "url": "https://www.lyonfoot.com/article/13960/l-ol-condamne-a-verser-pres-de-60-000-euros-au-pere-d-une-ancienne-joueuse-d-ol-lyonnes",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a8bf67243cb6-screenshot-2026-08-24-at-09.png&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-08-24T07:40:00+00:00"
+  },
+  {
+   "id": "aprstoulousebergougnouxhonorpourollehavre",
+   "title": "Après Toulouse, Bergougnoux honoré pour OL - Le Havre ?",
+   "summary": "En amont de la première journée de Ligue 1 entre Toulouse et l'OL, les supporters toulousains ont rendu un fier hommage à Bryan Bergougnoux, décédé en mai dernier.",
+   "url": "https://www.olympique-et-lyonnais.com/apres-toulouse-bergougnoux-honore-pour-ol-le-havre,405569.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHQWP37_WcAABZyy-e1787552627495-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-24T07:30:00+00:00"
+  },
   {
    "id": "olfofanapresqueunanplustard",
    "title": "OL : Fofana, presque un an plus tard",
@@ -119,39 +174,6 @@
    "publishedAt": "2026-08-23T14:00:00+00:00"
   },
   {
-   "id": "mercatololcitparmilesclubsintresssparmattorileybrighton",
-   "title": "Mercato : l'OL cité parmi les clubs intéressés par Matt O'Riley (Brighton)",
-   "summary": "Sur le départ de Brighton, le milieu Matt O'Riley aurait des courtisans. Parmi eux, l'OL est évoqué par la presse anglaise. On se rapproche de la fin, mais il reste encore une bonne semaine de mercato.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-lol-cite-parmi-les-clubs-interesses-par-matt-oriley-brighton,405527.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FCapture-decran-2026-08-23-135303-770x433.png&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-23T13:10:00+00:00"
-  },
-  {
-   "id": "toulouseol02askouregrettelemanquedefficacitdestoulousains",
-   "title": "Toulouse - OL (0-2) : Askou regrette le manque d'efficacité des Toulousains",
-   "summary": "L'entraîneur de Toulouse, Jens Berthel Askou, a apprécié sa première au Stadium samedi. De la défaite, il en retient le bon visage de son équipe, mais le but n'est jamais venu. Comme la grande majorité des écuries de Ligue 1, Toulouse a changé son entraîneur à l'intersaison.",
-   "url": "https://www.olympique-et-lyonnais.com/toulouse-ol-0-2-askou-regrette-le-manque-defficacite-des-toulousains,405517.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAskou-e1787296797719-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-23T12:20:00+00:00"
-  },
-  {
-   "id": "aprstoulousepaulofonsecadjtournversfenerbahe",
-   "title": "Après Toulouse, Paulo Fonseca déjà tourné vers Fenerbahçe",
-   "summary": "La victoire à Toulouse n'est pas à galvauder, mais le match le plus important arrive mercredi pour l'OL. Un choc contre Fenerbahçe déjà dans toutes les têtes, dont celle de Paulo Fonseca.",
-   "url": "https://www.olympique-et-lyonnais.com/apres-toulouse-paulo-fonseca-deja-tourne-vers-fenerbahce,405513.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F07%2FAFP__20250727__dpa-pa_250727-99-569216_dpai__v1__HighRes__TestMatchHamburgerSvOlympi-e1754126755790-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-23T11:30:00+00:00"
-  },
-  {
    "id": "ollobjectifcestlaliguedeschampionsrappelledescamps",
    "title": "OL : \"L'objectif, c'est la Ligue des champions\" rappelle Descamps",
    "summary": "L’Olympique lyonnais s'est imposé face à Toulouse (2-0) pour sa première sortie en Ligue 1 ce samedi soir. Une belle performance avant le barrage retour face à Fenerbahçe dans quelques jours.",
@@ -260,17 +282,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a88129f63d77-tolisso-fc26.png&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-08-21T08:55:00+00:00"
-  },
-  {
-   "id": "karimbenzemaversunretoureneuropelolpasintress",
-   "title": "Karim Benzema vers un retour en Europe, l'OL pas intéressé",
-   "summary": "Et si Karim Benzema venait terminer sa carrière en Europe après un exil doré en Arabie saoudite ? Le natif de Bron est annoncé du côté de l'Espagne, tandis que l'OL ne peut pas se permettre d'y penser.",
-   "url": "https://www.lyonfoot.com/article/13947/karim-benzema-de-retour-en-europe-le-betis-se-positionne-l-ol-reste-a-l-ecart",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a87e05b4eaaa-763398457-18613907137026340-4554169469999314691-n.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-21T05:19:00+00:00"
   }
  ]
 }
