@@ -1,12 +1,57 @@
 {
- "updatedAt": "2026-08-24T04:04:14+00:00",
+ "updatedAt": "2026-08-24T07:19:24+00:00",
  "sources": [
   "20 Minutes",
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olfofanapresqueunanplustard",
+   "title": "OL : Fofana, presque un an plus tard",
+   "summary": "Auteur du but du 2-0 pour l'OL samedi soir à Toulouse, Malick Fofana a mis fin à une longue disette liée à sa blessure. L'ailier belge n'avait plus marqué avec l'OL depuis octobre 2025.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-fofana-presque-un-an-plus-tard,405566.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260822__C6AZ864__v1__HighRes__FblFraLigue1ToulouseLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-08-24T06:45:00+00:00"
+  },
+  {
+   "id": "olacadmieunpremiertestmanquparlesu19",
+   "title": "OL académie : un premier test manqué par les U19",
+   "summary": "Bourreau de l'OL chez les U17 la saison passée, Clermont reprend ses habitudes à l'étage au-dessus. Dimanche, les U19 ont chuté contre les Clermontois. Ce premier match de l'exercice 2026-2027 sentait très fort le test grandeur nature pour les U19.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-un-premier-test-manque-par-les-u19,405556.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FCapture-decran-2026-06-20-a-10.54.50-704x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-24T06:00:00+00:00"
+  },
+  {
+   "id": "ompsgrclensolstaderennaisloscilssontdanslquipetypedela1rejou",
+   "title": "OM, PSG, RC Lens, OL, Stade Rennais, LOSC : ils sont dans l’équipe type de la 1ère journée de L1",
+   "summary": "Ce lundi matin, il est déjà l’heure de se pencher sur l’équipe type de la première journée de Ligue 1 déployée par le quotidien L’Équipe. La première journée de Ligue 1 a déjà livré ses premiers enseignements.",
+   "url": "https://www.butfootballclub.fr/1693004-om-psg-rc-lens-ol-stade-rennais-losc-ils-sont-dans-lequipe-type-de-la-1ere-journee-de-l1/",
+   "source": "But! Football Club",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F65d53ef3-rc-lens-mercato-le-psg-prepare-une-offensive-record-pour-ganiou.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-24T06:00:00+00:00"
+  },
+  {
+   "id": "toulouseol02debidstrupathekamecertainsontmarqudeprcieuxpoint",
+   "title": "Toulouse - OL (0-2) : de Bidstrup à Athekame, certains ont marqué de précieux points",
+   "summary": "Dans un onze complètement remanié samedi soir, l'OL aurait pu couler dans les grandes largeurs à Toulouse. Bien aidés par un petit grain de chance, certains Lyonnais ont malgré tout profité de l'opportunité offerte par Paulo Fonseca.",
+   "url": "https://www.olympique-et-lyonnais.com/toulouse-ol-0-2-de-bidstrup-a-athekame-certains-ont-marque-de-precieux-points,405560.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAthekame-e1787434339215-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-24T05:30:00+00:00"
+  },
   {
    "id": "ligue1202627dcouvrezleclassementetlesrsultatsaprsla1rejourne",
    "title": "Ligue 1 2026/27 : Découvrez le classement et les résultats après la 1re journée",
@@ -105,39 +150,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F07%2FAFP__20250727__dpa-pa_250727-99-569216_dpai__v1__HighRes__TestMatchHamburgerSvOlympi-e1754126755790-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-23T11:30:00+00:00"
-  },
-  {
-   "id": "olrmydescampslecoachpourraencorecomptersurnouslavenir",
-   "title": "OL - Rémy Descamps : \"Le coach pourra encore compter sur nous à l'avenir\"",
-   "summary": "Titulaire surprise samedi à Toulouse (0-2), Rémy Descamps a parfaitement joué sa partition. Les habituels remplaçants ont marqué des points au Stadium. Les changements étaient prévus, mais sa titularisation était une petite surprise.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-remy-descamps-le-coach-pourra-encore-compter-sur-nous-a-lavenir,405510.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FDescamps-e1787475089455-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-23T10:40:00+00:00"
-  },
-  {
-   "id": "olathekameappellevitebasculersurlebarragecontrefenerbahe",
-   "title": "OL : Athekame appelle à \"vite basculer\" sur le barrage contre Fenerbahçe",
-   "summary": "Une victoire bonne à prendre, des enseignements, mais surtout la tête au barrage retour. Après le succès à Toulouse samedi, Zachary Athekame savourait le succès, mais il se projetait surtout sur le choc face à Fenerbahçe.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-athekame-appelle-a-vite-basculer-sur-le-barrage-contre-fenerbahce,405503.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260419__A8BN2JW__v1__HighRes__FblItaSerieAHellasVeronaMilan-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-23T09:50:00+00:00"
-  },
-  {
-   "id": "avecsonquipetypefenerbahegagneavantderetrouverlol",
-   "title": "Avec son équipe-type, Fenerbahçe gagne avant de retrouver l'OL",
-   "summary": "Comme l'OL, Fenerbahçe jouait en championnat samedi soir. Les Turcs ont gagné en alignant un 11 presque semblable à celui qui avait défié l'OL mardi. Deux choix opposés.",
-   "url": "https://www.olympique-et-lyonnais.com/avec-son-equipe-type-fenerbahce-gagne-avant-de-jouer-lol,405499.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2F41997-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-23T09:00:00+00:00"
   },
   {
    "id": "ollobjectifcestlaliguedeschampionsrappelledescamps",
