@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-24T10:03:00+00:00",
+ "updatedAt": "2026-08-24T13:12:13+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,39 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olfenerbaheuncorpsarbitral100italien",
+   "title": "OL - Fenerbahçe : un corps arbitral 100% italien",
+   "summary": "L'OL et Fenerbahçe jouent leur qualification pour la Ligue des champions, ce mercredi (21h) à Décines. Pour ce match décisif, Maurizio Mariani sera au sifflet, avec un corps arbitral 100% italien.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-fenerbahce-un-corps-arbitral-100-italien,405590.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2021%2F11%2F000_92L77Z-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-24T12:36:50+00:00"
+  },
+  {
+   "id": "nonconservlacadmieestebanlepaulnapasderancurenverslol",
+   "title": "Non conservé à l'Académie, Esteban Lepaul n’a pas de rancœur envers l’OL",
+   "summary": "Non conservé par l'OL durant sa formation, Esteban Lepaul a terminé meilleur buteur de Ligue 1 la saison passée. Ayant déjà ouvert son compteur en 2026-2027, l'attaquant rennais n'a pas de rancune concernant la décision lyonnaise il y a plusieurs saisons.",
+   "url": "https://www.olympique-et-lyonnais.com/non-conserve-a-lacademie-esteban-lepaul-na-pas-de-rancoeur-envers-lol,405586.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2F321d8795-70e0-4687-8c93-0bcd68ff8f88-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-24T11:00:00+00:00"
+  },
+  {
+   "id": "oljourderentrepourtkydgendirect19h",
+   "title": "OL : jour de rentrée pour TKYDG en direct à 19h",
+   "summary": "Deux jours après la première victoire de l'OL en Ligue 1, votre émission \"Tant qu'il y aura des Gones\" signe également sa rentrée. Rendez-vous ce lundi soir à 19h en direct. Une première victoire et une qualification à aller chercher pour commencer cette nouvelle saison.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-jour-de-rentree-pour-tkydg-en-direct-a-19h,405582.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHP-8BXVWYAAi50O-e1787144925376-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-24T10:10:28+00:00"
+  },
   {
    "id": "mercatochabquittelolpourlad1algrienne",
    "title": "Mercato : Chaïb quitte l'OL pour la D1 algérienne",
@@ -86,17 +119,6 @@
    "publishedAt": "2026-08-24T06:00:00+00:00"
   },
   {
-   "id": "ompsgrclensolstaderennaisloscilssontdanslquipetypedela1rejou",
-   "title": "OM, PSG, RC Lens, OL, Stade Rennais, LOSC : ils sont dans l’équipe type de la 1ère journée de L1",
-   "summary": "Ce lundi matin, il est déjà l’heure de se pencher sur l’équipe type de la première journée de Ligue 1 déployée par le quotidien L’Équipe. La première journée de Ligue 1 a déjà livré ses premiers enseignements.",
-   "url": "https://www.butfootballclub.fr/1693004-om-psg-rc-lens-ol-stade-rennais-losc-ils-sont-dans-lequipe-type-de-la-1ere-journee-de-l1/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F65d53ef3-rc-lens-mercato-le-psg-prepare-une-offensive-record-pour-ganiou.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-24T06:00:00+00:00"
-  },
-  {
    "id": "toulouseol02debidstrupathekamecertainsontmarqudeprcieuxpoint",
    "title": "Toulouse - OL (0-2) : de Bidstrup à Athekame, certains ont marqué de précieux points",
    "summary": "Dans un onze complètement remanié samedi soir, l'OL aurait pu couler dans les grandes largeurs à Toulouse. Bien aidés par un petit grain de chance, certains Lyonnais ont malgré tout profité de l'opportunité offerte par Paulo Fonseca.",
@@ -139,39 +161,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAsensio-e1787493280359-770x433.jpeg&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-08-23T16:20:00+00:00"
-  },
-  {
-   "id": "olacadmielesu17dmarrentlasaisonparunsuccs",
-   "title": "OL académie : les U17 démarrent la saison par un succès",
-   "summary": "La fin de la présaison n'était pas rassurante, mais les U17 ont balayé tout ça ce dimanche en ouverture du championnat. L'OL a battu Torcy 3 à 1 à Meyzieu. Le week-end passé, les U17 de l'OL avaient participé à un tournoi en Seine-et-Marne.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-les-u17-demarrent-la-saison-par-un-succes,405548.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FIMG_3700-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-23T15:35:00+00:00"
-  },
-  {
-   "id": "olnicolastagliaficodevraencorepatienter",
-   "title": "OL : Nicolas Tagliafico devra encore patienter",
-   "summary": "De retour pour la première fois dans le groupe ce week-end, Nicolas Tagliafico n'est pas entré en jeu samedi à Toulouse (0-2). Le défenseur n'a pas joué depuis la finale de la Coupe du monde en juillet.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-nicolas-tagliafico-devra-encore-patienter,405538.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F04%2F000_34PF2YH-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-08-23T14:50:00+00:00"
-  },
-  {
-   "id": "oltaliscaaktrkoglufenerbahedonnedesnouvellesdesdeuxattaquant",
-   "title": "OL : Talisca, Aktürkoglu... Fenerbahçe donne des nouvelles des deux attaquants",
-   "summary": "Lors de la victoire contre Konyaspor samedi, Talisca était absent, et Kerem Aktürkoglu est sorti sur civière. Fenerbahçe s'est exprimé sur ces sujets. A priori, l'OL sera au complet face à Fenerbahçe pour le barrage retour de Ligue des champions mercredi.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-talisca-akturkoglu-fenerbahce-donne-des-nouvelles-des-deux-attaquants,405530.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260811__AA_12082026_2911643__v1__HighRes__SturmGrazVFenerbahceUefaChampionsLe-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-23T14:00:00+00:00"
   },
   {
    "id": "ollobjectifcestlaliguedeschampionsrappelledescamps",
