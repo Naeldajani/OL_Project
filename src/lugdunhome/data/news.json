@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-25T15:59:07+00:00",
+ "updatedAt": "2026-08-25T18:56:34+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,28 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "lolsansduranvillenimerahcontrefenerbahe",
+   "title": "L'OL sans Duranville ni Merah contre Fenerbahçe",
+   "summary": "Après avoir largement fait tourner à Toulouse, Paulo Fonseca va revenir à du classique contre Fenerbahçe. L'entraîneur de l'OL récupère notamment une grosse partie de sa défense, laissée au repos le week-end dernier.",
+   "url": "https://www.olympique-et-lyonnais.com/lol-sans-duranville-ni-merah-contre-fenerbahce,405653.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FDuranville-2-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-25T17:34:27+00:00"
+  },
+  {
+   "id": "kartalavantolfenerbaheonattendadepuisdixseptans",
+   "title": "Kartal avant OL - Fenerbahçe : \"On attend ça depuis dix-sept ans\"",
+   "summary": "Tenu en échec à l'aller dans son stade, Fenerbahçe garde malgré tout ses chances de se qualifier pour la Ligue des champions. Ismaïl Kartal veut mettre fin à la longue disette que poursuit le club turc, privé de C1 depuis 2009.",
+   "url": "https://www.olympique-et-lyonnais.com/kartal-avant-ol-fenerbahce-on-attend-ca-depuis-dix-sept-ans,405659.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2Fismail-kartal-henuz-sezonun-basinda-kader_1e7763e54f_o.jpg&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-08-25T16:33:00+00:00"
+  },
   {
    "id": "olfenerbahefonsecanesattendpasdesdbordementsentribunes",
    "title": "OL - Fenerbahçe : Fonseca ne s'attend pas à des débordements en tribunes",
@@ -129,17 +151,6 @@
    "publishedAt": "2026-08-25T09:13:19+00:00"
   },
   {
-   "id": "olfenerbaheleclubrappellelinterdictiondereventedebillets",
-   "title": "OL - Fenerbahçe : le club rappelle l'interdiction de revente de billets",
-   "summary": "À vingt-quatre heures du barrage retour de Ligue des champions, l'OL a rappelé que la revente des billets était interdite. Plus de 50 000 spectateurs sont attendus au Parc OL, dont plus de deux mille supporters de Fenerbahçe.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-fenerbahce-le-club-rappelle-linterdiction-de-revente-de-billets,405618.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2F221521-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-25T08:15:00+00:00"
-  },
-  {
    "id": "scheressedanslerhnelaxesanepasseencrisedenouvellesrestrictio",
    "title": "Sécheresse dans le Rhône : l’axe Saône passe en crise, de nouvelles restrictions sur l’eau",
    "summary": "Face à des niveaux de cours d’eau toujours très dégradés, le préfet du Rhône place l’axe Saône en situation de crise sécheresse. Les secteurs de l’ouest du département restent également en crise, tandis que l’est lyonnais demeure en alerte renforcée.",
@@ -149,17 +160,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a8d492902685-51417819750-d2a4850d14-o-86607.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-08-25T07:48:00+00:00"
-  },
-  {
-   "id": "olmercatoquellestratgiedanslesensdesarrives",
-   "title": "OL - Mercato : quelle stratégie dans le sens des arrivées ?",
-   "summary": "Au moment de se relancer pleinement sur le mercato à partir de mercredi soir, l'OL sera à l'écoute des offres pour certains de ses joueurs. Mais le club tentera malgré tout de compenser des départs.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-quelle-strategie-dans-le-sens-des-arrivees,405616.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAFP__20260626__B8G22NJ__v1__HighRes__FblFraLigue1Lyon-e1782710342833-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-25T07:30:00+00:00"
   },
   {
    "id": "mortdunoctognairedanslemtrolyonaprsunvoldechanelesdeuxsuspec",
@@ -215,17 +215,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a8a8b2c81d80-hqplhkzwwaazsg8.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-23T06:00:00+00:00"
-  },
-  {
-   "id": "toulouse02lyonlavictoiredesjoueursfonsecaheureuxdeseschoix",
-   "title": "Toulouse 0-2 Lyon : \"La victoire des joueurs\" Fonseca heureux de ses choix",
-   "summary": "L'équipe B de l'OL s'est imposé 2-0 à Toulouse, ce samedi soir pour la première journée de Ligue 1. Le coach des Gones Paulo Fonseca avait laissé reposer les 11 joueurs qui avaient fait match nul 4 jours plus tôt au Fenrbahçe en barrage de Ligue des champions.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-toulouse-0-2-lyon-la-victoire-des-joueurs-fonseca-heureux-de-ses-choix_VN-202608220375.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Fj3YO3lr8Mn4LzdbilTMhNHbK05A%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FToulouse-0-2-Lyon-La-victoire-des-joueurs-Fonseca-heureux-de-ses-choix-2335418.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-22T21:50:08+00:00"
   },
   {
    "id": "toulouseolavecunequipebislyonrussitsoncoupetsimpose20",
