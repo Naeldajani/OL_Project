@@ -1,13 +1,56 @@
 {
- "updatedAt": "2026-08-25T07:07:32+00:00",
+ "updatedAt": "2026-08-25T09:50:44+00:00",
  "sources": [
-  "20 Minutes",
   "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olfenerbahelesabsentsdetoulousebienprsentslentranement",
+   "title": "OL - Fenerbahçe : les absents de Toulouse bien présents à l'entraînement",
+   "summary": "A la veille du barrage retour contre Fenerbahçe, Paulo Fonseca peut compter sur un groupe au complet. Les joueurs laissés au repos contre Toulouse ont participé normalement à la séance collective de l'OL.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-fenerbahce-les-absents-de-toulouse-bien-presents-a-lentrainement,405623.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2FAFP__20260122__93PC44A__v1__HighRes__FblEurC3YoungBoysLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-08-25T09:13:19+00:00"
+  },
+  {
+   "id": "olfenerbaheleclubrappellelinterdictiondereventedebillets",
+   "title": "OL - Fenerbahçe : le club rappelle l'interdiction de revente de billets",
+   "summary": "À vingt-quatre heures du barrage retour de Ligue des champions, l'OL a rappelé que la revente des billets était interdite. Plus de 50 000 spectateurs sont attendus au Parc OL, dont plus de deux mille supporters de Fenerbahçe.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-fenerbahce-le-club-rappelle-linterdiction-de-revente-de-billets,405618.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2F221521-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-25T08:15:00+00:00"
+  },
+  {
+   "id": "scheressedanslerhnelaxesanepasseencrisedenouvellesrestrictio",
+   "title": "Sécheresse dans le Rhône : l’axe Saône passe en crise, de nouvelles restrictions sur l’eau",
+   "summary": "Face à des niveaux de cours d’eau toujours très dégradés, le préfet du Rhône place l’axe Saône en situation de crise sécheresse. Les secteurs de l’ouest du département restent également en crise, tandis que l’est lyonnais demeure en alerte renforcée.",
+   "url": "https://www.lyonmag.com/article/153710/secheresse-dans-le-rhone-l-axe-saone-passe-en-crise-de-nouvelles-restrictions-sur-l-eau",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a8d492902685-51417819750-d2a4850d14-o-86607.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-25T07:48:00+00:00"
+  },
+  {
+   "id": "olmercatoquellestratgiedanslesensdesarrives",
+   "title": "OL - Mercato : quelle stratégie dans le sens des arrivées ?",
+   "summary": "Au moment de se relancer pleinement sur le mercato à partir de mercredi soir, l'OL sera à l'écoute des offres pour certains de ses joueurs. Mais le club tentera malgré tout de compenser des départs.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-quelle-strategie-dans-le-sens-des-arrivees,405616.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAFP__20260626__B8G22NJ__v1__HighRes__FblFraLigue1Lyon-e1782710342833-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-25T07:30:00+00:00"
+  },
   {
    "id": "olmercatohamdaniunautredossierchauddelafindt",
    "title": "OL - Mercato : Hamdani, un autre dossier chaud de la fin d'été ?",
@@ -51,28 +94,6 @@
    "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F67944671-ol-fener-684x1024.png&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-25T04:30:00+00:00"
-  },
-  {
-   "id": "psgmercatola6erecruednichelol",
-   "title": "PSG Mercato : la 6e recrue dénichée à l’OL ?",
-   "summary": "Le PSG voudrait profiter de la situation contractuelle d’Adil Hamdani pour arracher le jeune ailier de 17 ans à l’OL. D’ici la clôture du mercato estival, le Paris Saint-Germain pourrait laisser partir Bradley Barcola et Ibrahim Mbaye, tous deux annoncés en partance pour Liverpool.",
-   "url": "https://www.butfootballclub.fr/1693279-psg-mercato-la-6e-recrue-denichee-a-lol/",
-   "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F0a395789-psg-mercato-la-6e-recrue-denichee-a-lol.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-24T20:00:00+00:00"
-  },
-  {
-   "id": "asse35ansrobertbericarefaitlecoupduderby",
-   "title": "ASSE : à 35 ans, Robert Beric a refait le coup du derby !",
-   "summary": "À 35 ans, Robert Beric n’a rien perdu de son sens du but. Pour sa première apparition sous les couleurs du FC Koper, l’ancien attaquant de l’ASSE a offert la victoire à son nouveau club dans le temps additionnel.",
-   "url": "https://www.butfootballclub.fr/1693251-asse-mercato-a-35-ans-robert-beric-a-refait-le-coup-du-derby/",
-   "source": "But! Football Club",
-   "author": "Laurent Hess",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fb25c9af9-asse-mercato-a-35-ans-robert-beric-a-refait-le-coup-du-derby.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-24T18:40:00+00:00"
   },
   {
    "id": "tkydgobjectifliguedeschampionsloljouedjsasaison",
@@ -141,39 +162,6 @@
    "publishedAt": "2026-08-24T13:19:00+00:00"
   },
   {
-   "id": "olfenerbaheuncorpsarbitral100italien",
-   "title": "OL - Fenerbahçe : un corps arbitral 100% italien",
-   "summary": "L'OL et Fenerbahçe jouent leur qualification pour la Ligue des champions, ce mercredi (21h) à Décines. Pour ce match décisif, Maurizio Mariani sera au sifflet, avec un corps arbitral 100% italien.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-fenerbahce-un-corps-arbitral-100-italien,405590.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2021%2F11%2F000_92L77Z-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-24T12:36:50+00:00"
-  },
-  {
-   "id": "nonconservlacadmieestebanlepaulnapasderancurenverslol",
-   "title": "Non conservé à l'Académie, Esteban Lepaul n’a pas de rancœur envers l’OL",
-   "summary": "Non conservé par l'OL durant sa formation, Esteban Lepaul a terminé meilleur buteur de Ligue 1 la saison passée. Ayant déjà ouvert son compteur en 2026-2027, l'attaquant rennais n'a pas de rancune concernant la décision lyonnaise il y a plusieurs saisons.",
-   "url": "https://www.olympique-et-lyonnais.com/non-conserve-a-lacademie-esteban-lepaul-na-pas-de-rancoeur-envers-lol,405586.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2F321d8795-70e0-4687-8c93-0bcd68ff8f88-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-24T11:00:00+00:00"
-  },
-  {
-   "id": "oljourderentrepourtkydgendirect19h",
-   "title": "OL : jour de rentrée pour TKYDG en direct à 19h",
-   "summary": "Deux jours après la première victoire de l'OL en Ligue 1, votre émission \"Tant qu'il y aura des Gones\" signe également sa rentrée. Rendez-vous ce lundi soir à 19h en direct. Une première victoire et une qualification à aller chercher pour commencer cette nouvelle saison.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-jour-de-rentree-pour-tkydg-en-direct-a-19h,405582.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHP-8BXVWYAAi50O-e1787144925376-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-24T10:10:28+00:00"
-  },
-  {
    "id": "pourquoilepredecetteanciennejoueusedollyonnespourraittoucher",
    "title": "Pourquoi le père de cette ancienne joueuse d’OL Lyonnes pourrait toucher près de 60 000 euros de l’OL ?",
    "summary": "L’OL condamné à verser près de 60 000 euros dans un litige avec un auteur de bande dessinée.",
@@ -183,28 +171,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a8bf67243cb6-screenshot-2026-08-24-at-09.png&w=800&output=webp&q=78",
    "topic": "Féminines",
    "publishedAt": "2026-08-24T07:40:00+00:00"
-  },
-  {
-   "id": "ligue1202627dcouvrezleclassementetlesrsultatsaprsla1rejourne",
-   "title": "Ligue 1 2026/27 : Découvrez le classement et les résultats après la 1re journée",
-   "summary": "Retrouvez les scores d’OM-Strasbourg, Lens-Auxerre, Le Mans-Brest, Nice-Lorient, TFC-OL, Troyes-Paris FC, Angers-LOSC, HAC-ASM et Rennes-PSG",
-   "url": "https://www.20minutes.fr/sport/football/4240417-20260824-ligue-1-2026-27-decouvrez-classement-resultats-apres-1re-journee?at_medium=display&at_campaign=149",
-   "source": "20 Minutes",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2Fz0ACPT5RSBO6PHLCC8ywWSk%2F1444x920_l-om-s-est-largement-impose-contre-strasbourg-vendredi-soir-4-0-en-ouverture-de-la-1re-journee-de-ligue-1&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-23T22:08:51+00:00"
-  },
-  {
-   "id": "onsaitquandilnestpascontentcherkisortdubancetsauvemanchester",
-   "title": "« On sait quand il n’est pas content »… Cherki sort du banc et sauve Manchester City avec deux passes décisives",
-   "summary": "Une nouvelle fois boudé au coup d’envoi par Maresca, Rayan Cherki a répondu par un doublé de passes décisives pour sortir les Citizens du pétrin face à Bornemouth",
-   "url": "https://www.20minutes.fr/sport/football/4240411-20260823-sait-quand-content-cherki-sort-banc-sauve-manchester-city-deux-passes-decisives?at_medium=display&at_campaign=149",
-   "source": "20 Minutes",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FvVaHkorLQSmcI74CoLAIfCk%2F1444x920_manchester-angleterre-23-aout-rayan-cherki-de-manchester-city-reagit-lors-du-match-de-premier-league-2026-27-entre-manchester-city-et-l-afc-bournemouth-a-l-etihad-stadium-le-23-aout-2026-a-manchester-en-angleterre-photo-de-naomi-baker-getty-images-photo-de-naomi-baker-getty-images-europe-getty-images-via-afp&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-23T17:50:21+00:00"
   },
   {
    "id": "ollobjectifcestlaliguedeschampionsrappelledescamps",
@@ -271,17 +237,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a8a090482c8a-hqwcb9dxcaao2kz-61795.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-22T20:39:00+00:00"
-  },
-  {
-   "id": "rouvertureduchaletduparcyannarthusbertrandproposedyphotograp",
-   "title": "Réouverture du Chalet du Parc : Yann Arthus-Bertrand propose d'y photographier les Lyonnais",
-   "summary": "À l’occasion de la réouverture du Chalet du Parc, fermé depuis dix ans, Yann Arthus-Bertrand installera son studio photo au parc de la Tête d’Or du 18 au 20 septembre. Les Lyonnais pourront poser pour son projet \"Vivre Ensemble\".",
-   "url": "https://www.lyonmag.com/article/153682/reouverture-du-chalet-du-parc-yann-arthus-bertrand-propose-d-y-photographier-les-lyonnais",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a89469645d3e-51990149751-8cd88318f7-o.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-22T09:00:00+00:00"
   }
  ]
 }
