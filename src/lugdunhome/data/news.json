@@ -1,13 +1,34 @@
 {
- "updatedAt": "2026-08-25T13:10:43+00:00",
+ "updatedAt": "2026-08-25T15:59:07+00:00",
  "sources": [
-  "20 Minutes",
   "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olfenerbahefonsecanesattendpasdesdbordementsentribunes",
+   "title": "OL - Fenerbahçe : Fonseca ne s'attend pas à des débordements en tribunes",
+   "summary": "Dans un match qui s'annonce électrique sur le terrain, la tension sera également palpable en tribunes. Malgré le dispositif de sécurité important au Parc OL, Paulo Fonseca a tenu à prendre la défense des supporters de Fenerbahçe.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-fenerbahce-fonseca-ne-sattend-pas-a-des-debordements-en-tribunes,405641.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2F221521-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-25T14:30:00+00:00"
+  },
+  {
+   "id": "ligue1ollehavrearbitrparfranoisletexier",
+   "title": "Ligue 1 : OL - Le Havre arbitré par François Letexier",
+   "summary": "En pleine préparation de son barrage de Ligue des champions, l'OL a également un match de Ligue 1 à jouer cette semaine. La réception du Havre samedi (20h45) sera arbitrée par François Letexier.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-1-ol-le-havre-arbitre-par-francois-letexier,405614.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F04%2FAFP__20250420__42X22D8__v1__HighRes__FblFraLigue1SaintEtienneLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-25T13:40:00+00:00"
+  },
   {
    "id": "olfenerbahetaliscabienduvoyagectturc",
    "title": "OL - Fenerbahçe : Talisca bien du voyage côté turc",
@@ -139,39 +160,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAFP__20260626__B8G22NJ__v1__HighRes__FblFraLigue1Lyon-e1782710342833-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-08-25T07:30:00+00:00"
-  },
-  {
-   "id": "endirectmercato2026etsimalickfofanarestaitfinalementlolsuive",
-   "title": "EN DIRECT Mercato 2026 : Et si Malick Fofana restait finalement à l'OL ?... Suivez le marché des transferts avec nous...",
-   "summary": "Suivez sur « 20 Minutes » les derniers transferts et les rumeurs les plus folles du marché des transferts de ce mardi 25 août",
-   "url": "https://www.20minutes.fr/sport/football/mercato/4240795-20260825-direct-mercato-2026-barcola-vers-liverpool-om-toujours-recrue-suivez-marche-transferts?at_medium=display&at_campaign=149",
-   "source": "20 Minutes",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FWf3FPCotT5G0U4_NkVX_cCk%2F1444x920_malick-fofana-de-lyon-lors-du-match-retour-du-3e-tour-de-qualification-de-la-ligue-des-champions-de-football-entre-l-olympiquer-lyonnais-et-le-sparta-praha-en-republique-tcheque-au-groupama-stadium-decines-charpieu-lyon-le-11-aout-2026-france-allilimourad-allil1991-credit-mourad-allili-sipa-2608121339&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-25T06:46:49+00:00"
-  },
-  {
-   "id": "olmercatohamdaniunautredossierchauddelafindt",
-   "title": "OL - Mercato : Hamdani, un autre dossier chaud de la fin d'été ?",
-   "summary": "Sous contrat aspirant pour encore un an, Adil Hamdani est l'un des grands espoirs de l'OL Académie. Néanmoins, malgré une offre de premier contrat pro à seulement 17 ans, le joueur offensif n'a toujours pas signé, permettant ainsi au PSG de s'inviter dans la danse.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-hamdani-un-autre-dossier-chaud-de-la-fin-dete,405609.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3757-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-25T06:45:00+00:00"
-  },
-  {
-   "id": "mercatoliguedeschampionsounonlolaurabesoindevendre",
-   "title": "Mercato : Ligue des champions ou non, l'OL aura besoin de vendre",
-   "summary": "Ce mercredi, l'OL joue une grosse partie de sa saison face à Fenerbahçe. En plus de l'enjeu sportif de retrouver la C1, le club lyonnais a également un enjeu économique. Même si une qualification n'empêchera pas une vente importante sur la dernière semaine de mercato.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-ligue-des-champions-ou-non-lol-aura-besoin-de-vendre,405612.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__AA_18082026_2918732__v1__HighRes__FenerbahceVOlympiqueLyonnaisUefaCha-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-25T06:00:00+00:00"
   },
   {
    "id": "mortdunoctognairedanslemtrolyonaprsunvoldechanelesdeuxsuspec",
