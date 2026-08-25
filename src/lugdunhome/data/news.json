@@ -1,12 +1,101 @@
 {
- "updatedAt": "2026-08-25T09:50:44+00:00",
+ "updatedAt": "2026-08-25T13:10:43+00:00",
  "sources": [
+  "20 Minutes",
   "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olfenerbahetaliscabienduvoyagectturc",
+   "title": "OL - Fenerbahçe : Talisca bien du voyage côté turc",
+   "summary": "Annoncé proche d'un départ, Anderson Talisca sera finalement bien présent pour OL - Fenerbahçe. L'attaquant brésilien fait partie du groupe turc qui a pris la direction de Lyon en début d'après-midi.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-fenerbahce-talisca-bien-du-voyage-cote-turc,405638.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2Fldc-20260822175502-3182-2-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-25T12:52:00+00:00"
+  },
+  {
+   "id": "parkingsrelaispayantslorsdesmatchsdeloldcinesvaappliquerlato",
+   "title": "Parkings relais payants lors des matchs de l'OL : Décines va appliquer la tolérance zéro pour le stationnement anarchique",
+   "summary": "Les supporters de l'OL se rendant au stade en voiture ce mercredi vont devoir s'organiser s'ils ne veulent pas payer le stationnement dans les parkings connexes du Groupama Stadium.",
+   "url": "https://www.lyonfoot.com/article/13974/parking-relais-payant-lors-des-matchs-de-l-ol-decines-va-appliquer-la-tolerance-zero-pour-le-stationnement-anarchique",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a8d8819343dc-panettes.png&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-08-25T12:30:00+00:00"
+  },
+  {
+   "id": "olmercatomichelekangprtesortirlechquiercommemccourtlompourbo",
+   "title": "OL Mercato : Michele Kang prête à sortir le chéquier comme McCourt à l’OM pour boucler le mercato ?",
+   "summary": "À une semaine de la fermeture du mercato estival, l’OL pourrait bénéficier d’un soutien financier direct de sa propriétaire Michele Kang… un peu comme le rappellent les interventions régulières de Frank McCourt à l’OM.",
+   "url": "https://www.butfootballclub.fr/1693436-ol-mercato-michele-kang-prete-a-sortir-le-chequier-comme-mccourt-a-lom-pour-boucler-le-mercato/",
+   "source": "But! Football Club",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fe6161d46-ol-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-25T12:20:00+00:00"
+  },
+  {
+   "id": "olmercatofonsecaselchesurledossiermalickfofanaetprvient",
+   "title": "OL - Mercato : Fonseca se lâche sur le dossier Malick Fofana et prévient",
+   "summary": "De retour dans le onze de l'OL depuis quelques matchs, Malick Fofana pourrait disputer son dernier match mercredi soir contre Fenerbahçe. Interrogé sur l'état d'esprit du Belge avant cette rencontre, Paulo Fonseca a été plutôt ferme sur la situation et la fin de ce mercato.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-fonseca-se-lache-sur-le-dossier-malick-fofana-et-previent,405635.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__AA_18082026_2918767__v1__HighRes__FenerbahceVOlympiqueLyonnaisUefaCha-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-25T12:07:38+00:00"
+  },
+  {
+   "id": "opendaavantolfenerbahedsledbutjemesuissentilamaison",
+   "title": "Openda avant OL - Fenerbahçe : \"Dès le début, je me suis senti à la maison\"",
+   "summary": "Buteur lors du match aller, Loïs Openda espère bien vivre une soirée positive mercredi soir face à Fenerbahçe. Cela validerait encore un peu plus son adaptation express à l'OL. L'OL a les cartes en mains pour se qualifier en Ligue des champions.",
+   "url": "https://www.olympique-et-lyonnais.com/openda-avant-ol-fenerbahce-des-le-debut-je-me-suis-senti-a-la-maison,405628.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__AA_18082026_2918814__v1__HighRes__FenerbahceVOlympiqueLyonnaisUefaCha-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-25T11:41:04+00:00"
+  },
+  {
+   "id": "fonsecaonpeutmarquerlhistoirercentedelol",
+   "title": "Fonseca : \"On peut marquer l'histoire récente de l'OL\"",
+   "summary": "Après avoir ramené le nul de Turquie, l'OL a les cartes en mains pour se qualifier pour la Ligue des champions. Paulo Fonseca est conscient de l'importance du rendez-vous de mercredi face à Fenerbahçe.",
+   "url": "https://www.olympique-et-lyonnais.com/fonseca-on-peut-marquer-lhistoire-recente-de-lol,405630.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260817__AA_17082026_2917888__v1__HighRes__AheadOfFenerbahceVOlympiqueLyonnais-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-25T11:23:32+00:00"
+  },
+  {
+   "id": "loladoittreenldcassureunabonnduviragenord",
+   "title": "\"L'OL, ça doit être en LDC\", assure un abonné du Virage nord",
+   "summary": "Avant le très important barrage retour face au Fenerbahçe, les Lyonnais donnent leur impression sur le match à venir, avec au bout l'espoir d'une qualification.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-l-ol-ca-doit-etre-en-ldc-assure-un-abonne-du-virage-nord_VN-202608250395.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FTfJb2AfKnxl-DCQrXFMpKdNVoQI%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FL-OL-ca-doit-etre-en-LDC-assure-un-abonne-du-Virage-nord-2336589.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-25T10:28:15+00:00"
+  },
+  {
+   "id": "ollyonneschawingaafaitsonretourlentranement",
+   "title": "OL Lyonnes : Chawinga a fait son retour à l'entraînement",
+   "summary": "Finaliste de la CAN 2026 il y a une semaine, Tabitha Chawinga n'a pas eu le temps de se reposer. L'attaquante malawite était de retour à l'entraînement d'OL Lyonnes en ce début de semaine.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-chawinga-a-fait-son-retour-a-lentrainement,405626.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F08%2FIMG_3139-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-25T10:00:00+00:00"
+  },
   {
    "id": "olfenerbahelesabsentsdetoulousebienprsentslentranement",
    "title": "OL - Fenerbahçe : les absents de Toulouse bien présents à l'entraînement",
@@ -52,6 +141,17 @@
    "publishedAt": "2026-08-25T07:30:00+00:00"
   },
   {
+   "id": "endirectmercato2026etsimalickfofanarestaitfinalementlolsuive",
+   "title": "EN DIRECT Mercato 2026 : Et si Malick Fofana restait finalement à l'OL ?... Suivez le marché des transferts avec nous...",
+   "summary": "Suivez sur « 20 Minutes » les derniers transferts et les rumeurs les plus folles du marché des transferts de ce mardi 25 août",
+   "url": "https://www.20minutes.fr/sport/football/mercato/4240795-20260825-direct-mercato-2026-barcola-vers-liverpool-om-toujours-recrue-suivez-marche-transferts?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FWf3FPCotT5G0U4_NkVX_cCk%2F1444x920_malick-fofana-de-lyon-lors-du-match-retour-du-3e-tour-de-qualification-de-la-ligue-des-champions-de-football-entre-l-olympiquer-lyonnais-et-le-sparta-praha-en-republique-tcheque-au-groupama-stadium-decines-charpieu-lyon-le-11-aout-2026-france-allilimourad-allil1991-credit-mourad-allili-sipa-2608121339&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-25T06:46:49+00:00"
+  },
+  {
    "id": "olmercatohamdaniunautredossierchauddelafindt",
    "title": "OL - Mercato : Hamdani, un autre dossier chaud de la fin d'été ?",
    "summary": "Sous contrat aspirant pour encore un an, Adil Hamdani est l'un des grands espoirs de l'OL Académie. Néanmoins, malgré une offre de premier contrat pro à seulement 17 ans, le joueur offensif n'a toujours pas signé, permettant ainsi au PSG de s'inviter dans la danse.",
@@ -74,50 +174,6 @@
    "publishedAt": "2026-08-25T06:00:00+00:00"
   },
   {
-   "id": "enjeusportifchasselareventedispositifdescuritunolfenerbaheso",
-   "title": "Enjeu sportif, chasse à la revente, dispositif de sécurité... un OL - Fenerbahçe sous haute tension",
-   "summary": "Ce mercredi, l'OL reçoit Fenerbahçe au Parc OL pour jouer sa qualification en Ligue des champions. Au-delà de l'aspect sportif, la venue du club turc est une véritable organisation en dehors du terrain face à la ferveur stambouliote.",
-   "url": "https://www.olympique-et-lyonnais.com/enjeu-sportif-chasse-a-la-revente-dispositif-de-securite-un-ol-fenerbahce-sous-haute-tension,405606.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__AA_19082026_2918906__v1__HighRes__FenerbahceVOlympiqueLyonnaisUefaCha-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-25T05:30:00+00:00"
-  },
-  {
-   "id": "pronosticolfenerbaheliguedeschampionsouligueeuropapourlesgon",
-   "title": "Pronostic OL – Fenerbahçe : Ligue des Champions ou Ligue Europa pour les Gones ?",
-   "summary": "Voici l’analyse complète du barrage retour de Ligue des Champions entre l’OL et Fenerbahçe, ainsi que notre pronostic de la rencontre. L’Olympique Lyonnais disputera-t-il la phase de ligue de la prochaine Ligue des Champions ?",
-   "url": "https://www.butfootballclub.fr/1692475-pronostic-ol-fenerbahce-ligue-des-champions-ou-ligue-europa-pour-les-gones/",
-   "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F67944671-ol-fener-684x1024.png&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-25T04:30:00+00:00"
-  },
-  {
-   "id": "tkydgobjectifliguedeschampionsloljouedjsasaison",
-   "title": "TKYDG : objectif Ligue des champions, l’OL joue (déjà) sa saison",
-   "summary": "Jour de rentrée pour \"Tant qu'il y aura des Gones\" ce lundi 24 août. Autour de Razik Brikh et Nicolas Puydebois, l'équipe de TKYDG accueille de nouveaux chroniqueurs cette saison, à commencer par le créateur de contenus Aulasinho ce jour.",
-   "url": "https://www.olympique-et-lyonnais.com/tkydg-objectif-ligue-des-champions-lol-joue-deja-sa-saison-contre-fenerbahce,405599.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260819__DPPI_40427002_018__v1__HighRes__FootballChampionsLeagueFenerbahceVLyo-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-24T16:55:00+00:00"
-  },
-  {
-   "id": "olfenerbahelabarredes50000spectateursatteinte",
-   "title": "OL - Fenerbahçe : la barre des 50 000 spectateurs atteinte",
-   "summary": "Ce mercredi, et comme le souhaitait Paulo Fonseca, le Parc OL répondra présent. À quarante-huit heures du match, la barre des 50 000 spectateurs a été atteinte. Plus de 2 000 supporters de Fenerbahçe sont attendus.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-fenerbahce-la-barre-des-50-000-spectateurs-atteinte,405596.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FAFP__20260215__97NK7C4__v1__HighRes__FblFraLigue1LyonNice-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-24T15:14:04+00:00"
-  },
-  {
    "id": "mortdunoctognairedanslemtrolyonaprsunvoldechanelesdeuxsuspec",
    "title": "Mort d'un octogénaire dans le métro à Lyon après un vol de chaîne : les deux suspects mis en examen et écroués",
    "summary": "L’homme de 20 ans et la femme de 21 ans interpellés après la mort d’un octogénaire victime d’un vol à l’arraché dans le métro lyonnais ont été placés en détention provisoire. La présidente de la Métropole Véronique Sarselli se rendra mardi sur le réseau TCL pour évoquer la sécurité.",
@@ -127,28 +183,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a8c52bcb4b42-1200x675-68bd4a30beed7-1200x675-681b5d9b6070f-dsc-6118-jpeg.jpg&w=800&output=webp&q=78",
    "topic": "Club",
    "publishedAt": "2026-08-24T14:18:00+00:00"
-  },
-  {
-   "id": "olfenerbaheclasshautsrisquesmercredisoir",
-   "title": "OL - Fenerbahçe classé à hauts risques mercredi soir",
-   "summary": "Face à l'afflux de nombreux supporters turcs, la Division nationale de lutte contre le hooliganisme a établi à 4 sur 5 le niveau de risques pour OL - Fenerbahçe, mercredi soir à Décines.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-fenerbahce-classe-a-hauts-risques-mercredi-soir,405594.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__AA_19082026_2918906__v1__HighRes__FenerbahceVOlympiqueLyonnaisUefaCha-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-24T14:14:42+00:00"
-  },
-  {
-   "id": "lolnavaitplusalignunonzeaussijeunedepuissixans",
-   "title": "L’OL n’avait plus aligné un onze aussi jeune depuis six ans",
-   "summary": "En faisant tourner dans les grandeurs largeurs à Toulouse, Paulo Fonseca avait aussi fait le choix de la jeunesse. L'OL n'avait pas évolué avec un onze aussi jeune depuis janvier 2020 et un match de Coupe de France à Nantes.",
-   "url": "https://www.olympique-et-lyonnais.com/lol-navait-plus-aligne-un-onze-aussi-jeune-depuis-six-ans,405592.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FNartey-et-les-Lyonnais-e1787468342329-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-24T13:58:18+00:00"
   },
   {
    "id": "supportersencadrspyrotechnieinterditelesimportantesrestricti",
@@ -204,28 +238,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Fj3YO3lr8Mn4LzdbilTMhNHbK05A%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FToulouse-0-2-Lyon-La-victoire-des-joueurs-Fonseca-heureux-de-ses-choix-2335418.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-22T21:50:08+00:00"
-  },
-  {
-   "id": "cestunegrandevictoiredesjoueursfonsecajubileaprslesuccsdelol",
-   "title": "\"C'est une grande victoire des joueurs!\" Fonseca jubile après le succès de l'OL à Toulouse",
-   "summary": "Choix gagnant du coach lyonnais qui a préservé une partie de son effectif avant le match retour face à Fenerbahçe mercredi.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/c-est-une-grande-victoire-des-joueurs-fonseca-jubile-apres-le-succes-de-l-ol-a-toulouse_AN-202608220367.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FJjFiZVKqwpQm0XcO0BpUUURSUQU%3D%2F0x0%3A2048x1152%2F800x0%2Fimages%2FPaulo-Fonseca-en-conference-de-presse-le-3-aout-2026-2330638.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-22T21:43:17+00:00"
-  },
-  {
-   "id": "tfc02ollyonsimposeaveclquipebtoulouseledebriefcompletdelafte",
-   "title": "TFC 0-2 OL : Lyon s'impose avec l'équipe B à Toulouse ! Le debrief complet de l'After",
-   "summary": "Ce samedi 22 août, l'Olympique lyonnais affrontait Toulouse dans le cadre de la première journée de Ligue 1. Mais, pour préparer au mieux le barrage retour de qualification en Ligue des champions face au Fenerbahçe, le coach de Lyon, Paulo Fonseca, a complètement remanié sa formation.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-tfc-0-2-ol-lyon-s-impose-avec-l-equipe-b-face-a-toulouse-le-debrief-complet-de-l-after_VN-202608220373.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FztOkGSj4QnIf2zX8bHO5wEa3pko%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FTFC-0-2-OL-Lyon-s-impose-avec-l-equipe-B-face-a-Toulouse-Le-debrief-complet-de-l-After-2335415.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-22T21:40:29+00:00"
   },
   {
    "id": "toulouseolavecunequipebislyonrussitsoncoupetsimpose20",
