@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-26T01:57:50+00:00",
+ "updatedAt": "2026-08-26T04:02:12+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "nousavonslambitiondemarquerlhistoireduclublolfacesondestinco",
+   "title": "\"Nous avons l’ambition de marquer l’histoire du club\" : l’OL face à son destin contre Fenerbahçe",
+   "summary": "Ce mercredi à 21h au Groupama Stadium, l’OL affronte le Fenerbahçe.",
+   "url": "https://www.lyonfoot.com/article/13976/nous-voulons-ecrire-une-nouvelle-page-de-cette-histoire-l-ol-joue-gros-face-a-fenerbahce-en-ligue-des-champions",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a8dbeb5e0841-screenshot-2026-08-25-at-18.png&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-26T04:00:00+00:00"
+  },
   {
    "id": "souponndtrelamantdeladputedurhnetiffanyjoncoursonassistantpa",
    "title": "Soupçonné d'être l'amant de la députée du Rhône Tiffany Joncour, son assistant parlementaire agressé par le mari jaloux",
@@ -226,17 +237,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a8a8b2c81d80-hqplhkzwwaazsg8.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-23T06:00:00+00:00"
-  },
-  {
-   "id": "toulouseolavecunequipebislyonrussitsoncoupetsimpose20",
-   "title": "Toulouse-OL : avec une équipe bis, Lyon réussit son coup et s’impose 2-0",
-   "summary": "Paulo Fonseca avait profondément fait tourner son équipe ce samedi à Toulouse, mais l’OL est tout de même reparti avec les trois points (0-2). Noah Nartey puis Malick Fofana ont fait la différence en seconde période, à quelques jours du barrage retour de Ligue des champions.",
-   "url": "https://www.lyonfoot.com/article/13956/toulouse-ol-un-lyon-bis-fait-la-bonne-operation-0-2",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a8a090482c8a-hqwcb9dxcaao2kz-61795.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-22T20:39:00+00:00"
   }
  ]
 }
