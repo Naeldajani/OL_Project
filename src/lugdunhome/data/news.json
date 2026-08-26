@@ -1,11 +1,22 @@
 {
- "updatedAt": "2026-08-26T16:34:14+00:00",
+ "updatedAt": "2026-08-26T20:01:48+00:00",
  "sources": [
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olfenerbahefonsecaremetlesmmesqualler",
+   "title": "OL - Fenerbahçe : Fonseca remet les mêmes qu'aller",
+   "summary": "Pour le barrage retour de la Ligue des champions, Paulo Fonseca n'a pas fait dans la surprise. L'entraîneur de l'OL aligne le même onze que celui qui a débuté à Istanbul mardi dernier.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-fenerbahce-fonseca-remet-les-memes-qualler,405698.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__C4Y66TV__v1__HighRes__FblEurC1QualifyingFenerbahceLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-26T17:53:14+00:00"
+  },
   {
    "id": "prsdelyonellesdcouvrentunecamradanslestoilettesduncinmaunhom",
    "title": "Près de Lyon : elles découvrent une caméra dans les toilettes d’un cinéma, un homme interpellé",
@@ -161,17 +172,6 @@
    "publishedAt": "2026-08-26T08:15:00+00:00"
   },
   {
-   "id": "olfenerbahevapresquesejouerguichetsferms",
-   "title": "OL - Fenerbahçe va presque se jouer à guichets fermés",
-   "summary": "Pour ce match crucial dans la course à la Ligue des champions, Paulo Fonseca et ses joueurs pourront compter sur un Parc OL rempli. S’il ne fera pas totalement le plein pour des raisons de sécurité, le stade se rapprochera des 55 000 spectateurs.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-fenerbahce-va-presque-se-jouer-a-guichets-fermes,405672.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260811__C4F34Y8__v1__HighRes__FblEurC1QualifyingLyonPrague-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-26T07:30:00+00:00"
-  },
-  {
    "id": "savoieunjeunelyonnaissecouru3855mtresaprsavoirgraviseullagra",
    "title": "Savoie : un jeune Lyonnais secouru à 3 855 mètres après avoir gravi seul la Grande Casse",
    "summary": "Un jeune homme de 20 ans originaire de la région lyonnaise a dû être héliporté dimanche 23 août après s’être retrouvé bloqué au sommet de la Grande Casse, en Savoie. Peu expérimenté, il avait entrepris seul l’ascension malgré des conditions jugées très dangereuses.",
@@ -269,17 +269,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a8bf67243cb6-screenshot-2026-08-24-at-09.png&w=800&output=webp&q=78",
    "topic": "Féminines",
    "publishedAt": "2026-08-24T07:40:00+00:00"
-  },
-  {
-   "id": "ollobjectifcestlaliguedeschampionsrappelledescamps",
-   "title": "OL : \"L'objectif, c'est la Ligue des champions\" rappelle Descamps",
-   "summary": "L’Olympique lyonnais s'est imposé face à Toulouse (2-0) pour sa première sortie en Ligue 1 ce samedi soir. Une belle performance avant le barrage retour face à Fenerbahçe dans quelques jours.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-ol-l-objectif-c-est-la-ligue-des-champions-rappelle-descamps_VN-202608230079.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F8Tb9PuyFBZeShyPl4zXh1vUvUR4%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FOL-L-objectif-c-est-la-Ligue-des-champions-rappelle-Descamps-2335459.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-23T06:36:00+00:00"
   }
  ]
 }
