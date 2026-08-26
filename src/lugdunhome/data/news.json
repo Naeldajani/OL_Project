@@ -1,12 +1,44 @@
 {
- "updatedAt": "2026-08-26T13:16:07+00:00",
+ "updatedAt": "2026-08-26T16:34:14+00:00",
  "sources": [
-  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "prsdelyonellesdcouvrentunecamradanslestoilettesduncinmaunhom",
+   "title": "Près de Lyon : elles découvrent une caméra dans les toilettes d’un cinéma, un homme interpellé",
+   "summary": "Une inquiétante découverte dans les toilettes d’un cinéma de l’agglomération lyonnaise.",
+   "url": "https://www.lyonmag.com/article/153727/pres-de-lyon-elles-decouvrent-une-camera-dans-les-toilettes-d-un-cinema-un-homme-interpelle",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a8efc75ee3e0-22887882663-7e97c5dfe7-o.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-26T15:00:00+00:00"
+  },
+  {
+   "id": "cherkiexoldanslexidelasaison20252026depremierleague",
+   "title": "Cherki (ex-OL) dans le XI de la saison 2025-2026 de Premier League",
+   "summary": "Après une seule saison en Premier League, Rayan Cherki a déjà convaincu ses pairs. Mardi, l'ancien joueur offensif de l'OL a décroché une place dans le onze de la saison passée en Premier League.",
+   "url": "https://www.olympique-et-lyonnais.com/cherki-ex-ol-dans-le-xi-de-la-saison-2025-2026-de-premier-league,405694.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F06%2FAFP__20250623__63DE3PW__v1__HighRes__FblWcClub2025Match32CityAin-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-26T14:50:00+00:00"
+  },
+  {
+   "id": "lavillededcinesvafairelachasseaustationnementanarchiquepourl",
+   "title": "La ville de Décines va faire la chasse au stationnement anarchique pour les matchs de l'OL",
+   "summary": "Face à la nouvelle politique tarifaire et la fin des parkings relais gratuits, la crainte de stationnement anarchique est forcément présente pour les matchs de l'OL. La ville de Décines a annoncé qu'elle appliquera une tolérance zéro sur le sujet.",
+   "url": "https://www.olympique-et-lyonnais.com/la-ville-de-decines-va-faire-la-chasse-au-stationnement-anarchique-pour-les-matchs-de-lol,405655.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20231103__HL_NGUYONNET_2197490__v1__HighRes__FrancePoliticsRightWingPartyLauren-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-26T14:00:00+00:00"
+  },
   {
    "id": "olfenerbahemuriqiveutsequalifierpourlesfansetlefootturc",
    "title": "OL - Fenerbahçe : Muriqi veut se qualifier pour \"les fans et le foot turc\"",
@@ -118,17 +150,6 @@
    "publishedAt": "2026-08-26T09:00:00+00:00"
   },
   {
-   "id": "olfenerbahefonsecachangeencorelintgralitdesononze",
-   "title": "OL – Fenerbahçe : Fonseca change encore l’intégralité de son onze !",
-   "summary": "Pour affronter Fenerbahçe en barrage retour de la Ligue des Champions (21h), l’OL va encore changer tout son onze ! Le grand soir approche au Groupama Stadium. Après sa victoire à Istanbul, l’OL reçoit Fenerbahçe avec l’ambition de décrocher son billet pour la suite de la Ligue des Champions.",
-   "url": "https://www.butfootballclub.fr/1693620-ol-fenerbahce-fonseca-change-encore-lintegralite-de-son-onze/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fae8bee79-ol-fenerbahce-fonseca-change-encore-lintegralite-de-son-onze.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-26T08:40:00+00:00"
-  },
-  {
    "id": "olfenerbaheavantmatchdiffusiontvhoraire",
    "title": "OL - Fenerbahçe : avant-match, diffusion TV, horaire",
    "summary": "Avant-match, horaire, diffusion TV, retrouvez toutes les informations pratiques avant OL - Fenerbahçe, ce mercredi à Décines. Avant-match Qui sera le grand malheureux de la soirée ?",
@@ -140,17 +161,6 @@
    "publishedAt": "2026-08-26T08:15:00+00:00"
   },
   {
-   "id": "flashbackilyaunanlolrvaitdevendrecheraujourdhuicestlaproprit",
-   "title": "Flashback, il y a un an : L’OL rêvait de vendre cher, aujourd’hui c’est la propriétaire qui sort le chéquier",
-   "summary": "L'OL ouvre la porte à un départ de Georges Mikautadze et réclame 40 M€. Des clubs de Bundesliga et de Serie A surveillent son dossier.",
-   "url": "https://www.butfootballclub.fr/1693603-ol-lyon-reclame-40m-mikautadze/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F5313b7f7-ol-lyon-reclame-40m-mikautadze-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-26T08:08:24+00:00"
-  },
-  {
    "id": "olfenerbahevapresquesejouerguichetsferms",
    "title": "OL - Fenerbahçe va presque se jouer à guichets fermés",
    "summary": "Pour ce match crucial dans la course à la Ligue des champions, Paulo Fonseca et ses joueurs pourront compter sur un Parc OL rempli. S’il ne fera pas totalement le plein pour des raisons de sécurité, le stade se rapprochera des 55 000 spectateurs.",
@@ -160,28 +170,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260811__C4F34Y8__v1__HighRes__FblEurC1QualifyingLyonPrague-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-26T07:30:00+00:00"
-  },
-  {
-   "id": "olfenerbaheunonzesemblablelaller",
-   "title": "OL - Fenerbahçe : un onze semblable à l'aller ?",
-   "summary": "Ayant choisi de faire reposer l'ensemble des titulaires d'Istanbul samedi dernier à Toulouse, Paulo Fonseca devrait s'appuyer sur la même ossature qu'au match aller contre Fenerbahçe.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-fenerbahce-un-onze-semblable-a-laller,405670.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__AA_18082026_2918732__v1__HighRes__FenerbahceVOlympiqueLyonnaisUefaCha-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-26T06:45:00+00:00"
-  },
-  {
-   "id": "onveutentendrenouveaulamusiquelyonlexcitationautourdolfenerb",
-   "title": "\"On veut entendre à nouveau la musique\"... À Lyon, l'excitation autour d'OL - Fenerbahçe est bien là",
-   "summary": "Ce mercredi, l'OL joue sa qualification pour la prochaine phase de Ligue des champions. Un retour sur le devant de la scène européenne forcément attendu par tout un club, mais aussi toute une ville.",
-   "url": "https://www.olympique-et-lyonnais.com/on-veut-entendre-a-nouveau-la-musique-a-lyon-lexcitation-autour-dol-fenerbahce-est-bien-la,405650.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20200226__1208871511__v1__HighRes__OlympiqueLyonVJuventusUefaChampionsLeagueRou-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-26T06:00:00+00:00"
   },
   {
    "id": "savoieunjeunelyonnaissecouru3855mtresaprsavoirgraviseullagra",
