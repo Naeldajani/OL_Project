@@ -1,12 +1,57 @@
 {
- "updatedAt": "2026-08-27T14:10:38+00:00",
+ "updatedAt": "2026-08-28T00:24:47+00:00",
  "sources": [
   "20 Minutes",
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ollehavretroisblesssdanslesrangshavrais",
+   "title": "OL - Le Havre : trois blessés dans les rangs havrais",
+   "summary": "La semaine dernière, Le Havre s'est incliné 1 à 0 face à Monaco. Pour le déplacement à Décines, Didier Digard fera sans trois joueurs blessés. Pour les deux équipes, l'objectif sera d'évacuer la déception.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-le-havre-trois-joueurs-blesses-dans-les-rangs-havrais,405808.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F10%2FMjAyMzA2ZGE1MTZkNDdjMjBjMmQxZmIwZDM3MTJlOTBjNGFmNDU-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-27T16:20:00+00:00"
+  },
+  {
+   "id": "olmercatounaccordesttombpourletransfertdemalickfofana",
+   "title": "OL Mercato : un accord est tombé pour le transfert de Malick Fofana",
+   "summary": "Éliminé par Fenerbahçe en barrages de Ligue des champions, l’OL pourrait désormais accélérer la vente de Malick Fofana, déjà d’accord avec l’AS Roma. L’élimination de l’OL face à Fenerbahçe (1-2), mercredi soir, pourrait avoir de lourdes conséquences sur la fin du mercato rhodanien.",
+   "url": "https://www.butfootballclub.fr/1693931-ol-mercato-un-accord-est-tombe-pour-le-transfert-de-malick-fofana/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Ff40dc485-ol-mercato-un-accord-est-tombe-pour-le-transfert-de-malick-fofana.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-27T16:20:00+00:00"
+  },
+  {
+   "id": "bonneaudiencepourolfenerbahe12",
+   "title": "Bonne audience pour OL - Fenerbahçe (1-2)",
+   "summary": "L'OL a déjà quitté la Ligue des champions avant même la phase de classement. Son barrage retour face à Fenerbahçe a tout de même fait une bonne audience sur Canal. On espérait le grand soir, finalement, c'est une nouvelle déception.",
+   "url": "https://www.olympique-et-lyonnais.com/bonne-audience-pour-ol-fenerbahce-1-2,405803.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2Fcorner-e1787845893130-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-27T15:35:00+00:00"
+  },
+  {
+   "id": "ollentraneurdesgardiensdevraittresanctionnaprslesincidentsco",
+   "title": "OL : l'entraîneur des gardiens devrait être sanctionné après les incidents contre Fenerbahçe",
+   "summary": "Antonio Ferreira, entraîneur des gardiens de l'OL, est dans le viseur de l'UEFA après le barrage contre Fenerbahçe. Il devrait écoper de matchs de suspension. Ce n'était assurément pas une bonne manière de conclure une soirée déjà déprimante.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lentraineur-des-gardiens-devrait-etre-sanctionne-apres-les-incidents-contre-fenerbahce,405824.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F01%2FIMG_2885-copie-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-08-27T14:50:00+00:00"
+  },
   {
    "id": "lolbienttsanctionnparluefaaprslesincidentsfacefenerbahe",
    "title": "L’OL bientôt sanctionné par l'UEFA après les incidents face à Fenerbahçe ?",
@@ -107,17 +152,6 @@
    "publishedAt": "2026-08-27T09:00:00+00:00"
   },
   {
-   "id": "olfenerbahe12deslyonnaisencoredeuxvisagesadmetopenda",
-   "title": "OL - Fenerbahçe (1-2) : des Lyonnais encore à deux visages, admet Openda",
-   "summary": "Dos au mur à la demi-heure de jeu, l'OL a tenté de renverser Fenerbahçe. Mais il a échoué (1-2), et cela démontre encore une fois qu'il a du mal à débuter les matchs. On aimerait comprendre pourquoi.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-fenerbahce-1-2-des-lyonnais-encore-a-deux-visages-admet-openda,405765.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FOpenda-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-27T08:10:00+00:00"
-  },
-  {
    "id": "olfenerbahemaispourquoiledeuximebutlyonnaisdeboudacheatrefus",
    "title": "OL - Fenerbahçe : Mais pourquoi le deuxième but lyonnais de Boudache a été refusé par la VAR ?",
    "summary": "L’Olympique Lyonnais s’est fait éliminer de la Ligue des champions par le Fenerbahçe, mercredi soir (1-2)",
@@ -138,28 +172,6 @@
    "image": "https://images.weserv.nl/?url=img.20mn.fr%2Fnkm5XKaSTqmacsKw_YTodyk%2F1444x920_mason-greenwood-fenerbahce-sk-vu-en-action-lors-du-match-de-qualification-du-troisieme-tour-de-l-uefa-champions-league-entre-les-equipes-du-sk-sturm-graz-et-du-fenerbahce-sk-le-sturm-graz-a-ete-elimine-des-qualifications-pour-la-ligue-des-champions-apres-une-defaite-1-0-a-domicile-contre-fenerbahce-perdant-le-match-nul-au-troisieme-tour-3-0-au-total-talisca-a-marque-le-seul-but-depuis-le-point-de-penalty-a-la-66e-minute-permettant-a-l-equipe-turque-de-se-qualifier-pour-les-play-offs-tandis-que-sturm-poursuivra-sa-campagne-europeenne-en-phase-de-championnat-de-l-europa-league-sopa-images-maciej-rogowski-1441692-credit-maciej-rogowski-sopa-images-sipa-2608121128&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-27T07:25:03+00:00"
-  },
-  {
-   "id": "lolenligueeuropafacequi",
-   "title": "L'OL en Ligue Europa, face à qui ?",
-   "summary": "Reversé en Ligue Europa, l'OL jouera cette compétition pour la 3e fois de suite. Avec quelques beaux noms tout de même pour l'accompagner. Non, l'OL ne sera pas au rendez-vous du tirage au sort de la Ligue des champions ce jeudi en fin d'après-midi.",
-   "url": "https://www.olympique-et-lyonnais.com/lol-en-ligue-europa-face-a-qui,405761.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP__20260319__A3YB6R8__v1__HighRes__FblEurC3LyonCeltaVigo-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-27T07:25:00+00:00"
-  },
-  {
-   "id": "olfenerbahe12nouvellenuitderegretsdcines",
-   "title": "OL - Fenerbahçe (1-2) : nouvelle nuit de regrets à Décines",
-   "summary": "Encore raté. Mercredi, l'OL avait l'occasion de retrouver la Ligue des champions devant son public. Mais la réception de Fenerbahçe restera comme une nouvelle soirée de regrets pour le club et ses supporters.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-fenerbahce-1-2-nouvelle-nuit-de-regrets-a-decines,405751.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FTolisso-e1787807182522-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-27T06:40:00+00:00"
   },
   {
    "id": "olfenerbaheapouvaittrotterdanslesttespourquoicelyoncraquetou",
@@ -314,17 +326,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a8d492902685-51417819750-d2a4850d14-o-86607.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-08-25T07:48:00+00:00"
-  },
-  {
-   "id": "mortdunoctognairedanslemtrolyonaprsunvoldechanelesdeuxsuspec",
-   "title": "Mort d'un octogénaire dans le métro à Lyon après un vol de chaîne : les deux suspects mis en examen et écroués",
-   "summary": "L’homme de 20 ans et la femme de 21 ans interpellés après la mort d’un octogénaire victime d’un vol à l’arraché dans le métro lyonnais ont été placés en détention provisoire. La présidente de la Métropole Véronique Sarselli se rendra mardi sur le réseau TCL pour évoquer la sécurité.",
-   "url": "https://www.lyonmag.com/article/153705/mort-d-un-octogenaire-dans-le-metro-a-lyon-apres-un-vol-de-chaine-les-deux-suspects-mis-en-examen-et-ecroues",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a8c52bcb4b42-1200x675-68bd4a30beed7-1200x675-681b5d9b6070f-dsc-6118-jpeg.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-08-24T14:18:00+00:00"
   }
  ]
 }
