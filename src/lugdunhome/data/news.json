@@ -1,13 +1,67 @@
 {
- "updatedAt": "2026-08-29T20:54:50+00:00",
+ "updatedAt": "2026-08-29T23:18:32+00:00",
  "sources": [
   "20 Minutes",
-  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ligue1troisjoursaprsfenerbahelyonconcdelenulfaceauhavredansu",
+   "title": "Ligue 1: trois jours après Fenerbahçe, Lyon concède le nul face au Havre dans un match spectaculaire",
+   "summary": "Après son élimination en barrage de la Ligue des champions, l'Olympique Lyonnais n'a pas réussi à rebondir avec une victoire en Ligue 1 ce samedi 29 août.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-lyon-le-havre-suivez-le-match-du-multiplex-de-la-deuxieme-journee-de-ligue-1-en-live_LS-202608290260.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F3lQbgcFRwULPajE5GvVF6YItIWk%3D%2F0x88%3A2048x1240%2F800x0%2Fimages%2FLe-match-entre-l-Olympique-lyonnais-et-Le-Havre-le-29-aout-2026-2339121.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-29T22:47:46+00:00"
+  },
+  {
+   "id": "fonsecasurlemercatodelolondoitvendre23joueurscestlaralit",
+   "title": "Fonseca sur le mercato de l'OL : \"On doit vendre 2-3 joueurs, c'est la réalité\"",
+   "summary": "Après le match nul contre Le Havre, Paulo Fonseca n'a pas pu échapper aux questions sur le mercato. S'il assure que Malick Fofana et Ruben Kluivert ont avant tout été préservés physiquement, l'entraîneur de l'OL est conscient de ce qui attend le club d'ici à mardi soir.",
+   "url": "https://www.olympique-et-lyonnais.com/fonseca-sur-le-mercato-de-lol-on-doit-vendre-2-3-joueurs-cest-la-realite,406016.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260826__AA_26082026_2929173__v1__HighRes__OlympiqueLyonVFenerbahceUefaChampio-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-29T22:03:06+00:00"
+  },
+  {
+   "id": "ollehavre11lebaromtredumatchcequilfautretenir",
+   "title": "OL - Le Havre (1-1) : le baromètre du match, ce qu'il faut retenir",
+   "summary": "Tenu en échec par Le Havre (1-1), l'OL ne s'est pas rassuré après la non-qualification en Ligue des champions. Retrouvez le baromètre du match de la rédaction d'Olympique-et-Lyonnais.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-le-havre-1-1-le-barometre-du-match-ce-quil-faut-retenir,406014.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FTolisso-e1787807182522-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-29T21:41:43+00:00"
+  },
+  {
+   "id": "ol11lehavrevendre3joueursetlesremplacerlesbesoinsdefonseca",
+   "title": "OL 1-1 Le Havre : \"Vendre 3 joueurs (et les remplacer)\" les besoins de Fonseca",
+   "summary": "Lyon n'a pu battre Le Havre (1-1) ce samedi lors de la 2e journée de Ligue 1. le coach des Gones, Paulo Fonseca, sait que le club doit vendre avant d'insuffler de la nouveauté dans son groupe.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-ol-1-1-le-havre-vendre-3-joueurs-et-les-remplacer-les-besoins-de-fonseca_VN-202608290413.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FiYeGIyrL_7CJ9a-jk2UiTXO4KHA%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FOL-1-1-Le-Havre-Vendre-3-joueurs-et-les-remplacer-les-besoins-de-Fonseca-2339148.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-29T21:38:33+00:00"
+  },
+  {
+   "id": "lyon11lehavreinsuffisantacherchourtaclelesgonesetfonseca",
+   "title": "Lyon 1-1 Le Havre : \"Insuffisant\" Acherchour tacle les Gones et Fonseca",
+   "summary": "L'OL a été accroché par Le Havre 1-1 ce samedi pour la 2e journée de Ligue 1. Après son élimination en Ligue des champions, les Gones sont passés par toutes les sensations face aux Havrais.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-lyon-1-1-le-havre-insuffisant-acherchour-tacle-les-gones-et-fonseca_VN-202608290404.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F3cwL6V456O5TpjFmBGhexJa1SBI%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FLyon-1-1-Le-Havre-Insuffisant-Acherchour-tacle-les-Gones-et-Fonseca-2339141.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-29T21:02:46+00:00"
+  },
   {
    "id": "losopendavitelepireloldansunesoireencorefrustrantefaceauhavr",
    "title": "Loïs Openda évite le pire à l’OL dans une soirée encore frustrante face au Havre (1-1)",
@@ -18,28 +72,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a93464b4dd9f-screenshot-2026-08-29-at-22.png&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-29T20:50:00+00:00"
-  },
-  {
-   "id": "ligue1lolcaletroyessurlepodiumauxerrelanternerougelesrsultat",
-   "title": "Ligue 1 : l’OL cale, Troyes sur le podium, Auxerre lanterne rouge… les résultats du multi de la 2e journée",
-   "summary": "La 2e journée de Ligue 1 a livré son lot de surprises ce samedi soir, avec notamment le nul de l’OL, la victoire de Troyes à Lorient et la nouvelle défaite d’Auxerre. La Ligue 1 a encore offert un multiplex riche en rebondissements ce samedi.",
-   "url": "https://www.butfootballclub.fr/1694581-ligue-1-lol-cale-troyes-sur-le-podium-auxerre-lanterne-rouge-les-resultats-du-multi-de-la-2e-journee/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F80f94e90-ligue-1-lol-cale-troyes-sur-le-podium-auxerre-lanterne-rouge-les-resultats-du-multi-de-la-4e-journee.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-29T20:47:51+00:00"
-  },
-  {
-   "id": "ligue1troisjoursaprsfenerbahelyonconcdelenulfaceauhavredansu",
-   "title": "Ligue 1: trois jours après Fenerbahçe, Lyon concède le nul face au Havre dans un match spectaculaire",
-   "summary": "Après son élimination en barrage de la Ligue des champions, l'Olympique Lyonnais n'a pas réussi à rebondir avec une victoire en Ligue 1 ce samedi 29 août.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-lyon-le-havre-suivez-le-match-du-multiplex-de-la-deuxieme-journee-de-ligue-1-en-live_LS-202608290260.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F3lQbgcFRwULPajE5GvVF6YItIWk%3D%2F0x88%3A2048x1240%2F800x0%2Fimages%2FLe-match-entre-l-Olympique-lyonnais-et-Le-Havre-le-29-aout-2026-2339121.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-29T20:47:50+00:00"
   },
   {
    "id": "lolnerelvepaslatteetconcdelenulcontrelehavre",
@@ -75,20 +107,9 @@
    "publishedAt": "2026-08-29T17:52:01+00:00"
   },
   {
-   "id": "olmercatounserialbuteurrelancavantundpartxxl20m",
-   "title": "OL Mercato : un serial buteur relancé avant un départ XXL à 20 M€ ?",
-   "summary": "L’OL s’active dans les dernières heures du mercato, avec Mohamed Amoura dans le viseur et Ruben Kluivert courtisé par Crystal Palace. Alors que l’OL doit encore boucler son mercato, le club rhodanien tente de jouer les trouble-fêtes dans le dossier Mohamed Amoura.",
-   "url": "https://www.butfootballclub.fr/1694508-ol-mercato-un-serial-buteur-relance-avant-un-depart-xxl-a-20-me/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F485c61dd-stade-rennais-mercato-haise-a-deja-bouge-une-recrue-estivale-amoura-relance.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-29T17:40:04+00:00"
-  },
-  {
-   "id": "endirectollehavreunpoteaupartoutlolsurprisparlenviehavraises",
-   "title": "EN DIRECT OL - Le Havre : Un poteau partout, l'OL surpris par l'envie havraise… Suivez le match avec nous",
-   "summary": "Quelques jours après l’élimination en barrage de la Ligue des champions contre le Fener', les Lyonnais doivent vite repartir de l’avant et battant Le Havre, ce soir, au Groupama Stadium",
+   "id": "ollehavrelolconcdeunmatchnulpathtiquefaceauhavrenerevivezpas",
+   "title": "OL - Le Havre: L'OL concède un match nul pathétique face au Havre... (Ne) Revivez (pas) cette soirée avec nous",
+   "summary": "Quelques jours après l’élimination en barrage de la Ligue des champions contre le Fener', les Lyonnais ont peiné à ne pas perdre face au Havre",
    "url": "https://www.20minutes.fr/sport/football/ligue-1/4241619-20260829-direct-ol-havre-lyon-doit-rassurer-apres-avoir-rate-qualif-ligue-champions-suivez-match?at_medium=display&at_campaign=149",
    "source": "20 Minutes",
    "author": null,
@@ -108,17 +129,6 @@
    "publishedAt": "2026-08-29T16:23:00+00:00"
   },
   {
-   "id": "fcnantesmercatorebondissementpourleretourdejordanveretout",
-   "title": "FC Nantes Mercato : rebondissement pour le retour de Jordan Veretout !",
-   "summary": "Cet été, Jordan Veretout (Al-Sadd, 33 ans) a ouvert la porte à un retour au FC Nantes mais il a également d’autres plans en tête pour la suite de sa carrière… Le FC Nantes peut-il rêver d’un retour de Jordan Veretout ?",
-   "url": "https://www.butfootballclub.fr/1694393-fc-nantes-mercato-rebondissement-pour-le-retour-de-jordan-veretout/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Ficonsport_256095_0024-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-29T16:00:00+00:00"
-  },
-  {
    "id": "ollyonnescraselondoncityavantlareprisedelapremireligue",
    "title": "OL Lyonnes écrase London City avant la reprise de la Première Ligue",
    "summary": "La préparation s'est bien terminée pour l’OL Lyonnes. Ce samedi 29 août, les joueuses de Jonatan Giráldez ont largement battu les London City Lionesses au Groupama OL Training Center.",
@@ -128,17 +138,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a93019c19c77-785689848-1778724589985757-6888844097283801809-n.jpg&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-08-29T15:55:00+00:00"
-  },
-  {
-   "id": "olmercatofofanapourraitapporteruneexcellentenouvellelompourp",
-   "title": "OL Mercato : Fofana pourrait apporter une excellente nouvelle à l’OM pour Paixão",
-   "summary": "Sunderland explore la piste Malick Fofana alors que les négociations avec l’OM pour Igor Paixão peinent à avancer. Le mercato s’accélère autour de Malick Fofana.",
-   "url": "https://www.butfootballclub.fr/1694511-ol-mercato-fofana-pourrait-apporter-une-excellente-nouvelle-a-lom-pour-paixao/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F7573ea29-ol-mercato-enorme-rebondissement-pour-fofana-un-flop-de-lom-a-lyon.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-29T15:40:00+00:00"
   },
   {
    "id": "ollyonnesterminesaprparationsurunevictoirecontrelondoncityli",
@@ -218,17 +217,6 @@
    "publishedAt": "2026-08-29T12:00:00+00:00"
   },
   {
-   "id": "ollehavreunepetiteaffluencemaisunhommagebergougnoux",
-   "title": "OL - Le Havre : une petite affluence mais un hommage à Bergougnoux",
-   "summary": "Ce samedi (20h45), le Parc OL ne fera pas le plein pour la réception du Havre. Cela n’empêchera pas les hommages rendus à Bryan Bergougnoux.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-le-havre-une-petite-affluence-mais-un-hommage-a-bergougnoux,405978.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FHJjZ2zfW4AgGm88-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-29T11:15:00+00:00"
-  },
-  {
    "id": "lyonlehavresurquellechanetvetquelleheurevoirlematchdela2ejou",
    "title": "Lyon-Le Havre : Sur quelle chaîne TV et à quelle heure voir le match de la 2e journée de Ligue 1 ?",
    "summary": "Samedi à 21h45, les Gones veulent enchaîner en championnat face à une équipe du HAC qui tentera de prendre ses premiers points",
@@ -238,17 +226,6 @@
    "image": "https://images.weserv.nl/?url=img.20mn.fr%2F5nSpCet3S4CCDKaWTYVZFCk%2F1444x920_les-lyonnais-sont-de-retour-au-groupama-stadium-apres-la-desillusion-de-mercredi-contre-le-fenerbahce-en-barrages-de-la-ligue-des-champions&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-29T10:32:36+00:00"
-  },
-  {
-   "id": "athekameollaconcurrencenemedrangepas",
-   "title": "Athekame (OL) : \"La concurrence ne me dérange pas\"",
-   "summary": "Ayant connu une première titularisation avec l'OL à Toulouse, Zachary Athekame devrait enchaîner face au Havre, après une entrée intéressante mercredi. Malgré l'élimination pour la Ligue des champions, le Suisse ne regrette pas son choix.",
-   "url": "https://www.olympique-et-lyonnais.com/athekame-ol-la-concurrence-ne-me-derange-pas,405971.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAthekame-e1787434339215-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-29T10:30:00+00:00"
   },
   {
    "id": "aprsfenerbahelolveutchasserladceptionfaceauhavre",
@@ -293,17 +270,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a91711f8e835-sulc-tagliafico-ol.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-28T11:28:00+00:00"
-  },
-  {
-   "id": "jesuislemeilleurentraneurdelhistoirercentedelolaffirmefonsec",
-   "title": "\"Je suis le meilleur entraîneur de l'histoire récente de l'OL\", affirme Fonseca",
-   "summary": "Après le fiasco face au Fenerbahce, Paolo Fonseca avait déclaré \"peut-être que je suis un entraîneur de merde\", en conférence de presse avant Le Havre, il a longtemps énuméré les récentes saison de l'OL, puis a déclaré être le \"meilleur entraîneur de l'histoire récente de l'OL\"",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-je-suis-le-meilleur-entraineur-de-l-histoire-recente-de-l-ol-affirme-fonseca_VN-202608280437.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Fmuxk9OZEn0ajYaLGiMeFXMnccS4%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FJe-suis-le-meilleur-entraineur-de-l-histoire-recente-de-l-OL-affirme-Fonseca-2338555.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-28T11:17:07+00:00"
   },
   {
    "id": "grosoragelyonunequarantainedinterventionsdepompiersdeschutes",
