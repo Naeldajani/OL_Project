@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-29T16:42:51+00:00",
+ "updatedAt": "2026-08-29T20:54:50+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -9,13 +9,90 @@
  ],
  "items": [
   {
-   "id": "endirectollehavrelyondoitserassureraprsavoirratlaqualifenlig",
-   "title": "EN DIRECT OL - Le Havre : Lyon doit se rassurer après avoir raté la qualif en Ligue des champions… Suivez le match avec nous",
+   "id": "losopendavitelepireloldansunesoireencorefrustrantefaceauhavr",
+   "title": "Loïs Openda évite le pire à l’OL dans une soirée encore frustrante face au Havre (1-1)",
+   "summary": "Quelques jours après son élimination en Ligue des champions, l’OL a concédé le nul face au Havre (1-1).",
+   "url": "https://www.lyonfoot.com/article/14010/ol-le-havre-1-1-lois-openda-sauve-lyon-d-une-nouvelle-desillusion",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a93464b4dd9f-screenshot-2026-08-29-at-22.png&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-29T20:50:00+00:00"
+  },
+  {
+   "id": "ligue1lolcaletroyessurlepodiumauxerrelanternerougelesrsultat",
+   "title": "Ligue 1 : l’OL cale, Troyes sur le podium, Auxerre lanterne rouge… les résultats du multi de la 2e journée",
+   "summary": "La 2e journée de Ligue 1 a livré son lot de surprises ce samedi soir, avec notamment le nul de l’OL, la victoire de Troyes à Lorient et la nouvelle défaite d’Auxerre. La Ligue 1 a encore offert un multiplex riche en rebondissements ce samedi.",
+   "url": "https://www.butfootballclub.fr/1694581-ligue-1-lol-cale-troyes-sur-le-podium-auxerre-lanterne-rouge-les-resultats-du-multi-de-la-2e-journee/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F80f94e90-ligue-1-lol-cale-troyes-sur-le-podium-auxerre-lanterne-rouge-les-resultats-du-multi-de-la-4e-journee.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-29T20:47:51+00:00"
+  },
+  {
+   "id": "ligue1troisjoursaprsfenerbahelyonconcdelenulfaceauhavredansu",
+   "title": "Ligue 1: trois jours après Fenerbahçe, Lyon concède le nul face au Havre dans un match spectaculaire",
+   "summary": "Après son élimination en barrage de la Ligue des champions, l'Olympique Lyonnais n'a pas réussi à rebondir avec une victoire en Ligue 1 ce samedi 29 août.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-lyon-le-havre-suivez-le-match-du-multiplex-de-la-deuxieme-journee-de-ligue-1-en-live_LS-202608290260.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F3lQbgcFRwULPajE5GvVF6YItIWk%3D%2F0x88%3A2048x1240%2F800x0%2Fimages%2FLe-match-entre-l-Olympique-lyonnais-et-Le-Havre-le-29-aout-2026-2339121.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-29T20:47:50+00:00"
+  },
+  {
+   "id": "lolnerelvepaslatteetconcdelenulcontrelehavre",
+   "title": "L'OL ne relève pas la tête et concède le nul contre Le Havre",
+   "summary": "Trois jours après la déconvenue contre Fenerbahçe, l'OL devait se racheter devant son public. Loin d'être flamboyants, les Lyonnais ont dû puiser dans leurs ressources pour arracher le nul (1-1).",
+   "url": "https://www.olympique-et-lyonnais.com/lol-ne-releve-pas-la-tete-et-concede-le-nul-contre-le-havre,406010.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260829__C6TU2N4__v1__HighRes__FblFraLigue1LyonLeHavre-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-29T20:41:34+00:00"
+  },
+  {
+   "id": "ligueeuropapierresagereviendraauparcolle15octobre",
+   "title": "Ligue Europa : Pierre Sage reviendra au Parc OL le 15 octobre",
+   "summary": "En amont du match de la deuxième journée de Ligue 1, l'OL a eu vent de son calendrier pour la Ligue Europa. Après avoir débuté du côté d'Anderlecht le 16 septembre prochain, les Lyonnais recevront notamment Pierre Sage et Crystal Palace le 15 octobre à Décines.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-europa-pierre-sage-reviendra-au-parc-ol-le-15-octobre,406008.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP__20260227__999D624__v1__HighRes__FblFraLigue1StrasbourgLens-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-29T18:41:51+00:00"
+  },
+  {
+   "id": "ollehavretagliaficobacherouencoreboudachetitulaires",
+   "title": "OL - Le Havre : Tagliafico, Bacher ou encore Boudache titulaires",
+   "summary": "Trois jours après la désillusion contre Fenerbahçe, l'OL retrouve son stade pour la deuxième journée de Ligue 1. Face au Havre, Paulo Fonseca a logiquement effectué quelques changements.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-le-havre-tagliafico-bacher-ou-encore-boudache-titulaires,406003.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FKail-Boudache-e1785397338157-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-29T17:52:01+00:00"
+  },
+  {
+   "id": "olmercatounserialbuteurrelancavantundpartxxl20m",
+   "title": "OL Mercato : un serial buteur relancé avant un départ XXL à 20 M€ ?",
+   "summary": "L’OL s’active dans les dernières heures du mercato, avec Mohamed Amoura dans le viseur et Ruben Kluivert courtisé par Crystal Palace. Alors que l’OL doit encore boucler son mercato, le club rhodanien tente de jouer les trouble-fêtes dans le dossier Mohamed Amoura.",
+   "url": "https://www.butfootballclub.fr/1694508-ol-mercato-un-serial-buteur-relance-avant-un-depart-xxl-a-20-me/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F485c61dd-stade-rennais-mercato-haise-a-deja-bouge-une-recrue-estivale-amoura-relance.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-29T17:40:04+00:00"
+  },
+  {
+   "id": "endirectollehavreunpoteaupartoutlolsurprisparlenviehavraises",
+   "title": "EN DIRECT OL - Le Havre : Un poteau partout, l'OL surpris par l'envie havraise… Suivez le match avec nous",
    "summary": "Quelques jours après l’élimination en barrage de la Ligue des champions contre le Fener', les Lyonnais doivent vite repartir de l’avant et battant Le Havre, ce soir, au Groupama Stadium",
    "url": "https://www.20minutes.fr/sport/football/ligue-1/4241619-20260829-direct-ol-havre-lyon-doit-rassurer-apres-avoir-rate-qualif-ligue-champions-suivez-match?at_medium=display&at_campaign=149",
    "source": "20 Minutes",
    "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FYNX-kEKPR82MOiLA80owoyk%2F1444x920_lois-openda-de-lyon-lors-du-match-retour-du-3e-tour-de-qualification-de-la-ligue-des-champions-de-football-entre-l-olympiquer-lyonnais-et-le-sparta-praha-en-republique-tcheque-au-groupama-stadium-decines-charpieu-lyon-le-11-aout-2026-france-allilimourad-allil2080-credit-mourad-allili-sipa-2608121352&w=800&output=webp&q=78",
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FWf3FPCotT5G0U4_NkVX_cCk%2F1444x920_malick-fofana-de-lyon-lors-du-match-retour-du-3e-tour-de-qualification-de-la-ligue-des-champions-de-football-entre-l-olympiquer-lyonnais-et-le-sparta-praha-en-republique-tcheque-au-groupama-stadium-decines-charpieu-lyon-le-11-aout-2026-france-allilimourad-allil1991-credit-mourad-allili-sipa-2608121339&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-29T16:32:39+00:00"
   },
@@ -73,17 +150,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3795-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-29T14:56:53+00:00"
-  },
-  {
-   "id": "directlyonlehavresuivezlematchdumultiplexdeladeuximejournede",
-   "title": "DIRECT. Lyon-Le Havre: suivez le match du multiplex de la deuxième journée de Ligue 1 en live",
-   "summary": "Quatre jours après avoir échoué à se qualifier en Ligue des champions, l'Olympique lyonnais retrouve la Ligue 1 avec la réception du Havre ce samedi. Un match à suivre dans ce direct commenté sur RMC Sport, coup d'envoi à 20h45!",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-lyon-le-havre-suivez-le-match-du-multiplex-de-la-deuxieme-journee-de-ligue-1-en-live_LS-202608290260.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FCfwv8BRpz6d9SGOkeagLyEWu5bk%3D%2F0x120%3A2048x1272%2F800x0%2Fimages%2FCorentin-Tolisso-lors-d-OL-Fenerbahce-le-26-aout-2026-2339019.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-29T14:51:24+00:00"
   },
   {
    "id": "olmercatokluivertversundpartenpremierleague",
@@ -183,39 +249,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAthekame-e1787434339215-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-29T10:30:00+00:00"
-  },
-  {
-   "id": "cascarinovandedonkkumagaiollyonnesvaretrouverdanciennesconna",
-   "title": "Cascarino, Van de Donk, Kumagai… OL Lyonnes va retrouver d’anciennes connaissances contre London City",
-   "summary": "Ce samedi (15h), OL Lyonnes en termine avec sa préparation estivale avec un dernier amical contre London City Lionesses. L’occasion pour le public lyonnais de revoir d’anciennes joueuses comme Delphine Cascarino.",
-   "url": "https://www.olympique-et-lyonnais.com/cascarino-van-de-donk-kumagai-ol-lyonnes-va-retrouver-danciennes-connaissances-contre-london-city,405969.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F03%2FIMG_2230-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-08-29T09:45:00+00:00"
-  },
-  {
-   "id": "ollehavreavantmatchhorairediffusiontv",
-   "title": "OL - Le Havre : avant-match, horaire, diffusion TV",
-   "summary": "Trois jours après la désillusion en Ligue des champions, l'OL retrouve la Ligue 1 avec la réception du Havre ce samedi. Retrouvez toutes les informations pratiques de cette deuxième journée du championnat de France.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-le-havre-avant-match-horaire-diffusion-tv,405809.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F12%2FAFP__20251214__883T3M9__v1__HighRes__FblFraLigue1LyonLeHavre-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-29T09:00:00+00:00"
-  },
-  {
-   "id": "mercatounprtendantanglaissurfofanaol",
-   "title": "Mercato : un prétendant anglais sur Fofana (OL) ?",
-   "summary": "Sur le départ en cette fin de mercato, Malick Fofana ne sait toujours pas ce que sera son avenir. Après l’AS Roma, Hull City aurait dégainé une offre pour l’ailier de l’OL. Comme Georges Mikautadze il y a un an, aura-t-il droit à un hommage du stade ce samedi soir ?",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-un-pretendant-anglais-sur-fofana-ol,405975.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FAFP__20251026__823N6EW__v1__HighRes__FblFraLigue1LyonStrasbourg-e1761518883380-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-29T08:15:00+00:00"
   },
   {
    "id": "aprsfenerbahelolveutchasserladceptionfaceauhavre",
