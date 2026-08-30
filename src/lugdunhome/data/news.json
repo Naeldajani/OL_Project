@@ -1,12 +1,24 @@
 {
- "updatedAt": "2026-08-30T21:04:11+00:00",
+ "updatedAt": "2026-08-30T23:29:02+00:00",
  "sources": [
+  "20 Minutes",
   "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ligue1202627dcouvrezleclassementetlesrsultatsaprsla2ejourne",
+   "title": "Ligue 1 2026/27 : Découvrez le classement et les résultats après la 2e journée",
+   "summary": "Retrouvez les scores de Monaco-OM, PFC-Nice, Rennes-Le Mans, Strasbourg-Lens, Auxerre-Angers, Brest-TFC, Lorient-Troyes, OL-HAC et Lille-PSG",
+   "url": "https://www.20minutes.fr/sport/football/4241725-20260830-ligue-1-2026-27-decouvrez-classement-resultats-apres-2e-journee?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FzsU-p7q2QzSVaaBE96hFLSk%2F1444x920_buteur-contre-l-om-paris-brunner-permet-a-l-as-monaco-d-etre-leader-de-la-ligue-1-apres-deux-journees-photod-d-illustration&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-30T21:11:15+00:00"
+  },
   {
    "id": "olmercatoleremplaantdefofanaciblenl2lometlestaderennaisvalid",
    "title": "OL Mercato : le remplaçant de Fofana ciblé en L2, l’OM et le Stade Rennais valident !",
