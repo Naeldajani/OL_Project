@@ -1,12 +1,24 @@
 {
- "updatedAt": "2026-08-29T23:18:32+00:00",
+ "updatedAt": "2026-08-30T05:22:56+00:00",
  "sources": [
   "20 Minutes",
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olfonsecadoitencorevendre2ou3joueursetprvient",
+   "title": "OL : Fonseca doit encore vendre 2 ou 3 joueurs et prévient !",
+   "summary": "Après le nul face au Havre, Paulo Fonseca confirme que l’OL doit encore vendre deux ou trois joueurs, avec Malick Fofana en tête des candidats.",
+   "url": "https://www.butfootballclub.fr/1694601-ol-fonseca-vendre-deux-trois-joueurs-mercato/",
+   "source": "But! Football Club",
+   "author": "Wladimir DELCROS",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fc9522cea-ol-fonseca-vendre-deux-trois-joueurs-mercato-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-08-30T04:02:05+00:00"
+  },
   {
    "id": "ligue1troisjoursaprsfenerbahelyonconcdelenulfaceauhavredansu",
    "title": "Ligue 1: trois jours après Fenerbahçe, Lyon concède le nul face au Havre dans un match spectaculaire",
@@ -74,6 +86,17 @@
    "publishedAt": "2026-08-29T20:50:00+00:00"
   },
   {
+   "id": "ligue1lolcaletroyessurlepodiumauxerrelanternerougelesrsultat",
+   "title": "Ligue 1 : l’OL cale, Troyes sur le podium, Auxerre lanterne rouge… les résultats du multi de la 2e journée",
+   "summary": "La 2e journée de Ligue 1 a livré son lot de surprises ce samedi soir, avec notamment le nul de l’OL, la victoire de Troyes à Lorient et la nouvelle défaite d’Auxerre. La Ligue 1 a encore offert un multiplex riche en rebondissements ce samedi.",
+   "url": "https://www.butfootballclub.fr/1694581-ligue-1-lol-cale-troyes-sur-le-podium-auxerre-lanterne-rouge-les-resultats-du-multi-de-la-2e-journee/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F80f94e90-ligue-1-lol-cale-troyes-sur-le-podium-auxerre-lanterne-rouge-les-resultats-du-multi-de-la-4e-journee.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-08-29T20:47:51+00:00"
+  },
+  {
    "id": "lolnerelvepaslatteetconcdelenulcontrelehavre",
    "title": "L'OL ne relève pas la tête et concède le nul contre Le Havre",
    "summary": "Trois jours après la déconvenue contre Fenerbahçe, l'OL devait se racheter devant son public. Loin d'être flamboyants, les Lyonnais ont dû puiser dans leurs ressources pour arracher le nul (1-1).",
@@ -107,6 +130,17 @@
    "publishedAt": "2026-08-29T17:52:01+00:00"
   },
   {
+   "id": "olmercatounserialbuteurrelancavantundpartxxl20m",
+   "title": "OL Mercato : un serial buteur relancé avant un départ XXL à 20 M€ ?",
+   "summary": "L’OL s’active dans les dernières heures du mercato, avec Mohamed Amoura dans le viseur et Ruben Kluivert courtisé par Crystal Palace. Alors que l’OL doit encore boucler son mercato, le club rhodanien tente de jouer les trouble-fêtes dans le dossier Mohamed Amoura.",
+   "url": "https://www.butfootballclub.fr/1694508-ol-mercato-un-serial-buteur-relance-avant-un-depart-xxl-a-20-me/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F485c61dd-stade-rennais-mercato-haise-a-deja-bouge-une-recrue-estivale-amoura-relance.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-29T17:40:04+00:00"
+  },
+  {
    "id": "ollehavrelolconcdeunmatchnulpathtiquefaceauhavrenerevivezpas",
    "title": "OL - Le Havre: L'OL concède un match nul pathétique face au Havre... (Ne) Revivez (pas) cette soirée avec nous",
    "summary": "Quelques jours après l’élimination en barrage de la Ligue des champions contre le Fener', les Lyonnais ont peiné à ne pas perdre face au Havre",
@@ -127,6 +161,17 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a9307a90117f-55381684568-30e5e67540-o.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-08-29T16:23:00+00:00"
+  },
+  {
+   "id": "fcnantesmercatorebondissementpourleretourdejordanveretout",
+   "title": "FC Nantes Mercato : rebondissement pour le retour de Jordan Veretout !",
+   "summary": "Cet été, Jordan Veretout (Al-Sadd, 33 ans) a ouvert la porte à un retour au FC Nantes mais il a également d’autres plans en tête pour la suite de sa carrière… Le FC Nantes peut-il rêver d’un retour de Jordan Veretout ?",
+   "url": "https://www.butfootballclub.fr/1694393-fc-nantes-mercato-rebondissement-pour-le-retour-de-jordan-veretout/",
+   "source": "But! Football Club",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Ficonsport_256095_0024-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-29T16:00:00+00:00"
   },
   {
    "id": "ollyonnescraselondoncityavantlareprisedelapremireligue",
@@ -303,17 +348,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a8ffc9144b49-37149791542-b4412d986f-o.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-27T09:01:00+00:00"
-  },
-  {
-   "id": "peuttrequejesuisunentraneurdemerdepaulofonsecalucideaprsolfe",
-   "title": "\"Peut-être que je suis un entraîneur de merde\" : Paulo Fonseca lucide après OL-Fenerbahçe",
-   "summary": "Ce mercredi soir, l'OL a raté une occasion en or de retrouver la Ligue des Champions. Après la défaite contre Fenerbahçe, l'entraîneur lyonnais Paulo Fonseca s'est lâché en conférence de presse.",
-   "url": "https://www.lyonfoot.com/article/13986/ol-paulo-fonseca-s-agace-apres-l-elimination-et-lache-peut-etre-que-je-suis-un-entraineur-de-merde",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a8fdb356a7e0-54307770372-1c0c0987e1-o.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-27T06:36:00+00:00"
   }
  ]
 }
