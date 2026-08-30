@@ -1,7 +1,6 @@
 {
- "updatedAt": "2026-08-30T16:39:53+00:00",
+ "updatedAt": "2026-08-30T21:04:11+00:00",
  "sources": [
-  "20 Minutes",
   "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
@@ -9,9 +8,20 @@
  ],
  "items": [
   {
+   "id": "olmercatoleremplaantdefofanaciblenl2lometlestaderennaisvalid",
+   "title": "OL Mercato : le remplaçant de Fofana ciblé en L2, l’OM et le Stade Rennais valident !",
+   "summary": "L’OL aurait déjà identifié plusieurs pistes pour anticiper un éventuel départ de Malick Fofana, dont celle menant à l’ailier japonais Keito Nakamura, actuellement à Reims. L’OL commence déjà à préparer l’après-Malick Fofana.",
+   "url": "https://www.butfootballclub.fr/1694735-ol-mercato-le-remplacant-de-fofana-cible-en-l2-lom-et-le-stade-rennais-valident/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fasse-gros-coup-dur-en-vue-a-reims-lom-prete-a-faire-les-affaires-des-verts-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-30T20:20:00+00:00"
+  },
+  {
    "id": "ollyonnesgiraldezsemontrerassurantsurbachaetrenard",
    "title": "OL Lyonnes : Giraldez se montre rassurant sur Bacha et Renard",
-   "summary": "Devant composé avec un effectif presque complet, Jonatan Giráldez a dû faire des choix contre London City Lionesses. En revanche, Selma Bacha et Wendie Renard n’étaient pas forcément à 100%.",
+   "summary": "Devant composer avec un effectif presque complet, Jonatan Giráldez a dû faire des choix contre London City Lionesses. En revanche, Selma Bacha et Wendie Renard n’étaient pas forcément à 100%.",
    "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-giraldez-se-montre-rassurant-sur-bacha-et-renard,406061.html",
    "source": "Olympique-et-Lyonnais",
    "author": "David Hernandez",
@@ -64,17 +74,6 @@
    "publishedAt": "2026-08-30T14:00:00+00:00"
   },
   {
-   "id": "olfonsecalveledoutesursasurprisefaceauhavre",
-   "title": "OL : Fonseca lève le doute sur sa surprise face au Havre",
-   "summary": "Paulo Fonseca explique pourquoi Malick Fofana était sur le banc face au Havre : l'ailier de l'OL gêné à l'adducteur avant de revenir en jeu.",
-   "url": "https://www.butfootballclub.fr/1694654-ol-fonseca-havre-fofana/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F7449fa35-ol-fonseca-havre-fofana-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-30T13:15:10+00:00"
-  },
-  {
    "id": "ollehavre11bergougnouxetdinallonontpastoublis",
    "title": "OL - Le Havre (1-1) : Bergougnoux et Di Nallo n'ont pas été oubliés",
    "summary": "En amont du coup d'envoi d'OL - Le Havre, le stade et les deux clubs ont rendu un vibrant hommage à Bryan Bergougnoux. Le Virage Sud n'avait lui pas oublié Fleury Di Nallo. Il n'est pas du genre à montrer ses émotions, comme ce fut le cas lors des obsèques à Lyon début juin.",
@@ -84,17 +83,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260829__C6TR6QZ__v1__HighRes__FblFraLigue1LyonLeHavre-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Club",
    "publishedAt": "2026-08-30T13:10:00+00:00"
-  },
-  {
-   "id": "olunanciengonequittedjchelseapourrebondirenespagne",
-   "title": "OL : un ancien Gone quitte déjà Chelsea pour rebondir en Espagne",
-   "summary": "Mamadou Sarr quitte Chelsea pour la Real Sociedad en prêt. L’ancien défenseur de l’OL veut relancer sa progression avec du temps de jeu en Espagne.",
-   "url": "https://www.butfootballclub.fr/1694650-ol-mamadou-sarr-chelsea-real-sociedad-pret/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F53cb2043-ol-mamadou-sarr-chelsea-real-sociedad-pret-1024x733.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-30T12:32:04+00:00"
   },
   {
    "id": "aprsollehavre11fonsecasestfaitunepromesse",
@@ -218,17 +206,6 @@
    "publishedAt": "2026-08-29T20:50:00+00:00"
   },
   {
-   "id": "ollehavrelolconcdeunmatchnulpathtiquefaceauhavrenerevivezpas",
-   "title": "OL - Le Havre: L'OL concède un match nul pathétique face au Havre... (Ne) Revivez (pas) cette soirée avec nous",
-   "summary": "Quelques jours après l’élimination en barrage de la Ligue des champions contre le Fener', les Lyonnais ont peiné à ne pas perdre face au Havre",
-   "url": "https://www.20minutes.fr/sport/football/ligue-1/4241619-20260829-direct-ol-havre-lyon-doit-rassurer-apres-avoir-rate-qualif-ligue-champions-suivez-match?at_medium=display&at_campaign=149",
-   "source": "20 Minutes",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FWf3FPCotT5G0U4_NkVX_cCk%2F1444x920_malick-fofana-de-lyon-lors-du-match-retour-du-3e-tour-de-qualification-de-la-ligue-des-champions-de-football-entre-l-olympiquer-lyonnais-et-le-sparta-praha-en-republique-tcheque-au-groupama-stadium-decines-charpieu-lyon-le-11-aout-2026-france-allilimourad-allil1991-credit-mourad-allili-sipa-2608121339&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-29T16:32:39+00:00"
-  },
-  {
    "id": "olungroschquesignparpierresagepourrubenkluivert",
    "title": "OL : un gros chèque signé par Pierre Sage pour Ruben Kluivert ?",
    "summary": "L'OL s'apprête à dire adieu à Ruben Kluivert, en partance pour Crystal Palace. Avec, au bout, une sacrée opération financière.",
@@ -260,17 +237,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a92e65f3637e-capture-decran-2026-08-29-a-16.png&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-29T13:59:00+00:00"
-  },
-  {
-   "id": "cestungniecherkiinscritunfabuleuxdoublcontrepalaceetmetlapre",
-   "title": "« C’est un génie »… Cherki inscrit un fabuleux doublé contre Palace et met la Premier League à ses pieds",
-   "summary": "Rayan Cherki a inscrit un doublé sur la pelouse de Crystal Palace, vendredi, et son talent a une nouvelle fois bluffé les observateurs et les fans de foot outre-Manche",
-   "url": "https://www.20minutes.fr/sport/football/premier_league/4241623-20260829-genie-cherki-inscrit-fabuleux-double-contre-palace-met-premier-league-pieds?at_medium=display&at_campaign=149",
-   "source": "20 Minutes",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2F_YXsIT0qRIG-4X99hyBXWyk%2F1444x920_erling-haaland-de-manchester-city-celebre-avec-son-coequipier-rayan-cherki-a-gauche-apres-avoir-marque-le-premier-but-du-match-de-football-de-premier-league-anglaise-entre-crystal-palace-et-manchester-city-a-londres-le-vendredi-28-aout-2026-photo-ap-kin-cheung-xaf106-26240707856763-2608282141&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-29T13:57:19+00:00"
   },
   {
    "id": "aprsfenerbahelolveutchasserladceptionfaceauhavre",
