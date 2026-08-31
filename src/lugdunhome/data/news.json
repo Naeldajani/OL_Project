@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-30T23:29:02+00:00",
+ "updatedAt": "2026-08-31T05:32:36+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olmercatounedernirelignedroiteavantseremettrededans",
+   "title": "OL - Mercato : une dernière ligne droite avant se remettre dedans ?",
+   "summary": "Ce lundi marque l'avant-dernière journée du mercato estival avec des nombreuses inconnues et de nombreux dossiers chauds du côté de l'OL. Comme il y a un an, le club lyonnais ne va pas passer une dernière ligne droite de tout repos.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-une-derniere-ligne-droite-avant-se-remettre-dedans,406075.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__C4Y66TY__v1__HighRes__FblEurC1QualifyingFenerbahceLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-08-31T05:30:00+00:00"
+  },
   {
    "id": "ligue1202627dcouvrezleclassementetlesrsultatsaprsla2ejourne",
    "title": "Ligue 1 2026/27 : Découvrez le classement et les résultats après la 2e journée",
@@ -139,17 +150,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260715__C2AQ3TU__v2__HighRes__FblFraFriendlyLyonServette-e1784264181738-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-30T09:50:00+00:00"
-  },
-  {
-   "id": "mercatomamadousarrexolfileenprtlarealsociedad",
-   "title": "Mercato : Mamadou Sarr (ex-OL) file en prêt à la Real Sociedad",
-   "summary": "En manque de temps de jeu à Chelsea, Mamadou Sarr vient renforcer la Real Sociedad. Le défenseur y est prêté pour une saison. La carrière de Mamadou Sarr prend un drôle de tournant.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-mamadou-sarr-ex-ol-file-en-pret-a-la-real-sociedad,405873.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F08%2FCapture-decran-2024-08-30-a-09.25.24-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-30T09:00:00+00:00"
   },
   {
    "id": "olilsepenseplusgrandqueleclublaftercritiqueenversfonseca",
