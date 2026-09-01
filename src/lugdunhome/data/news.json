@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-01T14:08:47+00:00",
+ "updatedAt": "2026-09-01T18:29:49+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,61 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "mercatoyoussouffofananejouerafinalementpaslol",
+   "title": "Mercato : Youssouf Fofana ne jouera finalement pas à l'OL",
+   "summary": "Le milieu de terrain Youssouf Fofana devait signer à l'OL. Mais du fait de la non-vente, actuellement de Malick Fofana, le Milanais ne s'est finalement pas engagé avec le club lyonnais.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-youssouf-fofana-ne-jouera-finalement-pas-a-lol,406331.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260407__romano-sscnapol260406_npkdl__v1__HighRes__SscNapoliVAcMilanSerieA-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-01T18:23:03+00:00"
+  },
+  {
+   "id": "olmercatofofanaaucurdunnouveauretournementdesituationtotalem",
+   "title": "OL Mercato : Fofana au cœur d’un nouveau retournement de situation totalement fou !",
+   "summary": "Malick Fofana n’a toujours pas rejoint Crystal Palace : alors que le dossier semblait quasiment bouclé, Sunderland tente un ultime retournement de situation. Le feuilleton Malick Fofana connaît un nouveau rebondissement en cette fin de mercato.",
+   "url": "https://www.butfootballclub.fr/1695123-ol-mercato-fofana-au-coeur-dun-nouveau-retournement-de-situation-totalement-fou/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fa6adce17-ol-mercato-accord-trouve-malick-fofana-va-rejoindre-la-premier-league.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-01T15:40:00+00:00"
+  },
+  {
+   "id": "mercatoyoussouffofanaarriveraitenprtlol",
+   "title": "Mercato : Youssouf Fofana arriverait en prêt à l'OL",
+   "summary": "L'OL aura vraiment beaucoup d'options au milieu. Ce mardi, il devrait officialiser le prêt de Youssouf Fofana, joueur de l'AC Milan. Paulo Fonseca souhaitait un milieu en plus, il devrait en obtenir un.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-youssouf-fofana-arriverait-en-pret-a-lol,406321.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F04%2F000_34QG8DB-e1714456290292-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-01T15:00:00+00:00"
+  },
+  {
+   "id": "mercatokeitonakamuradevraitsignerlol",
+   "title": "Mercato : Keito Nakamura devrait signer à l'OL",
+   "summary": "Dans le sens des arrivées, Keito Nakamura devrait être la future recrue lyonnaise. Il remplacerait Malick Fofana si ce dernier signe bien à Crystal Palace. Après trois ans à Reims, Keito Nakamura est plus que jamais sur le départ.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-keito-nakamura-devrait-signer-a-lol,406314.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F11%2FAFP__20241123__36N842P__v1__HighRes__FblFraLigue1ReimsLyon-e1732399759619-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-01T14:20:00+00:00"
+  },
+  {
+   "id": "ommercatoundpartinattenduseprofilepouruntitulairecausedelol",
+   "title": "OM Mercato : un départ inattendu se profile pour un titulaire… à cause de l’OL",
+   "summary": "Alors que l’OM pensait pouvoir conserver Emerson Palmieri, la Juventus pourrait encore tenter sa chance dans les dernières heures du mercato. Le marché des transferts réserve décidément son lot de rebondissements à l’OM.",
+   "url": "https://www.butfootballclub.fr/1695081-om-mercato-un-depart-inattendu-se-profile-pour-un-titulaire-a-cause-de-lol/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fom-le-verdict-est-deja-tombe-pour-la-blessure-demerson-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-01T14:20:00+00:00"
+  },
   {
    "id": "olmercatolyontientleremplaantdefofanaleprixestcompltementfou",
    "title": "OL Mercato : Lyon tient le remplaçant de Fofana, le prix est complètement fou",
@@ -96,17 +151,6 @@
    "publishedAt": "2026-09-01T11:50:00+00:00"
   },
   {
-   "id": "olmercatocoupdethtrevenirpouryoussouffofana",
-   "title": "OL Mercato : coup de théâtre à venir pour Youssouf Fofana ?",
-   "summary": "Annoncé tout proche de l’OL, Youssouf Fofana est encore loin d’avoir posé ses valises dans le Rhône. Les négociations avec l’AC Milan bloquent sur la prise en charge de son imposant salaire, mais un retournement de situation reste possible dans les dernières heures du mercato.",
-   "url": "https://www.butfootballclub.fr/1694996-ol-mercato-coup-de-theatre-a-venir-pour-youssouf-fofana/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F6b49d071-ol-mercato-coup-de-theatre-a-venir-pour-youssouf-fofana.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-01T11:40:00+00:00"
-  },
-  {
    "id": "olmercatolesdtailsdudpartdeyannislaghalajskabylie",
    "title": "OL - Mercato : les détails du départ de Yannis Lagha à la JS Kabylie",
    "summary": "Jamais apparu chez les professionnels, Yannis Lagha a rejoint la JS Kabylie. L'OL conserve 25% sur un éventuel futur transfert. Une journée chargée pour les dirigeants de l'OL et la communication.",
@@ -114,17 +158,6 @@
    "source": "Olympique-et-Lyonnais",
    "author": "Gwendal Chabas",
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F08%2FIMG_2573-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-01T11:00:00+00:00"
-  },
-  {
-   "id": "ommercatoledossierkarltokoekambirefaitsurface",
-   "title": "OM Mercato : le dossier Karl Toko Ekambi refait surface !",
-   "summary": "Toujours bloqué par ses contraintes financières, l’OM pourrait finalement se tourner vers Karl Toko Ekambi. Libre de tout contrat et disposé à consentir d’importants efforts financiers, l’ancien Lyonnais représente une solution à moindre coût.",
-   "url": "https://www.butfootballclub.fr/1694982-om-mercato-le-dossier-karl-toko-ekambi-refait-surface/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F6eb3a1f4-om-mercato-le-dossier-karl-toko-ekambi-refait-surface.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-09-01T11:00:00+00:00"
   },
@@ -140,17 +173,6 @@
    "publishedAt": "2026-09-01T10:59:00+00:00"
   },
   {
-   "id": "olmercatoaccordtrouvmalickfofanavarejoindrelapremierleague",
-   "title": "OL Mercato : accord trouvé, Malick Fofana va rejoindre la Premier League !",
-   "summary": "Malick Fofana devrait quitter l’Olympique Lyonnais pour rejoindre Sunderland. Un accord aurait été trouvé entre le club anglais, l’OL et l’ailier belge autour d’un contrat de cinq ans.",
-   "url": "https://www.butfootballclub.fr/1695038-ol-mercato-accord-trouve-malick-fofana-va-rejoindre-la-premier-league/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fa6adce17-ol-mercato-accord-trouve-malick-fofana-va-rejoindre-la-premier-league.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-01T10:20:00+00:00"
-  },
-  {
    "id": "olmercatosunderlandenpassederecrutermalickfofana",
    "title": "OL - Mercato : Sunderland en passe de recruter Malick Fofana",
    "summary": "Pour plus de 30 millions d'euros avec les bonus, Malick Fofana devrait rejoindre Sunderland. Il s'apprête à passer sa visite médicale. Ça ne sera a priori pas Arsenal. On attendait l'évolution de ce dossier majeur du mercato lyonnais, la conclusion est prévue dans quelques heures.",
@@ -160,61 +182,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FFofana-e1787465740537-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-09-01T10:00:00+00:00"
-  },
-  {
-   "id": "olmercatodeuxjoueursmajeurssurledpartmalickfofanapoussepoura",
-   "title": "OL Mercato : deux joueurs majeurs sur le départ, Malick Fofana pousse pour Arsenal !",
-   "summary": "La dernière journée du mercato pourrait tourner au cauchemar pour l’OL. Malick Fofana aurait donné son accord à Arsenal et son entourage pousserait désormais pour convaincre Lyon. Dans le même temps, Nicolás Tagliafico se rapproche sérieusement de la Juventus.",
-   "url": "https://www.butfootballclub.fr/1694991-ol-mercato-deux-joueurs-majeurs-sur-le-depart-malick-fofana-pousse-pour-arsenal/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F00c4aa00-ol-mercato-deux-joueurs-majeurs-sur-le-depart-malick-fofana-pousse-pour-arsenal.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-01T09:40:00+00:00"
-  },
-  {
-   "id": "lolcondamnelesagressionsaprslematchfaceauhavre",
-   "title": "L'OL \"condamne\" les agressions après le match face au Havre",
-   "summary": "Une élue de Rilleux-la-Pape, Meriem Bouchedda, a dénoncé une agression raciste après OL - Le Havre samedi. Le club a réagi, indiquant se \"tenir à la disposition des autorités et de la justice\".",
-   "url": "https://www.olympique-et-lyonnais.com/lol-condamne-les-agressions-apres-le-match-face-au-havre,406192.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2020%2F04%2FOLlogo-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-01T09:15:00+00:00"
-  },
-  {
-   "id": "oldujecaletacarrejointsassuolo",
-   "title": "OL : Duje Caleta-Car rejoint Sassuolo",
-   "summary": "Duje Caleta-Car quitte l'Olympique lyonnais. Le défenseur croate a trouvé un accord avec Sassuolo, où il poursuivra sa carrière en Serie A après trois saisons passées dans le Rhône.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-duje-caleta-car-rejoint-sassuolo,406141.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FCapture-decran-2026-09-01-103539-770x433.png&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-01T08:31:58+00:00"
-  },
-  {
-   "id": "mercatounautrevainqueurdelagambardella2022quittelol",
-   "title": "Mercato : un autre vainqueur de la Gambardella 2022 quitte l'OL",
-   "summary": "Quelques jours après Yacine Chaïb, Yannis Lagha a lui aussi quitté l'OL. La génération victorieuse de la Gambardella 2022 diminue à vue d'œil. La preuve que remporter ce trophée n'est pas gage d'intégrer l'équipe première.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-un-autre-vainqueur-de-la-gambardella-2022-quitte-lol,406185.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F08%2FIMG_2551-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-01T08:10:00+00:00"
-  },
-  {
-   "id": "flashbackilyaunanolquandlesrvesdumercatoschouaientsurlaralit",
-   "title": "Flashback, il y a un an : OL : Quand les rêves du mercato s’échouaient sur la réalité des comptes",
-   "summary": "L'OL tente de boucler l’arrivée de Youssouf Fofana, mais la répartition de son salaire bloque encore le transfert à la dernière minute.",
-   "url": "https://www.butfootballclub.fr/1695006-ol-youssouf-fofana-salaire-bloque-transfert-derniere-minute/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F38a25140-ol-youssouf-fofana-salaire-bloque-transfert-derniere-minute-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-01T08:08:23+00:00"
   },
   {
    "id": "raquettefracasselusopenlosboissonliminedentreettrsfrustreapr",
@@ -283,17 +250,6 @@
    "publishedAt": "2026-08-30T07:46:46+00:00"
   },
   {
-   "id": "villefranchesursaneunhommede36anspoignardlagresseurenfuite",
-   "title": "Villefranche-sur-Saône : un homme de 36 ans poignardé, l’agresseur en fuite",
-   "summary": "Un homme de 36 ans a été grièvement blessé à l’arme blanche samedi soir à Villefranche-sur-Saône. Il a été héliporté en urgence absolue vers un hôpital de l'agglomération lyonnaise.",
-   "url": "https://www.lyonmag.com/article/153769/villefranche-sur-saone-un-homme-de-36-ans-poignarde-l-agresseur-en-fuite",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a93c7158170f-52426513457-3bf911cc69-o.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-08-30T06:00:00+00:00"
-  },
-  {
    "id": "ligue1troisjoursaprsfenerbahelyonconcdelenulfaceauhavredansu",
    "title": "Ligue 1: trois jours après Fenerbahçe, Lyon concède le nul face au Havre dans un match spectaculaire",
    "summary": "Après son élimination en barrage de la Ligue des champions, l'Olympique Lyonnais n'a pas réussi à rebondir avec une victoire en Ligue 1 ce samedi 29 août.",
@@ -325,17 +281,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F3cwL6V456O5TpjFmBGhexJa1SBI%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FLyon-1-1-Le-Havre-Insuffisant-Acherchour-tacle-les-Gones-et-Fonseca-2339141.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-29T21:02:46+00:00"
-  },
-  {
-   "id": "losopendavitelepireloldansunesoireencorefrustrantefaceauhavr",
-   "title": "Loïs Openda évite le pire à l’OL dans une soirée encore frustrante face au Havre (1-1)",
-   "summary": "Quelques jours après son élimination en Ligue des champions, l’OL a concédé le nul face au Havre (1-1).",
-   "url": "https://www.lyonfoot.com/article/14010/ol-le-havre-1-1-lois-openda-sauve-lyon-d-une-nouvelle-desillusion",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a93464b4dd9f-screenshot-2026-08-29-at-22.png&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-29T20:50:00+00:00"
   }
  ]
 }
