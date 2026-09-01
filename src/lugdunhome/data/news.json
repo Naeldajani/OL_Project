@@ -1,7 +1,6 @@
 {
- "updatedAt": "2026-09-01T08:37:38+00:00",
+ "updatedAt": "2026-09-01T14:08:47+00:00",
  "sources": [
-  "20 Minutes",
   "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
@@ -9,13 +8,189 @@
  ],
  "items": [
   {
+   "id": "olmercatolyontientleremplaantdefofanaleprixestcompltementfou",
+   "title": "OL Mercato : Lyon tient le remplaçant de Fofana, le prix est complètement fou",
+   "summary": "L’OL a trouvé un accord avec le Stade de Reims pour le transfert de Keito Nakamura, qui doit passer sa visite médicale ce mardi avant de signer à Lyon. C’est un nouveau mouvement important pour l’Olympique Lyonnais en cette dernière journée du mercato.",
+   "url": "https://www.butfootballclub.fr/1695087-ol-mercato-lyon-tient-le-remplacant-de-fofana-le-prix-est-completement-fou/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fasse-gros-coup-dur-en-vue-a-reims-lom-prete-a-faire-les-affaires-des-verts-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-01T14:00:00+00:00"
+  },
+  {
+   "id": "leparcolaaccueillison250ematchdeslyonnaisfaceauhavre",
+   "title": "Le Parc OL a accueilli son 250e match des Lyonnais face au Havre",
+   "summary": "La réception du Havre a marqué une nouvelle étape dans l’histoire du Parc OL. L’enceinte de Décines a accueilli son 250e match de l’Olympique lyonnais, une décennie après les débuts de l'équipe dans cette antre.",
+   "url": "https://www.olympique-et-lyonnais.com/le-parc-ol-a-accueilli-son-250e-match-des-lyonnais-face-au-havre,406148.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260829__C6TV2GD__v1__HighRes__FblFraLigue1LyonLeHavre-e1788250100378-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-01T13:50:00+00:00"
+  },
+  {
+   "id": "mercatoainsleymaitlandnilesolenroutepoureverton",
+   "title": "Mercato : Ainsley Maitland-Niles (OL) en route pour Everton",
+   "summary": "Ainsley Maitland-Niles va quitter l’Olympique lyonnais. Le latéral anglais doit s’engager avec Everton dans les dernières heures du mercato, dans une opération qui permettra au club rhodanien de poursuivre son dégraissage.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-ainsley-maitland-niles-ol-en-route-pour-everton,406285.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F08%2FAFP__20240824__36ET2WH__v1__HighRes__FblFraLigue1LyonMonaco-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-01T13:00:00+00:00"
+  },
+  {
+   "id": "olpierresageetcrystalpalaceenplepourmalickfofana",
+   "title": "OL : Pierre Sage et Crystal Palace en pôle pour Malick Fofana !",
+   "summary": "Alors qu’un accord total a été trouvé entre l’OL, Sunderland et Malick Fofana, Crystal Palace tente de faire capoter l’opération dans les dernières heures du mercato. Pierre Sage aimerait attirer son ancien joueur et les Eagles pourraient transmettre une proposition supérieure.",
+   "url": "https://www.butfootballclub.fr/1695070-ol-pierre-sage-et-crystal-palace-prets-a-surencherir-pour-malick-fofana/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F2abeb731-ol-pierre-sage-et-crystal-palace-prets-a-surencherir-pour-malick-fofana.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-01T13:00:00+00:00"
+  },
+  {
+   "id": "olunailier14butspoursuccdermalickfofana",
+   "title": "OL : un ailier à 14 buts pour succéder à Malick Fofana",
+   "summary": "Alors que Malick Fofana s’apprête à rejoindre Sunderland, l’OL a accéléré pour lui trouver un successeur. La priorité lyonnaise se nomme Keito Nakamura et l’international japonais aurait déjà donné son accord pour rejoindre les Gones.",
+   "url": "https://www.butfootballclub.fr/1695048-ol-un-ailier-a-14-buts-pour-succeder-a-malick-fofana/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fa1127362-ol-un-ailier-a-14-buts-pour-succeder-a-malick-fofana.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-01T12:20:00+00:00"
+  },
+  {
+   "id": "mercatololprtemahamadoudiawaraauredstar",
+   "title": "Mercato : l'OL prête Mahamadou Diawara au Red Star",
+   "summary": "C’est officiel, Mahamadou Diawara quitte l’Olympique lyonnais et rejoint le Red Star. Le milieu de terrain de 21 ans s’engage avec le club de Ligue 2 sous la forme d’un prêt avec option d’achat.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-lol-prete-mahamadou-diawara-au-red-star,406196.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F10%2F000_33XN8ZF-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-01T12:10:00+00:00"
+  },
+  {
+   "id": "olmercatocrystalpalacetentedattirermalickfofana",
+   "title": "OL - Mercato : Crystal Palace tente d'attirer Malick Fofana",
+   "summary": "Le jeu des surenchères pour Malick Fofana ? Alors qu'il se dirigeait vers Sunderland, Malick Fofana pourrait finalement signer à Crystal Palace avec une proposition de dernière minute.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-crystal-palace-tente-dattirer-malick-fofana,406254.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F12%2FAFP__20241212__DPPI_40424177_006__v1__HighRes__FootballEuropaLeagueLyonVFrankfurt-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-01T12:00:00+00:00"
+  },
+  {
+   "id": "olnicolaspuydeboispaulofonsecasetrompedecombat",
+   "title": "OL - Nicolas Puydebois : \"Paulo Fonseca se trompe de combat\"",
+   "summary": "Ces derniers jours, Paulo Fonseca a alimenté l'actualité de l'OL avec ses sorties en conférence de presse. Pour notre consultant Nicolas Puydebois, le Portugais n'emploie pas la bonne méthode.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-nicolas-puydebois-paulo-fonseca-se-trompe-de-combat,406215.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260405__A6TQ24C__v2__HighRes__FblFraLigue1AngersLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-01T11:50:00+00:00"
+  },
+  {
+   "id": "olmercatocoupdethtrevenirpouryoussouffofana",
+   "title": "OL Mercato : coup de théâtre à venir pour Youssouf Fofana ?",
+   "summary": "Annoncé tout proche de l’OL, Youssouf Fofana est encore loin d’avoir posé ses valises dans le Rhône. Les négociations avec l’AC Milan bloquent sur la prise en charge de son imposant salaire, mais un retournement de situation reste possible dans les dernières heures du mercato.",
+   "url": "https://www.butfootballclub.fr/1694996-ol-mercato-coup-de-theatre-a-venir-pour-youssouf-fofana/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F6b49d071-ol-mercato-coup-de-theatre-a-venir-pour-youssouf-fofana.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-01T11:40:00+00:00"
+  },
+  {
+   "id": "olmercatolesdtailsdudpartdeyannislaghalajskabylie",
+   "title": "OL - Mercato : les détails du départ de Yannis Lagha à la JS Kabylie",
+   "summary": "Jamais apparu chez les professionnels, Yannis Lagha a rejoint la JS Kabylie. L'OL conserve 25% sur un éventuel futur transfert. Une journée chargée pour les dirigeants de l'OL et la communication.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-les-details-du-depart-de-yannis-lagha-a-la-js-kabylie,406228.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F08%2FIMG_2573-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-01T11:00:00+00:00"
+  },
+  {
+   "id": "ommercatoledossierkarltokoekambirefaitsurface",
+   "title": "OM Mercato : le dossier Karl Toko Ekambi refait surface !",
+   "summary": "Toujours bloqué par ses contraintes financières, l’OM pourrait finalement se tourner vers Karl Toko Ekambi. Libre de tout contrat et disposé à consentir d’importants efforts financiers, l’ancien Lyonnais représente une solution à moindre coût.",
+   "url": "https://www.butfootballclub.fr/1694982-om-mercato-le-dossier-karl-toko-ekambi-refait-surface/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F6eb3a1f4-om-mercato-le-dossier-karl-toko-ekambi-refait-surface.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-01T11:00:00+00:00"
+  },
+  {
+   "id": "vudeschevinsfourvirealainmrieuxreprsenteraleslyonnaisle8sept",
+   "title": "Vœu des Échevins à Fourvière : Alain Mérieux représentera les Lyonnais le 8 septembre",
+   "summary": "Le traditionnel Vœu des Échevins sera renouvelé mardi 8 septembre à la basilique de Fourvière. Pour cette 383e édition, Alain Mérieux remettra l’écu commémoratif à l’archevêque de Lyon, Olivier de Germay.",
+   "url": "https://www.lyonmag.com/article/153796/voeu-des-echevins-a-fourviere-alain-merieux-representera-les-lyonnais-le-8-septembre",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a96b0ac56da6-51087689686-959463538d-o.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-01T10:59:00+00:00"
+  },
+  {
+   "id": "olmercatoaccordtrouvmalickfofanavarejoindrelapremierleague",
+   "title": "OL Mercato : accord trouvé, Malick Fofana va rejoindre la Premier League !",
+   "summary": "Malick Fofana devrait quitter l’Olympique Lyonnais pour rejoindre Sunderland. Un accord aurait été trouvé entre le club anglais, l’OL et l’ailier belge autour d’un contrat de cinq ans.",
+   "url": "https://www.butfootballclub.fr/1695038-ol-mercato-accord-trouve-malick-fofana-va-rejoindre-la-premier-league/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fa6adce17-ol-mercato-accord-trouve-malick-fofana-va-rejoindre-la-premier-league.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-01T10:20:00+00:00"
+  },
+  {
+   "id": "olmercatosunderlandenpassederecrutermalickfofana",
+   "title": "OL - Mercato : Sunderland en passe de recruter Malick Fofana",
+   "summary": "Pour plus de 30 millions d'euros avec les bonus, Malick Fofana devrait rejoindre Sunderland. Il s'apprête à passer sa visite médicale. Ça ne sera a priori pas Arsenal. On attendait l'évolution de ce dossier majeur du mercato lyonnais, la conclusion est prévue dans quelques heures.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-sunderland-en-passe-de-recruter-malick-fofana,406218.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FFofana-e1787465740537-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-01T10:00:00+00:00"
+  },
+  {
+   "id": "olmercatodeuxjoueursmajeurssurledpartmalickfofanapoussepoura",
+   "title": "OL Mercato : deux joueurs majeurs sur le départ, Malick Fofana pousse pour Arsenal !",
+   "summary": "La dernière journée du mercato pourrait tourner au cauchemar pour l’OL. Malick Fofana aurait donné son accord à Arsenal et son entourage pousserait désormais pour convaincre Lyon. Dans le même temps, Nicolás Tagliafico se rapproche sérieusement de la Juventus.",
+   "url": "https://www.butfootballclub.fr/1694991-ol-mercato-deux-joueurs-majeurs-sur-le-depart-malick-fofana-pousse-pour-arsenal/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F00c4aa00-ol-mercato-deux-joueurs-majeurs-sur-le-depart-malick-fofana-pousse-pour-arsenal.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-01T09:40:00+00:00"
+  },
+  {
+   "id": "lolcondamnelesagressionsaprslematchfaceauhavre",
+   "title": "L'OL \"condamne\" les agressions après le match face au Havre",
+   "summary": "Une élue de Rilleux-la-Pape, Meriem Bouchedda, a dénoncé une agression raciste après OL - Le Havre samedi. Le club a réagi, indiquant se \"tenir à la disposition des autorités et de la justice\".",
+   "url": "https://www.olympique-et-lyonnais.com/lol-condamne-les-agressions-apres-le-match-face-au-havre,406192.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2020%2F04%2FOLlogo-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-01T09:15:00+00:00"
+  },
+  {
    "id": "oldujecaletacarrejointsassuolo",
    "title": "OL : Duje Caleta-Car rejoint Sassuolo",
    "summary": "Duje Caleta-Car quitte l'Olympique lyonnais. Le défenseur croate a trouvé un accord avec Sassuolo, où il poursuivra sa carrière en Serie A après trois saisons passées dans le Rhône.",
    "url": "https://www.olympique-et-lyonnais.com/ol-duje-caleta-car-rejoint-sassuolo,406141.html",
    "source": "Olympique-et-Lyonnais",
    "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F07%2FIMG_3477-770x433.jpg&w=800&output=webp&q=78",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FCapture-decran-2026-09-01-103539-770x433.png&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-01T08:31:58+00:00"
   },
@@ -53,17 +228,6 @@
    "publishedAt": "2026-09-01T07:26:00+00:00"
   },
   {
-   "id": "olrennespendantlemultiplexdusamedisoir",
-   "title": "OL - Rennes pendant le multiplex du samedi soir",
-   "summary": "Pour la 4e fois en 5 journées, l'OL jouera le samedi soir. Il accueillera Rennes le 19 septembre à 20h45. Un premier choc en championnat. L'OL ambassadeur du multiplex de Ligue 1 ? En tout cas, la LFP semble apprécier de voir Paulo Fonseca et son équipe jouer le samedi soir.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-rennes-pendant-le-multiplex-du-samedi-soir,406182.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F09%2FAFP__20250914__74GN8KV__v1__HighRes__FblFraLigue1RennesLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-01T07:25:00+00:00"
-  },
-  {
    "id": "saudiproleaguelelyonnaiszacknanirempilepourunesaisondediffus",
    "title": "Saudi Pro League : le Lyonnais Zack Nani rempile pour une saison de diffusion gratuite",
    "summary": "Le streamer lyonnais Zack Nani a décidé de poursuivre à nouveau la diffusion et le commentaire des matchs de Saudi Pro League pour cette saison. Il a également fait le bilan de l'année écoulée.",
@@ -86,72 +250,6 @@
    "publishedAt": "2026-09-01T07:12:00+00:00"
   },
   {
-   "id": "olruddybuquetretrouveraleslyonnaisfaceauxerre",
-   "title": "OL : Ruddy Buquet retrouvera les Lyonnais face à Auxerre",
-   "summary": "Déjà arbitre d'un match de l'OL à cinq reprises la saison dernière, Ruddy Buquet sera au sifflet d'un duel face à Auxerre vendredi (19 heures). Ne pas laisser s'installer la sinistrose.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-ruddy-buquet-retrouvera-les-lyonnais-face-a-auxerre,406176.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2021%2F11%2F000_1FG2E1-e1637534897902-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-01T06:40:00+00:00"
-  },
-  {
-   "id": "oldelaligue1etuneentreeneuropaleagueenseptembre",
-   "title": "OL : de la Ligue 1 et une entrée en Europa League en septembre",
-   "summary": "Après un mois d’août marqué par les qualifications pour la Ligue des champions, l’OL va entrer dans une nouvelle phase de sa saison en septembre. Quatre rencontres attendent les Lyonnais, dont leur entrée en Ligue Europa, avant une longue trêve internationale.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-de-la-ligue-1-et-une-entree-en-europa-league-en-septembre,406122.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260503__A9P38V4__v1__HighRes__FblFraLigue1LyonRennes-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-01T06:00:00+00:00"
-  },
-  {
-   "id": "mercatolejourlepluslongpourlol",
-   "title": "Mercato : le jour le plus long pour l'OL",
-   "summary": "À 20 heures ce mardi, le mercato ferme ses portes. Une journée durant laquelle l'OL devrait être très actif, notamment dans le sens des départs. Les dossiers sont nombreux. Deux fois par an, elle revient.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-le-jour-le-plus-long-pour-lol,406167.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP__20260308__A2FT4QJ__v1__HighRes__FblFraLigue1LyonParisFc-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-01T05:30:00+00:00"
-  },
-  {
-   "id": "olchecsrptitiondclarationsfonsecadansloeilducyclone",
-   "title": "OL : échecs à répétition, déclarations... Fonseca dans l'oeil du cyclone",
-   "summary": "Ce lundi, l'équipe de \"Tant qu'il y aura des Gones\" est revenu sur les deux contreperformances de l'OL la semaine dernière contre Fenerbahçe et Le Havre. Il a été également question de Paulo Fonseca, sous le feu des critiques.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-echecs-a-repetition-declarations-fonseca-dans-loeil-du-cyclone,406147.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260829__C6TX66C__v1__HighRes__FblFraLigue1LyonLeHavre-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-08-31T16:55:00+00:00"
-  },
-  {
-   "id": "olmercatounnouveaucadorenpolepourmalickfofanaunautredpartbou",
-   "title": "OL Mercato : un nouveau cador en pole pour Malick Fofana, un autre départ bouclé !",
-   "summary": "Malick Fofana pourrait rejoindre Arsenal dans les dernières heures du mercato, tandis qu’un autre départ se précise à l’OL.",
-   "url": "https://www.butfootballclub.fr/1694870-ol-mercato-malick-fofana-vers-arsenal-un-autre-depart-boucle/",
-   "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F568c836a-ol-mercato-le-nouvel-indice-qui-en-dit-long-sur-lavenir-de-malick-fofana.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-31T16:44:12+00:00"
-  },
-  {
-   "id": "olmercatofofanafinalementversarsenal",
-   "title": "OL - Mercato : Fofana finalement vers Arsenal ?",
-   "summary": "À un peu plus de vingt-quatre heures de la fin du mercato, Malick Fofana est plus que jamais sur le départ. L’ailier de l’OL est désormais ciblé par Arsenal, le champion d’Angleterre en titre.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-fofana-finalement-vers-arsenal,406158.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__AA_18082026_2918767__v1__HighRes__FenerbahceVOlympiqueLyonnaisUefaCha-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-31T16:41:01+00:00"
-  },
-  {
    "id": "uneluederillieuxlapapevictimeduneagressionracisteaprsunmatch",
    "title": "Une élue de Rillieux-la-Pape victime d'une agression raciste après un match de l'OL ?",
    "summary": "Un couple dénonce une agression raciste aux abords du Groupama Stadium après OL-Le Havre.",
@@ -163,28 +261,6 @@
    "publishedAt": "2026-08-31T16:02:00+00:00"
   },
   {
-   "id": "ollyonnesmakavanderstichelarbitreralepremiermatchdelasaisonf",
-   "title": "OL Lyonnes : Maïka Vanderstichel arbitrera le premier match de la saison à Fleury",
-   "summary": "La LFFP a désigné Maïka Vanderstichel pour arbitrer la rencontre entre Fleury et l'OL Lyonnes, vendredi 4 septembre à 21 heures. Les championnes de France lanceront leur saison sur la pelouse du cinquième du dernier exercice.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-maika-vanderstichel-arbitrera-le-premier-match-de-la-saison-a-fleury,406114.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F05%2F560e77ead32b921215a5f91ce8de480c-770x433.webp&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-31T15:30:00+00:00"
-  },
-  {
-   "id": "olmercatounepistesurprenanteenattaque",
-   "title": "OL - Mercato : une piste surprenante en attaque ?",
-   "summary": "Dans cette fin de mercato, les pistes se multiplient à l'OL même s'il faut vendre avant tout. Du côté de l'Espagne, il est question d'un intérêt lyonnais pour Gonzalo Petit, attaquant du Real Betis.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-une-piste-surprenante-en-attaque,406125.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260730__DPPI_40827004_007__v1__HighRes__FootballFriendlyGameBetisVLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-31T14:45:00+00:00"
-  },
-  {
    "id": "bradleybarcolaliverpoollejolichquequiattendlol",
    "title": "Bradley Barcola à Liverpool : le joli chèque qui attend l’OL",
    "summary": "L’OL devrait empocher jusqu’à 4,9 millions d’euros grâce aux transferts de son ancien joueur.",
@@ -194,17 +270,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a958515c23b6-screenshot-2026-08-31-at-15.png&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-08-31T13:41:00+00:00"
-  },
-  {
-   "id": "ligue1202627dcouvrezleclassementetlesrsultatsaprsla2ejourne",
-   "title": "Ligue 1 2026/27 : Découvrez le classement et les résultats après la 2e journée",
-   "summary": "Retrouvez les scores de Monaco-OM, PFC-Nice, Rennes-Le Mans, Strasbourg-Lens, Auxerre-Angers, Brest-TFC, Lorient-Troyes, OL-HAC et Lille-PSG",
-   "url": "https://www.20minutes.fr/sport/football/4241725-20260830-ligue-1-2026-27-decouvrez-classement-resultats-apres-2e-journee?at_medium=display&at_campaign=149",
-   "source": "20 Minutes",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FzsU-p7q2QzSVaaBE96hFLSk%2F1444x920_buteur-contre-l-om-paris-brunner-permet-a-l-as-monaco-d-etre-leader-de-la-ligue-1-apres-deux-journees-photod-d-illustration&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-30T21:11:15+00:00"
   },
   {
    "id": "olilsepenseplusgrandqueleclublaftercritiqueenversfonseca",
@@ -271,28 +336,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a93464b4dd9f-screenshot-2026-08-29-at-22.png&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-08-29T20:50:00+00:00"
-  },
-  {
-   "id": "olungroschquesignparpierresagepourrubenkluivert",
-   "title": "OL : un gros chèque signé par Pierre Sage pour Ruben Kluivert ?",
-   "summary": "L'OL s'apprête à dire adieu à Ruben Kluivert, en partance pour Crystal Palace. Avec, au bout, une sacrée opération financière.",
-   "url": "https://www.lyonfoot.com/article/14009/ruben-kluivert-tout-proche-de-l-angleterre-l-ol-d-un-joli-cheque",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a9307a90117f-55381684568-30e5e67540-o.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-29T16:23:00+00:00"
-  },
-  {
-   "id": "ollyonnescraselondoncityavantlareprisedelapremireligue",
-   "title": "OL Lyonnes écrase London City avant la reprise de la Première Ligue",
-   "summary": "La préparation s'est bien terminée pour l’OL Lyonnes. Ce samedi 29 août, les joueuses de Jonatan Giráldez ont largement battu les London City Lionesses au Groupama OL Training Center.",
-   "url": "https://www.lyonfoot.com/article/14002/ol-lyonnes-termine-sa-preparation-par-un-large-succes-face-a-london-city-4-0",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a93019c19c77-785689848-1778724589985757-6888844097283801809-n.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-08-29T15:55:00+00:00"
   }
  ]
 }
