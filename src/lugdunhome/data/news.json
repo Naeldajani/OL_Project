@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-01T18:29:49+00:00",
+ "updatedAt": "2026-09-01T23:17:40+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -8,9 +8,31 @@
  ],
  "items": [
   {
+   "id": "olmercatolyonpassectduninternationalfranais",
+   "title": "OL Mercato : Lyon passe à côté d’un international français !",
+   "summary": "Le prêt de Youssouf Fofana à l’Olympique Lyonnais a été annulé au dernier moment, faute de pouvoir libérer suffisamment de masse salariale avant la fermeture du mercato. C’est un énorme retournement de situation pour l’OL, en plus du dossier Malick Fofana.",
+   "url": "https://www.butfootballclub.fr/1695181-ol-mercato-lyon-passe-a-cote-dun-international-francais/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fb24f713a-ol-mercato-lyon-passe-a-cote-dun-international-francais.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-01T19:40:00+00:00"
+  },
+  {
+   "id": "olmercatocestcompltementfoupourmalickfofanasontransfertbascu",
+   "title": "OL Mercato : c’est complètement fou pour Malick Fofana, son transfert bascule encore !",
+   "summary": "Alors qu’il semblait tout proche de Sunderland, Malick Fofana est de nouveau au cœur d’un incroyable bras de fer avec Crystal Palace, qui tente encore de renverser la situation. C’est un dossier complètement fou qui anime ce deadline day en France et en Angleterre.",
+   "url": "https://www.butfootballclub.fr/1695158-ol-mercato-cest-completement-fou-pour-malick-fofana-son-transfert-bascule-encore/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F568c836a-ol-mercato-le-nouvel-indice-qui-en-dit-long-sur-lavenir-de-malick-fofana.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-01T18:40:00+00:00"
+  },
+  {
    "id": "mercatoyoussouffofananejouerafinalementpaslol",
    "title": "Mercato : Youssouf Fofana ne jouera finalement pas à l'OL",
-   "summary": "Le milieu de terrain Youssouf Fofana devait signer à l'OL. Mais du fait de la non-vente, actuellement de Malick Fofana, le Milanais ne s'est finalement pas engagé avec le club lyonnais.",
+   "summary": "Le milieu de terrain Youssouf Fofana devait signer à l'OL. Mais du fait de la non-vente, actuellement, de Malick Fofana, le Milanais ne s'est finalement pas engagé avec le club lyonnais.",
    "url": "https://www.olympique-et-lyonnais.com/mercato-youssouf-fofana-ne-jouera-finalement-pas-a-lol,406331.html",
    "source": "Olympique-et-Lyonnais",
    "author": "Gwendal Chabas",
@@ -52,28 +74,6 @@
    "publishedAt": "2026-09-01T14:20:00+00:00"
   },
   {
-   "id": "ommercatoundpartinattenduseprofilepouruntitulairecausedelol",
-   "title": "OM Mercato : un départ inattendu se profile pour un titulaire… à cause de l’OL",
-   "summary": "Alors que l’OM pensait pouvoir conserver Emerson Palmieri, la Juventus pourrait encore tenter sa chance dans les dernières heures du mercato. Le marché des transferts réserve décidément son lot de rebondissements à l’OM.",
-   "url": "https://www.butfootballclub.fr/1695081-om-mercato-un-depart-inattendu-se-profile-pour-un-titulaire-a-cause-de-lol/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fom-le-verdict-est-deja-tombe-pour-la-blessure-demerson-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-01T14:20:00+00:00"
-  },
-  {
-   "id": "olmercatolyontientleremplaantdefofanaleprixestcompltementfou",
-   "title": "OL Mercato : Lyon tient le remplaçant de Fofana, le prix est complètement fou",
-   "summary": "L’OL a trouvé un accord avec le Stade de Reims pour le transfert de Keito Nakamura, qui doit passer sa visite médicale ce mardi avant de signer à Lyon. C’est un nouveau mouvement important pour l’Olympique Lyonnais en cette dernière journée du mercato.",
-   "url": "https://www.butfootballclub.fr/1695087-ol-mercato-lyon-tient-le-remplacant-de-fofana-le-prix-est-completement-fou/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fasse-gros-coup-dur-en-vue-a-reims-lom-prete-a-faire-les-affaires-des-verts-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-01T14:00:00+00:00"
-  },
-  {
    "id": "leparcolaaccueillison250ematchdeslyonnaisfaceauhavre",
    "title": "Le Parc OL a accueilli son 250e match des Lyonnais face au Havre",
    "summary": "La réception du Havre a marqué une nouvelle étape dans l’histoire du Parc OL. L’enceinte de Décines a accueilli son 250e match de l’Olympique lyonnais, une décennie après les débuts de l'équipe dans cette antre.",
@@ -94,28 +94,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F08%2FAFP__20240824__36ET2WH__v1__HighRes__FblFraLigue1LyonMonaco-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-09-01T13:00:00+00:00"
-  },
-  {
-   "id": "olpierresageetcrystalpalaceenplepourmalickfofana",
-   "title": "OL : Pierre Sage et Crystal Palace en pôle pour Malick Fofana !",
-   "summary": "Alors qu’un accord total a été trouvé entre l’OL, Sunderland et Malick Fofana, Crystal Palace tente de faire capoter l’opération dans les dernières heures du mercato. Pierre Sage aimerait attirer son ancien joueur et les Eagles pourraient transmettre une proposition supérieure.",
-   "url": "https://www.butfootballclub.fr/1695070-ol-pierre-sage-et-crystal-palace-prets-a-surencherir-pour-malick-fofana/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F2abeb731-ol-pierre-sage-et-crystal-palace-prets-a-surencherir-pour-malick-fofana.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-01T13:00:00+00:00"
-  },
-  {
-   "id": "olunailier14butspoursuccdermalickfofana",
-   "title": "OL : un ailier à 14 buts pour succéder à Malick Fofana",
-   "summary": "Alors que Malick Fofana s’apprête à rejoindre Sunderland, l’OL a accéléré pour lui trouver un successeur. La priorité lyonnaise se nomme Keito Nakamura et l’international japonais aurait déjà donné son accord pour rejoindre les Gones.",
-   "url": "https://www.butfootballclub.fr/1695048-ol-un-ailier-a-14-buts-pour-succeder-a-malick-fofana/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fa1127362-ol-un-ailier-a-14-buts-pour-succeder-a-malick-fofana.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-01T12:20:00+00:00"
   },
   {
    "id": "mercatololprtemahamadoudiawaraauredstar",
