@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-01T23:17:40+00:00",
+ "updatedAt": "2026-09-02T04:31:49+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,28 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "lolympiquelyonnaisvendmalmalickfofanasunderland",
+   "title": "L'Olympique Lyonnais vend (mal) Malick Fofana à Sunderland",
+   "summary": "Malick Fofana n'est plus un joueur de l'OL. L'ailier belge a été vendu, au bout du suspense, en fin de mercato, à Sunderland.",
+   "url": "https://www.lyonfoot.com/article/14033/ol-au-bout-d-un-suspense-rocambolesque-malick-fofana-atterrit-a-sunderland",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a979d127e18c-54050060734-f03af5af2b-o.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-02T03:49:00+00:00"
+  },
+  {
+   "id": "mercatololvendainsleymaitlandnileseverton",
+   "title": "Mercato : l'OL vend Ainsley Maitland-Niles à Everton",
+   "summary": "Retour en Premier League pour Ainsley Maitland-Niles. Le défenseur a signé à Everton ce mardi. L'OL gagne 3,5 millions d'euros dans l'opération. C'est un retour en Premier League pour Ainsley Maitland-Niles.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-lol-vend-ainsley-maitland-niles-a-everton,406287.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260730__DPPI_40827004_023__v1__HighRes__FootballFriendlyGameBetisVLyon-e1785585914574-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-02T03:28:13+00:00"
+  },
   {
    "id": "olmercatolyonpassectduninternationalfranais",
    "title": "OL Mercato : Lyon passe à côté d’un international français !",
@@ -149,17 +171,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a96b0ac56da6-51087689686-959463538d-o.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-01T10:59:00+00:00"
-  },
-  {
-   "id": "olmercatosunderlandenpassederecrutermalickfofana",
-   "title": "OL - Mercato : Sunderland en passe de recruter Malick Fofana",
-   "summary": "Pour plus de 30 millions d'euros avec les bonus, Malick Fofana devrait rejoindre Sunderland. Il s'apprête à passer sa visite médicale. Ça ne sera a priori pas Arsenal. On attendait l'évolution de ce dossier majeur du mercato lyonnais, la conclusion est prévue dans quelques heures.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-sunderland-en-passe-de-recruter-malick-fofana,406218.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FFofana-e1787465740537-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-01T10:00:00+00:00"
   },
   {
    "id": "raquettefracasselusopenlosboissonliminedentreettrsfrustreapr",
