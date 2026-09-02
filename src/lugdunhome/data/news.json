@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-02T16:33:46+00:00",
+ "updatedAt": "2026-09-02T21:02:14+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,28 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "lesinfosdujourrichardomselcheundpartbloqulasseunedernirerecr",
+   "title": "Les infos du jour : Richard (OM) se lâche, un départ bloqué à l’ASSE, une dernière recrue à l’OL",
+   "summary": "Si vous n’avez pas eu le temps de suivre l’actualité du jour, But! Football Club récapitule pour vous les informations importantes de ce mercredi 2 septembre 2026.",
+   "url": "https://www.butfootballclub.fr/1695376-les-infos-du-jour-richard-om-se-lache-un-depart-bloque-a-lasse-une-derniere-recrue-a-lol/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Ficonsport_248485_0231-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-02T18:30:00+00:00"
+  },
+  {
+   "id": "olmercatocestofficielpourla8erecrue",
+   "title": "OL Mercato : c’est officiel pour la 8e recrue !",
+   "summary": "L’OL a officialisé ce mercredi l’arrivée de Keito Nakamura en provenance du Stade de Reims. Keito Nakamura débarque bien à l’Olympique Lyonnais pour remplacer Malick Fofana, parti à Sunderland en tout fin de mercato estival.",
+   "url": "https://www.butfootballclub.fr/1695382-ol-mercato-cest-officiel-pour-la-8e-recrue/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F3bc11f8b-ol-mercato-cest-officiel-pour-la-8e-recrue.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-02T17:42:06+00:00"
+  },
   {
    "id": "keitonakamurarejointloletentredjdanslhistoireduclub",
    "title": "Keito Nakamura rejoint l’OL et entre déjà dans l’histoire du club",
@@ -149,17 +171,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FraNFAer2EURJsDN1EE85aqBUHi0%3D%2F0x212%3A2048x1364%2F800x0%2Fimages%2FLes-abords-du-Groupama-Stadium-avant-OL-Besiktas-0-1-Ligue-Europa-le-24-octobre-2024-1963464.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-02T10:11:34+00:00"
-  },
-  {
-   "id": "olletransfertdenakamuraenfinsurlepointdtreofficialis",
-   "title": "OL : le transfert de Nakamura enfin sur le point d’être officialisé",
-   "summary": "Le feuilleton touche enfin à sa fin. Retardée par les longues hésitations de Malick Fofana entre Sunderland et Crystal Palace, l’arrivée de Keito Nakamura à l’Olympique Lyonnais va finalement se concrétiser.",
-   "url": "https://www.butfootballclub.fr/1695272-ol-le-transfert-de-nakamura-enfin-sur-le-point-detre-officialise/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F092b4032-ol-retournement-total-pour-keito-nakamura.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-02T10:00:00+00:00"
   },
   {
    "id": "olduranvilleafaitsonretourlentrainement",
