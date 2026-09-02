@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-02T11:16:40+00:00",
+ "updatedAt": "2026-09-02T16:33:46+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,127 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "keitonakamurarejointloletentredjdanslhistoireduclub",
+   "title": "Keito Nakamura rejoint l’OL et entre déjà dans l’histoire du club",
+   "summary": "C’est désormais officiel, Keito Nakamura rejoint l’Olympique Lyonnais.",
+   "url": "https://www.lyonfoot.com/article/14049/keito-nakamura-a-l-ol-c-est-officiel",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a984aa83ec60-screenshot-2026-09-02-at-18.png&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-02T16:09:00+00:00"
+  },
+  {
+   "id": "mercatokeitonakamuraarrivelolcommejoker",
+   "title": "Mercato : Keito Nakamura arrive à l’OL comme joker",
+   "summary": "L’Olympique lyonnais tient finalement le remplaçant de Malick Fofana. Keito Nakamura rejoint le club rhodanien en tant que joker, après une opération retardée par les derniers rebondissements autour du départ de l’ailier belge.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-keito-nakamura-arrive-a-lol-comme-joker,406289.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FCapture-decran-2026-09-02-a-18.03.52-770x433.png&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-02T16:06:49+00:00"
+  },
+  {
+   "id": "olmercatountransfertpluttquunprtpournakamura",
+   "title": "OL - Mercato : un transfert plutôt qu'un prêt pour Nakamura ?",
+   "summary": "En passe d'être le joker de fin de mercato de l'OL, Keito Nakamura ne devrait finalement pas venir dans le cadre d'un prêt avec option d'achat.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-un-transfert-plutot-quun-pret-pour-nakamura,406433.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F11%2FAFP__20241123__36N842P__v1__HighRes__FblFraLigue1ReimsLyon-e1732399759619-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-02T15:52:59+00:00"
+  },
+  {
+   "id": "ligue1lolrecevraniceavantdesedplaceraupsg",
+   "title": "Ligue 1 : l’OL recevra Nice avant de se déplacer au PSG",
+   "summary": "L’Olympique lyonnais connaît désormais les dates de ses 7e et 8e journées de Ligue 1. Les Lyonnais recevront l’OGC Nice le dimanche 18 octobre avant de se déplacer sur la pelouse du Paris Saint-Germain, une semaine plus tard.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-1-lol-recevra-nice-avant-de-se-deplacer-au-psg,406375.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FAFP__20260215__97NB6X2__v1__HighRes__FblFraLigue1LyonNice-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-02T15:30:00+00:00"
+  },
+  {
+   "id": "mercatomelvinbardexolrejointleeds",
+   "title": "Mercato : Melvin Bard (ex-OL) rejoint Leeds",
+   "summary": "Melvin Bard va découvrir la Premier League. Le latéral gauche de 25 ans quitte l’OGC Nice pour rejoindre Leeds sous la forme d’un prêt payant avec option d’achat, cinq ans après son départ de l’Olympique lyonnais.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-melvin-bard-ex-ol-rejoint-leeds,406214.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2Fafp_en_3454d257aa63c4bea2b0e1a20785af1490946486-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-02T14:40:00+00:00"
+  },
+  {
+   "id": "olladtavalidelannulationdubutdetolissocontrelehavre",
+   "title": "OL : la DTA valide l’annulation du but de Tolisso contre Le Havre",
+   "summary": "La Direction technique de l’arbitrage est revenue sur l’action litigieuse du match entre l’OL et Le Havre (1-1). Elle estime que l’arbitre a pris la bonne décision en refusant le but de Corentin Tolisso pour une position de hors-jeu.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-la-dta-valide-lannulation-du-but-de-tolisso-contre-le-havre,406392.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2022%2F11%2F000_32LZ3L6-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-02T13:50:00+00:00"
+  },
+  {
+   "id": "olpluiedebonnesnouvellespourfonsecaavantauxerre",
+   "title": "OL : pluie de bonnes nouvelles pour Fonseca avant Auxerre",
+   "summary": "À deux jours de la réception de l’AJ Auxerre, plusieurs nouvelles devraient donner le sourire à Paulo Fonseca et à l’OL.",
+   "url": "https://www.butfootballclub.fr/1695316-ol-pluie-de-bonnes-nouvelles-pour-fonseca-avant-auxerre/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fd2cc44fe-ol-pluie-de-bonnes-nouvelles-pour-fonseca-avant-auxerre.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-02T13:50:00+00:00"
+  },
+  {
+   "id": "ligueeuropaloldoitprsentersalistecemercrediavantminuit",
+   "title": "Ligue Europa : l’OL doit présenter sa liste ce mercredi avant minuit",
+   "summary": "Reversé en Ligue Europa suite à sa non-qualification pour la Ligue des champions, l’OL fera son entrée à Anderlecht le 16 septembre prochain. Néanmoins, le club lyonnais doit soumettre sa liste A avant ce mercredi 2 septembre 23h59.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-europa-lol-doit-presenter-sa-liste-ce-mercredi-avant-minuit,406409.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__C4Y66TV__v1__HighRes__FblEurC1QualifyingFenerbahceLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-02T13:00:00+00:00"
+  },
+  {
+   "id": "olmercatotagliaficounchoixdelatlticoplusquuneraisonfinancire",
+   "title": "OL - Mercato : Tagliafico, un choix de l'Atlético plus qu'une raison financière?",
+   "summary": "Dans le viseur de l'Atlético de Madrid sur la dernière journée de mercato, Nicolás Tagliafico n'a finalement pas rallié l'Espagne. S'il a été question du fair-play financier en Liga, la presse espagnole évoque une volonté madrilène de miser sur sa formation.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-tagliafico-un-choix-de-latletico-plus-quune-raison-financiere,406401.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2FAFP__20250925__76TD83Z__v1__HighRes__FblEurC3UtrechtLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-02T12:10:00+00:00"
+  },
+  {
+   "id": "baignadeconfluence74deslyonnaissduitsmaisleshabitantsduquart",
+   "title": "Baignade à Confluence : 74% des Lyonnais séduits, mais les habitants du quartier beaucoup plus partagés",
+   "summary": "Près de 10 000 personnes ont répondu au questionnaire lancé par la Ville de Lyon sur son projet de baignade naturelle à Confluence prévu pour l’été 2027. Si 73,7% des participants s’imaginent s’y baigner, l’enthousiasme tombe à 53,9% parmi les habitants du quartier.",
+   "url": "https://www.lyonmag.com/article/153811/baignade-a-confluence-74-des-lyonnais-seduits-mais-les-habitants-du-quartier-beaucoup-plus-partages",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a980da43ee28-1200x675-69e602af8d299-cp-baignade-de-confluence-la-ville-de-lyon-lance-une-grande-concertation-pour-recueillir-les-attentes-des-habitants.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-02T12:00:00+00:00"
+  },
+  {
+   "id": "mercatoturquiearabiesaouditeceschampionnatsololpeutencoreven",
+   "title": "Mercato : Turquie, Arabie saoudite... ces championnats où l’OL peut encore vendre",
+   "summary": "Désireux de faire rentrer de l’argent et d’alléger sa masse salariale, l’OL a en partie réussi son affaire avant le 2 septembre. Néanmoins, le club lyonnais doit encore dégraisser et pourrait compter sur des marchés encore ouverts en Europe ou ailleurs.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-turquie-arabie-saoudite-ces-championnats-ou-lol-peut-encore-vendre,406395.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20250925__DPPI_40025073_039__v1__HighRes__FootballFrenchChampRennesVLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-02T11:20:00+00:00"
+  },
   {
    "id": "unebalancepositivequellenotepourlemercatodelol",
    "title": "Une balance positive… quelle note pour le mercato de l’OL ?",
@@ -17,6 +138,17 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__AA_18082026_2918732__v1__HighRes__FenerbahceVOlympiqueLyonnaisUefaCha-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-09-02T10:35:00+00:00"
+  },
+  {
+   "id": "ilsontfaillituermonfilsilslontmassacrlamredunjeunede17ansdno",
+   "title": "\"Ils ont failli tuer mon fils, ils l'ont massacré\": la mère d'un jeune de 17 ans dénonce une agression raciste en marge du match OL-Le Havre",
+   "summary": "Un lycéen âgé de 17 ans a été lynché sur le parvis du Groupama Stadium avant le match OL-Le Havre, rapporte Le Progrès. Frappé à terre, le jeune homme est lourdement blessé.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/ils-ont-failli-tuer-mon-fils-ils-l-ont-massacre-la-mere-d-un-jeune-de-17-ans-denonce-une-agression-raciste-en-marge-du-match-ol-le-havre_AV-202609020461.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FraNFAer2EURJsDN1EE85aqBUHi0%3D%2F0x212%3A2048x1364%2F800x0%2Fimages%2FLes-abords-du-Groupama-Stadium-avant-OL-Besiktas-0-1-Ligue-Europa-le-24-octobre-2024-1963464.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-02T10:11:34+00:00"
   },
   {
    "id": "olletransfertdenakamuraenfinsurlepointdtreofficialis",
@@ -52,72 +184,6 @@
    "publishedAt": "2026-09-02T09:50:00+00:00"
   },
   {
-   "id": "oltagliaficorendhommagemessiaprssaretraiteinternationale",
-   "title": "OL : Tagliafico rend hommage à Messi après sa retraite internationale",
-   "summary": "Après l’annonce de la retraite internationale de Lionel Messi, Nicolás Tagliafico a tenu à rendre hommage à son ancien capitaine. Le latéral de l’OL a partagé une photo d'une accolade entre eux.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-tagliafico-rend-hommage-a-messi-apres-son-depart-de-la-selection,406155.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F03%2F000_33BX7G3-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-02T09:00:00+00:00"
-  },
-  {
-   "id": "olmercatounedernirerecruevadbarquercommejoker",
-   "title": "OL Mercato : une dernière recrue va débarquer comme joker !",
-   "summary": "Le mercato a officiellement fermé ses portes, mais l’Olympique Lyonnais n’a pas terminé ses emplettes. Après le départ tardif de Malick Fofana à Sunderland, les Gones disposent désormais de la marge nécessaire pour recruter un joker.",
-   "url": "https://www.butfootballclub.fr/1695234-ol-mercato-une-derniere-recrue-va-debarquer-comme-joker/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F77f587a7-ol-mercato-une-derniere-recrue-va-debarquer-comme-joker.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-02T08:40:00+00:00"
-  },
-  {
-   "id": "olmercatolagantoisevaprendresondsurloprationfofana",
-   "title": "OL - Mercato : La Gantoise va prendre son dû sur l'opération Fofana",
-   "summary": "Ayant vendu Malick Fofana pour un montant inférieur aux 40M€ espérés, l’OL va également devoir donner de l’argent à La Gantoise. Le club belge avait un intéressement de 20% sur une future plus-value.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-la-gantoise-va-prendre-son-du-sur-loperation-fofana,406371.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260811__C4F29KX__v1__HighRes__FblEurC1QualifyingLyonPrague-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-02T08:15:00+00:00"
-  },
-  {
-   "id": "ollehavre11unjeunepasstabac30joursditt",
-   "title": "OL - Le Havre (1-1) : un jeune passé à tabac, 30 jours d’ITT",
-   "summary": "Suite au communiqué publié par l’OL après des violences survenus en marge du match contre Le Havre, un jeune homme a reçu 30 jours d’ITT après avoir été passé à tabac par un groupe d’individus sur le parvis du Parc OL.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-le-havre-1-1-un-jeune-passe-a-tabac-30-jours-ditt,406367.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F01%2FIMG_2885-copie-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-02T07:30:00+00:00"
-  },
-  {
-   "id": "mercatopourquoilolpeutencorerecruternakamura",
-   "title": "Mercato : pourquoi l'OL peut encore recruter Nakamura",
-   "summary": "Présent à Lyon mardi après-midi, Keito Nakamura a passé sa visite médicale, sans pouvoir s'engager avec l'OL, Malick Fofana n'étant toujours pas parti. Malgré la fin du mercato, le Japonais peut encore rejoindre le club lyonnais, grâce au principe du joker, mis en place en France.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-pourquoi-lol-peut-encore-recruter-nakamura,406365.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F06%2F000_33JU6DL-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-02T06:45:00+00:00"
-  },
-  {
-   "id": "fofanamaitlandnilestagliaficoctaitvraimentlejourlepluslonglo",
-   "title": "Fofana, Maitland-Niles, Tagliafico... C'était vraiment le jour le plus long à l'OL",
-   "summary": "Dans un dernier jour de mercato à rallonge, l'OL n'a clairement pas fait ce qu'il espérait, notamment au niveau des départs. L'imbroglio autour de Malick Fofana n'ayant pas aidé non plus.",
-   "url": "https://www.olympique-et-lyonnais.com/fofana-maitland-niles-tagliafico-cetait-vraiment-le-jour-le-plus-long-a-lol,406361.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__AA_18082026_2918767__v1__HighRes__FenerbahceVOlympiqueLyonnaisUefaCha-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-02T06:13:50+00:00"
-  },
-  {
    "id": "eluederillieuxlapapeetsonconjointagresssaprsollehavrealexand",
    "title": "Elue de Rillieux-la-Pape et son conjoint agressés après OL-Le Havre : Alexandre Vincendet au chevet de son opposante",
    "summary": "Meriem Bouchedda, élue d'opposition de la Ville de Rillieux-la-Pape, et son conjoint ont été victimes d’une agression physique et verbale à l’issue du match entre l’OL et Le Havre. Le maire Alexandre Vincendet leur apporte son soutien et appelle à ce que les auteurs soient rapidement retrouvés.",
@@ -129,39 +195,6 @@
    "publishedAt": "2026-09-02T06:00:00+00:00"
   },
   {
-   "id": "olmercatonakamuraaavortlarrivedunattaquantquiaffolelometlerc",
-   "title": "OL Mercato : Nakamura a avorté l’arrivée d’un attaquant qui affole l’OM et le RC Lens",
-   "summary": "Alors que Yann Gboho semblait promis à Kansas City, l’OL s’était positionné et aurait imaginé son arrivée comme joker. L’OL n’avait pas dit son dernier mot dans le dossier Yann Gboho, courtisé auparavant par l’OM et le RC Lens.",
-   "url": "https://www.butfootballclub.fr/1695189-ol-mercato-nakamura-a-avorte-larrivee-dun-attaquant-qui-affole-lom-et-le-rc-lens/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2FICONSPORT_277983_0200-1-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-02T06:00:00+00:00"
-  },
-  {
-   "id": "ligue1lolsedplaceralensle9octobre",
-   "title": "Ligue 1 : l’OL se déplacera à Lens le 9 octobre",
-   "summary": "L’Olympique lyonnais connaît désormais la date et l’heure de son déplacement à Lens. Les Lyonnais affronteront le RC Lens vendredi 9 octobre à 20h45, pour le compte de la 6e journée de Ligue 1.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-1-lol-se-deplacera-a-lens-le-9-octobre,406337.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260517__B34W9VW__v1__HighRes__FblFraLigue1LyonLens-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-02T05:40:00+00:00"
-  },
-  {
-   "id": "olmercatoaprsunimprobablefeuilletonfofanarejointsunderlandpo",
-   "title": "OL - Mercato : après un improbable feuilleton, Fofana rejoint Sunderland pour 30 M€",
-   "summary": "C’est désormais officiel : Malick Fofana quitte l’Olympique lyonnais et rejoint Sunderland. L’ailier belge s’engage avec le club anglais après plusieurs jours de rebondissements, marqués par l’intérêt de plusieurs formations européennes et un accord finalement trouvé avec les Black Cats.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-apres-un-improbable-feuilleton-malick-fofana-rejoint-sunderland-pour-30-me,406229.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FAFP__20251005__77RB2L8__v1__HighRes__FblFraLigue1LyonToulouse-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-02T05:08:18+00:00"
-  },
-  {
    "id": "lolympiquelyonnaisvendmalmalickfofanasunderland",
    "title": "L'Olympique Lyonnais vend (mal) Malick Fofana à Sunderland",
    "summary": "Malick Fofana n'est plus un joueur de l'OL. L'ailier belge a été vendu, au bout du suspense, en fin de mercato, à Sunderland.",
@@ -171,17 +204,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a979d127e18c-54050060734-f03af5af2b-o.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-09-02T03:49:00+00:00"
-  },
-  {
-   "id": "mercatololvendainsleymaitlandnileseverton",
-   "title": "Mercato : l'OL vend Ainsley Maitland-Niles à Everton",
-   "summary": "Retour en Premier League pour Ainsley Maitland-Niles. Le défenseur a signé à Everton ce mardi. L'OL gagne 3,5 millions d'euros dans l'opération. C'est un retour en Premier League pour Ainsley Maitland-Niles.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-lol-vend-ainsley-maitland-niles-a-everton,406287.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260730__DPPI_40827004_023__v1__HighRes__FootballFriendlyGameBetisVLyon-e1785585914574-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-02T03:28:13+00:00"
   },
   {
    "id": "vudeschevinsfourvirealainmrieuxreprsenteraleslyonnaisle8sept",
@@ -237,61 +259,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a95a53be6ee0-blessure.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-08-31T16:02:00+00:00"
-  },
-  {
-   "id": "bradleybarcolaliverpoollejolichquequiattendlol",
-   "title": "Bradley Barcola à Liverpool : le joli chèque qui attend l’OL",
-   "summary": "L’OL devrait empocher jusqu’à 4,9 millions d’euros grâce aux transferts de son ancien joueur.",
-   "url": "https://www.lyonfoot.com/article/14023/bradley-barcola-a-liverpool-l-ol-va-toucher-pres-de-5-millions-d-euros",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a958515c23b6-screenshot-2026-08-31-at-15.png&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-08-31T13:41:00+00:00"
-  },
-  {
-   "id": "olilsepenseplusgrandqueleclublaftercritiqueenversfonseca",
-   "title": "OL: \"Il se pense plus grand que le club\", l'After critique envers Fonseca",
-   "summary": "Trois jours après l'élimination en Ligue des champions, Lyon a été tenu en échec à domicile face au Havre ce samedi (1-1), lors de la 2e journée de Ligue 1.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/ol-il-se-pense-plus-grand-que-le-club-l-after-critique-envers-fonseca_AV-202608300126.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FHne2pRAQI3ITz5z-vH8rvKFpCQg%3D%2F0x0%3A2048x1152%2F800x0%2Fimages%2FL-entraineur-de-l-Olympique-Lyonnais-Paulo-Fonseca-lors-du-match-contre-Fenerbahce-le-18-aout-2026-2333848.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-30T07:46:46+00:00"
-  },
-  {
-   "id": "ligue1troisjoursaprsfenerbahelyonconcdelenulfaceauhavredansu",
-   "title": "Ligue 1: trois jours après Fenerbahçe, Lyon concède le nul face au Havre dans un match spectaculaire",
-   "summary": "Après son élimination en barrage de la Ligue des champions, l'Olympique Lyonnais n'a pas réussi à rebondir avec une victoire en Ligue 1 ce samedi 29 août.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-lyon-le-havre-suivez-le-match-du-multiplex-de-la-deuxieme-journee-de-ligue-1-en-live_LS-202608290260.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F3lQbgcFRwULPajE5GvVF6YItIWk%3D%2F0x88%3A2048x1240%2F800x0%2Fimages%2FLe-match-entre-l-Olympique-lyonnais-et-Le-Havre-le-29-aout-2026-2339121.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-29T22:47:46+00:00"
-  },
-  {
-   "id": "ol11lehavrevendre3joueursetlesremplacerlesbesoinsdefonseca",
-   "title": "OL 1-1 Le Havre : \"Vendre 3 joueurs (et les remplacer)\" les besoins de Fonseca",
-   "summary": "Lyon n'a pu battre Le Havre (1-1) ce samedi lors de la 2e journée de Ligue 1. le coach des Gones, Paulo Fonseca, sait que le club doit vendre avant d'insuffler de la nouveauté dans son groupe.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-ol-1-1-le-havre-vendre-3-joueurs-et-les-remplacer-les-besoins-de-fonseca_VN-202608290413.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FiYeGIyrL_7CJ9a-jk2UiTXO4KHA%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FOL-1-1-Le-Havre-Vendre-3-joueurs-et-les-remplacer-les-besoins-de-Fonseca-2339148.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-29T21:38:33+00:00"
-  },
-  {
-   "id": "lyon11lehavreinsuffisantacherchourtaclelesgonesetfonseca",
-   "title": "Lyon 1-1 Le Havre : \"Insuffisant\" Acherchour tacle les Gones et Fonseca",
-   "summary": "L'OL a été accroché par Le Havre 1-1 ce samedi pour la 2e journée de Ligue 1. Après son élimination en Ligue des champions, les Gones sont passés par toutes les sensations face aux Havrais.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-lyon-1-1-le-havre-insuffisant-acherchour-tacle-les-gones-et-fonseca_VN-202608290404.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F3cwL6V456O5TpjFmBGhexJa1SBI%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FLyon-1-1-Le-Havre-Insuffisant-Acherchour-tacle-les-Gones-et-Fonseca-2339141.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-29T21:02:46+00:00"
   }
  ]
 }
