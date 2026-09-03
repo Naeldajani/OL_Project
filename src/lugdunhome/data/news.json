@@ -1,6 +1,7 @@
 {
- "updatedAt": "2026-09-03T04:21:54+00:00",
+ "updatedAt": "2026-09-03T11:12:48+00:00",
  "sources": [
+  "20 Minutes",
   "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
@@ -8,48 +9,158 @@
  ],
  "items": [
   {
-   "id": "assemercatokilmersportsabienchipunerecrueaunezetlabarbedelol",
-   "title": "ASSE Mercato : Kilmer Sports a bien chipé une recrue au nez et à la barbe de l’OL !",
-   "summary": "L’ASSE a bien bouclé l’arrivée d’Elyes Dhaoui, jeune milieu tunisien de 18 ans également convoité par plusieurs clubs de Ligue 1, dont l’OL.",
-   "url": "https://www.butfootballclub.fr/1695336-asse-mercato-kilmer-sports-a-bien-chipe-une-recrue-au-nez-et-a-la-barbe-de-lol/",
-   "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F1bb6126e-asse-lincroyable-histoire-divan-gazidis-avant-son-arrivee-chez-les-verts-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-03T04:00:00+00:00"
+   "id": "mortduncadreurlyonnaisunprocs11ansaprslaccidentsurletournage",
+   "title": "Mort d'un cadreur lyonnais : un procès 11 ans après l'accident sur le tournage de l'émission Dropped",
+   "summary": "Il y aura bien un procès, onze ans après l'accident sur le tournage de l'émission Dropped.",
+   "url": "https://www.lyonmag.com/article/153824/mort-d-un-cadreur-lyonnais-un-proces-11-ans-apres-l-accident-sur-le-tournage-de-l-emission-dropped",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a9955c198123-1200x675-60475979001ad-brice-guilbert.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-03T11:09:00+00:00"
   },
   {
-   "id": "pronosticolajauxerrelyonvatilserelancerfacelalanternerouge",
-   "title": "Pronostic OL – AJ Auxerre : Lyon va-t-il se relancer face à la lanterne rouge ?",
-   "summary": "Voici l’analyse complète du match de la troisième journée de Ligue 1 entre l’OL et l’AJ Auxerre, ainsi que notre pronostic de la rencontre.",
-   "url": "https://www.butfootballclub.fr/1695014-pronostic-ol-aj-auxerre-lyon-va-t-il-se-relancer-face-a-la-lanterne-rouge/",
-   "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F06fa7a2f-ol-auxerre-1-684x1024.png&w=800&output=webp&q=78",
+   "id": "ollyonneswassasangarprolongesoncontratjusquen2029",
+   "title": "OL Lyonnes : Wassa Sangaré prolonge son contrat jusqu’en 2029",
+   "summary": "Wassa Sangaré poursuit l’aventure avec OL Lyonnes. De retour dans son club formateur après une saison passée en Angleterre, la défenseure centrale a prolongé son contrat de deux saisons supplémentaires, soit jusqu’au 30 juin 2029.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-wassa-sangare-prolonge-son-contrat-jusquen-2029,406476.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FZJ106300-975x633-1-770x433.webp&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-03T11:05:36+00:00"
+  },
+  {
+   "id": "olfenerbaheluefaouvreuneprocduredisciplinairecontreleclubtur",
+   "title": "OL - Fenerbahçe : l’UEFA ouvre une procédure disciplinaire contre le club turc",
+   "summary": "Après les débordements survenus au coup de sifflet final du barrage retour de Ligue des champions contre l'OL, l’UEFA a engagé des poursuites contre Mattéo Guendouzi, Mason Greenwood et le Fenerbahçe.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-fenerbahce-luefa-ouvre-une-procedure-disciplinaire-contre-le-club-turc,406469.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260826__AA_27082026_2929253__v1__HighRes__OlympiqueLyonVFenerbahceUefaChampio-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-03T10:35:00+00:00"
+  },
+  {
+   "id": "ollapplicationmobiledsormaisobligatoirepourprsentersonabonne",
+   "title": "OL : l’application mobile désormais obligatoire pour présenter son abonnement ou son billet de match",
+   "summary": "A partir du 17 septembre prochain, l'OL a décidé de rendre obligatoire l'application mobile pour présenter son abonnement ou son billet de match.",
+   "url": "https://www.lyonfoot.com/article/14055/ol-l-application-mobile-desormais-obligatoire-pour-presenter-son-abonnement-ou-son-billet-de-match",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a994664b1751-supporter-stade.jpg&w=800&output=webp&q=78",
    "topic": "Match",
-   "publishedAt": "2026-09-03T03:30:00+00:00"
+   "publishedAt": "2026-09-03T10:02:00+00:00"
   },
   {
-   "id": "lesinfosdujourrichardomselcheundpartbloqulasseunedernirerecr",
-   "title": "Les infos du jour : Richard (OM) se lâche, un départ bloqué à l’ASSE, une dernière recrue à l’OL",
-   "summary": "Si vous n’avez pas eu le temps de suivre l’actualité du jour, But! Football Club récapitule pour vous les informations importantes de ce mercredi 2 septembre 2026.",
-   "url": "https://www.butfootballclub.fr/1695376-les-infos-du-jour-richard-om-se-lache-un-depart-bloque-a-lasse-une-derniere-recrue-a-lol/",
-   "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Ficonsport_248485_0231-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-02T18:30:00+00:00"
+   "id": "olduranvilleenindividuelnakamuralentranement",
+   "title": "OL : Duranville en individuel, Nakamura à l'entraînement",
+   "summary": "Ce jeudi, à la veille d'OL - Auxerre, Paulo Fonseca pouvait compter sur un groupe fourni. Néanmoins, Julien Duranville s'est avant tout entraîné en individuel tandis que Keito Nakamura était bien présent mais ne sera pas qualifié vendredi.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-duranville-en-individuel-nakamura-a-lentrainement,406471.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FDuranville-2-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-09-03T09:56:23+00:00"
   },
   {
-   "id": "olmercatocestofficielpourla8erecrue",
-   "title": "OL Mercato : c’est officiel pour la 8e recrue !",
-   "summary": "L’OL a officialisé ce mercredi l’arrivée de Keito Nakamura en provenance du Stade de Reims. Keito Nakamura débarque bien à l’Olympique Lyonnais pour remplacer Malick Fofana, parti à Sunderland en tout fin de mercato estival.",
-   "url": "https://www.butfootballclub.fr/1695382-ol-mercato-cest-officiel-pour-la-8e-recrue/",
+   "id": "ollyonnesleprogrammedumoisdeseptembre",
+   "title": "OL Lyonnes : le programme du mois de septembre",
+   "summary": "Les OL Lyonnes connaissent leur programme pour le mois de septembre. Les joueuses de Jonatan Giráldez disputeront trois rencontres, avec deux déplacements et une réception à Lyon. Le mois débutera dès le vendredi 4 septembre avec un déplacement sur la pelouse du FCF91.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-le-programme-du-mois-de-septembre,406414.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260529__B4G44LG__v1__HighRes__FblEurC1WomenLyonParisFc-e1780139483318-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-03T09:45:00+00:00"
+  },
+  {
+   "id": "olmercatocoupdethtrepourlavenirdetagliaficodeuxdpartslhorizo",
+   "title": "OL Mercato : coup de théâtre pour l’avenir de Tagliafico, deux départs à l’horizon !",
+   "summary": "L’OL cherche toujours une porte de sortie à son champion du monde 2022 Nicolas Tagliafico (34 ans). L’OL n’a pas encore totalement bouclé son opération dégraissage. Et un dossier pourrait bien continuer à agiter les prochaines semaines : celui de Nicolas Tagliafico.",
+   "url": "https://www.butfootballclub.fr/1695483-ol-mercato-coup-de-theatre-pour-lavenir-de-tagliafico-deux-departs-a-lhorizon/",
    "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F3bc11f8b-ol-mercato-cest-officiel-pour-la-8e-recrue.jpg&w=800&output=webp&q=78",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F59316b70-ol-mercato-coup-de-theatre-pour-lavenir-de-tagliafico.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
-   "publishedAt": "2026-09-02T17:42:06+00:00"
+   "publishedAt": "2026-09-03T09:40:00+00:00"
+  },
+  {
+   "id": "ligue1loldansletop5pourfairejouerlesjeunes",
+   "title": "Ligue 1 : l'OL dans le top 5 pour faire jouer les jeunes",
+   "summary": "Avec 17,4 % de minutes disputées par des joueurs de moins de 21 ans depuis le début de la saison, l’Olympique lyonnais occupe la cinquième place de Ligue 1 dans ce classement. Seuls Strasbourg, le Paris Saint-Germain, Toulouse et Troyes font davantage confiance aux jeunes.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-1-lol-dans-le-top-5-pour-faire-jouer-les-jeunes,406403.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260425__A8XW6NZ__v1__HighRes__FblFraLigue1LyonAuxerre-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-03T09:00:00+00:00"
+  },
+  {
+   "id": "olfenerbaheluefaouvreuneprocduredisciplinairecontremattoguen",
+   "title": "OL - Fenerbahçe : L’UEFA ouvre une procédure disciplinaire contre Mattéo Guendouzi après les incidents au Groupama",
+   "summary": "Le milieu de terrain français avait provoqué les supporters lyonnais à plusieurs reprises lors du barrage retour de la C1, la semaine passée, après avoir été lui-même insulté toute la rencontre",
+   "url": "https://www.20minutes.fr/sport/football/ligue_des_champions/4242501-20260903-ol-fenerbahce-uefa-ouvre-procedure-disciplinaire-contre-matteo-guendouzi-apres-incidents-groupama?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FkE0vcPX-QG6BN_vj1GQ-3Ck%2F1444x920_le-milieu-de-terrain-francais-de-fenerbahce-matteo-guendouzi-celebre-la-qualification-de-son-equipe-a-l-issue-du-match-retour-entre-l-ol-et-fenerbahce-au-groupama-stadium-de-lyon-dans-le-cadre-des-barrages-de-la-ligue-des-champions-le-mercredi-26-aout-2026-photo-de-benoit-pavan-hans-lucas-via-afp&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-09-03T08:25:38+00:00"
+  },
+  {
+   "id": "lefclyonmetuntermesonpartenariataveclol",
+   "title": "Le FC Lyon met un terme à son partenariat avec l'OL",
+   "summary": "À l'instar de l'AS Saint-Priest il y a plusieurs mois, le FC Lyon vient d'annoncer mettre un terme à son partenariat avec l'OL, un an avant sa fin. Les deux clubs sont liés à jamais.",
+   "url": "https://www.olympique-et-lyonnais.com/le-fc-lyon-met-un-terme-a-son-partenariat-avec-lol,406459.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2F748311643_1580263567152588_7603603749121835816_n.png-e1788418518411-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-03T08:15:00+00:00"
+  },
+  {
+   "id": "violencesracistesdurantollehavresosracismeetsportitudesaisis",
+   "title": "Violences racistes durant OL - Le Havre : SOS Racisme et Sportitude saisissent la justice",
+   "summary": "Cinq jours après les évènements violents qui se sont déroulés en marge d’OL - Le Havre (1-1), les associations SOS Racisme et Sportitude ont saisi la justice. Elle demande que le caractère raciste soit pleinement pris en compte.",
+   "url": "https://www.olympique-et-lyonnais.com/violences-racistes-durant-ol-le-havre-sos-racisme-et-sportitude-saisissent-la-justice,406463.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F04%2FAFP__20250426__43LT2RX__v1__HighRes__FblFraLigue1LyonRennes-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-03T07:30:00+00:00"
+  },
+  {
+   "id": "mercatololtoujoursenrflexionconcernanttagliafico",
+   "title": "Mercato : l'OL toujours en réflexion concernant Tagliafico",
+   "summary": "N'ayant pas pu rejoindre l'Atlético de Madrid lors du dernier jour du mercato, Nicolás Tagliafico est toujours un joueur de l'OL. Néanmoins, une porte de sortie serait toujours d'actualité côté lyonnais pour alléger la masse salariale.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-lol-toujours-en-reflexion-concernant-tagliafico,406456.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FAFP__20251102__82T98B7__v1__HighRes__FblFraLigue1BrestLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-03T06:45:00+00:00"
+  },
+  {
+   "id": "ligue1lolrecevraangerslesamedi31octobre20h45",
+   "title": "Ligue 1 : l'OL recevra Angers le samedi 31 octobre à 20h45",
+   "summary": "Pour terminer son mois d'octobre, l'OL recevra Angers du côté du Parc OL. Les coéquipiers d'Anthony Lopes débarqueront à Décines le samedi 31 octobre pour une rencontre à 20h45 et qui sera diffusée sur Ligue 1+.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-1-lol-recevra-angers-le-samedi-31-octobre-a-20h45,406452.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F09%2FAFP__20250919__767699P__v1__HighRes__FblFraLigue1LyonAngers-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-03T06:00:00+00:00"
+  },
+  {
+   "id": "loletlafunkfontpartiedelhritagelyonnais",
+   "title": "\"L'OL et la funk font partie de l'héritage lyonnais\"",
+   "summary": "Après avoir été présenté et déjà porté cette saison, le troisième maillot de l'OL sur le thème de la funk sera mis à l'honneur ce jeudi au Transbordeur. L'occasion d'allier deux piliers importants de la culture lyonnaise.",
+   "url": "https://www.olympique-et-lyonnais.com/lol-et-la-funk-font-partie-de-lheritage-lyonnais,406413.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260818__2291047809__v1__HighRes__FenerbahceVOlLyonnesUefaChampionsLeague20262-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-09-03T05:30:00+00:00"
   },
   {
    "id": "keitonakamurarejointloletentredjdanslhistoireduclub",
@@ -63,83 +174,6 @@
    "publishedAt": "2026-09-02T16:09:00+00:00"
   },
   {
-   "id": "mercatokeitonakamuraarrivelolcommejoker",
-   "title": "Mercato : Keito Nakamura arrive à l’OL comme joker",
-   "summary": "L’Olympique lyonnais tient finalement le remplaçant de Malick Fofana. Keito Nakamura rejoint le club rhodanien en tant que joker, après une opération retardée par les derniers rebondissements autour du départ de l’ailier belge.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-keito-nakamura-arrive-a-lol-comme-joker,406289.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FCapture-decran-2026-09-02-a-18.03.52-770x433.png&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-02T16:06:49+00:00"
-  },
-  {
-   "id": "olmercatountransfertpluttquunprtpournakamura",
-   "title": "OL - Mercato : un transfert plutôt qu'un prêt pour Nakamura ?",
-   "summary": "En passe d'être le joker de fin de mercato de l'OL, Keito Nakamura ne devrait finalement pas venir dans le cadre d'un prêt avec option d'achat.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-un-transfert-plutot-quun-pret-pour-nakamura,406433.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F11%2FAFP__20241123__36N842P__v1__HighRes__FblFraLigue1ReimsLyon-e1732399759619-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-02T15:52:59+00:00"
-  },
-  {
-   "id": "ligue1lolrecevraniceavantdesedplaceraupsg",
-   "title": "Ligue 1 : l’OL recevra Nice avant de se déplacer au PSG",
-   "summary": "L’Olympique lyonnais connaît désormais les dates de ses 7e et 8e journées de Ligue 1. Les Lyonnais recevront l’OGC Nice le dimanche 18 octobre avant de se déplacer sur la pelouse du Paris Saint-Germain, une semaine plus tard.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-1-lol-recevra-nice-avant-de-se-deplacer-au-psg,406375.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FAFP__20260215__97NB6X2__v1__HighRes__FblFraLigue1LyonNice-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-02T15:30:00+00:00"
-  },
-  {
-   "id": "mercatomelvinbardexolrejointleeds",
-   "title": "Mercato : Melvin Bard (ex-OL) rejoint Leeds",
-   "summary": "Melvin Bard va découvrir la Premier League. Le latéral gauche de 25 ans quitte l’OGC Nice pour rejoindre Leeds sous la forme d’un prêt payant avec option d’achat, cinq ans après son départ de l’Olympique lyonnais.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-melvin-bard-ex-ol-rejoint-leeds,406214.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2Fafp_en_3454d257aa63c4bea2b0e1a20785af1490946486-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-02T14:40:00+00:00"
-  },
-  {
-   "id": "olladtavalidelannulationdubutdetolissocontrelehavre",
-   "title": "OL : la DTA valide l’annulation du but de Tolisso contre Le Havre",
-   "summary": "La Direction technique de l’arbitrage est revenue sur l’action litigieuse du match entre l’OL et Le Havre (1-1). Elle estime que l’arbitre a pris la bonne décision en refusant le but de Corentin Tolisso pour une position de hors-jeu.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-la-dta-valide-lannulation-du-but-de-tolisso-contre-le-havre,406392.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2022%2F11%2F000_32LZ3L6-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-02T13:50:00+00:00"
-  },
-  {
-   "id": "ligueeuropaloldoitprsentersalistecemercrediavantminuit",
-   "title": "Ligue Europa : l’OL doit présenter sa liste ce mercredi avant minuit",
-   "summary": "Reversé en Ligue Europa suite à sa non-qualification pour la Ligue des champions, l’OL fera son entrée à Anderlecht le 16 septembre prochain. Néanmoins, le club lyonnais doit soumettre sa liste A avant ce mercredi 2 septembre 23h59.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-europa-lol-doit-presenter-sa-liste-ce-mercredi-avant-minuit,406409.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__C4Y66TV__v1__HighRes__FblEurC1QualifyingFenerbahceLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-02T13:00:00+00:00"
-  },
-  {
-   "id": "olmercatotagliaficounchoixdelatlticoplusquuneraisonfinancire",
-   "title": "OL - Mercato : Tagliafico, un choix de l'Atlético plus qu'une raison financière?",
-   "summary": "Dans le viseur de l'Atlético de Madrid sur la dernière journée de mercato, Nicolás Tagliafico n'a finalement pas rallié l'Espagne. S'il a été question du fair-play financier en Liga, la presse espagnole évoque une volonté madrilène de miser sur sa formation.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-tagliafico-un-choix-de-latletico-plus-quune-raison-financiere,406401.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2FAFP__20250925__76TD83Z__v1__HighRes__FblEurC3UtrechtLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-02T12:10:00+00:00"
-  },
-  {
    "id": "baignadeconfluence74deslyonnaissduitsmaisleshabitantsduquart",
    "title": "Baignade à Confluence : 74% des Lyonnais séduits, mais les habitants du quartier beaucoup plus partagés",
    "summary": "Près de 10 000 personnes ont répondu au questionnaire lancé par la Ville de Lyon sur son projet de baignade naturelle à Confluence prévu pour l’été 2027. Si 73,7% des participants s’imaginent s’y baigner, l’enthousiasme tombe à 53,9% parmi les habitants du quartier.",
@@ -151,28 +185,6 @@
    "publishedAt": "2026-09-02T12:00:00+00:00"
   },
   {
-   "id": "mercatoturquiearabiesaouditeceschampionnatsololpeutencoreven",
-   "title": "Mercato : Turquie, Arabie saoudite... ces championnats où l’OL peut encore vendre",
-   "summary": "Désireux de faire rentrer de l’argent et d’alléger sa masse salariale, l’OL a en partie réussi son affaire avant le 2 septembre. Néanmoins, le club lyonnais doit encore dégraisser et pourrait compter sur des marchés encore ouverts en Europe ou ailleurs.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-turquie-arabie-saoudite-ces-championnats-ou-lol-peut-encore-vendre,406395.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20250925__DPPI_40025073_039__v1__HighRes__FootballFrenchChampRennesVLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-02T11:20:00+00:00"
-  },
-  {
-   "id": "unebalancepositivequellenotepourlemercatodelol",
-   "title": "Une balance positive… quelle note pour le mercato de l’OL ?",
-   "summary": "Après avoir recruté rapidement pour être fin prêt pour les tours de qualification de la Ligue des champions, l’OL a surtout dû vendre en fin de mercato. Avec une balance positive de plus 30M€, quel bilan tirer de cette fenêtre ?",
-   "url": "https://www.olympique-et-lyonnais.com/une-balance-positive-quelle-note-pour-le-mercato-de-lol,406398.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__AA_18082026_2918732__v1__HighRes__FenerbahceVOlympiqueLyonnaisUefaCha-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-02T10:35:00+00:00"
-  },
-  {
    "id": "ilsontfaillituermonfilsilslontmassacrlamredunjeunede17ansdno",
    "title": "\"Ils ont failli tuer mon fils, ils l'ont massacré\": la mère d'un jeune de 17 ans dénonce une agression raciste en marge du match OL-Le Havre",
    "summary": "Un lycéen âgé de 17 ans a été lynché sur le parvis du Groupama Stadium avant le match OL-Le Havre, rapporte Le Progrès. Frappé à terre, le jeune homme est lourdement blessé.",
@@ -182,17 +194,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FraNFAer2EURJsDN1EE85aqBUHi0%3D%2F0x212%3A2048x1364%2F800x0%2Fimages%2FLes-abords-du-Groupama-Stadium-avant-OL-Besiktas-0-1-Ligue-Europa-le-24-octobre-2024-1963464.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-02T10:11:34+00:00"
-  },
-  {
-   "id": "olduranvilleafaitsonretourlentrainement",
-   "title": "OL : Duranville a fait son retour à l’entrainement",
-   "summary": "Absent contre Fenerbahçe puis contre Le Havre en raison d'un pépin physique, Julien Duranville est de nouveau présent à l'entraînement de l'OL. Un retour qui tombe à pic suite au départ de Malick Fofana vers Sunderland.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-duranville-a-fait-son-retour-a-lentrainement,406373.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FDuranville-2-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-02T09:50:00+00:00"
   },
   {
    "id": "encoreuneagressionauxabordsdustadedelolunadolescentde17ansvi",
@@ -270,17 +271,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a967b5da7455-53616776830-c49a9a2405-o.jpg&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-09-01T07:12:00+00:00"
-  },
-  {
-   "id": "uneluederillieuxlapapevictimeduneagressionracisteaprsunmatch",
-   "title": "Une élue de Rillieux-la-Pape victime d'une agression raciste après un match de l'OL ?",
-   "summary": "Un couple dénonce une agression raciste aux abords du Groupama Stadium après OL-Le Havre.",
-   "url": "https://www.lyonfoot.com/article/14027/un-couple-denonce-une-agression-raciste-aux-abords-du-groupama-stadium-apres-ol-le-havre",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a95a53be6ee0-blessure.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-08-31T16:02:00+00:00"
   }
  ]
 }
