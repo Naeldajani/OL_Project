@@ -1,23 +1,55 @@
 {
- "updatedAt": "2026-09-03T16:24:33+00:00",
+ "updatedAt": "2026-09-03T21:01:20+00:00",
  "sources": [
   "20 Minutes",
-  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
   {
-   "id": "olla8erecruefreinejusteavantsesdbuts",
-   "title": "OL : La 8e recrue freinée juste avant ses débuts !",
-   "summary": "Présent pour la première fois à l’entraînement de l’OL ce jeudi, Keito Nakamura va devoir patienter avant de porter le maillot lyonnais en compétition. Une contrariété administrative qui ne remet toutefois pas en cause sa participation à la Ligue Europa.",
-   "url": "https://www.butfootballclub.fr/1695623-ol-la-8e-recrue-freinee-juste-avant-ses-debuts/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fd9647111-ol-la-8e-recrue-freinee-juste-avant-ses-debuts-1024x689.jpg&w=800&output=webp&q=78",
+   "id": "adolescentlynchdevantlegroupamastadiumlapistedunfightorganis",
+   "title": "Adolescent lynché devant le Groupama Stadium : la piste d'un fight organisé entre supporters",
+   "summary": "La version du guet-apens raciste dont aurait été victime un jeune samedi dernier devant le Groupama Stadium a pris du plomb dans l'aile. L'adolescent de 17 ans aurait en réalité pris part à un fight avec le groupe de supporters Atypik.",
+   "url": "https://www.lyonfoot.com/article/14068/adolescent-agresse-devant-le-groupama-stadium-la-piste-d-un-fight-organise-entre-supporters",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a99bad64265d-54337681435-37d1954bd3-o.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-03T18:21:00+00:00"
+  },
+  {
+   "id": "premireligueollyonnessedplacerafleurysansrenardniweir",
+   "title": "Première Ligue : OL Lyonnes se déplacera à Fleury sans Renard ni Weir",
+   "summary": "Ce vendredi, OL Lyonnes fait sa rentrée en Première Ligue. Contre Fleury, Jonatan Giráldez peut compter sur un groupe au complet. Si l'entraîneur espagnol a dû faire des choix, il doit surtout se passer de Wendie Renard, qui ne s'est pas entraînée ce jeudi, mais aussi Caroline Weir.",
+   "url": "https://www.olympique-et-lyonnais.com/premiere-ligue-ol-lyonnes-se-deplacera-a-fleury-sans-renard-ni-weir,406508.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260523__B3UF2TA__v1__HighRes__FblEurC1BarcelonaLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-09-03T17:10:30+00:00"
+  },
+  {
+   "id": "lolsansduranvilleninakamuramaisavechimbertetkluivert",
+   "title": "L'OL sans Duranville ni Nakamura mais avec Himbert et Kluivert",
+   "summary": "Laissé en réserve la semaine passée, Rémi Himbert fait son retour dans le groupe de l'OL contre Auxerre. Le polyvalent offensif profite du départ de Malick Fofana et des absences de Julien Duranville et Keito Nakamura.",
+   "url": "https://www.olympique-et-lyonnais.com/lol-sans-duranville-ni-nakamura-mais-avec-himbert-et-kluivert,406511.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260715__C2AM78D__v2__HighRes__FblFraFriendlyLyonServette-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
-   "publishedAt": "2026-09-03T16:05:12+00:00"
+   "publishedAt": "2026-09-03T17:04:36+00:00"
+  },
+  {
+   "id": "olmercatodecarvalhoenrouteverslarabiesaoudite",
+   "title": "OL - Mercato : De Carvalho en route vers l'Arabie saoudite",
+   "summary": "Bloqué par la concurrence au milieu de terrain à l'OL, Mathys De Carvalho va quitter son club formateur dans les prochaines heures. Le Lyonnais doit s'engager avec le club saoudien d'Al-Diriyah pour un contrat de trois ans.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-de-carvalho-en-route-vers-larabie-saoudite,406519.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F09%2FAFP__20250925__2237401870__v1__HighRes__FcUtrechtVOlympiqueLyonnaisUefaEuropaLeague2-e1758835004515-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-03T16:24:32+00:00"
   },
   {
    "id": "mercatofofanapouvaitapporteruneautredimensionphysiquelol",
@@ -130,17 +162,6 @@
    "publishedAt": "2026-09-03T11:05:36+00:00"
   },
   {
-   "id": "olfenerbaheluefaouvreuneprocduredisciplinairecontreleclubtur",
-   "title": "OL - Fenerbahçe : l’UEFA ouvre une procédure disciplinaire contre le club turc",
-   "summary": "Après les débordements survenus au coup de sifflet final du barrage retour de Ligue des champions contre l'OL, l’UEFA a engagé des poursuites contre Mattéo Guendouzi, Mason Greenwood et le Fenerbahçe.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-fenerbahce-luefa-ouvre-une-procedure-disciplinaire-contre-le-club-turc,406469.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260826__AA_27082026_2929253__v1__HighRes__OlympiqueLyonVFenerbahceUefaChampio-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-03T10:35:00+00:00"
-  },
-  {
    "id": "ollapplicationmobiledsormaisobligatoirepourprsentersonabonne",
    "title": "OL : l’application mobile désormais obligatoire pour présenter son abonnement ou son billet de match",
    "summary": "A partir du 17 septembre prochain, l'OL a décidé de rendre obligatoire l'application mobile pour présenter son abonnement ou son billet de match.",
@@ -150,28 +171,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a994664b1751-supporter-stade.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-03T10:02:00+00:00"
-  },
-  {
-   "id": "olduranvilleenindividuelnakamuralentranement",
-   "title": "OL : Duranville en individuel, Nakamura à l'entraînement",
-   "summary": "Ce jeudi, à la veille d'OL - Auxerre, Paulo Fonseca pouvait compter sur un groupe fourni. Néanmoins, Julien Duranville s'est avant tout entraîné en individuel tandis que Keito Nakamura était bien présent mais ne sera pas qualifié vendredi.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-duranville-en-individuel-nakamura-a-lentrainement,406471.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FDuranville-2-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-09-03T09:56:23+00:00"
-  },
-  {
-   "id": "ollyonnesleprogrammedumoisdeseptembre",
-   "title": "OL Lyonnes : le programme du mois de septembre",
-   "summary": "Les OL Lyonnes connaissent leur programme pour le mois de septembre. Les joueuses de Jonatan Giráldez disputeront trois rencontres, avec deux déplacements et une réception à Lyon. Le mois débutera dès le vendredi 4 septembre avec un déplacement sur la pelouse du FCF91.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-le-programme-du-mois-de-septembre,406414.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260529__B4G44LG__v1__HighRes__FblEurC1WomenLyonParisFc-e1780139483318-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-03T09:45:00+00:00"
   },
   {
    "id": "olfenerbaheluefaouvreuneprocduredisciplinairecontremattoguen",
@@ -260,17 +259,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a96b0ac56da6-51087689686-959463538d-o.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-01T10:59:00+00:00"
-  },
-  {
-   "id": "raquettefracasselusopenlosboissonliminedentreettrsfrustreapr",
-   "title": "Raquette fracassée à l'US Open : Loïs Boisson éliminée d’entrée et très frustrée après sa défaite",
-   "summary": "La Lyonnaise Loïs Boisson a été éliminée dès le premier tour de l’US Open ce lundi par Emma Navarro, au terme d’un match accroché en trois sets. Très déçue, elle a laissé éclater sa frustration après la rencontre.",
-   "url": "https://www.lyonmag.com/article/153793/raquette-fracassee-a-l-us-open-lois-boisson-eliminee-d-entree-et-tres-frustree-apres-sa-defaite",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a967e95ee2d3-capture-decran-2026-09-01-a-09.png&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-01T07:26:00+00:00"
   }
  ]
 }
