@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-03T23:16:23+00:00",
+ "updatedAt": "2026-09-04T04:30:54+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "lolveutreprendreconfiancefaceauxerre",
+   "title": "L'OL veut reprendre confiance face à Auxerre",
+   "summary": "Ce vendredi au Groupama Stadium à 19h, l’OL affronte Auxerre.",
+   "url": "https://www.lyonfoot.com/article/14062/notre-priorite-est-de-prendre-les-trois-points-l-ol-ne-veut-rien-laisser-a-auxerre",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a9a47be45043-55381737234-e2867085ff-o.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-04T04:10:00+00:00"
+  },
   {
    "id": "olletransfert40mlaisseunregretpierresage",
    "title": "OL : le transfert à 40 M€ laisse un regret à Pierre Sage",
@@ -75,17 +86,6 @@
    "publishedAt": "2026-09-03T16:24:32+00:00"
   },
   {
-   "id": "olla8erecruefreinejusteavantsesdbuts",
-   "title": "OL : La 8e recrue freinée juste avant ses débuts !",
-   "summary": "Présent pour la première fois à l’entraînement de l’OL ce jeudi, Keito Nakamura va devoir patienter avant de porter le maillot lyonnais en compétition. Une contrariété administrative qui ne remet toutefois pas en cause sa participation à la Ligue Europa.",
-   "url": "https://www.butfootballclub.fr/1695623-ol-la-8e-recrue-freinee-juste-avant-ses-debuts/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fd9647111-ol-la-8e-recrue-freinee-juste-avant-ses-debuts-1024x689.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-03T16:05:12+00:00"
-  },
-  {
    "id": "mercatofofanapouvaitapporteruneautredimensionphysiquelol",
    "title": "Mercato : Fofana pouvait \"apporter une autre dimension physique\" à l'OL",
    "summary": "Ciblé par l'OL pour renforcer le milieu de terrain, Youssouf Fofana n'a finalement jamais débarqué à Lyon. Paulo Fonseca a regretté ce transfert manqué avec un joueur qu'il connaît bien.",
@@ -128,6 +128,17 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260715__C2AR9E7__v1__HighRes__FblFraFriendlyLyonServette-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-03T13:45:46+00:00"
+  },
+  {
+   "id": "jaihurlilvamouririlvamourirletmoignageglaantdellueagresseapr",
+   "title": "\"J'ai hurlé 'Il va mourir, il va mourir'\": le témoignage glaçant de l'élue agressée après OL-Le Havre",
+   "summary": "Meriem Bouchedda, élue à Rillieux-la-Pape, a été victime d'une agression raciste avec son compagnon, lynché en marge d'OL-Le Havre, samedi. La conseillère municipale raconte le moment de terreur qu'elle a vécu, et explique avoir craint pour la vie de son conjoint.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/j-ai-hurle-il-va-mourir-il-va-mourir-le-temoignage-glacant-de-l-elue-agressee-apres-ol-le-havre_AV-202609030588.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F-N9Fj7fJe2a-W_4VM_aU4fxlmrY%3D%2F0x125%3A1200x800%2F800x0%2Fimages%2FLe-Groupama-Stadium-avant-un-match-de-Ligue-des-champions-feminine-le-8-octobre-2024-2070652.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-03T13:14:42+00:00"
   },
   {
    "id": "olnakamurapasqualificontreauxerremaisbienenligueeuropa",
