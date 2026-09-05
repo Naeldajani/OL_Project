@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-05T17:20:34+00:00",
+ "updatedAt": "2026-09-05T20:19:09+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,28 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "louasmlyonfrappefortdentre4036",
+   "title": "LOU-ASM : Lyon frappe fort d'entrée (40-36)",
+   "summary": "Le LOU Rugby a réalisé l'exploit du week-end en battant l'ASM Clermont ce samedi (40-36). Les Lyonnais ne pouvaient pas rêver meilleur début de championnat.",
+   "url": "https://www.lyonmag.com/article/153848/lou-asm-lyon-frappe-fort-d-entree-40-36",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a9c677749168-797811732-1613386170588836-6265797529484975226-n.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-05T19:08:00+00:00"
+  },
+  {
+   "id": "karimbenzemavoulaitrevenirjouergratuitementlolcettpourquoiso",
+   "title": "Karim Benzema voulait revenir jouer gratuitement à l'OL cet été : pourquoi son retour a été bloqué",
+   "summary": "Le retour tant attendu de Karim Benzema à Lyon aurait pu devenir réalité cet été. Le Brondillant était prêt à s'assoir sur son salaire, mais son contrat avec l'Arabie saoudite a tout fait capoter.",
+   "url": "https://www.lyonfoot.com/article/14088/ol-karim-benzema-etait-pret-a-revenir-gratuitement-cet-ete-pourquoi-le-retour-a-ete-bloque",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a9c5dc86e5bf-486142496-1204686661016391-5326107286783571607-n.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-05T18:21:00+00:00"
+  },
   {
    "id": "olauxerreinquitedjavec11butsencaisssentroismatches",
    "title": "OL : Auxerre inquiète déjà avec 11 buts encaissés en trois matches",
@@ -95,17 +117,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2F570088858_755892724154764_5732577515089168934_n-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-05T12:20:00+00:00"
-  },
-  {
-   "id": "asselesdbutstrspniblesdepierreekwahlyon",
-   "title": "ASSE : les débuts très pénibles de Pierre Ekwah à Lyon",
-   "summary": "Lâché par l’ASSE à l’AJ Auxerre en fin de mercato, Pierre Ekwah a fait des débuts peu convaincants lors de la défaire des hommes de Will Still à Lyon (1-3). Pierre Ekwah espérait certainement de meilleurs débuts.",
-   "url": "https://www.butfootballclub.fr/1696092-asse-les-debuts-tres-penibles-de-pierre-ekwah-a-lyon/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F567bb9c8-asse-les-debuts-tres-penibles-de-pierre-ekwah-a-lyon.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-05T12:00:00+00:00"
   },
   {
    "id": "fleuryollyonnes17uneperformanceexcellentepourjonatangirldez",
@@ -315,17 +326,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a99bad64265d-54337681435-37d1954bd3-o.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-03T18:21:00+00:00"
-  },
-  {
-   "id": "jaihurlilvamouririlvamourirletmoignageglaantdellueagresseapr",
-   "title": "\"J'ai hurlé 'Il va mourir, il va mourir'\": le témoignage glaçant de l'élue agressée après OL-Le Havre",
-   "summary": "Meriem Bouchedda, élue à Rillieux-la-Pape, a été victime d'une agression raciste avec son compagnon, lynché en marge d'OL-Le Havre, samedi. La conseillère municipale raconte le moment de terreur qu'elle a vécu, et explique avoir craint pour la vie de son conjoint.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/j-ai-hurle-il-va-mourir-il-va-mourir-le-temoignage-glacant-de-l-elue-agressee-apres-ol-le-havre_AV-202609030588.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F-N9Fj7fJe2a-W_4VM_aU4fxlmrY%3D%2F0x125%3A1200x800%2F800x0%2Fimages%2FLe-Groupama-Stadium-avant-un-match-de-Ligue-des-champions-feminine-le-8-octobre-2024-2070652.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-03T13:14:42+00:00"
   },
   {
    "id": "aprslechaosdolfenerbaheluefaouvreuneprocdurecontremattoguend",
