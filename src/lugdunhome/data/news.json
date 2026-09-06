@@ -1,11 +1,23 @@
 {
- "updatedAt": "2026-09-06T20:22:58+00:00",
+ "updatedAt": "2026-09-06T22:53:36+00:00",
  "sources": [
+  "20 Minutes",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ligue1202627dcouvrezleclassementetlesrsultatsaprsla3ejourne",
+   "title": "Ligue 1 2026/27 : Découvrez le classement et les résultats après la 3e journée",
+   "summary": "Consultez les résultats de TFC-LOSC, OL-AJA, PSG-Monaco, Lens-Lorient et OM-PFC notamment",
+   "url": "https://www.20minutes.fr/sport/football/4243048-20260906-ligue-1-2026-27-decouvrez-classement-resultats-apres-3e-journee?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FnJ1AhuRRTIWVQXEfRjAAdyk%2F1444x920_avec-3-victoires-en-3-matches-monaco-est-leader-en-solitaire-de-la-ligue-1&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-06T20:57:01+00:00"
+  },
   {
    "id": "olacadmielesu19fmininesrepartentsurdebonnesbases",
    "title": "OL Académie : les U19 féminines repartent sur de bonnes bases",
@@ -214,17 +226,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FO5vSN3hE1FYgOfYZ8Atwp3Ac_aI%3D%2F0x134%3A2048x1286%2F800x0%2Fimages%2FOpenda-lors-de-Lyon-Auxerre-le-4-septembre-2026-2342724.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-04T18:56:47+00:00"
-  },
-  {
-   "id": "incidentslorsdelyonlehavretroisinterpellationsaprslagression",
-   "title": "Incidents lors de Lyon-Le Havre : trois interpellations après l'agression d'un couple",
-   "summary": "Trois hommes ont été interpellés ce vendredi dans l'agglomération lyonnaise, dont l'un âgé de 33 ans soupçonné d'être l'auteur principal de violences contre un couple à la sortie du match OL-Le Havre le week-end dernier, selon l'AFP qui cite une source proche du dossier.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/incidents-lors-de-lyon-le-havre-trois-interpellation-apres-l-agression-d-un-couple_AV-202609040827.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F-N9Fj7fJe2a-W_4VM_aU4fxlmrY%3D%2F0x125%3A1200x800%2F800x0%2Fimages%2FLe-Groupama-Stadium-avant-un-match-de-Ligue-des-champions-feminine-le-8-octobre-2024-2070652.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-04T17:28:51+00:00"
   },
   {
    "id": "lyonpolitiquesnouvellestoursscuritetbaignadelaconfluence0409",
