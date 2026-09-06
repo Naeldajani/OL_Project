@@ -1,12 +1,33 @@
 {
- "updatedAt": "2026-09-06T15:27:16+00:00",
+ "updatedAt": "2026-09-06T20:22:58+00:00",
  "sources": [
-  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olacadmielesu19fmininesrepartentsurdebonnesbases",
+   "title": "OL Académie : les U19 féminines repartent sur de bonnes bases",
+   "summary": "Championnes de France en titre, les U19 féminines d'OL Lyonnes ont repris le championnat ce dimanche contre Strasbourg. Les joueuses de Mathis Duranty-Soubiran se sont imposées 4-1 pour leur reprise à Meyzieu.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-les-u19-feminines-repartent-sur-de-bonnes-bases,406837.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F05%2F1920x1080_LOGO-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-09-06T16:20:00+00:00"
+  },
+  {
+   "id": "olacadmielesu17retrouventlesourirecontrelefcchalonnais",
+   "title": "OL Académie : les U17 retrouvent le sourire contre le FC Chalonnais",
+   "summary": "Battus dans le derby contre le FC Lyon il y a une semaine, les U17 de l’OL ont retrouvé le goût de la victoire à la maison. En battant 2-0 le FC Chalonnais, les joueurs de Florent Balmont signent un deuxième succès en trois journées.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-les-u17-retrouvent-le-sourire-contre-le-fc-chalonnais,406835.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FIMG_3700-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-06T15:35:00+00:00"
+  },
   {
    "id": "ollyonnespremierbutpourjulieswierot",
    "title": "OL Lyonnes : premier but pour Julie Swierot",
@@ -63,17 +84,6 @@
    "publishedAt": "2026-09-06T13:10:00+00:00"
   },
   {
-   "id": "olnuamahbriseenfinunedisettelonguede18mois",
-   "title": "OL : Nuamah brise enfin une disette longue de 18 mois",
-   "summary": "Ernest Nuamah a enfin marqué avec l’OL après 18 mois de disette face à Auxerre. Un but libérateur pour l’ailier ghanéen et Lyon en Ligue 1.",
-   "url": "https://www.butfootballclub.fr/1696242-ol-nuamah-disette-18-mois/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F6800eebe-ol-nuamah-disette-18-mois-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-06T12:23:09+00:00"
-  },
-  {
    "id": "rafalskiollyonnesetlesbleuettesdbutentleurcoupedumondeu20",
    "title": "Rafalski (OL Lyonnes) et les Bleuettes débutent leur Coupe du monde U20",
    "summary": "Absente depuis plusieurs semaines à OL Lyonnes, Romane Rafalski préparait la Coupe du monde U20 avec l'équipe de France. Les Bleuettes font leur entrée en lice en Pologne ce dimanche à 15h contre la Corée du Sud.",
@@ -96,17 +106,6 @@
    "publishedAt": "2026-09-06T11:30:00+00:00"
   },
   {
-   "id": "ollecouperetesttombpourleballondor2022",
-   "title": "OL : le couperet est tombé pour le Ballon d’Or 2022",
-   "summary": "Karim Benzema voulait revenir gratuitement à l’OL cet été, mais son contrat d’ambassadeur en Arabie saoudite bloque le dossier et le rapproche de la retraite.",
-   "url": "https://www.butfootballclub.fr/1696232-ol-benzema-retour-gratuit-arabie-saoudite-retraite/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fa3d44668-ol-benzema-retour-gratuit-arabie-saoudite-retraite-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-06T10:41:03+00:00"
-  },
-  {
    "id": "commefaceauhavreferreirataitabsentpourolauxerre",
    "title": "Comme face au Havre, Ferreira était absent pour OL - Auxerre",
    "summary": "Coupable d'un geste lui ayant valu trois matchs de suspension en Ligue Europa, Antonio Ferreira reste en marge du groupe professionnel de l'OL sur les matchs de Ligue 1. Comme face au Havre, l'entraîneur des gardiens n'était pas sur la feuille de match contre Auxerre.",
@@ -116,17 +115,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2F1200x675_6a915161e8ed6-screenshot-2026-08-28-at-11-770x433.png&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-06T10:40:00+00:00"
-  },
-  {
-   "id": "olfofanalancedjsanouvelleaventureenpremierleague",
-   "title": "OL : Fofana lance déjà sa nouvelle aventure en Premier League",
-   "summary": "Malick Fofana a disputé ses premières minutes avec Sunderland en Premier League, quatre jours après son départ de l’OL, déjà tourné vers la suite.",
-   "url": "https://www.butfootballclub.fr/1696228-ol-fofana-premier-league-sunderland/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fd9e05b0b-ol-fofana-premier-league-sunderland-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-06T09:59:01+00:00"
   },
   {
    "id": "quatrejoursaprssondpartdelolfofanaafaitsesdbutssunderland",
@@ -140,17 +128,6 @@
    "publishedAt": "2026-09-06T09:50:00+00:00"
   },
   {
-   "id": "ollarservelaissedjfilerdespointsmalgrsesrenfortspros",
-   "title": "OL : La réserve laisse déjà filer des points malgré ses renforts pros",
-   "summary": "La réserve de l’OL enchaîne un deuxième 0-0 à Feurs après Bourgoin. Malgré les renforts pros, les joueurs de Gueïda Fofana restent muets.",
-   "url": "https://www.butfootballclub.fr/1696224-ol-reserve-points-renforts-pros/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F2f7fefc3-ol-reserve-points-renforts-pros-1024x702.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-06T09:11:03+00:00"
-  },
-  {
    "id": "olacadmielarservenedcolletoujourspasfeurs",
    "title": "OL Académie : la réserve ne décolle toujours pas à Feurs",
    "summary": "Tenue en échec par Bourgoin lors de la première journée, la réserve de l’OL a signé un deuxième nul de suite à Feurs. Un deuxième 0-0 malgré des renforts venus du groupe pro. C'est à se demander s'ils ne vont pas regretter ces points laissés en route au moment de faire les comptes en fin […]",
@@ -160,28 +137,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3757-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-06T09:00:00+00:00"
-  },
-  {
-   "id": "auxerresesttirtroisballesdanslepiedcontrelol",
-   "title": "Auxerre s’est \"tiré trois balles dans le pied\" contre l’OL",
-   "summary": "Avec trois défaites en trois matchs, Auxerre est bon dernier de Ligue 1. La faute notamment à une passivité que regrettait Will Still après le revers contre l’OL. C’est avec la tête des mauvais jours que la délégation auxerroise a quitté le Parc OL vendredi en fin de soirée.",
-   "url": "https://www.olympique-et-lyonnais.com/auxerre-sest-tire-trois-balles-dans-le-pied-contre-lol,406806.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260904__C7E22E7__v1__HighRes__FblFraLigue1LyonAuxerre-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-06T08:15:00+00:00"
-  },
-  {
-   "id": "paralluelo206ejoueusedelhistoiredollyonnes",
-   "title": "Paralluelo, 206e joueuse de l’histoire d’OL Lyonnes",
-   "summary": "Titulaire vendredi soir à Fleury, Salma Paralluelo a fait ses débuts officiels avec OL Lyonnes. L’attaquante espagnole n’a pas marqué mais est devenue la 206e joueuse à porter le maillot lyonnais.",
-   "url": "https://www.olympique-et-lyonnais.com/paralluelo-206e-joueuse-de-lhistoire-dol-lyonnes,406804.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FIMG_3815-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-09-06T07:30:00+00:00"
   },
   {
    "id": "louasmlyonfrappefortdentre4036",
@@ -314,17 +269,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a9aa87eacc8e-crs-1.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-04T11:14:00+00:00"
-  },
-  {
-   "id": "olauxerreledispositifpolicierrenforcaprslesviolencesduweeken",
-   "title": "OL-Auxerre: le dispositif policier renforcé après les violences du week-end dernier",
-   "summary": "Six jours après des violences survenues en marge du match OL-Le Havre, la préfecture du Rhône a renforcé le dispositif policier pour la rencontre entre Lyon et Auxerre ce vendredi soir (19h), lors de la 3e journée de Ligue 1.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/ol-auxerre-le-dispositif-policier-renforce-apres-les-violences-du-week-end-dernier_AV-202609040460.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F6Xpix9OiFzbR-LhawWKdtujFW1A%3D%2F0x0%3A2048x1152%2F800x0%2Fimages%2FLe-Groupama-Stadium-de-Lyon-le-29-aout-2026-2342419.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-04T09:50:27+00:00"
   },
   {
    "id": "lyoncactuslocklastartupdelantivollodeurdeputrfactionplaceenr",
