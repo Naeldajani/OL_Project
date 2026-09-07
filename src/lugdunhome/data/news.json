@@ -1,12 +1,24 @@
 {
- "updatedAt": "2026-09-07T19:09:04+00:00",
+ "updatedAt": "2026-09-07T23:29:11+00:00",
  "sources": [
   "20 Minutes",
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olmercatoundpartdedernireminuteofficialis",
+   "title": "OL Mercato : un départ de dernière minute officialisé",
+   "summary": "L’OL officialise le départ de Mathys De Carvalho, transféré à Al Diriyah en Arabie saoudite pour 1,1 M€. L’Olympique Lyonnais a officialisé ce lundi le transfert de Mathys De Carvalho à Al Diriyah, promu cette saison en Saudi Pro League.",
+   "url": "https://www.butfootballclub.fr/1696538-ol-mercato-un-depart-de-derniere-minute-officialise/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Ficonsport_271831_0165-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-07T18:40:00+00:00"
+  },
   {
    "id": "mathysdecarvalhoquitteloletrejointaldiriyah",
    "title": "Mathys De Carvalho quitte l'OL et rejoint Al-Diriyah",
@@ -30,6 +42,17 @@
    "publishedAt": "2026-09-07T16:55:00+00:00"
   },
   {
+   "id": "olretournementdesituationpourlavenirdepaulofonseca",
+   "title": "OL : retournement de situation pour l’avenir de Paulo Fonseca",
+   "summary": "Sous contrat avec l’OL jusqu’en juin 2027, Paulo Fonseca reste au centre du projet lyonnais, et les dirigeants souhaitent clairement poursuivre l’aventure avec lui.",
+   "url": "https://www.butfootballclub.fr/1696490-ol-retournement-de-situation-pour-lavenir-de-paulo-fonseca/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F2015e499-ol-onze-slavia-fonseca-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-07T16:00:00+00:00"
+  },
+  {
    "id": "ladirectiondelolferalepointavecfonsecaplustard",
    "title": "La direction de l'OL fera le point avec Fonseca plus tard",
    "summary": "Alors que l’Olympique lyonnais réalise un début de saison encourageant, Mathieu Louis-Jean et Michael Gerlinger n’ont pas fermé la porte à une prolongation de Paulo Fonseca. Mais les dirigeants de l'OL attendront encore avant d’ouvrir officiellement les discussions.",
@@ -50,6 +73,17 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F01%2FIMG_3272-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-07T15:20:00+00:00"
+  },
+  {
+   "id": "olmercatocestconfirmpourkarimbenzema",
+   "title": "OL Mercato : c’est confirmé pour Karim Benzema !",
+   "summary": "L’OL a bien tenté de faire revenir Karim Benzema cet été, mais son engagement avec le football saoudien a rapidement bloqué le dossier. L’idée d’un retour de Karim Benzema à l’Olympique Lyonnais n’était donc pas qu’une simple rumeur.",
+   "url": "https://www.butfootballclub.fr/1696461-ol-mercato-cest-confirme-pour-karim-benzema/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Ficonsport_175317_0175-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-07T14:40:00+00:00"
   },
   {
    "id": "olmercatolouisjeanauraitaimfairemieuxsurlesventes",
