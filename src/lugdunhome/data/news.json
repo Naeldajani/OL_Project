@@ -1,12 +1,156 @@
 {
- "updatedAt": "2026-09-07T04:39:12+00:00",
+ "updatedAt": "2026-09-07T12:30:23+00:00",
  "sources": [
   "20 Minutes",
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olmercatosuivezendirectlaconfrencedepressedelouisjeanetgerli",
+   "title": "OL - Mercato : suivez en direct la conférence de presse de Louis-Jean et Gerlinger",
+   "summary": "Ce lundi, Matthieu Louis-Jean et Michael Gerlinger se présentent face à la presse pour décrypter le bilan du mercato de l'OL.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-suivez-en-direct-la-conference-de-presse-de-louis-jean-et-gerlinger,406869.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2FIMG_3735-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-07T12:02:53+00:00"
+  },
+  {
+   "id": "olledpartavortdetagliaficolaisseundossierencoreouvert",
+   "title": "OL : le départ avorté de Tagliafico laisse un dossier encore ouvert",
+   "summary": "Resté à l’OL après une fin de mercato agitée, Nicolás Tagliafico n’est pas encore certain de disputer toute la saison sous les ordres de Paulo Fonseca. Manchester United s’était notamment renseigné sur le champion du monde argentin dans les derniers jours du marché.",
+   "url": "https://www.butfootballclub.fr/1696433-ol-le-depart-avorte-de-tagliafico-laisse-un-dossier-encore-ouvert/",
+   "source": "But! Football Club",
+   "author": "Wladimir DELCROS",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F1b172856-ol-le-depart-avorte-de-tagliafico-laisse-un-dossier-encore-ouvert-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-07T11:03:06+00:00"
+  },
+  {
+   "id": "ollyonnesfathallahetquatreautreslyonnaisesrejoindrontlquiped",
+   "title": "OL Lyonnes : Fathallah et quatre autres Lyonnaises rejoindront l’équipe de France U18",
+   "summary": "Après le match contre le Paris FC samedi (13h30), Maïssa Fathallah prendra la direction de Clairefontaine. La défenseure d'OL Lyonnes, ainsi que quatre autres Lyonnaises, sont conviées à un stage de trois jours avec l'équipe de France U18.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-fathallah-et-quatre-autres-lyonnaises-rejoindront-lequipe-de-france-u18,406860.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FHAY5siMXUAAQu_Q-e1770647529894-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-07T10:40:00+00:00"
+  },
+  {
+   "id": "coupedumondeu20rafalskiollyonnesetlesbleuettesaccrochesparla",
+   "title": "Coupe du monde U20 : Rafalski (OL Lyonnes) et les Bleuettes accrochées par la Corée du Sud",
+   "summary": "La France a concédé le nul face à la Corée du Sud (1-1), dimanche en Pologne. La Lyonnaise Romane Rafalski a disputé l’intégralité de la rencontre. Les Bleuettes devront patienter avant de décrocher leur première victoire dans cette Coupe du monde U20 féminine 2026.",
+   "url": "https://www.olympique-et-lyonnais.com/coupe-du-monde-u20-rafalski-ol-lyonnes-et-les-bleuettes-accrochees-par-la-coree-du-sud,406858.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2F679071307_900491026361599_3105090295949108993_n-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-07T09:50:00+00:00"
+  },
+  {
+   "id": "olfabiogrossosubitunnouveaudpartexpressenitalie",
+   "title": "OL : Fabio Grosso subit un nouveau départ express en Italie",
+   "summary": "Trois mois après son arrivée à la Fiorentina, Fabio Grosso est déjà remercié. L’ex-entraîneur de l’OL paie trois défaites et neuf buts encaissés.",
+   "url": "https://www.butfootballclub.fr/1696420-ol-fabio-grosso-nouveau-depart-express-italie/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F575c019b-ol-fabio-grosso-nouveau-depart-express-italie-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-07T09:43:00+00:00"
+  },
+  {
+   "id": "footballamateurunducateuru15agressparunparentlorsdunmatchdan",
+   "title": "Football amateur : un éducateur U15 agressé par un parent lors d’un match dans le Rhône",
+   "summary": "Le Sud Lyonnais Football a annoncé qu’un de ses joueurs et éducateurs U15 aurait été victime d’une agression de la part d’un parent adverse, en marge d’une rencontre amicale face à l’US Millery Vourles.",
+   "url": "https://www.lyonfoot.com/article/14095/football-amateur-un-educateur-agresse-par-un-parent-adverse-lors-d-un-match-amical",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a9e8648bb0d6-screenshot-2026-09-07-at-11.png&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-07T09:33:00+00:00"
+  },
+  {
+   "id": "olmaitlandnilesmarquedjlesespritspoursapremireeverton",
+   "title": "OL : Maitland-Niles marque déjà les esprits pour sa première à Everton !",
+   "summary": "Ainsley Maitland-Niles a marqué pour sa première avec Everton face à Manchester United (2-2), offrant un point précieux aux Toffees.",
+   "url": "https://www.butfootballclub.fr/1696409-ol-maitland-niles-premiere-everton-marque-esprits/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F3bf354a9-ol-maitland-niles-premiere-everton-marque-esprits-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-07T09:03:08+00:00"
+  },
+  {
+   "id": "fabiogrossoexoldjremerciparlafiorentinaaprsquatrematchs",
+   "title": "Fabio Grosso (ex-OL) déjà remercié par la Fiorentina après quatre matchs",
+   "summary": "Fabio Grosso, l’ancien entraîneur de l’OL n’aura pas eu le temps d’installer son projet à Florence. Trois défaites en Serie A ont précipité son départ, trois mois seulement après sa nomination.",
+   "url": "https://www.olympique-et-lyonnais.com/fabio-grosso-ex-ol-deja-remercie-par-la-fiorentina-apres-quatre-matchs,406851.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F11%2FIMG_2761-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-07T09:00:00+00:00"
+  },
+  {
+   "id": "olmercatomanchesterunitedavaitgalementdesvuessurtagliafico",
+   "title": "OL - Mercato : Manchester United avait également des vues sur Tagliafico",
+   "summary": "Suite à son vrai faux-départ de l'OL, Nicolás Tagliafico est toujours dans l'effectif lyonnais. Si Matthieu Louis-Jean a laissé la porte ouverte à toutes les possibilités, ces dernières restent limitées dans cette nouvelle semaine qui va débuter.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-manchester-united-avait-egalement-des-vues-sur-tagliafico,406824.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2FAFP__20250925__76TD83Z__v1__HighRes__FblEurC3UtrechtLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-07T08:15:00+00:00"
+  },
+  {
+   "id": "partirdolrennesuneapplicationseraobligatoirepourrentrerausta",
+   "title": "À partir d’OL - Rennes, une application sera obligatoire pour rentrer au stade",
+   "summary": "À compter du prochain match à domicile contre Rennes le 19 septembre prochain, chaque supporter lyonnais devra obligatoirement utiliser l’application \"Groupama Stadium\" pour pouvoir entrer dans le stade.",
+   "url": "https://www.olympique-et-lyonnais.com/a-partir-dol-rennes-une-application-sera-obligatoire-pour-rentrer-au-stade,406845.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F06%2FAFP__20250620__DPPI_50025025_047__v1__HighRes__RugbyFrenchChamp12ToulouseVBayonne-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-07T07:30:00+00:00"
+  },
+  {
+   "id": "ainsleymaitlandnilesexolsillustredjaveceverton",
+   "title": "Ainsley Maitland-Niles (ex-OL) s'illustre déjà avec Everton",
+   "summary": "Transféré mardi dernier à Everton, Ainsley Maitland-Niles a déjà marqué des points auprès de ses nouveaux supporters. L'ancien latéral de l'OL a permis aux Toffees d'arracher le point du nul contre Manchester United d'un sublime but en toute fin de match.",
+   "url": "https://www.olympique-et-lyonnais.com/ainsley-maitland-niles-ex-ol-sillustre-deja-avec-everton,406839.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2Ff21727ec1a4dad927c4dc8e4a686d03a-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-07T06:45:00+00:00"
+  },
+  {
+   "id": "ligue1loletleparisfcdauphinsdemonacoavantdeseretrouversamedi",
+   "title": "Ligue 1 : l'OL et le Paris FC dauphins de Monaco, avant de se retrouver samedi",
+   "summary": "Vainqueur de l'AJ Auxerre vendredi, l'OL attendait de connaître les autres résultats du week-end pour connaître son classement. Toujours invaincus après trois journées, les Lyonnais sont dauphins de Monaco, seul club à avoir réalisé un sans-faute en Ligue 1.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-1-lol-et-le-paris-fc-dauphins-de-monaco-avant-de-se-retrouver-samedi,406842.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FAFP__20251029__82FM3BB__v2__HighRes__FblFraLigue1ParisFcLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-07T06:00:00+00:00"
+  },
+  {
+   "id": "olopendatroppressmaistrsindispensabledj",
+   "title": "OL : Openda trop pressé mais très indispensable déjà",
+   "summary": "N'ayant pas trouvé la faille contre Auxerre, Loïs Openda a pourtant eu les situations. Mais, comme c'est le cas depuis le début de la saison, le Belge est parfois un peu trop pressé.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-openda-trop-presse-mais-tres-indispensable-deja,406833.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260904__C7DX7C3__v1__HighRes__FblFraLigue1LyonAuxerre-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-07T05:30:00+00:00"
+  },
   {
    "id": "ligue1202627dcouvrezleclassementetlesrsultatsaprsla3ejourne",
    "title": "Ligue 1 2026/27 : Découvrez le classement et les résultats après la 3e journée",
@@ -30,39 +174,6 @@
    "publishedAt": "2026-09-06T16:20:00+00:00"
   },
   {
-   "id": "olacadmielesu17retrouventlesourirecontrelefcchalonnais",
-   "title": "OL Académie : les U17 retrouvent le sourire contre le FC Chalonnais",
-   "summary": "Battus dans le derby contre le FC Lyon il y a une semaine, les U17 de l’OL ont retrouvé le goût de la victoire à la maison. En battant 2-0 le FC Chalonnais, les joueurs de Florent Balmont signent un deuxième succès en trois journées.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-les-u17-retrouvent-le-sourire-contre-le-fc-chalonnais,406835.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FIMG_3700-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-06T15:35:00+00:00"
-  },
-  {
-   "id": "ollyonnespremierbutpourjulieswierot",
-   "title": "OL Lyonnes : premier but pour Julie Swierot",
-   "summary": "De retour de prêt à OL Lyonnes, Julie Swierot a un coup à jouer cette saison dans la rotation. Remplaçante à Fleury, la milieu a inscrit son premier but avec son club formateur. Jonatan Giráldez compte sur elle et il n'a pas manqué de le rappeler avant le match contre Fleury, jeudi.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-premier-but-pour-julie-swierot,406822.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F12%2FIMG_2820-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-06T14:50:00+00:00"
-  },
-  {
-   "id": "benzemaderetourlolcelaavaitfaitparlerdanstkydg",
-   "title": "Benzema de retour à l’OL ? Cela avait fait parler dans TKYDG",
-   "summary": "Ces dernières heures, voir Karim Benzema revenir à l’OL a été plus qu’une possibilité qui est tombée à l’eau. Cette rumeur avait largement fait débat dans \"Tant qu’il y aura des Gones\" lundi dernier entre notre consultant Nicolas Puydebois et l’un de nos chroniqueurs, Quentin Vieira.",
-   "url": "https://www.olympique-et-lyonnais.com/benzema-de-retour-a-lol-cela-avait-fait-parler-dans-tkydg,406828.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2022%2F11%2F000_32NC9W6-scaled-e1668205435835-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-09-06T14:00:00+00:00"
-  },
-  {
    "id": "violencesautourdollehavrelepcfdurhnedemandeauclubdefairelemn",
    "title": "Violences autour d’OL-Le Havre : le PCF du Rhône demande au club de faire le ménage chez ses supporters racistes",
    "summary": "Après plusieurs agressions dénoncées en marge du match OL-Le Havre du 29 août, la fédération du Rhône du Parti communiste français met en cause la présence de militants d’extrême droite dans les tribunes lyonnaises.",
@@ -83,72 +194,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a9d6b5686185-hrd-9ztamaazlyp.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-06T13:30:00+00:00"
-  },
-  {
-   "id": "canalprpareunesriedocumentairesurlolenligueeuropa",
-   "title": "Canal+ prépare une série documentaire sur l’OL en Ligue Europa",
-   "summary": "Canal+ a annoncé plusieurs nouveaux documentaires lors de sa conférence de rentrée, ce mercredi. Parmi les projets dévoilés, une série consacrée à la campagne européenne de l’Olympique lyonnais en Ligue Europa.",
-   "url": "https://www.olympique-et-lyonnais.com/canal-prepare-une-serie-documentaire-sur-lol-en-ligue-europa,406630.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2FAFP__20260122__93PU7KV__v1__HighRes__FblEurC3YoungBoysLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-06T13:10:00+00:00"
-  },
-  {
-   "id": "rafalskiollyonnesetlesbleuettesdbutentleurcoupedumondeu20",
-   "title": "Rafalski (OL Lyonnes) et les Bleuettes débutent leur Coupe du monde U20",
-   "summary": "Absente depuis plusieurs semaines à OL Lyonnes, Romane Rafalski préparait la Coupe du monde U20 avec l'équipe de France. Les Bleuettes font leur entrée en lice en Pologne ce dimanche à 15h contre la Corée du Sud.",
-   "url": "https://www.olympique-et-lyonnais.com/rafalski-ol-lyonnes-et-les-bleuettes-debutent-leur-coupe-du-monde-u20,406820.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2F679071307_900491026361599_3105090295949108993_n-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-09-06T12:20:00+00:00"
-  },
-  {
-   "id": "olnuamahbuteur540joursplustard",
-   "title": "OL : Nuamah buteur 540 jours plus tard",
-   "summary": "Buteur contre l'AJ Auxerre vendredi, Ernest Nuamah a mis fin à une disette qui durait depuis plus d'un an et demi, la faute à sa grosse blessure en avril 2025. Le Ghanéen a retrouvé le chemin des filets avec l'OL, 540 jours après.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-nuamah-buteur-540-jours-plus-tard,406803.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FErnest-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-09-06T11:30:00+00:00"
-  },
-  {
-   "id": "commefaceauhavreferreirataitabsentpourolauxerre",
-   "title": "Comme face au Havre, Ferreira était absent pour OL - Auxerre",
-   "summary": "Coupable d'un geste lui ayant valu trois matchs de suspension en Ligue Europa, Antonio Ferreira reste en marge du groupe professionnel de l'OL sur les matchs de Ligue 1. Comme face au Havre, l'entraîneur des gardiens n'était pas sur la feuille de match contre Auxerre.",
-   "url": "https://www.olympique-et-lyonnais.com/comme-face-au-havre-ferreira-etait-absent-pour-ol-auxerre,406813.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2F1200x675_6a915161e8ed6-screenshot-2026-08-28-at-11-770x433.png&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-06T10:40:00+00:00"
-  },
-  {
-   "id": "quatrejoursaprssondpartdelolfofanaafaitsesdbutssunderland",
-   "title": "Quatre jours après son départ de l’OL, Fofana a fait ses débuts à Sunderland",
-   "summary": "Ayant quitté l’OL dans les dernières minutes du mercato, Malick Fofana a fait ses débuts en Premier League. L’ailier belge a joué un quart d’heure dans le nul de Sunderland à Brentford.",
-   "url": "https://www.olympique-et-lyonnais.com/quatre-jours-apres-son-depart-de-lol-fofana-a-fait-ses-debuts-a-sunderland,406817.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260905__2293666969__v1__HighRes__BrentfordVSunderlandPremierLeague202627-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-06T09:50:00+00:00"
-  },
-  {
-   "id": "olacadmielarservenedcolletoujourspasfeurs",
-   "title": "OL Académie : la réserve ne décolle toujours pas à Feurs",
-   "summary": "Tenue en échec par Bourgoin lors de la première journée, la réserve de l’OL a signé un deuxième nul de suite à Feurs. Un deuxième 0-0 malgré des renforts venus du groupe pro. C'est à se demander s'ils ne vont pas regretter ces points laissés en route au moment de faire les comptes en fin […]",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-la-reserve-ne-decolle-toujours-pas-a-feurs,406811.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3757-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-06T09:00:00+00:00"
   },
   {
    "id": "louasmlyonfrappefortdentre4036",
@@ -217,17 +262,6 @@
    "publishedAt": "2026-09-04T18:57:00+00:00"
   },
   {
-   "id": "olauxerrelyonsereprendfacelajaetprendplacesurlepodium",
-   "title": "OL-Auxerre: Lyon se reprend face à l'AJA et prend place sur le podium",
-   "summary": "Après un match nul frustrant face au Havre, l'Olympique Lyonnais se reprend lors de la 3e journée de Ligue 1 avec une victoire facile sur sa pelouse face à Auxerre (3-1). Bacher, Athekame et Nuamah sont les buteurs et permettent à l'OL de prendre provisoirement la tête du championnat.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-ol-auxerre-suivez-en-live-le-match-de-la-3e-journee-de-ligue-1_LS-202609040471.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FO5vSN3hE1FYgOfYZ8Atwp3Ac_aI%3D%2F0x134%3A2048x1286%2F800x0%2Fimages%2FOpenda-lors-de-Lyon-Auxerre-le-4-septembre-2026-2342724.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-04T18:56:47+00:00"
-  },
-  {
    "id": "lyonpolitiquesnouvellestoursscuritetbaignadelaconfluence0409",
    "title": "Lyon Politiques : nouvelles tours, sécurité et baignade à la Confluence - 04/09/26",
    "summary": "L'émission Lyon Politiques et ses intervenants décryptent pour vous les évènements marquants de la semaine dans l'agglomération lyonnaise.",
@@ -270,17 +304,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a9aa87eacc8e-crs-1.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-04T11:14:00+00:00"
-  },
-  {
-   "id": "lyoncactuslocklastartupdelantivollodeurdeputrfactionplaceenr",
-   "title": "Lyon : CactUs Lock, la start-up de l’antivol à l’odeur de putréfaction, placée en redressement judiciaire",
-   "summary": "La start-up lyonnaise CactUs Lock a été placée en redressement judiciaire cet été. L’entreprise, connue pour son antivol diffusant une odeur de putréfaction, explique avoir été fragilisée par un important stock constitué avant son passage dans Qui veut être mon associé ?.",
-   "url": "https://www.lyonmag.com/article/153837/lyon-cactus-lock-la-start-up-de-l-antivol-a-l-odeur-de-putrefaction-placee-en-redressement-judiciaire",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a9a56bc05c51-776504023-122183926010908054-4854666942149623977-n.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-09-04T07:00:00+00:00"
   }
  ]
 }
