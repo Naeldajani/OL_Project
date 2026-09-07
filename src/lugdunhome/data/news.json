@@ -1,16 +1,136 @@
 {
- "updatedAt": "2026-09-07T12:30:23+00:00",
+ "updatedAt": "2026-09-07T19:09:04+00:00",
  "sources": [
   "20 Minutes",
-  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
   {
-   "id": "olmercatosuivezendirectlaconfrencedepressedelouisjeanetgerli",
-   "title": "OL - Mercato : suivez en direct la conférence de presse de Louis-Jean et Gerlinger",
+   "id": "mathysdecarvalhoquitteloletrejointaldiriyah",
+   "title": "Mathys De Carvalho quitte l'OL et rejoint Al-Diriyah",
+   "summary": "Après 16 ans à l’Olympique lyonnais, Mathys De Carvalho quitte son club formateur pour rejoindre Al-Diriyah, en Arabie saoudite. Le milieu portugais s’est engagé pour trois saisons.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-mathys-de-carvalho-rejoint-al-diriyah,406650.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F12%2FAFP__20251221__88TB4EM__v1__HighRes__FblFraCupLyonSaintCyr-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-07T18:11:33+00:00"
+  },
+  {
+   "id": "lolretrouvelesourirefaceauxerrelesrecruesfrappentfort",
+   "title": "L'OL retrouve le sourire face à Auxerre... les recrues frappent fort !",
+   "summary": "Ce lundi, l'équipe de \"Tant qu'il y aura des Gones\" est revenu pour un nouveau numéro. Au programme, la victoire de l'OL contre Auxerre, le changement tactique de Paulo Fonseca ainsi que la fin du mercato avec le bilan fait par Matthieu Louis-Jean et Michael Gerlinger.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-tkydg-suivez-en-direct-tant-quil-y-aura-des-gones-2,406894.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260904__C7DW9E4__v1__HighRes__FblFraLigue1LyonAuxerre-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-07T16:55:00+00:00"
+  },
+  {
+   "id": "ladirectiondelolferalepointavecfonsecaplustard",
+   "title": "La direction de l'OL fera le point avec Fonseca plus tard",
+   "summary": "Alors que l’Olympique lyonnais réalise un début de saison encourageant, Mathieu Louis-Jean et Michael Gerlinger n’ont pas fermé la porte à une prolongation de Paulo Fonseca. Mais les dirigeants de l'OL attendront encore avant d’ouvrir officiellement les discussions.",
+   "url": "https://www.olympique-et-lyonnais.com/la-direction-de-lol-fera-le-point-avec-fonseca-plus-tard,406895.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FFonseca-e1788552502437-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-07T15:37:48+00:00"
+  },
+  {
+   "id": "olacadmielesu19rcoltentleurspremierspoints",
+   "title": "OL Académie : les U19 récoltent leurs premiers points",
+   "summary": "Battus lors des deux premières journées de championnat, les U19 de l'OL ont décroché leur premier point dimanche à Metz. Un nul 2-2 avant un rendez-vous déjà important contre Auxerre dans une semaine.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-les-u19-recoltent-leurs-premiers-points,406866.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F01%2FIMG_3272-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-07T15:20:00+00:00"
+  },
+  {
+   "id": "olmercatolouisjeanauraitaimfairemieuxsurlesventes",
+   "title": "OL - Mercato : Louis-Jean \"aurait aimé faire mieux sur les ventes\"",
+   "summary": "Si l'OL a réussi à rentrer dans les clous de la DNCG, Matthieu Louis-Jean avoue que le club n'a pas réussi à faire tout ce qu'il espérait, notamment au niveau des ventes. Néanmoins, le directeur sportif voit un groupe plus complet que la saison passée.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-louis-jean-aurait-aime-faire-mieux-sur-les-ventes,406890.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAFP__20260626__B8G22MY__v1__HighRes__FblFraLigue1Lyon-e1782727262141-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-07T14:33:12+00:00"
+  },
+  {
+   "id": "agressionduneluederillieuxlapapeetsonconjointaprsollehavrede",
+   "title": "Agression d'une élue de Rillieux-la-Pape et son conjoint après OL-Le Havre : deux individus jugés en février",
+   "summary": "Le procès de l'agression raciste d'un couple survenue en marge du match OL-Le Havre aura lieu cet hiver.",
+   "url": "https://www.lyonfoot.com/article/14103/agression-d-un-couple-apres-ol-le-havre-deux-individus-juges-en-fevrier",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a9ecae43a24d-justice-avocat.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-07T14:30:00+00:00"
+  },
+  {
+   "id": "onabesoindeltatetdelapolicelappellaidedelolpourendiguerlavio",
+   "title": "\"On a besoin de l’État et de la police\", l’appel à l’aide de l’OL pour endiguer la violence près du Groupama Stadium",
+   "summary": "Après les graves incidents survenus en marge de la réception du Havre, le 29 août dernier en Ligue 1 (1-1), Michael Gerlinger, le directeur général de l’OL, appelle les pouvoirs publics à intervenir afin de mettre fin aux actes de violences et de racisme près du Groupama Stadium.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/on-a-besoin-de-l-etat-et-de-la-police-l-appel-a-l-aide-de-l-ol-pour-endiguer-la-violence-pres-du-groupama-stadium_AV-202609070601.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F6Xpix9OiFzbR-LhawWKdtujFW1A%3D%2F0x0%3A2048x1152%2F800x0%2Fimages%2FLe-Groupama-Stadium-de-Lyon-le-29-aout-2026-2342419.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-07T14:20:01+00:00"
+  },
+  {
+   "id": "incidentslorsdelyonlehavredeuxsuspectsjugsenfvrierpourlagres",
+   "title": "Incidents lors de Lyon-Le Havre: deux suspects jugés en février pour l'agression d'un couple, dont une élue locale",
+   "summary": "Sur trois personnes interpellées après les incidents après la rencontre entre l'OL et Le Havre le 29 août dernier, deux seront jugées en février devant le tribunal correctionnel après avoir violemment agressé un couple, dont une élue locale.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/incidents-lors-de-lyon-le-havre-deux-suspects-juges-en-fevrier-pour-l-agression-d-un-couple-dont-une-elue-locale_AV-202609070599.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F1NowLjr6FvdbfsaHRgYxnpgTJlg%3D%2F0x106%3A2048x1258%2F800x0%2Fimages%2FDes-supporters-de-l-OL-contre-Le-Havre-en-Ligue-1-le-29-aout-2026-2340074.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-07T14:16:50+00:00"
+  },
+  {
+   "id": "lolamatchlencadrementsalarialdeladncg",
+   "title": "L'OL a \"matché l'encadrement salarial\" de la DNCG",
+   "summary": "Un peu moins d'une semaine après la fin du mercato, l'OL a déjà eu un rendez-vous avec la DNCG. Le gendarme financier du football français a validé l'été lyonnais, comme avancé par Michael Gerlinger ce lundi.",
+   "url": "https://www.olympique-et-lyonnais.com/lol-a-matche-lencadrement-salarial-de-la-dncg,406887.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP__20260308__A2FT4QJ__v1__HighRes__FblFraLigue1LyonParisFc-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-07T13:34:17+00:00"
+  },
+  {
+   "id": "olmercatolouisjeanconcdeunpisodecomplexeavecfofanaetlentoura",
+   "title": "OL - Mercato : Louis-Jean concède un \"épisode complexe\" avec Fofana et l'entourage",
+   "summary": "Ce lundi, Matthieu Louis-Jean et Michael Gerlinger ont fait le point sur la situation de l'OL après le mercato estival. Interrogé sur le dernier jour rocambolesque avec Malick Fofana, le directeur sportif n'a pas caché la complexité des échanges avec l'importance prise par les entourages.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-louis-jean-concede-un-episode-complexe-avec-fofana-et-lentourage,406883.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260811__C4F29KX__v1__HighRes__FblEurC1QualifyingLyonPrague-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-07T13:07:21+00:00"
+  },
+  {
+   "id": "olilyaeuuncontactavecbenzemadvoilematthieulouisjean",
+   "title": "OL : \"Il y a eu un contact avec Benzema\" dévoile Matthieu Louis-Jean",
+   "summary": "L'Olympique Lyonnais a-t-il tenté le coup pour faire revenir Karim Benzema ? \"Il y a eu un contact avec un intérimaire\", reconnait le directeur sportif de l'OL... qui ajoute aussitôt que \"ça n'a pas été plus loin que ça\".",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-ol-il-y-a-eu-un-contact-avec-benzema-devoile-matthieu-louis-jean_VN-202609070554.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FSngj82fU4_OWCMB2Yu6yG6J8xyA%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FOL-Il-y-a-eu-un-contact-avec-Benzema-devoile-Matthieu-Louis-Jean-2343743.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-07T12:55:49+00:00"
+  },
+  {
+   "id": "olmercatorevivezlaconfrencedepressedelouisjeanetgerlinger",
+   "title": "OL - Mercato : revivez la conférence de presse de Louis-Jean et Gerlinger",
    "summary": "Ce lundi, Matthieu Louis-Jean et Michael Gerlinger se présentent face à la presse pour décrypter le bilan du mercato de l'OL.",
    "url": "https://www.olympique-et-lyonnais.com/ol-mercato-suivez-en-direct-la-conference-de-presse-de-louis-jean-et-gerlinger,406869.html",
    "source": "Olympique-et-Lyonnais",
@@ -18,17 +138,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2FIMG_3735-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-09-07T12:02:53+00:00"
-  },
-  {
-   "id": "olledpartavortdetagliaficolaisseundossierencoreouvert",
-   "title": "OL : le départ avorté de Tagliafico laisse un dossier encore ouvert",
-   "summary": "Resté à l’OL après une fin de mercato agitée, Nicolás Tagliafico n’est pas encore certain de disputer toute la saison sous les ordres de Paulo Fonseca. Manchester United s’était notamment renseigné sur le champion du monde argentin dans les derniers jours du marché.",
-   "url": "https://www.butfootballclub.fr/1696433-ol-le-depart-avorte-de-tagliafico-laisse-un-dossier-encore-ouvert/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F1b172856-ol-le-depart-avorte-de-tagliafico-laisse-un-dossier-encore-ouvert-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-07T11:03:06+00:00"
   },
   {
    "id": "ollyonnesfathallahetquatreautreslyonnaisesrejoindrontlquiped",
@@ -53,17 +162,6 @@
    "publishedAt": "2026-09-07T09:50:00+00:00"
   },
   {
-   "id": "olfabiogrossosubitunnouveaudpartexpressenitalie",
-   "title": "OL : Fabio Grosso subit un nouveau départ express en Italie",
-   "summary": "Trois mois après son arrivée à la Fiorentina, Fabio Grosso est déjà remercié. L’ex-entraîneur de l’OL paie trois défaites et neuf buts encaissés.",
-   "url": "https://www.butfootballclub.fr/1696420-ol-fabio-grosso-nouveau-depart-express-italie/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F575c019b-ol-fabio-grosso-nouveau-depart-express-italie-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-07T09:43:00+00:00"
-  },
-  {
    "id": "footballamateurunducateuru15agressparunparentlorsdunmatchdan",
    "title": "Football amateur : un éducateur U15 agressé par un parent lors d’un match dans le Rhône",
    "summary": "Le Sud Lyonnais Football a annoncé qu’un de ses joueurs et éducateurs U15 aurait été victime d’une agression de la part d’un parent adverse, en marge d’une rencontre amicale face à l’US Millery Vourles.",
@@ -75,83 +173,6 @@
    "publishedAt": "2026-09-07T09:33:00+00:00"
   },
   {
-   "id": "olmaitlandnilesmarquedjlesespritspoursapremireeverton",
-   "title": "OL : Maitland-Niles marque déjà les esprits pour sa première à Everton !",
-   "summary": "Ainsley Maitland-Niles a marqué pour sa première avec Everton face à Manchester United (2-2), offrant un point précieux aux Toffees.",
-   "url": "https://www.butfootballclub.fr/1696409-ol-maitland-niles-premiere-everton-marque-esprits/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F3bf354a9-ol-maitland-niles-premiere-everton-marque-esprits-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-07T09:03:08+00:00"
-  },
-  {
-   "id": "fabiogrossoexoldjremerciparlafiorentinaaprsquatrematchs",
-   "title": "Fabio Grosso (ex-OL) déjà remercié par la Fiorentina après quatre matchs",
-   "summary": "Fabio Grosso, l’ancien entraîneur de l’OL n’aura pas eu le temps d’installer son projet à Florence. Trois défaites en Serie A ont précipité son départ, trois mois seulement après sa nomination.",
-   "url": "https://www.olympique-et-lyonnais.com/fabio-grosso-ex-ol-deja-remercie-par-la-fiorentina-apres-quatre-matchs,406851.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F11%2FIMG_2761-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-07T09:00:00+00:00"
-  },
-  {
-   "id": "olmercatomanchesterunitedavaitgalementdesvuessurtagliafico",
-   "title": "OL - Mercato : Manchester United avait également des vues sur Tagliafico",
-   "summary": "Suite à son vrai faux-départ de l'OL, Nicolás Tagliafico est toujours dans l'effectif lyonnais. Si Matthieu Louis-Jean a laissé la porte ouverte à toutes les possibilités, ces dernières restent limitées dans cette nouvelle semaine qui va débuter.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-manchester-united-avait-egalement-des-vues-sur-tagliafico,406824.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2FAFP__20250925__76TD83Z__v1__HighRes__FblEurC3UtrechtLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-07T08:15:00+00:00"
-  },
-  {
-   "id": "partirdolrennesuneapplicationseraobligatoirepourrentrerausta",
-   "title": "À partir d’OL - Rennes, une application sera obligatoire pour rentrer au stade",
-   "summary": "À compter du prochain match à domicile contre Rennes le 19 septembre prochain, chaque supporter lyonnais devra obligatoirement utiliser l’application \"Groupama Stadium\" pour pouvoir entrer dans le stade.",
-   "url": "https://www.olympique-et-lyonnais.com/a-partir-dol-rennes-une-application-sera-obligatoire-pour-rentrer-au-stade,406845.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F06%2FAFP__20250620__DPPI_50025025_047__v1__HighRes__RugbyFrenchChamp12ToulouseVBayonne-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-07T07:30:00+00:00"
-  },
-  {
-   "id": "ainsleymaitlandnilesexolsillustredjaveceverton",
-   "title": "Ainsley Maitland-Niles (ex-OL) s'illustre déjà avec Everton",
-   "summary": "Transféré mardi dernier à Everton, Ainsley Maitland-Niles a déjà marqué des points auprès de ses nouveaux supporters. L'ancien latéral de l'OL a permis aux Toffees d'arracher le point du nul contre Manchester United d'un sublime but en toute fin de match.",
-   "url": "https://www.olympique-et-lyonnais.com/ainsley-maitland-niles-ex-ol-sillustre-deja-avec-everton,406839.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2Ff21727ec1a4dad927c4dc8e4a686d03a-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-07T06:45:00+00:00"
-  },
-  {
-   "id": "ligue1loletleparisfcdauphinsdemonacoavantdeseretrouversamedi",
-   "title": "Ligue 1 : l'OL et le Paris FC dauphins de Monaco, avant de se retrouver samedi",
-   "summary": "Vainqueur de l'AJ Auxerre vendredi, l'OL attendait de connaître les autres résultats du week-end pour connaître son classement. Toujours invaincus après trois journées, les Lyonnais sont dauphins de Monaco, seul club à avoir réalisé un sans-faute en Ligue 1.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-1-lol-et-le-paris-fc-dauphins-de-monaco-avant-de-se-retrouver-samedi,406842.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FAFP__20251029__82FM3BB__v2__HighRes__FblFraLigue1ParisFcLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-07T06:00:00+00:00"
-  },
-  {
-   "id": "olopendatroppressmaistrsindispensabledj",
-   "title": "OL : Openda trop pressé mais très indispensable déjà",
-   "summary": "N'ayant pas trouvé la faille contre Auxerre, Loïs Openda a pourtant eu les situations. Mais, comme c'est le cas depuis le début de la saison, le Belge est parfois un peu trop pressé.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-openda-trop-presse-mais-tres-indispensable-deja,406833.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260904__C7DX7C3__v1__HighRes__FblFraLigue1LyonAuxerre-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-07T05:30:00+00:00"
-  },
-  {
    "id": "ligue1202627dcouvrezleclassementetlesrsultatsaprsla3ejourne",
    "title": "Ligue 1 2026/27 : Découvrez le classement et les résultats après la 3e journée",
    "summary": "Consultez les résultats de TFC-LOSC, OL-AJA, PSG-Monaco, Lens-Lorient et OM-PFC notamment",
@@ -161,17 +182,6 @@
    "image": "https://images.weserv.nl/?url=img.20mn.fr%2FnJ1AhuRRTIWVQXEfRjAAdyk%2F1444x920_avec-3-victoires-en-3-matches-monaco-est-leader-en-solitaire-de-la-ligue-1&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-06T20:57:01+00:00"
-  },
-  {
-   "id": "olacadmielesu19fmininesrepartentsurdebonnesbases",
-   "title": "OL Académie : les U19 féminines repartent sur de bonnes bases",
-   "summary": "Championnes de France en titre, les U19 féminines d'OL Lyonnes ont repris le championnat ce dimanche contre Strasbourg. Les joueuses de Mathis Duranty-Soubiran se sont imposées 4-1 pour leur reprise à Meyzieu.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-les-u19-feminines-repartent-sur-de-bonnes-bases,406837.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F05%2F1920x1080_LOGO-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-09-06T16:20:00+00:00"
   },
   {
    "id": "violencesautourdollehavrelepcfdurhnedemandeauclubdefairelemn",
@@ -240,17 +250,6 @@
    "publishedAt": "2026-09-05T06:30:00+00:00"
   },
   {
-   "id": "lyon31auxerrelegroupevitbienlesexplicationsdathekame",
-   "title": "Lyon 3-1 Auxerre : Le groupe vit bien ! Les explications d'Athekame",
-   "summary": "L'OL a facilement battu Auxerre 3-1, ce vendredi pour la 3e journée de Ligue 1. Le défenseur lyonnais Zachary Athekame raconte les raisons du succès.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-lyon-3-1-auxerre-le-groupe-vit-bien-les-explications-d-athekame_VN-202609040972.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FR8KKZBJbmuqggjrIhJmgDDjsrxA%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FLyon-3-1-Auxerre-Le-groupe-vit-bien-Les-explications-d-Athekame-2342817.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-04T21:40:55+00:00"
-  },
-  {
    "id": "olauxerrebacherathekameetnuamahoffrentlavictoireetlapremirep",
    "title": "OL-Auxerre : Bacher, Athekame et Nuamah offrent la victoire et la première place à Lyon",
    "summary": "Ce vendredi au Groupama Stadium, l'OL a dominé Auxerre. Les coéquipiers de Corentin Tolisso n'ont guère tremblé face à des Icaunais désorganisés (3-1).",
@@ -260,50 +259,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a9b135f3b8fb-hrzbcxcboaav0bq.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-09-04T18:57:00+00:00"
-  },
-  {
-   "id": "lyonpolitiquesnouvellestoursscuritetbaignadelaconfluence0409",
-   "title": "Lyon Politiques : nouvelles tours, sécurité et baignade à la Confluence - 04/09/26",
-   "summary": "L'émission Lyon Politiques et ses intervenants décryptent pour vous les évènements marquants de la semaine dans l'agglomération lyonnaise.",
-   "url": "https://www.lyonmag.com/article/153841/lyon-politiques-nouvelles-tours-securite-et-baignade-a-la-confluence-04-09-26",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a9ab054dab76-photo-plus-nette.png&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-04T14:30:00+00:00"
-  },
-  {
-   "id": "unfeudebroussaillessepropageprsdelyon15hectarestouchs115pomp",
-   "title": "Un feu de broussailles se propage près de Lyon : 15 hectares touchés, 115 pompiers mobilisés",
-   "summary": "Une importante fumée dans le ciel lyonnais.",
-   "url": "https://www.lyonmag.com/article/153843/un-feu-de-broussailles-se-propage-pres-de-lyon-15-hectares-touches-115-pompiers-mobilises",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a9addf86ecea-img-7981.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-04T12:56:00+00:00"
-  },
-  {
-   "id": "lollyonnesconnatenfinsonprogrammeenliguedeschampions",
-   "title": "L'OL Lyonnes connaît enfin son programme en Ligue des champions",
-   "summary": "Le tirage de la phase de ligue de la Ligue des Champions est connu pour OL Lyonnes. Battues en finale la saison dernière, les Lyonnaises auront six adversaires différents sur leur route.",
-   "url": "https://www.lyonfoot.com/article/14073/ligue-des-champions-ol-lyonnes-connait-ses-six-adversaires",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a9abc19e9567-screenshot-2026-09-04-at-14.png&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-09-04T12:37:00+00:00"
-  },
-  {
-   "id": "aprslesagressionssurvenuesleweekenddernierlacrs83mobilisepou",
-   "title": "Après les agressions survenues le week-end dernier, la CRS 83 mobilisée pour OL-Auxerre",
-   "summary": "Le dispositif de sécurité sera renforcé ce vendredi soir aux abords du Groupama Stadium.",
-   "url": "https://www.lyonfoot.com/article/14072/ol-auxerre-la-crs-83-mobilisee-apres-les-agressions-survenues-le-week-end-dernier",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a9aa87eacc8e-crs-1.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-04T11:14:00+00:00"
   }
  ]
 }
