@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-08T16:37:10+00:00",
+ "updatedAt": "2026-09-08T21:08:22+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,28 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olunlyonnaisatcontactparlesverts",
+   "title": "OL : un Lyonnais a été contacté par les Verts !",
+   "summary": "Khalis Merah, jeune talent de l’OL, aurait été contacté par les Verts algériens : une actualité qui fait forcément résonner une certaine couleur dans la région lyonnaise. Le vert pourrait bientôt prendre une nouvelle place dans la carrière de Khalis Merah.",
+   "url": "https://www.butfootballclub.fr/1696810-ol-un-lyonnais-a-ete-contacte-par-les-verts/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F8ed46c54-ol-un-lyonnais-a-ete-contacte-par-les-verts.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-08T19:30:58+00:00"
+  },
+  {
+   "id": "fourvirealainmrieuxreprsenteleslyonnaislorsdurenouvellementd",
+   "title": "À Fourvière, Alain Mérieux représente les Lyonnais lors du renouvellement du Vœu des Échevins",
+   "summary": "À l’approche de la Fête des Lumières du 8 décembre, le renouvellement des Échevins du 8 septembre à Fourvière a été l’occasion de rappeler les liens qui unissent les Lyonnais à leur ville et à son histoire.",
+   "url": "https://www.lyonmag.com/article/153890/a-fourviere-alain-merieux-represente-les-lyonnais-lors-du-renouvellement-du-voeu-des-echevins",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa044c61865a-dsc-9037.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-08T19:10:00+00:00"
+  },
   {
    "id": "mercatoavecdecarvalhololserapprochedes65mdeventecett",
    "title": "Mercato : avec De Carvalho, l'OL se rapproche des 65 M€ de vente cet été",
@@ -105,17 +127,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2019%2F12%2F000_1JJ0TF-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-09-08T11:30:00+00:00"
-  },
-  {
-   "id": "olfonsecaadonnsarponselyonausujetdesonavenir",
-   "title": "OL : Fonseca a donné sa réponse à Lyon au sujet de son avenir",
-   "summary": "Alors que l’OL n’écarte pas de prolonger le contrat de Paulo Fonseca, l’entraîneur portugais a déjà donné sa réponse à ses dirigeants. L’OL veut construire dans la durée avec Paulo Fonseca.",
-   "url": "https://www.butfootballclub.fr/1696687-ol-fonseca-a-donne-sa-reponse-a-lyon-au-sujet-de-son-avenir/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F0320e228-ol-fonseca-a-donne-sa-reponse-a-lyon-au-sujet-de-son-avenir.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-08T11:20:00+00:00"
   },
   {
    "id": "ballondorollyonnesencoursepourtreleclubdelanne",
