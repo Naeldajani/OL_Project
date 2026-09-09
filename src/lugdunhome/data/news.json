@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-09T04:40:32+00:00",
+ "updatedAt": "2026-09-09T11:21:11+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -8,15 +8,125 @@
  ],
  "items": [
   {
-   "id": "olunlyonnaisatcontactparlesverts",
-   "title": "OL : un Lyonnais a été contacté par les Verts !",
-   "summary": "Khalis Merah, jeune talent de l’OL, aurait été contacté par les Verts algériens : une actualité qui fait forcément résonner une certaine couleur dans la région lyonnaise. Le vert pourrait bientôt prendre une nouvelle place dans la carrière de Khalis Merah.",
-   "url": "https://www.butfootballclub.fr/1696810-ol-un-lyonnais-a-ete-contacte-par-les-verts/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F8ed46c54-ol-un-lyonnais-a-ete-contacte-par-les-verts.jpg&w=800&output=webp&q=78",
+   "id": "mercatololcinquimeclubfranaisayantleplusdpenspoursoneffectif",
+   "title": "Mercato : l'OL, cinquième club français ayant le plus dépensé pour son effectif",
+   "summary": "Selon l’Observatoire du football CIES, l'Olympique lyonnais a investi 192 millions d’euros en indemnités de transfert pour composer son effectif actuel.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-lol-cinquieme-club-francais-ayant-le-plus-depense-pour-son-effectif,407052.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__AA_18082026_2918814__v1__HighRes__FenerbahceVOlympiqueLyonnaisUefaCha-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-09T10:40:00+00:00"
+  },
+  {
+   "id": "ol192millionsdeuroslobservatoiredufootballdvoilelecotdeleffe",
+   "title": "OL : 192 millions d’euros, l'Observatoire du Football dévoile le coût de l’effectif actuel",
+   "summary": "L’Olympique Lyonnais continue de figurer parmi les clubs français ayant le plus investi pour constituer leur effectif.",
+   "url": "https://www.lyonfoot.com/article/14122/ol-192-millions-d-euros-le-cies-devoile-le-cout-de-l-effectif-actuel",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa12daf7f14f-screenshot-2026-09-09-at-11.png&w=800&output=webp&q=78",
    "topic": "Actu",
-   "publishedAt": "2026-09-08T19:30:58+00:00"
+   "publishedAt": "2026-09-09T10:07:00+00:00"
+  },
+  {
+   "id": "ligue1ligueeuropaavantlatrveunesemainervlatricepourlol",
+   "title": "Ligue 1 - Ligue Europa : avant la trêve, une semaine révélatrice pour l'OL",
+   "summary": "La saison est vraiment lancée pour l'OL. Avant la trêve internationale, l'Olympique lyonnais s'apprête à vivre une semaine importante avec des confrontations contre le Paris FC et Rennes, en plus de la Ligue Europa.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-1-ligue-europa-avant-la-treve-une-semaine-revelatrice-pour-lol,407048.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260503__A9P24VU__v1__HighRes__FblFraLigue1LyonRennes-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-09T09:50:00+00:00"
+  },
+  {
+   "id": "marseillebrunogenesionapprhendepaslesretrouvaillesaveclol",
+   "title": "Marseille : Bruno Genesio \"n'appréhende pas\" les retrouvailles avec l'OL",
+   "summary": "Le 13 décembre, l'OL retrouvera Marseille et un certain Bruno Genesio. Un rendez-vous que l'ancien Lyonnais assure \"ne pas appréhender\". Un match pas comme les autres, encore plus celui-ci.",
+   "url": "https://www.olympique-et-lyonnais.com/marseille-bruno-genesio-napprehende-pas-les-retrouvailles-avec-lol,407043.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2019%2F04%2Fgenesiorennes-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-09T09:00:00+00:00"
+  },
+  {
+   "id": "oltantquilyauradesgonesdulundi7septembreenpodcastetreplay",
+   "title": "OL : \"Tant qu’il y aura des Gones\" du lundi 7 septembre en podcast et replay",
+   "summary": "Retrouvez votre émission hebdomadaire sur l'OL, Tant qu'il y aura des Gones, en podcast sur différentes plateformes. Tant qu'il y aura des Gones est de retour depuis trois semaines maintenant.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-tant-quil-y-aura-des-gones-du-lundi-7-septembre-en-podcast-et-replay,407041.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F04%2FWhatsApp-Image-2025-04-01-at-12.40.18-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-09-09T08:10:00+00:00"
+  },
+  {
+   "id": "olmercatoungantbienconnudesgonesasignencatimini",
+   "title": "OL Mercato : un géant bien connu des Gones a signé en catimini",
+   "summary": "L’OL continue de renforcer sa réserve en toute discrétion. Après Ismaël Jabateh, le club rhodanien vient d’officialiser l’arrivée d’Amayo Seyo, un imposant défenseur central de la génération 2008.",
+   "url": "https://www.butfootballclub.fr/1696927-ol-mercato-un-geant-bien-connu-des-gones-a-signe-en-catimini/",
+   "source": "But! Football Club",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F77f587a7-ol-mercato-une-derniere-recrue-va-debarquer-comme-joker.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-09T08:00:00+00:00"
+  },
+  {
+   "id": "ollyonnesparisfcelisadaupeuxausifflet",
+   "title": "OL Lyonnes - Paris FC : Elisa Daupeux au sifflet",
+   "summary": "OL Lyonnes reçoit le Paris FC ce samedi 12 septembre à 13h30. Un premier choc en Première Ligue que dirigera Elisa Daupeux. Après la première journée de championnat, l’OL Lyonnes retrouvera le Paris FC ce samedi 12 septembre à 13h30.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-paris-fc-elisa-daupeux-au-sifflet,407019.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260307__2265305205__v5__HighRes__NorwayVGermany2027FifaWomenSWorldCupQualifie-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-09T07:25:00+00:00"
+  },
+  {
+   "id": "mercatopaulofonsecaunsujetquivarythmerlasaisondelol",
+   "title": "Mercato : Paulo Fonseca, un sujet qui va rythmer la saison de l'OL",
+   "summary": "Si les différents acteurs ne se prononcent pas pour le moment, ce dossier va pourtant impacter la saison de l'OL. Paulo Fonseca est en fin de contrat à l'issue de l'exercice, et il faudra trancher sur la suite.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-paulo-fonseca-un-sujet-qui-va-rythmer-la-saison-de-lol,407025.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260715__C2AV9GW__v1__HighRes__FblFraFriendlyLyonServette-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-09T06:40:00+00:00"
+  },
+  {
+   "id": "mercatololrecruteunautredfenseurpoursarserve",
+   "title": "Mercato : l'OL recrute un autre défenseur pour sa réserve",
+   "summary": "L'OL cherchait des défenseurs centraux pour sa réserve, il en a recruté deux ces derniers jours. Amayo Seyo a signé pour deux ans avec les Rhodaniens.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-lol-recrute-un-autre-defenseur-pour-sa-reserve,407022.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FCapture-decran-2026-09-09-064357-e1788929096725-770x433.png&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-09T06:00:00+00:00"
+  },
+  {
+   "id": "ftedeslumires2026lyonleslumignonsducursoutiendrontlassociati",
+   "title": "Fête des Lumières 2026 à Lyon : les Lumignons du Cœur soutiendront l’association Vivre aux éclats",
+   "summary": "Les Lumignons du Cœur auront cette année pour bénéficiaire l’association Vivre aux éclats. Depuis plus de 30 ans, ses artistes-clowns interviennent dans des établissements de soin de la région lyonnaise pour créer du lien et accompagner patients, résidents et soignants.",
+   "url": "https://www.lyonmag.com/article/153895/fete-des-lumieres-2026-a-lyon-les-lumignons-du-coeur-soutiendront-l-association-vivre-aux-eclats",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa0e5a686495-53381449219-4a8fd28ce5-o.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-09T06:00:00+00:00"
+  },
+  {
+   "id": "troisjoueusesdollyonnesappelesaveclesu17franaises",
+   "title": "Trois joueuses d'OL Lyonnes appelées avec les U17 françaises",
+   "summary": "Aïnhoa Sagna, Yasmine Benseba et Aurélia Wyart figurent dans le groupe de Peggy Provost pour le premier rassemblement de la saison. Direction l'Espagne du 13 au 17 septembre. L’OL Lyonnes sera représenté en équipe de France U17.",
+   "url": "https://www.olympique-et-lyonnais.com/trois-joueuses-dol-lyonnes-appelees-avec-les-u17-francaises,407008.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F05%2F02ee17d16e3917596c8e0d80dfca6f6c-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-09-09T05:30:00+00:00"
   },
   {
    "id": "fourvirealainmrieuxreprsenteleslyonnaislorsdurenouvellementd",
@@ -52,28 +162,6 @@
    "publishedAt": "2026-09-08T15:35:00+00:00"
   },
   {
-   "id": "olleslyonnaissurlepodiumeuropendessprintsetdeladistanceparco",
-   "title": "OL : les Lyonnais sur le podium européen des sprints et de la distance parcourue",
-   "summary": "L’Olympique lyonnais affiche un gros volume de courses depuis le début de la saison. Avec 141 sprints et 112,4 kilomètres parcourus par match, les Lyonnais se classent parmi le top des meilleurs championnats européens dans ces deux catégories.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-les-lyonnais-sur-le-podium-europeen-des-sprints-et-de-la-distance-parcourue,406986.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3780-e1784293530710-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-08T14:50:00+00:00"
-  },
-  {
-   "id": "mercatolejeunekyliannegri17ansaprolonglol",
-   "title": "Mercato : le jeune Kylian Negri (17 ans) a prolongé à l'OL",
-   "summary": "Joueur des U19, Kylian Negri a paraphé un nouveau contrat avec l'OL. Le défenseur ou milieu de terrain de 17 ans est arrivé au club en 2016. Il était titulaire dimanche lors du troisième match des U19 de Karim Bounouara à Metz (2-2).",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-le-jeune-kylian-negri-17-ans-a-prolonge-a-lol,406988.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2020%2F01%2FOLacad%C3%A9mie-650x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-08T14:00:00+00:00"
-  },
-  {
    "id": "mtropoledelyonsylvieblsgagnaireprendlattedugroupegrandcurlyo",
    "title": "Métropole de Lyon : Sylvie Blès-Gagnaire prend la tête du groupe Grand Cœur Lyonnais",
    "summary": "Sylvie Blès-Gagnaire a été désignée présidente du groupe Grand Cœur Lyonnais à la Métropole de Lyon. Elle succède à François-Noël Buffet, devenu Défenseur des droits.",
@@ -85,17 +173,6 @@
    "publishedAt": "2026-09-08T14:00:00+00:00"
   },
   {
-   "id": "mercatobertrandtraorexolcontinuesonhistoireanglaisewolverham",
-   "title": "Mercato : Bertrand Traoré (ex-OL) continue son histoire anglaise à Wolverhampton",
-   "summary": "Libre depuis son départ de Sunderland, Bertrand Traoré s’est engagé avec Wolverhampton, relégué en Championship au terme de la dernière saison. L’ancien ailier de l’Olympique lyonnais, âgé de 31 ans, a signé jusqu’en juin 2027.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-bertrand-traore-ex-ol-continue-son-histoire-anglaise-a-wolverhampton,406963.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2018%2F12%2FTraor%C3%A9-768x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-08T13:10:00+00:00"
-  },
-  {
    "id": "ollyonnesnommauballondor2026pourletitredeclubfminindelanne",
    "title": "OL Lyonnes nommé au Ballon d’Or 2026 pour le titre de club féminin de l’année",
    "summary": "OL Lyonnes figure parmi les quatre formations retenues par France Football pour le titre de club féminin de l’année. La récompense sera remise le 26 octobre prochain lors de la cérémonie du Ballon d’Or 2026.",
@@ -105,61 +182,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa00067600e6-ma-katoto-ol-lyonnes.jpg&w=800&output=webp&q=78",
    "topic": "Féminines",
    "publishedAt": "2026-09-08T12:29:00+00:00"
-  },
-  {
-   "id": "ollyonneslyonnalanouvellemascotteduclub",
-   "title": "OL Lyonnes : Lyonna, la nouvelle mascotte du club",
-   "summary": "Après Lyou chez les garçons, l’OL Lyonnes accueille à son tour sa mascotte. Le club se dote ainsi de sa propre représentante avec Lyonna. L’OL Lyonnes a annoncé lundi l’arrivée de Lyonna, sa nouvelle recrue.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-lyonna-la-nouvelle-mascotte-du-club,406946.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FZJ203057-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-08T12:20:00+00:00"
-  },
-  {
-   "id": "mercatomapouyangambiwaexolpoursuitsacarrireenrgional2",
-   "title": "Mercato : Mapou Yanga-Mbiwa (ex-OL) poursuit sa carrière en Régional 2",
-   "summary": "Après deux saisons à Istres, l’ancien défenseur de l’OL s’est engagé avec le SC Montredon-Bonneveine, en Régional 2. À 37 ans, Mapou Yanga-Mbiwa n'a toujours pas raccroché les crampons.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-mapou-yanga-mbiwa-ex-ol-poursuit-sa-carriere-en-regional-2,406875.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2019%2F12%2F000_1JJ0TF-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-08T11:30:00+00:00"
-  },
-  {
-   "id": "ballondorollyonnesencoursepourtreleclubdelanne",
-   "title": "Ballon d'Or : OL Lyonnes en course pour être \"le club de l'année\"",
-   "summary": "Être intraitable en France suffira-t-il ? Ce mardi, France Football a dévoilé le nom des équipes féminines candidates au titre de \"club de l'année\". OL Lyonnes s'y trouve. Ces dernières années, le vainqueur de la Ligue des champions raflait la mise.",
-   "url": "https://www.olympique-et-lyonnais.com/ballon-dor-ol-lyonnes-en-course-pour-etre-le-club-de-lannee,406962.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260510__B2EL663__v1__HighRes__FblFraCupWomenPsgLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-09-08T10:40:00+00:00"
-  },
-  {
-   "id": "loljamaisdanslecurdemathysdecarvalho",
-   "title": "L'OL \"à jamais dans le cœur\" de Mathys De Carvalho",
-   "summary": "La fin d'une histoire de 16 ans. Lundi, Mathys De Carvalho a rejoint l'Arabie saoudite. Le milieu formé à l'OL a partagé un mot d'adieu. Arrivé à l'OL en 2010, Mathys De Carvalho en repart en 2026, 16 ans plus tard.",
-   "url": "https://www.olympique-et-lyonnais.com/lol-a-jamais-dans-le-coeur-de-mathys-de-carvalho,406951.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F09%2FG1PvTiMXcAE0S3E-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-08T09:50:00+00:00"
-  },
-  {
-   "id": "agressionduncoupleaprsollehavredeuxindividusserontjugs",
-   "title": "Agression d'un couple après OL - Le Havre : deux individus seront jugés",
-   "summary": "Le parquet de Lyon a annoncé à l'AFP que deux suspects seront jugés en février concernant l'agression raciste subie par Meriem Bouchedda et son mari. Le couple a subi des violences à l'issue de la rencontre entre Lyon et Le Havre (1-1), le 29 août.",
-   "url": "https://www.olympique-et-lyonnais.com/agression-dun-couple-apres-ol-le-havre-deux-individus-seront-juges,406945.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2017%2F10%2FGroupama-Stadium-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-08T09:00:00+00:00"
   },
   {
    "id": "paulmauricemorelassocidesmaisonsbocuserachtelesbateauxlyonna",
@@ -226,17 +248,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a9e8648bb0d6-screenshot-2026-09-07-at-11.png&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-07T09:33:00+00:00"
-  },
-  {
-   "id": "violencesautourdollehavrelepcfdurhnedemandeauclubdefairelemn",
-   "title": "Violences autour d’OL-Le Havre : le PCF du Rhône demande au club de faire le ménage chez ses supporters racistes",
-   "summary": "Après plusieurs agressions dénoncées en marge du match OL-Le Havre du 29 août, la fédération du Rhône du Parti communiste français met en cause la présence de militants d’extrême droite dans les tribunes lyonnaises.",
-   "url": "https://www.lyonmag.com/article/153862/violences-autour-d-ol-le-havre-le-pcf-du-rhone-demande-au-club-de-faire-le-menage-chez-ses-supporters-racistes",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a9d706220b5a-53512949300-bd12dbf535-o.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-06T14:00:00+00:00"
   }
  ]
 }
