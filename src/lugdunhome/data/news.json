@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-10T11:17:53+00:00",
+ "updatedAt": "2026-09-10T16:23:02+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,94 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ollyonnesveutdumondedcinescontreleparisfcsamedi13h30",
+   "title": "OL Lyonnes veut du monde à Décines contre le Paris FC samedi (13h30)",
+   "summary": "Après une victoire facile contre Fleury vendredi dernier, OL Lyonnes dispute sa première de la saison au Parc OL. Dans le choc contre le Paris FC, le club espère remplir le stade, à un horaire favorable pour les familles.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-veut-du-monde-a-decines-contre-le-paris-fc-samedi-13h30,407206.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FIMG_3815-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-10T15:45:00+00:00"
+  },
+  {
+   "id": "fonsecaetlolsattendentunmatchtrstactiquecontreleparisfc",
+   "title": "Fonseca et l'OL s'attendent à \"un match très tactique\" contre le Paris FC",
+   "summary": "Invaincu sur ses trois matchs en Ligue 1, l'OL affronte le Paris FC qui affiche le même bilan. Conscient des qualités parisiennes, Paulo Fonseca n'a pas voulu parler de premier gros choc, mais sait que la partie ne sera pas facile.",
+   "url": "https://www.olympique-et-lyonnais.com/fonseca-et-lol-sattendent-a-un-match-tres-tactique-contre-le-paris-fc,407201.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FAFP__20251029__82FM3BB__v2__HighRes__FblFraLigue1ParisFcLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-10T15:00:00+00:00"
+  },
+  {
+   "id": "olfonsecaannoncedeuxbonnesnouvellesavantleparisfcetlchedesin",
+   "title": "OL : Fonseca annonce deux bonnes nouvelles avant le Paris FC et lâche des indices sur son onze",
+   "summary": "Le coach de l’OL, Paulo Fonseca, s’est présenté ce jeudi devant la presse à deux chocs du choc dans la course à l’Europe face au Paris FC.",
+   "url": "https://www.butfootballclub.fr/1697309-ol-fonseca-annonce-deux-bonnes-nouvelles-avant-le-paris-fc-et-lache-des-indices-sur-son-onze/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F3e7e4d57-ol-fonseca-annonce-deux-bonnes-nouvelles-avant-le-paris-fc-et-lache-des-indices-sur-son-onze.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-10T14:40:00+00:00"
+  },
+  {
+   "id": "lolsurfesurlavaguenakamuraetlancesesrseauxsociauxenjaponais",
+   "title": "L'OL surfe sur la vague Nakamura et lance ses réseaux sociaux en japonais",
+   "summary": "Une semaine après l'arrivée de Keito Nakamura entre Rhône et Saône et conscient de l'engouement que cela génère au Japon, l'OL a choisi de lancer ses réseaux sociaux dans la langue nippone.",
+   "url": "https://www.olympique-et-lyonnais.com/lol-surfe-sur-la-vague-nakamura-et-lance-ses-reseaux-sociaux-en-japonais,407191.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260615__pedersen-netherla260614_npIFe__v1__HighRes__NetherlandsVJapanGroupFFi-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-10T14:15:00+00:00"
+  },
+  {
+   "id": "ligue1lolfinalementsanssupportersfaceauparisfc",
+   "title": "Ligue 1 : l'OL finalement sans supporters face au Paris FC ?",
+   "summary": "Alors qu'un déplacement encadré était dans les tuyaux avec près de 250 supporters de l'OL \"acceptés\" au stade Jean-Bouin, le ministère de l'Intérieur devrait finalement interdire cette présence en parcage, samedi.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-1-lol-finalement-sans-supporters-face-au-paris-fc,407188.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F04%2FAFP__20250413__428Q6T3__v1__HighRes__FblFraLigue1AuxerreLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-10T13:30:00+00:00"
+  },
+  {
+   "id": "keitonakamuralengouementpourlolaujaponavitepris",
+   "title": "Keito Nakamura : \"L'engouement pour l'OL au Japon a vite pris\"",
+   "summary": "Premier joueur japonais de l'histoire de l'OL, Keito Nakamura devrait faire ses débuts contre le Paris FC. Malgré un manque de rythme, l'ailier compte apporter sa pierre à l'édifice.",
+   "url": "https://www.olympique-et-lyonnais.com/keito-nakamura-lengouement-pour-lol-au-japon-a-vite-pris,407186.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260525__AR-20260525153800_KINQ1_260525-114600-IJM__153801166__v2__HighRes__Ja-e1788437594684-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-10T13:00:00+00:00"
+  },
+  {
+   "id": "clintonmataolheureuxpapadunpetitgaron",
+   "title": "Clinton Mata (OL) heureux papa d'un petit garçon",
+   "summary": "Ce jeudi matin, Clinton Mata n'était pas présent à l'entraînement de l'OL. Le défenseur ne souffre d'aucune blessure, mais était simplement absent suite à un heureux événement avec la naissance de son premier enfant.",
+   "url": "https://www.olympique-et-lyonnais.com/clinton-mata-ol-heureux-papa-dun-petit-garcon,407180.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260730__DPPI_40827004_018__v1__HighRes__FootballFriendlyGameBetisVLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-09-10T12:21:49+00:00"
+  },
+  {
+   "id": "lesbleuettesrenversentlquateuretprennentlattedeleurgroupe",
+   "title": "Les Bleuettes renversent l’Équateur et prennent la tête de leur groupe",
+   "summary": "Menée à deux reprises, l’équipe de France U20 féminine a trouvé les ressources pour s’imposer face à l’Équateur (3-2), mercredi à Sosnowiec. Les Françaises prennent ainsi seules les commandes du groupe C avant la dernière journée.",
+   "url": "https://www.olympique-et-lyonnais.com/les-bleuettes-renversent-lequateur-et-prennent-la-tete-de-leur-groupe,407157.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2F679071307_900491026361599_3105090295949108993_n-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-10T11:45:00+00:00"
+  },
   {
    "id": "olnousvousdemandonsdesactesuneptitioncontreleracismedpassele",
    "title": "\"OL, nous vous demandons des actes\" : une pétition contre le racisme dépasse les 500 signatures",
@@ -52,83 +140,6 @@
    "publishedAt": "2026-09-10T09:45:00+00:00"
   },
   {
-   "id": "olcoupdurpourlosopendaavantleparisfc",
-   "title": "OL : coup dur pour Loïs Openda avant le Paris FC",
-   "summary": "Arrivé à l’OL en provenance de la Juventus Turin, Loïs Openda (26 ans) connaît des débuts très paradoxaux sous le maillot lyonnais. L’OL peut déjà se réjouir d’avoir trouvé une nouvelle arme offensive avec Loïs Openda.",
-   "url": "https://www.butfootballclub.fr/1697218-ol-coup-dur-pour-lois-openda-avant-le-paris-fc/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F57653f67-ol-coup-dur-pour-lois-openda-avant-le-paris-fc.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-09-10T09:40:00+00:00"
-  },
-  {
-   "id": "mercatozeffaneexolrebonditaugoalfc",
-   "title": "Mercato : Zeffane (ex-OL) rebondit au GOAL FC",
-   "summary": "Ayant effectué toute la préparation estivale avec le club de National 1, Mehdi Zeffane a choisi de s'engager avec le GOAL FC pour la saison. Le latéral droit revient dans la région lyonnaise, lui qui a été formé à l'OL.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-zeffane-ex-ol-rebondit-au-goal-fc,407145.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F06%2F000_33E68KZ-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-10T09:00:00+00:00"
-  },
-  {
-   "id": "mercatofofanarevientsursontransfertavortlol",
-   "title": "Mercato : Fofana revient sur son transfert avorté à l'OL",
-   "summary": "Tout proche de signer à l'OL lors du dernier jour du mercato, Youssouf Fofana a finalement pris la direction du FC Séville. Une semaine après cette dernière journée intense, le milieu français est revenu sur cette vrai-fausse arrivée en Ligue 1.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-fofana-revient-sur-son-transfert-avorte-a-lol,407155.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260407__romano-sscnapol260406_npkdl__v1__HighRes__SscNapoliVAcMilanSerieA-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-10T08:15:00+00:00"
-  },
-  {
-   "id": "contrecristianoronaldofekirrefaitlecoupdesoncoupfranclorsdol",
-   "title": "Contre Cristiano Ronaldo, Fekir refait le coup de son coup-franc lors d'OL - PSG de 2018",
-   "summary": "Débarqué en Arabie saoudite durant l'été, Nabil Fekir a inscrit son premier but dans le championnat saoudien. Et pas de n'importe quelle manière face à Al-Nassr et Cristiano Ronaldo.",
-   "url": "https://www.olympique-et-lyonnais.com/contre-cristiano-ronaldo-fekir-refait-le-coup-de-son-coup-franc-lors-dol-psg-de-2018,407147.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2022%2F02%2F000_32228VZ-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-10T07:30:00+00:00"
-  },
-  {
-   "id": "parisfcoldplacementautorismaisencadrpourlessupporterslyonnai",
-   "title": "Paris FC - OL : déplacement autorisé mais encadré pour les supporters lyonnais",
-   "summary": "Dans le cadre de la 4e journée de Ligue 1, l'OL se déplace à Paris pour affronter le Paris FC. Cette rencontre, qui rappelle certains heurts en Coupe de France il y a quelques années, se jouera avec des supporters lyonnais dans le parcage visiteurs de Jean-Bouin.",
-   "url": "https://www.olympique-et-lyonnais.com/paris-fc-ol-deplacement-autorise-mais-encadre-pour-les-supporters-lyonnais,407142.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FAFP__20251029__82FT69B__v1__HighRes__FblFraLigue1ParisFcLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-10T06:45:00+00:00"
-  },
-  {
-   "id": "avantdaffronterlolrennesaprvuunstageenslovnie",
-   "title": "Avant d'affronter l'OL, Rennes a prévu un stage en Slovénie",
-   "summary": "Comme l'OL, Rennes se déplacera en Ligue Europa la semaine prochaine. Pour préparer son voyage à Décines le 19 septembre, les Bretons organisent un stage en Slovénie. Alors qu'approche la Ligue Europa, les clubs y participant doivent s'organiser pour les voyages européens.",
-   "url": "https://www.olympique-et-lyonnais.com/avant-daffronter-lol-rennes-a-prevu-un-stage-en-slovenie,407119.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FMjAyNjAxZjZlOWU4N2RmODMyZGY2NWE4NDZkYWY1ZmQ5MTM5ODU-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-10T06:00:00+00:00"
-  },
-  {
-   "id": "malagrohsollyonnessimplementheureusedepouvoirjoueretfaireceq",
-   "title": "Mala Grohs (OL Lyonnes) : \"Simplement heureuse de pouvoir jouer et faire ce que j'aime\"",
-   "summary": "Touchée par une tumeur maligne en 2024 à seulement 23 ans, Mala Grohs a réussi à vaincre la maladie. Très ouverte sur le sujet, la nouvelle gardienne d'OL Lyonnes a appris à relativiser dans la vie et en tire une force désormais, comme elle l'a expliqué dans une interview à Olympique-et-Lyonnais.",
-   "url": "https://www.olympique-et-lyonnais.com/mala-grohs-ol-lyonnes-simplement-heureuse-de-pouvoir-jouer-et-faire-ce-que-jaime,407049.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20241015__2177483580__v3__HighRes__VflWolfsburgVFcBayernMunchenGooglePixelFraue-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-09-10T05:30:00+00:00"
-  },
-  {
    "id": "cegidprparesonrapprochementavecsilaeungantdulogicielplusde10",
    "title": "Cegid prépare son rapprochement avec Silae : un géant du logiciel à plus de 10 milliards d’euros en vue",
    "summary": "L’entreprise historiquement lyonnaise Cegid annonce un projet de rapprochement avec Silae, spécialiste français de la paie et des ressources humaines. La future entité, valorisée à plus de 10 milliards d’euros, ambitionne de devenir l’un des principaux champions technologiques européens.",
@@ -138,17 +149,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa240fa95e8f-1200x675-67c700f99f6bd-cegid.jpg&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-09-10T05:30:00+00:00"
-  },
-  {
-   "id": "parisfcolunduelattenduentrelassinesinayokoetlosopenda",
-   "title": "Paris FC - OL : un duel attendu entre Lassine Sinayoko et Loïs Openda",
-   "summary": "Parmi les joueurs à suivre lors du déplacement de l’Olympique lyonnais au Paris FC, Loïs Openda et Lassine Sinayoko affichent des statistiques offensives proches, mais une efficacité bien différente devant le but.",
-   "url": "https://www.olympique-et-lyonnais.com/paris-fc-ol-un-duel-attendu-entre-lois-openda-et-lassine-sinayoko,407101.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260818__2291047809__v1__HighRes__FenerbahceVOlLyonnesUefaChampionsLeague20262-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-09T16:20:00+00:00"
   },
   {
    "id": "legroupamastadiumvaaccueillirunconcertdesoprano",
@@ -215,17 +215,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa00067600e6-ma-katoto-ol-lyonnes.jpg&w=800&output=webp&q=78",
    "topic": "Féminines",
    "publishedAt": "2026-09-08T12:29:00+00:00"
-  },
-  {
-   "id": "paulmauricemorelassocidesmaisonsbocuserachtelesbateauxlyonna",
-   "title": "Paul-Maurice Morel, associé des Maisons Bocuse, rachète Les Bateaux Lyonnais",
-   "summary": "C-Gastronomie, l'entité traiteur du groupe Bocuse, reprend l'entreprise de croisières-restaurants, qui réalise 8 millions d'euros de chiffre d'affaires. Une opération qui prolonge un partenariat déjà existant avec le groupe Lavorel.",
-   "url": "https://www.lyonmag.com/article/153879/paul-maurice-morel-associe-des-maisons-bocuse-rachete-les-bateaux-lyonnais",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a9fa16c18ec3-st-exupery1.png&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-09-08T06:10:00+00:00"
   },
   {
    "id": "onabesoindeltatetdelapolicelappellaidedelolpourendiguerlavio",
