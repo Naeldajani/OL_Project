@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-11T20:57:01+00:00",
+ "updatedAt": "2026-09-11T23:15:14+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ligue1lematchparisfclyonclasshautsrisques",
+   "title": "Ligue 1: le match Paris FC-Lyon classé à hauts risques",
+   "summary": "L’affiche de la 4eme journée de Ligue 1 entre le PFC et de l’Olympique Lyonnais programmée samedi au stade Jean-Bouin (20h45) est classée 4/5 par la Division nationale de lutte contre le hooliganisme (DNLH).",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/ligue-1-le-match-paris-fc-lyon-classe-a-hauts-risques_AN-202609110933.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FMc-q-Z4m63rxQap7toqB2xGkAhw%3D%2F0x212%3A2048x1364%2F800x0%2Fimages%2FLes-supporters-du-Paris-FC-face-a-Nice-au-stade-Jean-Bouin-le-30-aout-2026-2346834.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-11T22:39:07+00:00"
+  },
   {
    "id": "olmercatoendrickderetourlyonpluttquunesignaturelom",
    "title": "OL Mercato : Endrick de retour à Lyon plutôt qu’une signature à l’OM ?",
@@ -249,28 +260,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa12daf7f14f-screenshot-2026-09-09-at-11.png&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-09T10:07:00+00:00"
-  },
-  {
-   "id": "onabesoindeltatetdelapolicelappellaidedelolpourendiguerlavio",
-   "title": "\"On a besoin de l’État et de la police\", l’appel à l’aide de l’OL pour endiguer la violence près du Groupama Stadium",
-   "summary": "Après les graves incidents survenus en marge de la réception du Havre, le 29 août dernier en Ligue 1 (1-1), Michael Gerlinger, le directeur général de l’OL, appelle les pouvoirs publics à intervenir afin de mettre fin aux actes de violences et de racisme près du Groupama Stadium.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/on-a-besoin-de-l-etat-et-de-la-police-l-appel-a-l-aide-de-l-ol-pour-endiguer-la-violence-pres-du-groupama-stadium_AV-202609070601.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F6Xpix9OiFzbR-LhawWKdtujFW1A%3D%2F0x0%3A2048x1152%2F800x0%2Fimages%2FLe-Groupama-Stadium-de-Lyon-le-29-aout-2026-2342419.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-07T14:20:01+00:00"
-  },
-  {
-   "id": "incidentslorsdelyonlehavredeuxsuspectsjugsenfvrierpourlagres",
-   "title": "Incidents lors de Lyon-Le Havre: deux suspects jugés en février pour l'agression d'un couple, dont une élue locale",
-   "summary": "Sur trois personnes interpellées après les incidents après la rencontre entre l'OL et Le Havre le 29 août dernier, deux seront jugées en février devant le tribunal correctionnel après avoir violemment agressé un couple, dont une élue locale.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/incidents-lors-de-lyon-le-havre-deux-suspects-juges-en-fevrier-pour-l-agression-d-un-couple-dont-une-elue-locale_AV-202609070599.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F1NowLjr6FvdbfsaHRgYxnpgTJlg%3D%2F0x106%3A2048x1258%2F800x0%2Fimages%2FDes-supporters-de-l-OL-contre-Le-Havre-en-Ligue-1-le-29-aout-2026-2340074.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-07T14:16:50+00:00"
   }
  ]
 }
