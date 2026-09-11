@@ -1,12 +1,123 @@
 {
- "updatedAt": "2026-09-11T11:19:14+00:00",
+ "updatedAt": "2026-09-11T16:27:04+00:00",
  "sources": [
+  "20 Minutes",
   "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "letrophedelaligueeuropabienttexposlyon",
+   "title": "Le trophée de la Ligue Europa bientôt exposé à Lyon",
+   "summary": "Le trophée de la Ligue Europa sera bientôt exposé à Lyon.",
+   "url": "https://www.lyonfoot.com/article/14113/le-trophee-de-la-ligue-europa-bientot-expose-a-lyon",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa41034d3a6b-europa-league.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-11T16:00:00+00:00"
+  },
+  {
+   "id": "troisforfaitsetunretourpourleparisfccontrelol",
+   "title": "Trois forfaits et un retour pour le Paris FC contre l'OL",
+   "summary": "Les joueurs majeurs du Paris FC seront là pour le match contre l'OL samedi (20h45). Malgré tout, le groupe ne sera pas au complet, avec trois forfaits, même si Jonathan Ikoné est de retour.",
+   "url": "https://www.olympique-et-lyonnais.com/trois-forfaits-et-un-retour-pour-le-paris-fc-contre-lol,407314.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP_86KM8JW-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-11T15:35:00+00:00"
+  },
+  {
+   "id": "olacadmieunmatchamicalpourlarservefacegrenoble",
+   "title": "OL académie : un match amical pour la réserve face à Grenoble",
+   "summary": "Pas de championnat ce week-end pour la réserve de l'OL. Mais elle affrontera son homologue de Grenoble lors d'un match amical. C'est un week-end de Coupe de France pour les clubs de National 2.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-un-match-amical-pour-la-reserve-face-a-grenoble,407305.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F08%2FIMG_2533-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-11T14:50:00+00:00"
+  },
+  {
+   "id": "lyonpolitiquesrconciliationsarselliaulasdoucetetlaclimetbrun",
+   "title": "Lyon Politiques : réconciliation Sarselli-Aulas, Doucet et la clim et Bruno Bernard au sénat - 11/09/26",
+   "summary": "L'émission Lyon Politiques et ses intervenants décryptent pour vous les évènements marquants de la semaine dans l'agglomération lyonnaise.",
+   "url": "https://www.lyonmag.com/article/153930/lyon-politiques-reconciliation-sarselli-aulas-doucet-et-la-clim-et-bruno-bernard-au-senat-11-09-26",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa3e7f074ae0-lyon-politiques.png&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-11T14:30:00+00:00"
+  },
+  {
+   "id": "olclintonmatalentranementcevendredi",
+   "title": "OL : Clinton Mata à l'entraînement ce vendredi",
+   "summary": "Absent jeudi, le néo-papa Clinton Mata était présent pour la séance de ce vendredi. Reste à voir s'il sera convoqué pour le match du week-end chez le Paris FC. Il était le seul absent notable de l'entraînement jeudi.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-clinton-mata-a-lentrainement-ce-vendredi,407299.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3784-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-11T14:00:00+00:00"
+  },
+  {
+   "id": "momentdepartageentrexvdefrancefmininetollyonnes",
+   "title": "Moment de partage entre XV de France féminin et OL Lyonnes",
+   "summary": "À la veille de la réception du Paris FC, OL Lyonnes a partagé un moment à l'entraînement avec le XV de France féminin ce vendredi. Les rugbywomen joueront à Gerland samedi. Du ballon rond à la balle ovale.",
+   "url": "https://www.olympique-et-lyonnais.com/moment-de-partage-entre-xv-de-france-feminin-et-ol-lyonnes,407291.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F08%2FIMG_3522-e1754901582589-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-09-11T13:10:00+00:00"
+  },
+  {
+   "id": "olsidneygovoudnonceleracismedemicrogroupesquifontrgneruneesp",
+   "title": "OL : Sidney Govou dénonce le racisme de « microgroupes qui font régner une espèce de terreur » à Lyon",
+   "summary": "L’ancien septuple champion de France avec l’Olympique Lyonnais s’inquiète dans « Le Progrès » des dérives racistes notamment présentes au sein des tribunes du Parc OL",
+   "url": "https://www.20minutes.fr/sport/football/ligue-1/4244557-20260911-ligue-1-sidney-govou-denonce-racisme-microgroupes-font-regner-espece-terreur-parc-ol?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FVIDFXp7CQ7iQY99qdKjMYyk%2F1444x920_sidney-govou-ancien-joueur-de-l-olympique-lyonnais-lors-du-match-de-ligue-1-francaise-entre-l-olympique-lyonnais-et-l-as-monaco-au-groupama-stadium-decines-charpieu-lyon-le-22-mars-2026-france-alli-limourad-sipa-27141-credit-mourad-allili-sipa-2603231647&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-11T12:52:06+00:00"
+  },
+  {
+   "id": "parisfcollessupporterslyonnaisfinalementautorissmaisennombre",
+   "title": "Paris FC - OL : les supporters lyonnais finalement autorisés, mais en nombre limité",
+   "summary": "Nouveau rebondissement à la veille de Paris FC - OL.",
+   "url": "https://www.lyonfoot.com/article/14149/paris-fc-ol-les-supporters-lyonnais-finalement-autorises-mais-en-nombre-limite",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa3f671aa626-supporter-fumi-ol.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-11T12:36:00+00:00"
+  },
+  {
+   "id": "elmanelhagealimpressiondavoirbeaucoupapprisollyonnes",
+   "title": "Elma Nelhage a \"l'impression d'avoir beaucoup appris\" à OL Lyonnes",
+   "summary": "Nouveau contrat pour Elma Nelhage. La Suédoise a paraphé jeudi sa prolongation avec OL Lyonnes. La voilà désormais liée au club jusqu'en 2029. C'est peut-être la saison de l'éclosion à OL Lyonnes pour Elma Nelhage.",
+   "url": "https://www.olympique-et-lyonnais.com/elma-nelhage-a-limpression-davoir-beaucoup-appris-a-ol-lyonnes,407285.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FAFP__20251015__2240814711__v1__HighRes__OlLyonnesVSknStPoltenUefaWomenSChampionsLeag-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-11T12:20:00+00:00"
+  },
+  {
+   "id": "olkeitonakamuraunprofildiffrentdesautresailiers",
+   "title": "OL : Keito Nakamura, un profil \"différent\" des autres ailiers",
+   "summary": "Keito Nakamura pourrait faire ses débuts avec l'OL samedi contre le Paris FC (20h45). Pour Paulo Fonseca, le Japonais apportera de la diversité offensive par rapport aux autres ailiers à sa disposition.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-keito-nakamura-un-profil-different-des-autres-ailiers,407276.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F06%2F000_33JU6DL-scaled-e1788330890254-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-11T11:30:00+00:00"
+  },
   {
    "id": "parisfcollessupporterslyonnaisfinalementbienprsentsjeanbouin",
    "title": "Paris FC - OL : les supporters lyonnais finalement bien présents à Jean-Bouin",
@@ -63,50 +174,6 @@
    "publishedAt": "2026-09-11T08:10:00+00:00"
   },
   {
-   "id": "olacadmieleprogrammeduweekend",
-   "title": "OL académie : le programme du week-end",
-   "summary": "Un week-end presque complet pour l'Académie. Plusieurs équipes seront sur le front samedi et dimanche, avec notamment la réserve d'OL Lyonnes qui entame son championnat. Ça jouera de partout ce week-end sur les pelouses de Meyzieu.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-le-programme-du-week-end-104,407239.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F01%2FIMG_3262-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-09-11T07:25:00+00:00"
-  },
-  {
-   "id": "olpaulofonsecademandedelapatienceavecadilhamdani",
-   "title": "OL : Paulo Fonseca demande de la \"patience\" avec Adil Hamdani",
-   "summary": "De retour à l'entraînement avec le groupe professionnel, Adil Hamdani évolue pour l'instant en réserve. Paulo Fonseca réclame de la patience pour le jeune ailier de 17 ans. Une promesse, mais jusqu'où ira-t-il ?",
-   "url": "https://www.olympique-et-lyonnais.com/ol-paulo-fonseca-demande-de-la-patience-avec-adil-hamdani,407217.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FG6dYWriXoAA1QWc-e1763935759134-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-09-11T06:40:00+00:00"
-  },
-  {
-   "id": "olfelixbachermoussaniakhatlesdeuxfontdjlapaire",
-   "title": "OL : Felix Bacher - Moussa Niakhaté, les deux font déjà la paire",
-   "summary": "Depuis l'arrivée de Felix Bacher, il était écrit qu'ils formeraient la charnière de l'OL cette année. L'Autrichien et Moussa Niakhaté semblent déjà avoir une longueur d'avance sur leurs concurrents.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-felix-bacher-moussa-niakhate-les-deux-font-deja-la-paire,407216.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2Fipiccy_image-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-11T06:00:00+00:00"
-  },
-  {
-   "id": "sopranodonneraunconcertauparcolen2027",
-   "title": "Soprano donnera un concert au Parc OL en 2027",
-   "summary": "Dans le cadre de la période estivale généralement réservée aux spectacles et concerts, le Parc OL accueillera l'un des grands noms de la scène musicale française. Le samedi 10 juillet 2027, Soprano débarquera à Décines pour un concert sous la forme d'un gigantesque karaoké géant.",
-   "url": "https://www.olympique-et-lyonnais.com/soprano-donnera-un-concert-au-parc-ol-en-2027,407159.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2F2048-770x433.webp&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-11T05:30:00+00:00"
-  },
-  {
    "id": "quefairelyonceweekend1112et13septembre",
    "title": "Que faire à Lyon ce week-end ? (11, 12 et 13 septembre)",
    "summary": "Retrouvez notre sélection d'évènements organisés ce week-end dans l'agglomération lyonnaise. Faites votre choix !",
@@ -118,17 +185,6 @@
    "publishedAt": "2026-09-11T05:00:00+00:00"
   },
   {
-   "id": "parisfcolduranvilleetnakamuraprtscestpositifdavoirtoutlegrou",
-   "title": "Paris FC - OL : Duranville et Nakamura prêts, \"c'est positif d'avoir tout le groupe\"",
-   "summary": "Pour le déplacement au Paris FC samedi (20h45), Paulo Fonseca peut compter sur un groupe au complet. Il reste une incertitude autour de Clinton Mata, mais Julien Duranville et Keito Nakamura postulent bien pour une place.",
-   "url": "https://www.olympique-et-lyonnais.com/paris-fc-ol-duranville-et-nakamura-prets-cest-positif-davoir-tout-le-groupe,407209.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FDuranville-2-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-10T16:30:00+00:00"
-  },
-  {
    "id": "onaenlevtoutelinformatiqueducasiercommentlelyonnaisdrivecube",
    "title": "\"On a enlevé toute l'informatique du casier\" : comment le Lyonnais Drive Cube veut sécuriser le dernier mètre",
    "summary": "L'émission L'Eco de Lyon revient chaque semaine sur l'actualité économique de l'agglomération lyonnaise avec la présentation d'un métier, d'une entreprise avec l'invité d'Alexis Alouache.",
@@ -138,17 +194,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa29162c3c7e-design-sans-titre.png&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-09-10T16:00:00+00:00"
-  },
-  {
-   "id": "ollyonnesveutdumondedcinescontreleparisfcsamedi13h30",
-   "title": "OL Lyonnes veut du monde à Décines contre le Paris FC samedi (13h30)",
-   "summary": "Après une victoire facile contre Fleury vendredi dernier, OL Lyonnes dispute sa première de la saison au Parc OL. Dans le choc contre le Paris FC, le club espère remplir le stade, à un horaire favorable pour les familles.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-veut-du-monde-a-decines-contre-le-paris-fc-samedi-13h30,407206.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FIMG_3815-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-10T15:45:00+00:00"
   },
   {
    "id": "parisfcoljeconnaisbienlesintentionsdelentraneurconfiefonseca",
@@ -204,28 +249,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa12daf7f14f-screenshot-2026-09-09-at-11.png&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-09T10:07:00+00:00"
-  },
-  {
-   "id": "ftedeslumires2026lyonleslumignonsducursoutiendrontlassociati",
-   "title": "Fête des Lumières 2026 à Lyon : les Lumignons du Cœur soutiendront l’association Vivre aux éclats",
-   "summary": "Les Lumignons du Cœur auront cette année pour bénéficiaire l’association Vivre aux éclats. Depuis plus de 30 ans, ses artistes-clowns interviennent dans des établissements de soin de la région lyonnaise pour créer du lien et accompagner patients, résidents et soignants.",
-   "url": "https://www.lyonmag.com/article/153895/fete-des-lumieres-2026-a-lyon-les-lumignons-du-coeur-soutiendront-l-association-vivre-aux-eclats",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa0e5a686495-53381449219-4a8fd28ce5-o.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-09T06:00:00+00:00"
-  },
-  {
-   "id": "fourvirealainmrieuxreprsenteleslyonnaislorsdurenouvellementd",
-   "title": "À Fourvière, Alain Mérieux représente les Lyonnais lors du renouvellement du Vœu des Échevins",
-   "summary": "À l’approche de la Fête des Lumières du 8 décembre, le renouvellement des Échevins du 8 septembre à Fourvière a été l’occasion de rappeler les liens qui unissent les Lyonnais à leur ville et à son histoire.",
-   "url": "https://www.lyonmag.com/article/153890/a-fourviere-alain-merieux-represente-les-lyonnais-lors-du-renouvellement-du-voeu-des-echevins",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa044c61865a-dsc-9037.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-08T19:10:00+00:00"
   },
   {
    "id": "onabesoindeltatetdelapolicelappellaidedelolpourendiguerlavio",
