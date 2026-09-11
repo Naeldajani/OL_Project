@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-11T04:38:28+00:00",
+ "updatedAt": "2026-09-11T11:19:14+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -8,15 +8,114 @@
  ],
  "items": [
   {
-   "id": "pronosticparisfcolleparisfcvatilsoffrirlolaprslom",
-   "title": "Pronostic Paris FC – OL : le Paris FC va-t-il s’offrir l’OL après l’OM ?",
-   "summary": "Voici l’analyse complète du match de la quatrième journée de Ligue 1 entre le Paris FC et l’OL, ainsi que notre pronostic de la rencontre. C’est l’un des chocs de cette quatrième journée de Ligue 1 !",
-   "url": "https://www.butfootballclub.fr/1696436-pronostic-paris-fc-ol-le-paris-fc-va-t-il-soffrir-lol-apres-lom/",
+   "id": "parisfcollessupporterslyonnaisfinalementbienprsentsjeanbouin",
+   "title": "Paris FC - OL : les supporters lyonnais finalement bien présents à Jean-Bouin",
+   "summary": "Alors qu'il était question d'un possible arrêté ministériel pour interdire la présence des supporters lyonnais à Jean-Bouin samedi, ce ne sera finalement pas le cas. L'OL sera encouragé par ses fans contre le Paris FC.",
+   "url": "https://www.olympique-et-lyonnais.com/paris-fc-ol-les-supporters-lyonnais-finalement-bien-presents-a-jean-bouin,407270.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F02%2F000_34JH42T-e1708447198559-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-11T10:40:00+00:00"
+  },
+  {
+   "id": "olmercatoaprslasselyonaaussimislamainsurunailierconvoitparma",
+   "title": "OL Mercato : après l’ASSE, Lyon a aussi mis la main sur un ailier convoité par Manchester United !",
+   "summary": "Alors qu’Étienne Mendy, jeune ailier de 18 ans, va signer à l’ASSE, l’OL a aussi frappé un coup qui fait enrager Manchester United. Tout comme l’ASSE, son grand rival, l’OL continue de miser sur la jeunesse.",
+   "url": "https://www.butfootballclub.fr/1697542-ol-mercato-apres-lasse-lyon-a-aussi-mis-la-main-sur-un-ailier-convoite-par-manchester-united/",
    "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F52dcaaa3-pronostic-paris-fc-ol-le-paris-fc-va-t-il-soffrir-lol-apres-lom.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-11T04:30:00+00:00"
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F0320e228-ol-fonseca-a-donne-sa-reponse-a-lyon-au-sujet-de-son-avenir.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-11T10:20:00+00:00"
+  },
+  {
+   "id": "parisfcoljeanbouinunecitadelledifficilementprenable",
+   "title": "Paris FC - OL : Jean-Bouin, une citadelle difficilement prenable",
+   "summary": "Depuis mars 2026, une seule équipe est venue gagner à Jean-Bouin. Ce sera l'objectif de l'OL samedi dans l'antre du Paris FC. Fini le statut de promu qui essaie de se maintenir dans l'élite.",
+   "url": "https://www.olympique-et-lyonnais.com/paris-fc-ol-jean-bouin-une-citadelle-difficilement-prenable,407261.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FAFP__20251029__82FK78Z__v1__HighRes__FblFraLigue1ParisFcLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-11T09:50:00+00:00"
+  },
+  {
+   "id": "oltylermortonaatteintlabarredes50apparitionsavecleslyonnais",
+   "title": "OL : Tyler Morton a atteint la barre des 50 apparitions avec les Lyonnais",
+   "summary": "Devenu indispensable très rapidement à l'OL, Tyler Morton a déjà atteint le cap des 50 matchs. Il entame tout juste sa deuxième saison au club. Avec la multiplication des matchs, ce n'est pas un gros événement, mais tout de même.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-tyler-morton-a-atteint-la-barre-des-50-apparitions-avec-les-lyonnais,407256.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2FMorton-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-11T09:00:00+00:00"
+  },
+  {
+   "id": "lesmotsfortsdesidneygovousurleracismeautourdelol",
+   "title": "Les mots forts de Sidney Govou sur le racisme autour de l'OL",
+   "summary": "Après les récents événements violents au Parc OL, Sidney Govou prend la parole. Il évoque le racisme ambiant, tout en rappelant qu'il ne concerne pas uniquement le club lyonnais. Aujourd'hui, le climat autour de l'Olympique lyonnais et du Parc OL n'est pas au beau fixe.",
+   "url": "https://www.olympique-et-lyonnais.com/les-mots-forts-de-sidney-govou-sur-le-racisme-autour-de-lol,407253.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FIMG_3718-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-11T08:10:00+00:00"
+  },
+  {
+   "id": "olacadmieleprogrammeduweekend",
+   "title": "OL académie : le programme du week-end",
+   "summary": "Un week-end presque complet pour l'Académie. Plusieurs équipes seront sur le front samedi et dimanche, avec notamment la réserve d'OL Lyonnes qui entame son championnat. Ça jouera de partout ce week-end sur les pelouses de Meyzieu.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-le-programme-du-week-end-104,407239.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F01%2FIMG_3262-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-09-11T07:25:00+00:00"
+  },
+  {
+   "id": "olpaulofonsecademandedelapatienceavecadilhamdani",
+   "title": "OL : Paulo Fonseca demande de la \"patience\" avec Adil Hamdani",
+   "summary": "De retour à l'entraînement avec le groupe professionnel, Adil Hamdani évolue pour l'instant en réserve. Paulo Fonseca réclame de la patience pour le jeune ailier de 17 ans. Une promesse, mais jusqu'où ira-t-il ?",
+   "url": "https://www.olympique-et-lyonnais.com/ol-paulo-fonseca-demande-de-la-patience-avec-adil-hamdani,407217.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FG6dYWriXoAA1QWc-e1763935759134-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-09-11T06:40:00+00:00"
+  },
+  {
+   "id": "olfelixbachermoussaniakhatlesdeuxfontdjlapaire",
+   "title": "OL : Felix Bacher - Moussa Niakhaté, les deux font déjà la paire",
+   "summary": "Depuis l'arrivée de Felix Bacher, il était écrit qu'ils formeraient la charnière de l'OL cette année. L'Autrichien et Moussa Niakhaté semblent déjà avoir une longueur d'avance sur leurs concurrents.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-felix-bacher-moussa-niakhate-les-deux-font-deja-la-paire,407216.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2Fipiccy_image-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-11T06:00:00+00:00"
+  },
+  {
+   "id": "sopranodonneraunconcertauparcolen2027",
+   "title": "Soprano donnera un concert au Parc OL en 2027",
+   "summary": "Dans le cadre de la période estivale généralement réservée aux spectacles et concerts, le Parc OL accueillera l'un des grands noms de la scène musicale française. Le samedi 10 juillet 2027, Soprano débarquera à Décines pour un concert sous la forme d'un gigantesque karaoké géant.",
+   "url": "https://www.olympique-et-lyonnais.com/soprano-donnera-un-concert-au-parc-ol-en-2027,407159.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2F2048-770x433.webp&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-11T05:30:00+00:00"
+  },
+  {
+   "id": "quefairelyonceweekend1112et13septembre",
+   "title": "Que faire à Lyon ce week-end ? (11, 12 et 13 septembre)",
+   "summary": "Retrouvez notre sélection d'évènements organisés ce week-end dans l'agglomération lyonnaise. Faites votre choix !",
+   "url": "https://www.lyonpoche.com/article/6259/les-bons-plans-de-lyon-poche-vos-sorties-a-lyon-du-vendredi-11-au-dimanche-13-septembre",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa2e07c69046-381002530-2096629234010321-751096230278644738-n.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-11T05:00:00+00:00"
   },
   {
    "id": "parisfcolduranvilleetnakamuraprtscestpositifdavoirtoutlegrou",
@@ -52,72 +151,6 @@
    "publishedAt": "2026-09-10T15:45:00+00:00"
   },
   {
-   "id": "fonsecaetlolsattendentunmatchtrstactiquecontreleparisfc",
-   "title": "Fonseca et l'OL s'attendent à \"un match très tactique\" contre le Paris FC",
-   "summary": "Invaincu sur ses trois matchs en Ligue 1, l'OL affronte le Paris FC qui affiche le même bilan. Conscient des qualités parisiennes, Paulo Fonseca n'a pas voulu parler de premier gros choc, mais sait que la partie ne sera pas facile.",
-   "url": "https://www.olympique-et-lyonnais.com/fonseca-et-lol-sattendent-a-un-match-tres-tactique-contre-le-paris-fc,407201.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FAFP__20251029__82FM3BB__v2__HighRes__FblFraLigue1ParisFcLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-10T15:00:00+00:00"
-  },
-  {
-   "id": "lolsurfesurlavaguenakamuraetlancesesrseauxsociauxenjaponais",
-   "title": "L'OL surfe sur la vague Nakamura et lance ses réseaux sociaux en japonais",
-   "summary": "Une semaine après l'arrivée de Keito Nakamura entre Rhône et Saône et conscient de l'engouement que cela génère au Japon, l'OL a choisi de lancer ses réseaux sociaux dans la langue nippone.",
-   "url": "https://www.olympique-et-lyonnais.com/lol-surfe-sur-la-vague-nakamura-et-lance-ses-reseaux-sociaux-en-japonais,407191.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260615__pedersen-netherla260614_npIFe__v1__HighRes__NetherlandsVJapanGroupFFi-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-10T14:15:00+00:00"
-  },
-  {
-   "id": "ligue1lolfinalementsanssupportersfaceauparisfc",
-   "title": "Ligue 1 : l'OL finalement sans supporters face au Paris FC ?",
-   "summary": "Alors qu'un déplacement encadré était dans les tuyaux avec près de 250 supporters de l'OL \"acceptés\" au stade Jean-Bouin, le ministère de l'Intérieur devrait finalement interdire cette présence en parcage, samedi.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-1-lol-finalement-sans-supporters-face-au-paris-fc,407188.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F04%2FAFP__20250413__428Q6T3__v1__HighRes__FblFraLigue1AuxerreLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-10T13:30:00+00:00"
-  },
-  {
-   "id": "keitonakamuralengouementpourlolaujaponavitepris",
-   "title": "Keito Nakamura : \"L'engouement pour l'OL au Japon a vite pris\"",
-   "summary": "Premier joueur japonais de l'histoire de l'OL, Keito Nakamura devrait faire ses débuts contre le Paris FC. Malgré un manque de rythme, l'ailier compte apporter sa pierre à l'édifice.",
-   "url": "https://www.olympique-et-lyonnais.com/keito-nakamura-lengouement-pour-lol-au-japon-a-vite-pris,407186.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260525__AR-20260525153800_KINQ1_260525-114600-IJM__153801166__v2__HighRes__Ja-e1788437594684-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-10T13:00:00+00:00"
-  },
-  {
-   "id": "clintonmataolheureuxpapadunpetitgaron",
-   "title": "Clinton Mata (OL) heureux papa d'un petit garçon",
-   "summary": "Ce jeudi matin, Clinton Mata n'était pas présent à l'entraînement de l'OL. Le défenseur ne souffre d'aucune blessure, mais était simplement absent suite à un heureux événement avec la naissance de son premier enfant.",
-   "url": "https://www.olympique-et-lyonnais.com/clinton-mata-ol-heureux-papa-dun-petit-garcon,407180.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260730__DPPI_40827004_018__v1__HighRes__FootballFriendlyGameBetisVLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-09-10T12:21:49+00:00"
-  },
-  {
-   "id": "lesbleuettesrenversentlquateuretprennentlattedeleurgroupe",
-   "title": "Les Bleuettes renversent l’Équateur et prennent la tête de leur groupe",
-   "summary": "Menée à deux reprises, l’équipe de France U20 féminine a trouvé les ressources pour s’imposer face à l’Équateur (3-2), mercredi à Sosnowiec. Les Françaises prennent ainsi seules les commandes du groupe C avant la dernière journée.",
-   "url": "https://www.olympique-et-lyonnais.com/les-bleuettes-renversent-lequateur-et-prennent-la-tete-de-leur-groupe,407157.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2F679071307_900491026361599_3105090295949108993_n-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-10T11:45:00+00:00"
-  },
-  {
    "id": "parisfcoljeconnaisbienlesintentionsdelentraneurconfiefonseca",
    "title": "Paris FC - OL : \"Je connais bien les intentions de l'entraîneur...\" confie Fonseca sur Rosenior",
    "summary": "Alors que l'Olympique Lyonnais se déplacera sur la pelouse du Paris FC ce week-end pour la 4e journée de Ligue 1, Paulo Fonseca s'est exprimé en conférence de presse. Le tacticien rhodanien est revenu sur le duel tactique l'opposant au coach parisien Liam Rosenior.",
@@ -138,28 +171,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa28fa43a7e0-ol-tribune-supporter.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-09-10T11:06:00+00:00"
-  },
-  {
-   "id": "elmajuntillanelhageprolongeavecollyonnes",
-   "title": "Elma Juntilla Nelhage prolonge avec OL Lyonnes",
-   "summary": "Débarquée à l'hiver 2025, Elma Juntilla Nelhage va encore passer quelques saisons à OL Lyonnes. La défenseuse suédoise a prolongé jusqu'en juin 2029 avec le club lyonnais. Elle avait été une recrue surprise de l'hiver 2025 au même titre que Tarciane.",
-   "url": "https://www.olympique-et-lyonnais.com/elma-juntilla-nelhage-prolonge-avec-ol-lyonnes,407173.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FCapture-decran-2026-09-10-a-12.20.35-770x433.png&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-10T11:00:00+00:00"
-  },
-  {
-   "id": "avantparisfcolduranvillederetourlentranementcollectif",
-   "title": "Avant Paris FC - OL, Duranville de retour à l'entraînement collectif",
-   "summary": "Absent depuis trois matchs suite à une blessure musculaire, Julien Duranville a fait, comme prévu, son retour à l'entraînement collectif de l'OL. Une bonne nouvelle, à deux jours du déplacement dans la capitale pour affronter le Paris FC.",
-   "url": "https://www.olympique-et-lyonnais.com/avant-paris-fc-ol-duranville-de-retour-a-lentrainement-collectif,407168.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260715__C2AR9E7__v1__HighRes__FblFraFriendlyLyonServette-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-10T10:29:38+00:00"
   },
   {
    "id": "cegidprparesonrapprochementavecsilaeungantdulogicielplusde10",
