@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-11T23:15:14+00:00",
+ "updatedAt": "2026-09-12T04:32:32+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,28 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "parisfclyonquelleheureetsurquellechanetvregarderlematchdelig",
+   "title": "Paris FC - Lyon : à quelle heure et sur quelle chaîne TV regarder le match de Ligue 1 en direct ?",
+   "summary": "Choc au sommet à Jean Bouin ! Deuxièmes à égalité de points, le Paris FC et l’Olympique Lyonnais s’affrontent avec l’ambition de prendre seuls les commandes de la chasse au leader. Voici toutes les informations pour suivre cette affiche en direct.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/paris-fc-lyon-a-quelle-heure-et-sur-quelle-chaine-tv-regarder-le-match-de-ligue-1-en-direct_AN-202609120004.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FiQTRBsCoBWTMLQ0en0MY89lSrHE%3D%2F0x0%3A1600x900%2F800x0%2Fimages%2FParis-FC-Lyon-a-quelle-heure-et-sur-quelle-chaine-TV-regarder-le-match-de-Ligue-1-en-direct-2344562.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-12T04:15:00+00:00"
+  },
+  {
+   "id": "lolpasseunsrieuxtestfaceunparisfcenpleineforme",
+   "title": "L’OL passe un sérieux test face à un Paris FC en pleine forme",
+   "summary": "Ce samedi à 20h45, l’OL se déplace sur la pelouse du Paris FC.",
+   "url": "https://www.lyonfoot.com/article/14140/leur-attaque-est-dangereuse-l-ol-en-mission-face-au-pfc",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa2bf66bd5f5-screenshot-2026-09-10-at-16.png&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-12T04:00:00+00:00"
+  },
   {
    "id": "ligue1lematchparisfclyonclasshautsrisques",
    "title": "Ligue 1: le match Paris FC-Lyon classé à hauts risques",
@@ -249,17 +271,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa16b8fa0c62-soprano.png&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-09T14:18:00+00:00"
-  },
-  {
-   "id": "ol192millionsdeuroslobservatoiredufootballdvoilelecotdeleffe",
-   "title": "OL : 192 millions d’euros, l'Observatoire du Football dévoile le coût de l’effectif actuel",
-   "summary": "L’Olympique Lyonnais continue de figurer parmi les clubs français ayant le plus investi pour constituer leur effectif.",
-   "url": "https://www.lyonfoot.com/article/14122/ol-192-millions-d-euros-le-cies-devoile-le-cout-de-l-effectif-actuel",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa12daf7f14f-screenshot-2026-09-09-at-11.png&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-09T10:07:00+00:00"
   }
  ]
 }
