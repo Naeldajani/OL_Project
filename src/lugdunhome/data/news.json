@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-12T15:30:56+00:00",
+ "updatedAt": "2026-09-12T20:32:20+00:00",
  "sources": [
   "20 Minutes",
   "Lyon Mag",
@@ -7,6 +7,61 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "directparisfcoldesoccasionsmaispasdebutsuivezlechocdela4ejou",
+   "title": "DIRECT. Paris FC-OL: des occasions mais pas de but, suivez le choc de la 4e journée de Ligue 1 en live",
+   "summary": "Jolie affiche de haut de tableau ce samedi soir à Jean-Bouin, où le Paris FC de Liam Rosenior, 3e, accueille l'OL de Paulo Fonseca, 4e du Championnat. Coup d'envoi prévu à 20h45, à suivre en direct commenté sur l'app et le site RMC Sport.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-paris-fc-ol-suivez-le-choc-de-la-4e-journee-de-ligue-1-en-live_LS-202609120256.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FQMYmUPdj2Plr4X9prT3JkhQyrG4%3D%2F0x49%3A2048x1201%2F800x0%2Fimages%2FCorentin-Tolisso-face-a-Maxime-Lopez-lors-de-Paris-FC-OL-le-12-septembre-2026-2347040.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-12T20:07:03+00:00"
+  },
+  {
+   "id": "parisfcolfonsecaremetlesmmesquefaceauxerre",
+   "title": "Paris FC - OL : Fonseca remet les mêmes que face à Auxerre",
+   "summary": "Toujours invaincus dans ce début de championnat, le Paris FC et l'OL s'affrontent ce samedi soir (20h45). Pour ce premier test de la saison en Ligue 1, Paulo Fonseca a choisi de repartir avec le même onze que face à Auxerre.",
+   "url": "https://www.olympique-et-lyonnais.com/paris-fc-ol-fonseca-remet-les-memes-que-face-a-auxerre,407384.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260904__C7DW9E4__v1__HighRes__FblFraLigue1LyonAuxerre-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-12T17:47:25+00:00"
+  },
+  {
+   "id": "ligue1brunnerdonnelatteduchampionnatmonacopourquelquesheures",
+   "title": "Ligue 1 : Brunner donne la tête du championnat à Monaco...pour quelques heures ?",
+   "summary": "Le nouvel attaquant monégasque a inscrit un but magnifique pour permettre à l'ASM de reprendre la tête du championnat avant le match entre le PFC et l'OL samedi soir",
+   "url": "https://www.20minutes.fr/sport/football/4244795-20260912-ligue-1-brunner-donne-tete-championnat-monaco-quelques-heures?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FaRmFDB0kTiuyL7zStLJZ7Ck%2F1444x920_l-attaquant-allemand-29-paris-brunner-r-celebre-le-fait-d-avoir-marque-le-premier-but-de-son-equipe-lors-du-match-de-football-de-l1-francaise-entre-le-rc-strasbourg-alsace-et-l-as-monaco-au-stade-de-la-meinau-a-strasbourg-dans-l-est-de-la-france-le-12-septembre-2026-photo-de-sebastien-bozon-afp&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-12T17:34:51+00:00"
+  },
+  {
+   "id": "top14leloufrappefortauracing92etdcrocheunevictoirebonifie",
+   "title": "Top 14 : le LOU frappe fort au Racing 92 et décroche une victoire bonifiée",
+   "summary": "Le LOU Rugby a confirmé son excellent début de saison en allant s’imposer 48-31 sur la pelouse du Racing 92. Les Lyonnais ont inscrit huit essais et repartent avec le bonus offensif.",
+   "url": "https://www.lyonmag.com/article/153911/top-14-le-lou-frappe-fort-au-racing-92-et-decroche-une-victoire-bonifiee",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa5814e84d7d-808192845-1773811736992152-2463165298537075026-n.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-12T16:44:00+00:00"
+  },
+  {
+   "id": "endirectparisfcollyonvapasserunsacrtestjeanbouinsuivezcematc",
+   "title": "EN DIRECT Paris FC - OL : Lyon va passer un sacré test à Jean Bouin… Suivez ce match indécis de Ligue 1 avec nous dès 20h30…",
+   "summary": "Après son succès mérité à Marseille (2-3) il y a six jours, le Paris FC veut s’offrir un autre gros morceau de Ligue 1, l’Olympique Lyonnais (2e ex-aequo avec le PFC), qui se présente à Jean Bouin ce samedi (20h45) lors de la 4e journée",
+   "url": "https://www.20minutes.fr/sport/football/ligue-1/4244633-20260912-direct-paris-fc-ol-lyon-va-passer-sacre-test-jean-bouin-suivez-match-indecis-ligue-1-20h30?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FflMmFXX3QdKhONRshVfUpik%2F1444x920_football-04-09-2026-groupama-stadium-3e-journee-de-ligue-1-ol-olympique-lyonnais-vs-aja-auxerre-but-3-1-ernest-nuamah-neirdaprod-11220272-credit-adrien-pittore-neirdaprod-sipa-2609051144&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-12T16:32:36+00:00"
+  },
   {
    "id": "contreleparisfculcolarboreraunpatchspcial",
    "title": "Contre le Paris FC, Šulc (OL) arborera un patch spécial",
@@ -118,17 +173,6 @@
    "publishedAt": "2026-09-12T07:30:00+00:00"
   },
   {
-   "id": "faceauparisfclollanceunesemainecharnireavantlatrveinternatio",
-   "title": "Face au Paris FC, l'OL lance une semaine charnière avant la trêve internationale",
-   "summary": "Invaincu sur ses trois premières rencontres de Ligue 1, l'OL se déplace sur la pelouse du Paris FC qui fait office de nouveau riche dans le championnat.",
-   "url": "https://www.olympique-et-lyonnais.com/face-au-paris-fc-lol-lance-une-semaine-charniere-avant-la-treve-internationale,407345.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP__20260308__A2FT4RR__v1__HighRes__FblFraLigue1LyonParisFc-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-12T06:45:00+00:00"
-  },
-  {
    "id": "parisfclyonquelleheureetsurquellechanetvregarderlematchdelig",
    "title": "Paris FC - Lyon : à quelle heure et sur quelle chaîne TV regarder le match de Ligue 1 en direct ?",
    "summary": "Choc au sommet à Jean Bouin ! Deuxièmes à égalité de points, le Paris FC et l’Olympique Lyonnais s’affrontent avec l’ambition de prendre seuls les commandes de la chasse au leader. Voici toutes les informations pour suivre cette affiche en direct.",
@@ -226,17 +270,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa29162c3c7e-design-sans-titre.png&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-09-10T16:00:00+00:00"
-  },
-  {
-   "id": "parisfcoljeconnaisbienlesintentionsdelentraneurconfiefonseca",
-   "title": "Paris FC - OL : \"Je connais bien les intentions de l'entraîneur...\" confie Fonseca sur Rosenior",
-   "summary": "Alors que l'Olympique Lyonnais se déplacera sur la pelouse du Paris FC ce week-end pour la 4e journée de Ligue 1, Paulo Fonseca s'est exprimé en conférence de presse. Le tacticien rhodanien est revenu sur le duel tactique l'opposant au coach parisien Liam Rosenior.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-paris-fc-ol-je-connais-bien-les-intentions-de-l-entraineur-confie-fonseca-sur-rosenior_VN-202609100512.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FhSkxKwgJukgYEC6k_V-1h1OsJSs%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FParis-FC-OL-Je-connais-bien-les-intentions-de-l-entraineur-confie-Fonseca-sur-Rosenior-2345884.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-10T11:30:14+00:00"
   }
  ]
 }
