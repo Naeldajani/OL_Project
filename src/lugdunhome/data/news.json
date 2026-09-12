@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-12T10:44:48+00:00",
+ "updatedAt": "2026-09-12T15:30:56+00:00",
  "sources": [
   "20 Minutes",
   "Lyon Mag",
@@ -7,6 +7,61 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "contreleparisfculcolarboreraunpatchspcial",
+   "title": "Contre le Paris FC, Šulc (OL) arborera un patch spécial",
+   "summary": "Ce samedi soir, l'OL affronte le Paris FC dans un \"choc\" de la quatrième journée de Ligue 1. Pavel Šulc devrait être titulaire et arborera un patch spécial. Celui de l'actuel meilleur passeur du championnat après trois journées.",
+   "url": "https://www.olympique-et-lyonnais.com/contre-le-paris-fc-sulc-ol-arborera-un-patch-special,407377.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP__20260322__A49Y4L8__v1__HighRes__FblFraLigue1LyonMonaco-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-12T15:00:00+00:00"
+  },
+  {
+   "id": "limagedebidstruplolafficheunvolumephysiqueintressant",
+   "title": "À l'image de Bidstrup, l'OL affiche un volume physique intéressant",
+   "summary": "Ne ménageant pas ses efforts depuis trois matchs en Ligue 1, Mads Bidstrup est à l'image de l'OL. Une équipe qui court beaucoup d'après les statistiques. C'est un \"match tactique\" qui attend l'OL ce samedi soir (20h45) au stade Jean-Bouin.",
+   "url": "https://www.olympique-et-lyonnais.com/a-limage-de-bidstrup-lol-affiche-un-volume-physique-interessant,407358.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260715__C2AQ3TU__v2__HighRes__FblFraFriendlyLyonServette-e1784264181738-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-12T14:10:00+00:00"
+  },
+  {
+   "id": "poursapremiredomicileollyonnestrilleleparisfc71",
+   "title": "Pour sa première à domicile, OL Lyonnes étrille le Paris FC (7-1)",
+   "summary": "L’OL Lyonnes a régalé son public face au PFC ce samedi après-midi. Une large victoire contre les Franciliennes permet aux Fenottes d'envoyer un message au reste du championnat.",
+   "url": "https://www.lyonfoot.com/article/14152/premiere-ligue-l-ol-lyonnes-ecrase-le-paris-fc-7-1-et-poursuit-son-debut-de-saison-parfait",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa55874b051e-hsbqmczbmaaevu.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-12T13:50:00+00:00"
+  },
+  {
+   "id": "premireligueollyonnesnefaitquuneboucheduparisfc",
+   "title": "Première Ligue : OL Lyonnes ne fait qu'une bouchée du Paris FC",
+   "summary": "Dans l’affiche entre les deux derniers finalistes des play-offs de Première Ligue, OL Lyonnes a encore fait respecter la hiérarchie. En appuyant quand il le fallait, les Lyonnaises ont écrasé ce \"choc\" avec une victoire 7-1.",
+   "url": "https://www.olympique-et-lyonnais.com/premiere-ligue-ol-lyonnes-ne-fait-quune-bouchee-du-paris-fc,407379.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FIMG_3833-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-12T13:26:15+00:00"
+  },
+  {
+   "id": "avantdaffronterlolleparisfcneveutpasseprendrepourunautre",
+   "title": "Avant d'affronter l'OL, le Paris FC ne veut pas se prendre pour un autre",
+   "summary": "Invité presque surprise du haut du tableau, le Paris FC reste sur une victoire contre l'OM. Ce samedi, le club parisien reçoit l'OL et pourrait bien affirmer ses ambitions, même si Liam Rosenior s'en défend.",
+   "url": "https://www.olympique-et-lyonnais.com/avant-daffronter-lol-le-paris-fc-ne-veut-pas-se-prendre-pour-un-autre,407368.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FMjAyNjAxZDI3Mzg1MmYxMmQ1YWY2N2NlMWJiNzhiMWE0OTUyNzM.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-12T11:30:00+00:00"
+  },
   {
    "id": "ollyonnesparisfcpremirepourgrohsdanslebut",
    "title": "OL Lyonnes - Paris FC : première pour Grohs dans le but",
@@ -63,17 +118,6 @@
    "publishedAt": "2026-09-12T07:30:00+00:00"
   },
   {
-   "id": "poursapremiredomicilelollyonnesreoitleparisfc",
-   "title": "Pour sa première à domicile, l'OL Lyonnes reçoit le Paris FC",
-   "summary": "L’OL Lyonnes retrouve son public face au PFC ce samedi à 13h30.",
-   "url": "https://www.lyonfoot.com/article/14152/ol-lyonnes-paris-fc-un-premier-gros-test-a-domicile-pour-les-lyonnaises",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa41ad4c9e20-screenshot-2026-09-11-at-17.png&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-12T07:30:00+00:00"
-  },
-  {
    "id": "faceauparisfclollanceunesemainecharnireavantlatrveinternatio",
    "title": "Face au Paris FC, l'OL lance une semaine charnière avant la trêve internationale",
    "summary": "Invaincu sur ses trois premières rencontres de Ligue 1, l'OL se déplace sur la pelouse du Paris FC qui fait office de nouveau riche dans le championnat.",
@@ -83,28 +127,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP__20260308__A2FT4RR__v1__HighRes__FblFraLigue1LyonParisFc-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-12T06:45:00+00:00"
-  },
-  {
-   "id": "jonatangirldezollyonnesilyatoujoursdeschosesquonpeutfairebea",
-   "title": "Jonatan Giráldez (OL Lyonnes) : \"Il y a toujours des choses qu'on peut faire beaucoup mieux\"",
-   "summary": "Malgré la domination d'OL Lyonnes sur leurs adversaires en championnat, Jonatan Giráldez refuse que son équipe se contente d’enchaîner les larges victoires. L’entraîneur lyonnais insiste sur la nécessité de maintenir un haut niveau d’exigence et de chercher constamment à progresser.",
-   "url": "https://www.olympique-et-lyonnais.com/jonatan-giraldez-ol-lyonnes-il-y-a-toujours-des-choses-quon-peut-faire-beaucoup-mieux,407326.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260425__A8XM3R7__v1__HighRes__FblEurC1WomenLyonTraining-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-12T06:00:00+00:00"
-  },
-  {
-   "id": "ollyonnesparisfctoujourspasderenardniweir",
-   "title": "OL Lyonnes - Paris FC : toujours pas de Renard ni Weir",
-   "summary": "Deuxième journée de D1 pour OL Lyonnes, qui reçoit le Paris FC samedi (13h30). Pour ce choc, les Lyonnaises feront toujours sans Wendie Renard ni Caroline Weir, toujours blessées.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-paris-fc-toujours-pas-de-renard-ni-weir,407329.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260523__B3UF2TA__v1__HighRes__FblEurC1BarcelonaLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-12T05:30:00+00:00"
   },
   {
    "id": "parisfclyonquelleheureetsurquellechanetvregarderlematchdelig",
@@ -140,17 +162,6 @@
    "publishedAt": "2026-09-11T22:39:07+00:00"
   },
   {
-   "id": "premiredenakamuraduranvilleethimbertabsentslegroupedelolcont",
-   "title": "Première de Nakamura, Duranville et Himbert absents... Le groupe de l'OL contre le Paris FC",
-   "summary": "L'OL comptera sur sa recrue, Keito Nakamura, face au Paris FC samedi (20h45). En revanche, Julien Duranville et Rémi Himbert sont hors du groupe. Joli test ce samedi pour l'OL.",
-   "url": "https://www.olympique-et-lyonnais.com/premiere-de-nakamura-duranville-et-himbert-absents-le-groupe-de-lol-contre-le-paris-fc,407328.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FCapture-decran-2026-09-02-a-18.03.52-770x433.png&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-11T17:02:59+00:00"
-  },
-  {
    "id": "letrophedelaligueeuropabienttexposlyon",
    "title": "Le trophée de la Ligue Europa bientôt exposé à Lyon",
    "summary": "Le trophée de la Ligue Europa sera bientôt exposé à Lyon.",
@@ -160,17 +171,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa41034d3a6b-europa-league.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-11T16:00:00+00:00"
-  },
-  {
-   "id": "troisforfaitsetunretourpourleparisfccontrelol",
-   "title": "Trois forfaits et un retour pour le Paris FC contre l'OL",
-   "summary": "Les joueurs majeurs du Paris FC seront là pour le match contre l'OL samedi (20h45). Malgré tout, le groupe ne sera pas au complet, avec trois forfaits, même si Jonathan Ikoné est de retour.",
-   "url": "https://www.olympique-et-lyonnais.com/trois-forfaits-et-un-retour-pour-le-paris-fc-contre-lol,407314.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP_86KM8JW-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-11T15:35:00+00:00"
   },
   {
    "id": "lyonpolitiquesrconciliationsarselliaulasdoucetetlaclimetbrun",
@@ -237,17 +237,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FhSkxKwgJukgYEC6k_V-1h1OsJSs%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FParis-FC-OL-Je-connais-bien-les-intentions-de-l-entraineur-confie-Fonseca-sur-Rosenior-2345884.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-10T11:30:14+00:00"
-  },
-  {
-   "id": "olnousvousdemandonsdesactesuneptitioncontreleracismedpassele",
-   "title": "\"OL, nous vous demandons des actes\" : une pétition contre le racisme dépasse les 500 signatures",
-   "summary": "Lancée mercredi par le collectif Virage Sans Haine, une pétition réclamant des mesures concrètes contre le racisme dans et autour des tribunes de l’OL a recueilli plus de 500 signatures vérifiées en moins de 24 heures.",
-   "url": "https://www.lyonfoot.com/article/14134/ol-nous-vous-demandons-des-actes-une-petition-contre-le-racisme-depasse-les-500-signatures",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa28fa43a7e0-ol-tribune-supporter.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-10T11:06:00+00:00"
   }
  ]
 }
