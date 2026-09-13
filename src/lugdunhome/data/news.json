@@ -1,12 +1,101 @@
 {
- "updatedAt": "2026-09-13T04:45:41+00:00",
+ "updatedAt": "2026-09-13T11:50:02+00:00",
  "sources": [
   "20 Minutes",
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "parisfcol00lessupporterslyonnaisfinalementabsents",
+   "title": "Paris FC - OL (0-0) : les supporters lyonnais finalement absents",
+   "summary": "Face à la cacophonie liée à l’autorisation ou non du déplacement des supporters de l'OL, ces derniers ont brillé par leur absence au stade Jean-Bouin. Une façon aussi de dénoncer les décisions tardives des autorités.",
+   "url": "https://www.olympique-et-lyonnais.com/paris-fc-ol-0-0-les-supporters-lyonnais-finalement-absents,407412.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F08%2FAFP__20250816__69PJ29F__v1__HighRes__FblFraLigue1LensLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-13T11:00:00+00:00"
+  },
+  {
+   "id": "parisfcol00maximelopezadesregrets",
+   "title": "Paris FC - OL (0-0) : Maxime Lopez a \"des regrets\"",
+   "summary": "Dans un match cadenassé, le Paris FC a eu les meilleures opportunités de prendre les commandes. Mais ce fut quand même assez timide pour faire vaciller l’OL. En armant une frappe à l’entrée de la surface à dix minutes de la fin, il se voyait bien jouer les héros.",
+   "url": "https://www.olympique-et-lyonnais.com/paris-fc-ol-0-0-maxime-lopez-a-des-regrets,407423.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2Fimage-9f5acfa3-2a34-46f7-b840-2f14500f4369-85-2560-1440-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-13T10:00:00+00:00"
+  },
+  {
+   "id": "dumornayaprsollyonnespfc71ledangervientdepartout",
+   "title": "Dumornay après OL Lyonnes - PFC (7-1) : \"Le danger vient de partout\"",
+   "summary": "Après un premier succès à Fleury, OL Lyonnes a envoyé un vrai message contre le Paris FC. Déjà auteure d'un triplé lors de la première journée, Melchie Dumornay a remis ça avec un doublé mais aussi deux passes décisives.",
+   "url": "https://www.olympique-et-lyonnais.com/dumornay-apres-ol-lyonnes-pfc-7-1-le-danger-vient-de-partout,407389.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FAFP__20251007__77ZW2LT__v1__HighRes__FblEurC1WomenArsenalLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-13T09:00:00+00:00"
+  },
+  {
+   "id": "parisfcol00mortonmetenavantungroupesoud",
+   "title": "Paris FC - OL (0-0) : Morton met en avant \"un groupe soudé\"",
+   "summary": "Dans le nul (0-0) contre le Paris FC, l’OL pourra se satisfaire d’avoir tenu bon défensivement. Une satisfaction pour Tyler Morton dans un match tactique. Après le match aller d’il y a un an, on s’attendait à du spectacle samedi soir sur la pelouse du stade Jean-Bouin.",
+   "url": "https://www.olympique-et-lyonnais.com/paris-fc-ol-0-0-morton-met-en-avant-un-groupe-soude,407414.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP__20260308__A2FT4RR__v1__HighRes__FblFraLigue1LyonParisFc-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-13T08:00:00+00:00"
+  },
+  {
+   "id": "parisfcol00fonsecaneveutpassinquiter",
+   "title": "Paris FC - OL (0-0) : Fonseca ne veut \"pas s'inquiéter\"",
+   "summary": "Auteur d'une prestation en dedans, l'OL se satisfaisait d'avoir ramené un point de son déplacement chez le Paris FC. Si le visage montré n'a pas été à la hauteur, Paulo Fonseca n'a pas voulu tirer la sonnette d'alarme.",
+   "url": "https://www.olympique-et-lyonnais.com/paris-fc-ol-0-0-fonseca-ne-veut-pas-sinquieter,407408.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260912__C86E4GN__v1__HighRes__FblFraLigue1ParisFcLyon-e1789280616884-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-13T07:00:00+00:00"
+  },
+  {
+   "id": "parisfc00olonafaitunsupermatchonpeuttrefiersdenousserjouitma",
+   "title": "Paris FC 0-0 OL : \"On a fait un super match, on peut être fiers de nous\", se réjouit Maxime Lopez",
+   "summary": "Au Stade Jean-Bouin de Paris, le Paris FC et l'Olympique Lyonnais terminent ce samedi soir avec un point partagé suite au 0-0 sur le tableau d'affichage de la rencontre. Maxime Lopez souligne la bonne prestation réalisée par les Parisiens.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-paris-fc-0-0-ol-on-a-fait-un-super-match-on-peut-etre-fiers-de-nous-se-rejouit-maxime-lopez_VN-202609130105.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F7Xm8aBaHIzxpwasTNK7f9WfAz4E%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FParis-FC-0-0-OL-On-a-fait-un-super-match-on-peut-etre-fiers-de-nous-se-rejouit-Maxime-Lopez-2347141.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-13T06:52:17+00:00"
+  },
+  {
+   "id": "commesilolntaitpasvenuparispourgagner",
+   "title": "Comme si l'OL n'était pas venu à Paris pour gagner",
+   "summary": "Samedi soir, l'OL est reparti de Paris avec un point dans la besace. Avec cette impression que la formation lyonnaise était venue pour ça et qu'elle n'a pas cherché à en faire plus pour prendre le dessus sur le Paris FC.",
+   "url": "https://www.olympique-et-lyonnais.com/comme-si-lol-netait-pas-venu-a-paris-pour-gagner,407406.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260912__C86C94T__v1__HighRes__FblFraLigue1ParisFcLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-13T06:01:07+00:00"
+  },
+  {
+   "id": "parisfcol00greifavuunmatchtactiqueetstratgique",
+   "title": "Paris FC - OL (0-0) : Greif a vu un match \"tactique et stratégique\"",
+   "summary": "Ayant gardé sa cage inviolée pour la première fois depuis deux matchs, Dominik Greif reconnaît que l'OL n'a pas montré son meilleur visage face au Paris FC. Mais pointe l'état d'esprit collectif.",
+   "url": "https://www.olympique-et-lyonnais.com/paris-fc-ol-0-0-greif-a-vu-un-match-tactique-et-strategique,407404.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260730__DPPI_40827004_031__v1__HighRes__FootballFriendlyGameBetisVLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-13T05:30:00+00:00"
+  },
   {
    "id": "parisfcol00lebaromtredumatchcequilfautretenir",
    "title": "Paris FC - OL (0-0) : le baromètre du match, ce qu’il faut retenir",
@@ -17,6 +106,17 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260912__C86C98A__v1__HighRes__FblFraLigue1ParisFcLyon-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-12T20:56:50+00:00"
+  },
+  {
+   "id": "ligue1leparisfcetlolseneutralisentlogcnicedernieraprssadfait",
+   "title": "Ligue 1 : le Paris FC et l’OL se neutralisent, l’OGC Nice dernier après sa défaite à Auxerre",
+   "summary": "Le multiplex de Ligue 1 a livré plusieurs résultats marquants ce samedi : le Paris FC et l’OL se sont quittés sur un 0-0, tandis qu’Auxerre a décroché sa première victoire de la saison face à Nice (1-0).",
+   "url": "https://www.butfootballclub.fr/1697879-ligue-1-le-paris-fc-et-lol-se-neutralisent-logc-nice-dernier-apres-sa-defaite-a-auxerre/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F47ca4e86-ligue-1-le-paris-fc-et-lol-se-neutralisent-logc-nice-dernier-apres-sa-defaite-a-auxerre.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-12T20:47:21+00:00"
   },
   {
    "id": "bousculparleparisfclolsecontentedunpoint",
@@ -96,28 +196,6 @@
    "publishedAt": "2026-09-12T16:32:36+00:00"
   },
   {
-   "id": "contreleparisfculcolarboreraunpatchspcial",
-   "title": "Contre le Paris FC, Šulc (OL) arborera un patch spécial",
-   "summary": "Ce samedi soir, l'OL affronte le Paris FC dans un \"choc\" de la quatrième journée de Ligue 1. Pavel Šulc devrait être titulaire et arborera un patch spécial. Celui de l'actuel meilleur passeur du championnat après trois journées.",
-   "url": "https://www.olympique-et-lyonnais.com/contre-le-paris-fc-sulc-ol-arborera-un-patch-special,407377.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP__20260322__A49Y4L8__v1__HighRes__FblFraLigue1LyonMonaco-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-12T15:00:00+00:00"
-  },
-  {
-   "id": "limagedebidstruplolafficheunvolumephysiqueintressant",
-   "title": "À l'image de Bidstrup, l'OL affiche un volume physique intéressant",
-   "summary": "Ne ménageant pas ses efforts depuis trois matchs en Ligue 1, Mads Bidstrup est à l'image de l'OL. Une équipe qui court beaucoup d'après les statistiques. C'est un \"match tactique\" qui attend l'OL ce samedi soir (20h45) au stade Jean-Bouin.",
-   "url": "https://www.olympique-et-lyonnais.com/a-limage-de-bidstrup-lol-affiche-un-volume-physique-interessant,407358.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260715__C2AQ3TU__v2__HighRes__FblFraFriendlyLyonServette-e1784264181738-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-12T14:10:00+00:00"
-  },
-  {
    "id": "poursapremiredomicileollyonnestrilleleparisfc71",
    "title": "Pour sa première à domicile, OL Lyonnes étrille le Paris FC (7-1)",
    "summary": "L’OL Lyonnes a régalé son public face au PFC ce samedi après-midi. Une large victoire contre les Franciliennes permet aux Fenottes d'envoyer un message au reste du championnat.",
@@ -127,61 +205,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa55874b051e-hsbqmczbmaaevu.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-12T13:50:00+00:00"
-  },
-  {
-   "id": "premireligueollyonnesnefaitquuneboucheduparisfc",
-   "title": "Première Ligue : OL Lyonnes ne fait qu'une bouchée du Paris FC",
-   "summary": "Dans l’affiche entre les deux derniers finalistes des play-offs de Première Ligue, OL Lyonnes a encore fait respecter la hiérarchie. En appuyant quand il le fallait, les Lyonnaises ont écrasé ce \"choc\" avec une victoire 7-1.",
-   "url": "https://www.olympique-et-lyonnais.com/premiere-ligue-ol-lyonnes-ne-fait-quune-bouchee-du-paris-fc,407379.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FIMG_3833-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-12T13:26:15+00:00"
-  },
-  {
-   "id": "avantdaffronterlolleparisfcneveutpasseprendrepourunautre",
-   "title": "Avant d'affronter l'OL, le Paris FC ne veut pas se prendre pour un autre",
-   "summary": "Invité presque surprise du haut du tableau, le Paris FC reste sur une victoire contre l'OM. Ce samedi, le club parisien reçoit l'OL et pourrait bien affirmer ses ambitions, même si Liam Rosenior s'en défend.",
-   "url": "https://www.olympique-et-lyonnais.com/avant-daffronter-lol-le-paris-fc-ne-veut-pas-se-prendre-pour-un-autre,407368.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FMjAyNjAxZDI3Mzg1MmYxMmQ1YWY2N2NlMWJiNzhiMWE0OTUyNzM.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-12T11:30:00+00:00"
-  },
-  {
-   "id": "ollyonnesparisfcpremirepourgrohsdanslebut",
-   "title": "OL Lyonnes - Paris FC : première pour Grohs dans le but",
-   "summary": "Ce samedi, OL Lyonnes dispute son premier match à domicile. Devant près de 9 000 spectateurs, les Lyonnaises se frottent au Paris FC, autre ogre de Première Ligue. Pour ce premier rendez-vous au Parc OL, Jonatan Giráldez va lancer Mala Grohs dans le but.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-paris-fc-premiere-pour-grohs-dans-le-but,407360.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20241015__2177483580__v3__HighRes__VflWolfsburgVFcBayernMunchenGooglePixelFraue-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-12T10:39:08+00:00"
-  },
-  {
-   "id": "ligue1premireliguedoubledoseentreloletleparisfccesamedi",
-   "title": "Ligue 1 - Première Ligue : double dose entre l'OL et le Paris FC ce samedi",
-   "summary": "Les supporters lyonnais auront droit à une double confrontation entre l’Olympique lyonnais et le Paris FC ce samedi. Les garçons clôtureront la journée à 20h45 à Paris, tandis qu'OL Lyonnes recevront le club parisien dès 13h30 au Parc OL.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-1-premiere-ligue-double-dose-entre-lol-et-le-paris-fc-ce-samedi,407277.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20241020__DPPI_40024077_018__v1__HighRes__FootballWomenSFrenchChampParisFcVLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-12T09:50:00+00:00"
-  },
-  {
-   "id": "parisfcolavantmatchcompoprobablehorairediffusiontv",
-   "title": "Paris FC - OL : avant-match, compo probable, horaire, diffusion TV",
-   "summary": "Invaincu après trois journées, l’OL se déplace au Paris FC ce samedi avec l’ambition de poursuivre sa série positive. Retrouvez toutes les informations pratiques avant cette quatrième journée de Ligue 1.",
-   "url": "https://www.olympique-et-lyonnais.com/paris-fc-ol-avant-match-compo-probable-horaire-diffusion-tv,407166.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FAFP__20251029__82FT69B__v1__HighRes__FblFraLigue1ParisFcLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-12T09:00:00+00:00"
   },
   {
    "id": "parisfclyonquelleheureetsurquellechanetvregarderlematchdelig",
@@ -259,17 +282,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa2e07c69046-381002530-2096629234010321-751096230278644738-n.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-11T05:00:00+00:00"
-  },
-  {
-   "id": "onaenlevtoutelinformatiqueducasiercommentlelyonnaisdrivecube",
-   "title": "\"On a enlevé toute l'informatique du casier\" : comment le Lyonnais Drive Cube veut sécuriser le dernier mètre",
-   "summary": "L'émission L'Eco de Lyon revient chaque semaine sur l'actualité économique de l'agglomération lyonnaise avec la présentation d'un métier, d'une entreprise avec l'invité d'Alexis Alouache.",
-   "url": "https://www.lyonmag.com/article/153916/on-a-enleve-toute-l-informatique-du-casier-comment-le-lyonnais-drive-cube-veut-securiser-le-dernier-metre",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa29162c3c7e-design-sans-titre.png&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-09-10T16:00:00+00:00"
   }
  ]
 }
