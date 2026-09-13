@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-13T11:50:02+00:00",
+ "updatedAt": "2026-09-13T16:15:48+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,61 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "avantdaffronterlolanderlechtsimposeenchampionnat",
+   "title": "Avant d’affronter l’OL, Anderlecht s’impose en championnat",
+   "summary": "Premier adversaire de l’OL en Ligue Europa, Anderlecht s’est rassuré avant le rendez-vous de mercredi. Le club belge s’est imposé 1-0 sur la pelouse de Mechelen.",
+   "url": "https://www.olympique-et-lyonnais.com/avant-daffronter-lol-anderlecht-simpose-en-championnat,407364.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260911__186015134__v1__HighRes__SoccerJplD6KvMechelenVsRscAnderlecht-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-13T15:00:00+00:00"
+  },
+  {
+   "id": "olleverdictesttombpourunerservedjenpleindoute",
+   "title": "OL : le verdict est tombé pour une réserve déjà en plein doute",
+   "summary": "La réserve de l’OL a encore déçu face à Grenoble (4-0) à Décines, sans marquer, avant de tenter de se relancer en National 2.",
+   "url": "https://www.butfootballclub.fr/1697911-ol-reserve-verdict-tombe-doute/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F73423cb3-ol-reserve-verdict-tombe-doute-1024x702.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-13T14:03:15+00:00"
+  },
+  {
+   "id": "olacadmielarservenyarrivetoujourspasmmeenamical",
+   "title": "OL Académie : la réserve n'y arrive toujours pas, même en amical",
+   "summary": "Privée de championnat en raison de la Coupe de France, la réserve de l'OL a disputé un match amical contre celle de Grenoble à Décines. Une fois encore, malgré la présence de certains \"pros\", le formation lyonnaise n'y arrive pas et a même perdu (0-4).",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-la-reserve-ny-arrive-toujours-pas-meme-en-amical,407391.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F07%2FIMG_3481-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-13T14:00:00+00:00"
+  },
+  {
+   "id": "coupedumondeu20rafalskietlesbleuettesqualifiespourles8es",
+   "title": "Coupe du monde U20 : Rafalski et les Bleuettes qualifiées pour les 8es",
+   "summary": "Après un nul en match d’ouverture, l’équipe de France U20 s’est bien rattrapée. Vainqueures du Ghana (4-0), les Bleuettes finissent premières de leur groupe et se qualifient pour les huitièmes de la Coupe du monde.",
+   "url": "https://www.olympique-et-lyonnais.com/coupe-du-monde-u20-rafalski-et-les-bleuettes-qualifiees-pour-les-8es,407417.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2F679071307_900491026361599_3105090295949108993_n-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-13T13:00:00+00:00"
+  },
+  {
+   "id": "lesjoueusesdollyonnesontapportleursoutienkaneryd",
+   "title": "Les joueuses d’OL Lyonnes ont apporté leur soutien à Kaneryd",
+   "summary": "Sur le premier but inscrit par Marie-Antoinette Katoto, les joueuses d’OL Lyonnes se sont dirigées vers le banc pour une célébration spéciale. Les Fenottes ont eu une pensée pour Johanna Kaneryd, victime d’une rupture du ligament croisé.",
+   "url": "https://www.olympique-et-lyonnais.com/les-joueuses-dol-lyonnes-ont-apporte-leur-soutien-a-kaneryd,407421.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FSans-titre-1-copie-975x633-1-770x433.webp&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-09-13T12:00:00+00:00"
+  },
   {
    "id": "parisfcol00lessupporterslyonnaisfinalementabsents",
    "title": "Paris FC - OL (0-0) : les supporters lyonnais finalement absents",
@@ -86,28 +141,6 @@
    "publishedAt": "2026-09-13T06:01:07+00:00"
   },
   {
-   "id": "parisfcol00greifavuunmatchtactiqueetstratgique",
-   "title": "Paris FC - OL (0-0) : Greif a vu un match \"tactique et stratégique\"",
-   "summary": "Ayant gardé sa cage inviolée pour la première fois depuis deux matchs, Dominik Greif reconnaît que l'OL n'a pas montré son meilleur visage face au Paris FC. Mais pointe l'état d'esprit collectif.",
-   "url": "https://www.olympique-et-lyonnais.com/paris-fc-ol-0-0-greif-a-vu-un-match-tactique-et-strategique,407404.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260730__DPPI_40827004_031__v1__HighRes__FootballFriendlyGameBetisVLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-13T05:30:00+00:00"
-  },
-  {
-   "id": "parisfcol00lebaromtredumatchcequilfautretenir",
-   "title": "Paris FC - OL (0-0) : le baromètre du match, ce qu’il faut retenir",
-   "summary": "Incapable de se montrer offensif ce samedi soir, l’OL a fait le dos rond pour accrocher le point du nul (0-0). Retrouvez ce qu’on a aimé et moins aimé.",
-   "url": "https://www.olympique-et-lyonnais.com/paris-fc-ol-0-0-le-barometre-du-match-ce-quil-faut-retenir,407400.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260912__C86C98A__v1__HighRes__FblFraLigue1ParisFcLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-12T20:56:50+00:00"
-  },
-  {
    "id": "ligue1leparisfcetlolseneutralisentlogcnicedernieraprssadfait",
    "title": "Ligue 1 : le Paris FC et l’OL se neutralisent, l’OGC Nice dernier après sa défaite à Auxerre",
    "summary": "Le multiplex de Ligue 1 a livré plusieurs résultats marquants ce samedi : le Paris FC et l’OL se sont quittés sur un 0-0, tandis qu’Auxerre a décroché sa première victoire de la saison face à Nice (1-0).",
@@ -117,17 +150,6 @@
    "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F47ca4e86-ligue-1-le-paris-fc-et-lol-se-neutralisent-logc-nice-dernier-apres-sa-defaite-a-auxerre.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-12T20:47:21+00:00"
-  },
-  {
-   "id": "bousculparleparisfclolsecontentedunpoint",
-   "title": "Bousculé par le Paris FC, l’OL se contente d'un point",
-   "summary": "Incapable de répondre vraiment au défi tactique imposé par le Paris FC, l’OL a fait le dos rond pour ramener un point de la capitale (0-0). Un point frustrant mais aux forceps.",
-   "url": "https://www.olympique-et-lyonnais.com/bouscule-par-le-paris-fc-lol-se-contente-dun-point,407393.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260912__C86A22X__v1__HighRes__FblFraLigue1ParisFcLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-12T20:38:41+00:00"
   },
   {
    "id": "parisfcoldosdosparisiensetlyonnaismanquentloccasiondeprendre",
@@ -150,17 +172,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa5b6a8f0ae5-hsclgjvacaagtlx.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-12T20:37:00+00:00"
-  },
-  {
-   "id": "parisfcolfonsecaremetlesmmesquefaceauxerre",
-   "title": "Paris FC - OL : Fonseca remet les mêmes que face à Auxerre",
-   "summary": "Toujours invaincus dans ce début de championnat, le Paris FC et l'OL s'affrontent ce samedi soir (20h45). Pour ce premier test de la saison en Ligue 1, Paulo Fonseca a choisi de repartir avec le même onze que face à Auxerre.",
-   "url": "https://www.olympique-et-lyonnais.com/paris-fc-ol-fonseca-remet-les-memes-que-face-a-auxerre,407384.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260904__C7DW9E4__v1__HighRes__FblFraLigue1LyonAuxerre-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-12T17:47:25+00:00"
   },
   {
    "id": "ligue1brunnerdonnelatteduchampionnatmonacopourquelquesheures",
