@@ -1,8 +1,7 @@
 {
- "updatedAt": "2026-09-12T23:02:57+00:00",
+ "updatedAt": "2026-09-13T04:45:41+00:00",
  "sources": [
   "20 Minutes",
-  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
@@ -20,17 +19,6 @@
    "publishedAt": "2026-09-12T20:56:50+00:00"
   },
   {
-   "id": "ligue1leparisfcetlolseneutralisentlogcnicedernieraprssadfait",
-   "title": "Ligue 1 : le Paris FC et l’OL se neutralisent, l’OGC Nice dernier après sa défaite à Auxerre",
-   "summary": "Le multiplex de Ligue 1 a livré plusieurs résultats marquants ce samedi : le Paris FC et l’OL se sont quittés sur un 0-0, tandis qu’Auxerre a décroché sa première victoire de la saison face à Nice (1-0).",
-   "url": "https://www.butfootballclub.fr/1697879-ligue-1-le-paris-fc-et-lol-se-neutralisent-logc-nice-dernier-apres-sa-defaite-a-auxerre/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F47ca4e86-ligue-1-le-paris-fc-et-lol-se-neutralisent-logc-nice-dernier-apres-sa-defaite-a-auxerre.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-12T20:47:21+00:00"
-  },
-  {
    "id": "bousculparleparisfclolsecontentedunpoint",
    "title": "Bousculé par le Paris FC, l’OL se contente d'un point",
    "summary": "Incapable de répondre vraiment au défi tactique imposé par le Paris FC, l’OL a fait le dos rond pour ramener un point de la capitale (0-0). Un point frustrant mais aux forceps.",
@@ -40,6 +28,17 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260912__C86A22X__v1__HighRes__FblFraLigue1ParisFcLyon-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-12T20:38:41+00:00"
+  },
+  {
+   "id": "parisfcoldosdosparisiensetlyonnaismanquentloccasiondeprendre",
+   "title": "Paris FC-OL: dos à dos, Parisiens et Lyonnais manquent l'occasion de prendre la tête du classement",
+   "summary": "Après le nul de Monaco à Strasbourg, le Paris FC et l'OL ont manqué l'occasion de s'installer en tête de la Ligue 1 puisque les deux équipes se sont quittées sur un match nul (0-0).",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-paris-fc-ol-suivez-le-choc-de-la-4e-journee-de-ligue-1-en-live_LS-202609120256.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FQMYmUPdj2Plr4X9prT3JkhQyrG4%3D%2F0x49%3A2048x1201%2F800x0%2Fimages%2FCorentin-Tolisso-face-a-Maxime-Lopez-lors-de-Paris-FC-OL-le-12-septembre-2026-2347040.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-12T20:38:21+00:00"
   },
   {
    "id": "ligue1lolramneunpointduparisfcaprsunerencontresansbut",
@@ -86,8 +85,8 @@
    "publishedAt": "2026-09-12T16:44:00+00:00"
   },
   {
-   "id": "endirectparisfcollyonvapasserunsacrtestjeanbouinsuivezcematc",
-   "title": "EN DIRECT Paris FC - OL : Lyon va passer un sacré test à Jean Bouin… Suivez ce match indécis de Ligue 1 avec nous dès 20h30…",
+   "id": "parisfcollyonvapasserunsacrtestjeanbouinfonsecafaitconfiance",
+   "title": "Paris FC - OL : Lyon va passer un sacré test à Jean Bouin… Fonseca fait confiance à son onze de gala",
    "summary": "Après son succès mérité à Marseille (2-3) il y a six jours, le Paris FC veut s’offrir un autre gros morceau de Ligue 1, l’Olympique Lyonnais (2e ex-aequo avec le PFC), qui se présente à Jean Bouin ce samedi (20h45) lors de la 4e journée",
    "url": "https://www.20minutes.fr/sport/football/ligue-1/4244633-20260912-direct-paris-fc-ol-lyon-va-passer-sacre-test-jean-bouin-suivez-match-indecis-ligue-1-20h30?at_medium=display&at_campaign=149",
    "source": "20 Minutes",
@@ -271,17 +270,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa29162c3c7e-design-sans-titre.png&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-09-10T16:00:00+00:00"
-  },
-  {
-   "id": "parisfcoljeconnaisbienlesintentionsdelentraneurconfiefonseca",
-   "title": "Paris FC - OL : \"Je connais bien les intentions de l'entraîneur...\" confie Fonseca sur Rosenior",
-   "summary": "Alors que l'Olympique Lyonnais se déplacera sur la pelouse du Paris FC ce week-end pour la 4e journée de Ligue 1, Paulo Fonseca s'est exprimé en conférence de presse. Le tacticien rhodanien est revenu sur le duel tactique l'opposant au coach parisien Liam Rosenior.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-paris-fc-ol-je-connais-bien-les-intentions-de-l-entraineur-confie-fonseca-sur-rosenior_VN-202609100512.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FhSkxKwgJukgYEC6k_V-1h1OsJSs%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FParis-FC-OL-Je-connais-bien-les-intentions-de-l-entraineur-confie-Fonseca-sur-Rosenior-2345884.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-10T11:30:14+00:00"
   }
  ]
 }
