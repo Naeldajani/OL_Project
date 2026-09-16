@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-15T21:19:31+00:00",
+ "updatedAt": "2026-09-16T04:47:28+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "lolretrouvelaligueeuropafaceanderlecht",
+   "title": "L’OL retrouve la Ligue Europa face à Anderlecht",
+   "summary": "L’OL lance sa campagne de Ligue Europa ce mercredi à 21h sur la pelouse d’Anderlecht.",
+   "url": "https://www.lyonfoot.com/article/14182/anderlecht-ol-lyon-doit-repartir-de-l-avant-pour-ses-debuts-en-ligue-europa",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa955d721663-screenshot-2026-09-15-at-16.png&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-16T04:00:00+00:00"
+  },
   {
    "id": "olfonsecafixeunpremierobjectifenligueeuropaetjustifieleretou",
    "title": "OL : Fonseca fixe un premier objectif en Ligue Europa et justifie le retour des écartés",
@@ -41,17 +52,6 @@
    "publishedAt": "2026-09-15T17:58:53+00:00"
   },
   {
-   "id": "ollegroupepouranderlechtesttombdeuxcartsrintgrsparfonseca",
-   "title": "OL : le groupe pour Anderlecht est tombé, deux écartés réintégrés par Fonseca !",
-   "summary": "Le coach de l’OL, Paulo Fonseca, a dévoilé son groupe pour le match de Ligue Europa contre Anderlecht.",
-   "url": "https://www.butfootballclub.fr/1698501-ol-le-groupe-pour-anderlecht-est-tombe-deux-ecartes-reintegres-par-fonseca/",
-   "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fa30055f5-ol-le-groupe-de-fonseca-pour-anderlecht-est-tombe-deux-ecartes-reintegres.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-15T15:27:25+00:00"
-  },
-  {
    "id": "anderlechtolabnernapasfaitlevoyagejusqubruxelles",
    "title": "Anderlecht - OL : Abner n'a pas fait le voyage jusqu'à Bruxelles",
    "summary": "Disposant d'un groupe au complet mardi matin, Paulo Fonseca a convoqué 23 joueurs pour le rendez-vous face à Anderlecht. Ayant pas mal enchaîné ces derniers temps, Abner n'a pas fait le voyage jusqu'en Belgique.",
@@ -61,17 +61,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHO5rWCLWUAAEyM9-770x433.jpeg&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-09-15T15:16:53+00:00"
-  },
-  {
-   "id": "anderlechtoltoujoursspcialpourunstphanoisdejouerlolsouritptr",
-   "title": "Anderlecht-OL : “Toujours spécial pour un Stéphanois de jouer l’OL”, sourit Pétrot",
-   "summary": "L’Olympique Lyonnais se déplace en Belgique pour affronter le Royal Sporting Club Anderlecht dans le cadre de la première journée de Ligue Europa, mercredi à 21h. En conférence de presse, Léo Pétrot, né à St Etienne, qui a joué à St Etienne se remémore les souvenirs de derby face aux Lyonnais.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-anderlecht-ol-toujours-special-pour-un-stephanois-de-jouer-l-ol-sourit-petrot_VN-202609150611.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F4KGai-Y5W761tBE_KyV1QSNMSrA%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FAnderlecht-OL-Toujours-special-pour-un-Stephanois-de-jouer-l-OL-sourit-Petrot-2348464.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-15T15:15:58+00:00"
   },
   {
    "id": "lopetrotanderlechtentantquestphanoiscestforcmentspcialdejoue",
@@ -193,6 +182,28 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa7c23add763-promy.jpg&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-09-14T09:44:00+00:00"
+  },
+  {
+   "id": "parisfc00olonafaitunsupermatchonpeuttrefiersdenousserjouitma",
+   "title": "Paris FC 0-0 OL : \"On a fait un super match, on peut être fiers de nous\", se réjouit Maxime Lopez",
+   "summary": "Au Stade Jean-Bouin de Paris, le Paris FC et l'Olympique Lyonnais terminent ce samedi soir avec un point partagé suite au 0-0 sur le tableau d'affichage de la rencontre. Maxime Lopez souligne la bonne prestation réalisée par les Parisiens.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-paris-fc-0-0-ol-on-a-fait-un-super-match-on-peut-etre-fiers-de-nous-se-rejouit-maxime-lopez_VN-202609130105.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F7Xm8aBaHIzxpwasTNK7f9WfAz4E%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FParis-FC-0-0-OL-On-a-fait-un-super-match-on-peut-etre-fiers-de-nous-se-rejouit-Maxime-Lopez-2347141.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-13T06:52:17+00:00"
+  },
+  {
+   "id": "parisfcoldosdosparisiensetlyonnaismanquentloccasiondeprendre",
+   "title": "Paris FC-OL: dos à dos, Parisiens et Lyonnais manquent l'occasion de prendre la tête du classement",
+   "summary": "Après le nul de Monaco à Strasbourg, le Paris FC et l'OL ont manqué l'occasion de s'installer en tête de la Ligue 1 puisque les deux équipes se sont quittées sur un match nul (0-0).",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-paris-fc-ol-suivez-le-choc-de-la-4e-journee-de-ligue-1-en-live_LS-202609120256.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FQMYmUPdj2Plr4X9prT3JkhQyrG4%3D%2F0x49%3A2048x1201%2F800x0%2Fimages%2FCorentin-Tolisso-face-a-Maxime-Lopez-lors-de-Paris-FC-OL-le-12-septembre-2026-2347040.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-12T20:38:21+00:00"
   }
  ]
 }
