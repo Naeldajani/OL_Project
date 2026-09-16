@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-16T21:16:53+00:00",
+ "updatedAt": "2026-09-16T23:39:57+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "fonsecaaprsanderlechtol12onauraitdtuercematch30",
+   "title": "Fonseca après Anderlecht - OL (1-2) : \"On aurait dû tuer ce match à 3-0\"",
+   "summary": "Dominateur pendant près d'une heure, l'OL s'est presque liquéfié après le réduction du score d'Anderlecht. Toutefois, Paulo Fonseca était satisfait de la victoire acquise dans la douleur, avec un groupe qui a fait front.",
+   "url": "https://www.olympique-et-lyonnais.com/fonseca-apres-anderlecht-ol-1-2-on-aurait-du-tuer-ce-match-a-3-0,407643.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__C4Y66LR__v1__HighRes__FblEurC1QualifyingFenerbahceLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-16T21:57:49+00:00"
+  },
   {
    "id": "anderlechtol12lebaromtredumatchcequilfautretenir",
    "title": "Anderlecht - OL (1-2) : le baromètre du match, ce qu'il faut retenir",
@@ -64,14 +75,14 @@
    "publishedAt": "2026-09-16T17:46:31+00:00"
   },
   {
-   "id": "endirectanderlechtolfonsecachangecarrmenthuitjoueurspourlanc",
-   "title": "EN DIRECT Anderlecht - OL : Fonseca change carrément huit joueurs pour lancer la nouvelle aventure européenne lyonnaise… Suivez le match avec nous…",
-   "summary": "Après son échec lors du barrage en Ligue des champions contre Fenerbahçe, l’Olympique Lyonnais débute sa première phase de Ligue Europa contre Anderlecht, ce mercredi (21 heures) en Belgique",
+   "id": "anderlechtollyonatenubonetsoffreunpremiersuccspourbienlancer",
+   "title": "Anderlecht - OL : Lyon a tenu bon et s’offre un premier succès pour bien lancer sa nouvelle aventure en Ligue Europa… Revivez le match avec nous",
+   "summary": "Tout en maîtrise pendant une heure à Bruxelles, l’Olympique Lyonnais a ensuite souffert pour conserver son avantage et débuter au mieux cette première phase de Ligue Europa, grâce à des buts de Noah Nartey et de Keito Nakamura (1-2)",
    "url": "https://www.20minutes.fr/sport/football/ligue_europa/4245773-20260916-direct-anderlecht-ol-lyon-mise-equipe-remaniee-lancer-nouvelle-aventure-europeenne-suivez-match-20h30?at_medium=display&at_campaign=149",
    "source": "20 Minutes",
    "author": null,
    "image": "https://images.weserv.nl/?url=img.20mn.fr%2FCYrY_RuKT2aWK1Z5QeeI1Sk%2F1444x920_le-lyonnais-keito-nakamura-celebre-son-but-lors-d-un-match-de-football-entre-le-belge-rsc-anderlecht-et-l-olympique-lyonnais-francais-le-mercredi-16-septembre-2026-a-bruxelles-lors-de-la-premiere-journee-sur-8-de-la-phase-de-championnat-du-tournoi-de-l-uefa-europa-league-belga-photo-virginie-lefour-186658089-credit-virginie-lefour-belga-sipa-2609162132&w=800&output=webp&q=78",
-   "topic": "Match",
+   "topic": "Mercato",
    "publishedAt": "2026-09-16T16:32:36+00:00"
   },
   {
@@ -161,17 +172,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FBacher-et-Bidstrup-e1788586298867-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-16T10:40:00+00:00"
-  },
-  {
-   "id": "vitorbrunoanderlechtsattendunmatchdifficilecontrelol",
-   "title": "Vitor Bruno (Anderlecht) s'attend à \"un match difficile\" contre l'OL",
-   "summary": "Débarqué à Anderlecht durant l'été, Vitor Bruno a réussi à qualifier le club pour la Ligue Europa. Pour leur entrée en lice, les Mauves affrontent l'OL, une \"équipe redoutable\". De notre envoyé spécial à Anderlecht.",
-   "url": "https://www.olympique-et-lyonnais.com/vitor-bruno-anderlecht-sattend-a-un-match-difficile-contre-lol,407556.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260915__186525055__v1__HighRes__SoccerElDay1RscAnderlechtPreparations-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-16T09:50:00+00:00"
   },
   {
    "id": "biennaledelyon2026plusde100artistesvontinvestirmusestraboule",
