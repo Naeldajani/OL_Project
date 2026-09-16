@@ -1,12 +1,90 @@
 {
- "updatedAt": "2026-09-16T11:30:54+00:00",
+ "updatedAt": "2026-09-16T16:53:41+00:00",
  "sources": [
+  "20 Minutes",
   "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "endirectanderlechtollyonmisesurunequiperemaniepourlancersano",
+   "title": "EN DIRECT Anderlecht - OL : Lyon mise sur une équipe remaniée pour lancer sa nouvelle aventure européenne… Suivez le match avec nous dès 20h30…",
+   "summary": "Après son échec lors du barrage en Ligue des champions contre Fenerbahçe, l’Olympique Lyonnais débute sa première phase de Ligue Europa contre Anderlecht, ce mercredi (21 heures) en Belgique",
+   "url": "https://www.20minutes.fr/sport/football/ligue_europa/4245773-20260916-direct-anderlecht-ol-lyon-mise-equipe-remaniee-lancer-nouvelle-aventure-europeenne-suivez-match-20h30?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2F5VRE8CFlS3mGK1tbAA88SSk%2F1444x920_lois-openda-de-lyon-lors-du-match-de-ligue-1-francaise-entre-l-olympique-lyonnais-et-auxerre-au-groupama-stadium-decines-charpieu-lyon-le-4-septembre-2026-france-allilimourad-11220156-credit-mourad-allili-sipa-2609051135&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-16T16:32:36+00:00"
+  },
+  {
+   "id": "quelpourcentagedechancepourlolderemporterlaligueeuropa",
+   "title": "Quel pourcentage de chance pour l'OL de remporter la Ligue Europa ?",
+   "summary": "Selon les prédictions publiées par Opta, l’Olympique lyonnais dispose de 3% de chances de remporter la Ligue Europa 2026-2027. Les Lyonnais affichent également 30% de chances d’atteindre les quarts de finale.",
+   "url": "https://www.olympique-et-lyonnais.com/quel-pourcentage-de-chance-pour-lol-de-remporter-la-ligue-europa,407629.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP__20260312__2266187287__v1__HighRes__RealClubCeltaVOlympiqueLyonnaisUefaEuropaLea-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-16T15:40:55+00:00"
+  },
+  {
+   "id": "olanderlechtatenduunpigetrsclairauxgones",
+   "title": "OL : Anderlecht a tendu un piège très clair aux Gones",
+   "summary": "L'OL va défier Anderlecht en Ligue Europa face à un bloc haut et friable. Les Gones devront exploiter la profondeur pour faire la différence.",
+   "url": "https://www.butfootballclub.fr/1698785-ol-anderlecht-piege-clair-gones/",
+   "source": "But! Football Club",
+   "author": "Wladimir DELCROS",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F84740923-ol-anderlecht-piege-clair-gones-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-16T15:08:36+00:00"
+  },
+  {
+   "id": "angelgarciaetrmihimbertolconvoqusaveclesu19franais",
+   "title": "Angel Garcia et Rémi Himbert (OL) convoqués avec les U19 français",
+   "summary": "En marge du match contre Anderlecht, Rémi Himbert a appris sa convocation en équipe de France U19. L'attaquant n'est pas le seul joueur de l'OL retenu, puisqu'Angel Garcia a eu la bonne surprise de voir son nom dans la liste.",
+   "url": "https://www.olympique-et-lyonnais.com/angel-garcia-et-remi-himbert-ol-convoques-avec-les-u19-francais,407621.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260715__C2AM78D__v2__HighRes__FblFraFriendlyLyonServette-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-16T14:00:00+00:00"
+  },
+  {
+   "id": "olun75ematchenligueeuropafaceanderlecht",
+   "title": "OL : un 75e match en Ligue Europa face à Anderlecht",
+   "summary": "Mercredi soir, l’Olympique lyonnais disputera son 75e match en Ligue Europa, à l’occasion de son déplacement sur la pelouse d’Anderlecht. Une nouvelle étape symbolique dans l’histoire européenne du club, marquée par plusieurs épopées mémorables et quelques soirées devenues historiques.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-un-75e-match-en-ligue-europa-face-a-anderlecht,407315.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2FAFP__20251212__DPPI_40426120_089__v1__HighRes__FootballEuropaLeagueLyonVGoAheadEagle-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-16T13:10:00+00:00"
+  },
+  {
+   "id": "joalpes2030leciovalidelepleglacedelyonetlarpartitiondespreuv",
+   "title": "JO Alpes 2030 : le CIO valide le pôle glace de Lyon et la répartition des épreuves",
+   "summary": "Le pôle lyonnais des Jeux olympiques d’hiver 2030 se précise.",
+   "url": "https://www.lyonmag.com/article/154006/jo-alpes-2030-le-cio-valide-le-pole-glace-de-lyon-et-la-repartition-des-epreuves",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aaa921cc7534-ldlc-arena.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-16T13:00:00+00:00"
+  },
+  {
+   "id": "maximeblancexolrejointlefclimonest",
+   "title": "Maxime Blanc (ex-OL) rejoint le FC Limonest",
+   "summary": "Formé à l’Olympique lyonnais, Maxime Blanc retrouve le Rhône. À 34 ans, le milieu de terrain a quitté l’AS Cannes et s’est engagé avec le FC Limonest. Le FC Limonest accueille un joueur expérimenté.",
+   "url": "https://www.olympique-et-lyonnais.com/maxime-blanc-ex-ol-rejoint-le-fc-limonest,407543.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2021%2F06%2FBLANC-Maxime-Villefranche-sur-Saone-2-696x464-1-696x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-16T12:20:00+00:00"
+  },
   {
    "id": "anderlechtoljulienduranvilleretrouvesonclubformateur",
    "title": "Anderlecht - OL : Julien Duranville retrouve son club formateur",
@@ -74,17 +152,6 @@
    "publishedAt": "2026-09-16T08:15:00+00:00"
   },
   {
-   "id": "flashbackilyaunanolstaderennaislarbitragequifaisaitenragerly",
-   "title": "Flashback, il y a un an : OL–Stade Rennais : l’arbitrage qui faisait enrager Lyon… et la page vraiment tournée ?",
-   "summary": "La commission arbitrale confirme que Rouault aurait dû être expulsé face à l’OL à Rennes, sans changer le succès rennais ni la colère lyonnaise.",
-   "url": "https://www.butfootballclub.fr/1698705-stade-rennais-ol-verdict-action-enflamme-lyon/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F8c052034-stade-rennais-ol-verdict-action-enflamme-lyon-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-09-16T08:08:32+00:00"
-  },
-  {
    "id": "biennaledelyon2026plusde100artistesvontinvestirmusestraboule",
    "title": "Biennale de Lyon 2026 : plus de 100 artistes vont investir musées, traboules et lieux du quotidien",
    "summary": "La 18e Biennale d’art contemporain de Lyon se tiendra du 19 septembre au 13 décembre 2026 dans une douzaine de lieux de la métropole. Baptisée \"Passer d’un rêve à l’autre\", elle réunira plus d’une centaine d’artistes et prendra les traboules lyonnaises comme fil conducteur.",
@@ -118,50 +185,6 @@
    "publishedAt": "2026-09-16T07:30:00+00:00"
   },
   {
-   "id": "faceanderlechtleschangementscestmaintenantpourlol",
-   "title": "Face à Anderlecht, les changements c'est maintenant pour l'OL",
-   "summary": "Pour son entrée en lice en Ligue Europa, l'OL devrait connaître un sacré turnover. Paulo Fonseca estime qu'il est désormais en capacité de concerner tout son groupe et de performer dans le même temps.",
-   "url": "https://www.olympique-et-lyonnais.com/face-a-anderlecht-les-changements-cest-maintenant-pour-lol,407589.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260912__C86C94T__v1__HighRes__FblFraLigue1ParisFcLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-16T06:45:00+00:00"
-  },
-  {
-   "id": "ommercatounexcadordufcnantesdelasseetdelolprtjouergratuiteme",
-   "title": "OM Mercato : un ex cador du FC Nantes, de l’ASSE et de l’OL prêt à jouer gratuitement pour Marseille !",
-   "summary": "Jordan Veretout (Al-Arabi, 33 ans) se verrait bien revenir donner un coup de main à l’OM gratuitement ! Le message est difficile à manquer. Jordan Veretout garde un attachement très fort à l’Olympique de Marseille, malgré son départ du club à l’été 2024.",
-   "url": "https://www.butfootballclub.fr/1698659-om-mercato-un-ex-cador-du-fc-nantes-de-lasse-et-de-lol-pret-a-jouer-gratuitement-pour-marseille/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fdd380646-om-mercato-un-ex-cador-du-fc-nantes-de-lasse-et-de-lol-pret-a-jouer-gratuitement-pour-marseille.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-16T06:20:00+00:00"
-  },
-  {
-   "id": "madsbidstrupolslectionnavecledanemark",
-   "title": "Mads Bidstrup (OL) sélectionné avec le Danemark",
-   "summary": "Déjà convoqué une première fois sans jouer il y a deux ans, Mads Bidstrup va faire son retour en sélection du Danemark. Le milieu de terrain de l’OL va quitter Décines pendant la trêve internationale pour participer à la Ligue des Nations.",
-   "url": "https://www.olympique-et-lyonnais.com/mads-bidstrup-ol-selectionne-avec-le-danemark,407569.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__AA_18082026_2918735__v1__HighRes__FenerbahceVOlympiqueLyonnaisUefaCha-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-09-16T06:00:00+00:00"
-  },
-  {
-   "id": "anderlechtolbrunofonsecaunehistoirecommunequiremonte",
-   "title": "Anderlecht - OL : Bruno - Fonseca, une histoire commune qui remonte",
-   "summary": "Adversaires ce mercredi soir (21h), Vitor Bruno et Paulo Fonseca ont pourtant un passé commun. Le père de l'entraîneur d'Anderlecht a été le coach du technicien de l'OL pendant une saison du côté de Belenenses.",
-   "url": "https://www.olympique-et-lyonnais.com/anderlecht-ol-bruno-fonseca-une-histoire-commune-qui-remonte,407562.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260517__B34V8FH__v1__HighRes__FblFraLigue1LyonLens-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-16T05:30:00+00:00"
-  },
-  {
    "id": "lyonunlujugpouravoirenvoylenumrodetlphonederomanabreu10000sy",
    "title": "Lyon : un élu jugé pour avoir envoyé le numéro de téléphone de Roman Abreu à 10 000 sympathisants de Coeur Lyonnais",
    "summary": "Jean-Arnaud Niepceron, aujourd’hui conseiller du 6e arrondissement de Lyon, comparaissait devant le tribunal correctionnel après la plainte de Roman Abreu, ancien communicant de Jean-Michel Aulas.",
@@ -182,17 +205,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa955d721663-screenshot-2026-09-15-at-16.png&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-16T04:00:00+00:00"
-  },
-  {
-   "id": "mataolacceptecerledegrandfrre",
-   "title": "Mata (OL) accepte \"ce rôle de grand frère\"",
-   "summary": "Relégué dans la hiérarchie défensive de l'OL cette saison, Clinton Mata doit se contenter d'un rôle de remplaçant. Le défenseur, qui revient en Belgique sur ses terres, ne fait pas de vagues et accepte de jouer ce rôle de grand frère.",
-   "url": "https://www.olympique-et-lyonnais.com/mata-ol-accepte-ce-role-de-grand-frere,407577.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260915__186537068__v1__HighRes__SoccerElDay1OlLyonPreparations-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-15T18:27:42+00:00"
   },
   {
    "id": "anderlechtoltoujoursspcialpourunstphanoisdejouerlolsouritptr",
@@ -237,17 +249,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa918553c548-ol-lyonnes-groupama-stadium.jpg&w=800&output=webp&q=78",
    "topic": "Féminines",
    "publishedAt": "2026-09-15T10:05:00+00:00"
-  },
-  {
-   "id": "lyonlastartuppromysoutenueparsbastienchabalplaceenliquidatio",
-   "title": "Lyon : la start-up Promy, soutenue par Sébastien Chabal, placée en liquidation judiciaire",
-   "summary": "Promy, start-up lyonnaise spécialisée dans l’immobilier et le foncier, a été placée en liquidation judiciaire par le tribunal des activités économiques de Lyon. L’entreprise comptait parmi ses actionnaires l’ancien rugbyman Sébastien Chabal.",
-   "url": "https://www.lyonmag.com/article/153967/lyon-la-start-up-promy-soutenue-par-sebastien-chabal-placee-en-liquidation-judiciaire",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aa7c23add763-promy.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-09-14T09:44:00+00:00"
   }
  ]
 }
