@@ -1,12 +1,22 @@
 {
- "updatedAt": "2026-09-17T16:58:57+00:00",
+ "updatedAt": "2026-09-17T21:21:02+00:00",
  "sources": [
-  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "renardetweirtoujoursindisponiblespourlehavreollyonnes",
+   "title": "Renard et Weir toujours indisponibles pour Le Havre - OL Lyonnes",
+   "summary": "Pour ce troisième rendez-vous de la saison en Première Ligue, OL Lyonnes se déplace au Havre vendredi (18h). Jonatan Giráldez ne pourra toujours pas compter sur Wendie Renard et Caroline Weir, pas encore assez remises physiquement.",
+   "url": "https://www.olympique-et-lyonnais.com/renard-et-weir-toujours-indisponibles-pour-le-havre-ol-lyonnes,407695.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3795-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-09-17T16:59:59+00:00"
+  },
   {
    "id": "charlnelaurausiffletpourlehavreollyonnes",
    "title": "Charlène Laur au sifflet pour Le Havre - OL Lyonnes",
@@ -96,17 +106,6 @@
    "publishedAt": "2026-09-17T13:10:00+00:00"
   },
   {
-   "id": "staderennaispluiedemauvaisesnouvellespourhaiseavantlol",
-   "title": "Stade Rennais : pluie de mauvaises nouvelles pour Haise avant l’OL",
-   "summary": "Bougé par le Sturm Graz (0-0) mercredi pour ses débuts en Ligue Europa, le Stade Rennais a affiché des faiblesses criantes avant d’affronter l’OL en Ligue 1. Le Stade Rennais n’a pas vraiment rassuré avant de retrouver la Ligue 1.",
-   "url": "https://www.butfootballclub.fr/1698856-stade-rennais-pluie-de-mauvaises-nouvelles-pour-haise-avant-lol-2/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fe05fa501-stade-rennais-pluie-de-mauvaises-nouvelles-pour-haise-avant-lol.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-17T13:00:00+00:00"
-  },
-  {
    "id": "romanerafalskiollyonnestitulairelorsdefrancecanada",
    "title": "Romane Rafalski (OL Lyonnes) titulaire lors de France - Canada",
    "summary": "Ce jeudi après-midi, l'équipe de France joue une place dans le top 8 de la Coupe du monde U20. Pour affronter le Canada, Philippe Joly a choisi d'aligner Romane Rafalski. Après une mise en route difficile, l'équipe de France a rectifié le tir dans cette Coupe du monde U20 avec deux victoires.",
@@ -140,17 +139,6 @@
    "publishedAt": "2026-09-17T10:40:00+00:00"
   },
   {
-   "id": "ommercatoaprsveretoutunchouchoudessupportersproposedejouergr",
-   "title": "OM Mercato : après Veretout, un chouchou des supporters propose de jouer gratuitement à Marseille !",
-   "summary": "Après Jordan Veretout, qui reviendrait jouer à l’OM gratuitement, un autre ancien Marseillais adoré des supporters a offert la même proposition ! L’OM traverse actuellement une période particulièrement délicate, sur le plan sportif comme financier.",
-   "url": "https://www.butfootballclub.fr/1698925-om-mercato-apres-veretout-un-chouchou-des-supporters-propose-de-jouer-gratuitement-a-marseille/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F1dd82b2f-om-mercato-apres-veretout-un-chouchou-des-supporters-propose-de-jouer-gratuitement-a-marseille.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-17T10:40:00+00:00"
-  },
-  {
    "id": "premireliguepsgollyonnesfinalementavancau17octobre",
    "title": "Première Ligue : PSG - OL Lyonnes finalement avancé au 17 octobre",
    "summary": "Prévu initialement le dimanche 18 octobre, le choc entre le Paris SG et OL Lyonnes se disputera finalement la veille. Les deux équipes se retrouveront au Parc des Princes le samedi 17 octobre à 21 heures.",
@@ -171,17 +159,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aabb397253f5-screenshot-2026-09-17-at-11.png&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-17T09:27:00+00:00"
-  },
-  {
-   "id": "faceanderlechtlolamisfinunetrslonguesrie",
-   "title": "Face à Anderlecht, l'OL a mis fin à une très longue série",
-   "summary": "Mercredi soir, l'OL a débuté un match européen sans le moindre joueur formé à l'Académie. Cela faisait 118 matchs que cela n'était plus arrivé en Coupe d'Europe.",
-   "url": "https://www.olympique-et-lyonnais.com/face-a-anderlecht-lol-a-mis-fin-a-une-tres-longue-serie,407657.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2Ffbl-eur-c3-anderlecht-lyon-2-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-17T09:00:00+00:00"
   },
   {
    "id": "ligueeuropalolgagneanderlechtavecunequipelargementremanie",
