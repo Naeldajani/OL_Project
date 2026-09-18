@@ -1,11 +1,145 @@
 {
- "updatedAt": "2026-09-18T04:41:32+00:00",
+ "updatedAt": "2026-09-18T11:12:11+00:00",
  "sources": [
+  "20 Minutes",
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ancienjoueurdanderlechtetdeloleugnekabongoaassistaumatchmerc",
+   "title": "Ancien joueur d'Anderlecht et de l'OL, Eugène Kabongo a assisté au match mercredi",
+   "summary": "Parmi les anciens joueurs ayant porté les maillots d’Anderlecht et de l’OL, Eugène Kabongo était présent dans les tribunes du Lotto Park mercredi soir. Il a assisté aux retrouvailles entre les deux équipes.",
+   "url": "https://www.olympique-et-lyonnais.com/anderlecht-ol-un-ancien-joueur-des-deux-clubs-present-au-lotto-park,407705.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FKabongo-e1789718780976-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-18T10:40:00+00:00"
+  },
+  {
+   "id": "agressionracistedemeriemboucheddadevantlegroupamastadiumlesd",
+   "title": "Agression raciste de Meriem Bouchedda devant le Groupama Stadium ? Les deux mis en cause livrent leur version des faits",
+   "summary": "Les deux individus mis en cause dans l'agression survenue le 29 août dernier devant le Groupama Stadium contre-attaquent.",
+   "url": "https://www.lyonfoot.com/article/14219/agression-raciste-devant-le-groupama-stadium-les-deux-mis-en-cause-livrent-leur-version-des-faits",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aad1447efac5-1200x675-6a95a3ee0a046-blessure.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-18T10:35:00+00:00"
+  },
+  {
+   "id": "olnicolastagliaficoabsentdelentranementcollectif",
+   "title": "OL : Nicolas Tagliafico absent de l'entraînement collectif",
+   "summary": "Avant Rennes, Paulo Fonseca a presque un groupe au complet. Nicolas Tagliafico n'a néanmoins pas participé à la séance de ce vendredi. C'est un des sujets de l'OL sur ce début de saison.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-nicolas-tagliafico-absent-de-lentrainement-collectif,407793.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FGettyImages-2238964032.jpg-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-18T09:50:05+00:00"
+  },
+  {
+   "id": "lehavreollyonnesavantmatchhorairediffusiontv",
+   "title": "Le Havre - OL Lyonnes : avant-match, horaire, diffusion TV",
+   "summary": "Après deux journées de championnat, OL Lyonnes se déplace au Havre ce vendredi pour la troisième journée de Première Ligue. Retrouvez toutes les informations pratiques avant cette rencontre.",
+   "url": "https://www.olympique-et-lyonnais.com/le-havre-ol-lyonnes-avant-match-horaire-diffusion-tv,407617.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260529__B4G44LG__v1__HighRes__FblEurC1WomenLyonParisFc-e1780139483318-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-18T09:00:00+00:00"
+  },
+  {
+   "id": "premireligueollyonnesvoyageramontpellierle31octobre",
+   "title": "Première Ligue : OL Lyonnes voyagera à Montpellier le 31 octobre",
+   "summary": "Le mercredi Ligue des champions, le samedi D1. Fin octobre, OL Lyonnes disputera deux matchs en une semaine, avec un déplacement à Montpellier le week-end. Après la première trêve internationale début octobre, OL Lyonnes aura fort à faire.",
+   "url": "https://www.olympique-et-lyonnais.com/brouillon-autopremiere-ligue-ol-lyonnes-voyagera-a-montpellier-le-31-octobre,407737.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FIMG_3823-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-18T08:10:00+00:00"
+  },
+  {
+   "id": "indiceuefaleportugaltalonnelafranceaprslesrsultatsdelomrenne",
+   "title": "Indice UEFA : Le Portugal talonne la France après les résultats de l’OM, Rennes et Lyon",
+   "summary": "Les résultats mitigés des clubs français cette semaine en Ligue Europa permettent aux Lusitaniens de grappiller des points sur la 5e place",
+   "url": "https://www.20minutes.fr/sport/football/4246428-20260918-indice-uefa-portugal-talonne-france-apres-resultats-om-rennes-lyon?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FO9W3kgqkQ1CEPFYpChUjxik%2F1444x920_jeffrey-de-lange-a-passe-une-sale-soiree-en-turquie-jeudi-soir-ou-l-om-a-ete-largement-battu-par-le-besiktas-4-1&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-18T08:02:49+00:00"
+  },
+  {
+   "id": "pronosticolstaderennaisquifrapperaungrandcoupdanslacourseleu",
+   "title": "Pronostic OL – Stade Rennais : qui frappera un grand coup dans la course à l’Europe ?",
+   "summary": "Voici l’analyse complète du match de la cinquième journée de Ligue 1 entre l’OL et le Stade Rennais, ainsi que notre pronostic de la rencontre. C’est l’un des chocs de cette cinquième journée de Ligue 1 !",
+   "url": "https://www.butfootballclub.fr/1698896-pronostic-ol-stade-rennais-qui-frappera-un-grand-coup-dans-la-course-a-leurope/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fac81abfa-ol-rennes-1-684x1024.png&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-18T07:30:00+00:00"
+  },
+  {
+   "id": "franceu20nohamkamaraetkhalismeraholaveclesbleuets",
+   "title": "France U20 : Noham Kamara et Khalis Merah (OL) avec les Bleuets",
+   "summary": "L'OL est bien représenté chez les jeunes Français. En U20, Noham Kamara et Khalis Merah joueront sous les ordres de Bernard Diomède dans les semaines à venir. Des U17 aux U20, l'OL a au moins un membre du club dans les équipes de France.",
+   "url": "https://www.olympique-et-lyonnais.com/france-u20-noham-kamara-et-khalis-merah-ol-avec-les-bleuets,407731.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FCapture-decran-2025-10-14-134247-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-18T07:25:00+00:00"
+  },
+  {
+   "id": "unolencoretropintermittentcherchedelaconstance",
+   "title": "Un OL encore trop intermittent cherche de la constance",
+   "summary": "Bon en première période à Anderlecht mercredi, l'OL a petit à petit laissé son adversaire revenir dans le jeu. Un défaut qu'on a souvent observé et qui pourrait porter préjudice à l'équipe à plus long terme.",
+   "url": "https://www.olympique-et-lyonnais.com/un-ol-encore-trop-intermittent-cherche-de-la-constance,407723.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FNartey-et-les-Lyonnais-e1787468342329-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-18T06:40:00+00:00"
+  },
+  {
+   "id": "ollyonnesauhavrepourconfirmerunexcellentdbutdesaison",
+   "title": "OL Lyonnes au Havre pour confirmer un excellent début de saison",
+   "summary": "Leader après deux journées, OL Lyonnes se déplace au Havre ce vendredi à 19h00 pour le compte de la 3e journée d’Arkema Première Ligue, avec l’objectif de poursuivre son début de saison parfait.",
+   "url": "https://www.lyonfoot.com/article/14214/le-havre-ol-lyonnes-les-fenottes-veulent-confirmer-leur-excellent-debut-de-saison",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aac1b3327524-tabitha-chawinga-ol-lyonnes.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-18T06:02:00+00:00"
+  },
+  {
+   "id": "thondickaanciendelolsignelusorlans",
+   "title": "Théo Ndicka, ancien de l’OL, signe à l’US Orléans",
+   "summary": "Formé à l’Olympique lyonnais, Théo Ndicka Matam retrouve le football français. Le latéral gauche de 26 ans s’est engagé avec l’US Orléans, en Ligue 3. Après plusieurs années passées à l’étranger, Théo Ndicka va retrouver le championnat français.",
+   "url": "https://www.olympique-et-lyonnais.com/theo-ndicka-ancien-de-lol-signe-a-lus-orleans,407462.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FArticle-Site-Web-10-1-770x433.png&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-18T06:00:00+00:00"
+  },
+  {
+   "id": "dominikgreifolretrouvelaslovaquiepourlaliguedesnations",
+   "title": "Dominik Greif (OL) retrouve la Slovaquie pour la Ligue des nations",
+   "summary": "Le gardien de l’Olympique lyonnais, Dominik Greif, a été convoqué avec la sélection slovaque pour les prochains matchs de Ligue des nations. La Slovaquie va débuter une nouvelle campagne de Ligue des nations dans les prochains jours.",
+   "url": "https://www.olympique-et-lyonnais.com/dominik-greif-ol-retrouve-la-slovaquie-pour-la-ligue-des-nations,407707.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F09%2FDOMINIK-GREIF-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-09-18T05:30:00+00:00"
+  },
   {
    "id": "renardetweirtoujoursindisponiblespourlehavreollyonnes",
    "title": "Renard et Weir toujours indisponibles pour Le Havre - OL Lyonnes",
@@ -27,17 +161,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FF5_qCIzaEAALmKD-770x433.jpeg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-17T16:30:00+00:00"
-  },
-  {
-   "id": "olacadmieunjoueurlyonnaisconvoquaveclquipedefranceu17",
-   "title": "OL Académie : un joueur lyonnais convoqué avec l’équipe de France U17",
-   "summary": "Le sélectionneur Johan Radet a dévoilé sa liste pour le prochain rassemblement des Bleuets, qui se déroulera en Finlande du 20 au 25 septembre. Un joueur de l’Olympique lyonnais, Jason Nkelenda, figure parmi les 22 éléments retenus.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-un-joueur-lyonnais-convoque-avec-lequipe-de-france-u17,407605.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2019%2F09%2FOLacad%C3%A9mie-650x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-09-17T15:40:00+00:00"
   },
   {
    "id": "loletlollyonnesnejouerontfinalementpasenmmetemps",
@@ -62,28 +185,6 @@
    "publishedAt": "2026-09-17T15:25:00+00:00"
   },
   {
-   "id": "quipedefranceu18adilhamdaniolconvoqupourletournoidelimoges",
-   "title": "Équipe de France U18 : Adil Hamdani (OL) convoqué pour le tournoi de Limoges",
-   "summary": "Le sélectionneur José Alcocer a dévoilé sa liste de 23 joueurs pour le Tournoi international de Limoges, qui se déroulera du 20 au 28 septembre. L’Olympique lyonnais sera représenté par Adil Hamdani.",
-   "url": "https://www.olympique-et-lyonnais.com/equipe-de-france-u18-adil-hamdani-ol-convoque-pour-le-tournoi-de-limoges,407676.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3757-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-09-17T14:50:00+00:00"
-  },
-  {
-   "id": "olseulementdeuxbutsencaisssaprsquatrejournesunepremiredepuis",
-   "title": "OL : seulement deux buts encaissés après quatre journées, une première depuis 2019",
-   "summary": "Après quatre journées de Ligue 1, l’Olympique lyonnais n’a encaissé que deux buts. Pour retrouver une telle solidité défensive à ce stade de la saison, il faut remonter à l’exercice 2019-2020.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-seulement-deux-buts-encaisses-apres-quatre-journees-une-premiere-depuis-2019,407546.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260829__C6TV7AK__v1__HighRes__FblFraLigue1LyonLeHavre-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-17T14:00:00+00:00"
-  },
-  {
    "id": "lyonpartberlinpourattirerdenouveauxinvestisseursallemandsdan",
    "title": "Lyon part à Berlin pour attirer de nouveaux investisseurs allemands dans son industrie",
    "summary": "ONLYLYON Invest participera le 22 septembre à l’opération Choose France organisée à Berlin. La délégation lyonnaise veut convaincre de nouveaux groupes allemands d’investir dans l’industrie locale, avec un accent mis sur les technologies critiques et les chaînes de valeur européennes.",
@@ -93,61 +194,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aabe840329b6-53845840265-ef42f77809-o.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-17T13:30:00+00:00"
-  },
-  {
-   "id": "dcisifanderlechtkeitonakamuraolretenuaveclejapon",
-   "title": "Décisif à Anderlecht, Keito Nakamura (OL) retenu avec le Japon",
-   "summary": "Buteur avec l'OL mercredi soir, Keito Nakamura espérait que son sélectionneur ait vu le match contre Anderlecht. L'ailier n'a pas mis longtemps à avoir sa réponse puisqu'il a été convoqué pour le rassemblement du Japon.",
-   "url": "https://www.olympique-et-lyonnais.com/decisif-a-anderlecht-keito-nakamura-ol-retenu-avec-le-japon,407678.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260615__pedersen-netherla260614_npIFe__v1__HighRes__NetherlandsVJapanGroupFFi-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-17T13:10:00+00:00"
-  },
-  {
-   "id": "romanerafalskiollyonnestitulairelorsdefrancecanada",
-   "title": "Romane Rafalski (OL Lyonnes) titulaire lors de France - Canada",
-   "summary": "Ce jeudi après-midi, l'équipe de France joue une place dans le top 8 de la Coupe du monde U20. Pour affronter le Canada, Philippe Joly a choisi d'aligner Romane Rafalski. Après une mise en route difficile, l'équipe de France a rectifié le tir dans cette Coupe du monde U20 avec deux victoires.",
-   "url": "https://www.olympique-et-lyonnais.com/romane-rafalski-ol-lyonnes-titulaire-lors-de-france-canada,407625.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2F679071307_900491026361599_3105090295949108993_n-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-17T12:20:00+00:00"
-  },
-  {
-   "id": "zacharyathekameolretrouvelaslectionsuisseunanaprs",
-   "title": "Zachary Athekame (OL) retrouve la sélection suisse, un an après",
-   "summary": "Auteur de débuts remarqués depuis son arrivée à l'OL, Zachary Athekame va retrouver la sélection suisse durant la trêve internationale. Un an après sa première convocation, le latéral droit participera au rassemblement de la Nati.",
-   "url": "https://www.olympique-et-lyonnais.com/zachary-athekame-ol-retrouve-la-selection-suisse-un-an-apres,407691.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260829__C6TV2GD__v1__HighRes__FblFraLigue1LyonLeHavre-e1788250100378-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-17T11:30:00+00:00"
-  },
-  {
-   "id": "olollyonnesmichelekangluemeilleuredirigeante2026parleworldfo",
-   "title": "OL - OL Lyonnes : Michele Kang élue meilleure dirigeante 2026 par le World Football Summit",
-   "summary": "La présidente de l’Olympique lyonnais et OL Lyonnes, également fondatrice de Kynisca, a reçu le prix de la meilleure dirigeante 2026 décerné par le World Football Summit. Michele Kang devient la première femme à obtenir cette distinction.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-ol-lyonnes-michele-kang-elue-meilleure-dirigeante-2026-par-le-world-football-summit,407686.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260709__2284728193__v1__HighRes__IwgGlobalSummitOnWomenAndSport2026Day1-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-09-17T10:40:00+00:00"
-  },
-  {
-   "id": "premireliguepsgollyonnesfinalementavancau17octobre",
-   "title": "Première Ligue : PSG - OL Lyonnes finalement avancé au 17 octobre",
-   "summary": "Prévu initialement le dimanche 18 octobre, le choc entre le Paris SG et OL Lyonnes se disputera finalement la veille. Les deux équipes se retrouveront au Parc des Princes le samedi 17 octobre à 21 heures.",
-   "url": "https://www.olympique-et-lyonnais.com/psg-ol-lyonnes-finalement-avance-au-17-octobre,407671.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F05%2FAFP__20250516__472F7F7__v6__HighRes__TopshotFblFraWomenLyonPsg-e1748177873988-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-09-17T09:50:00+00:00"
   },
   {
    "id": "olmichelekangentredanslhistoireavecunedistinctionindite",
@@ -192,28 +238,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6a78527bb3c0a-p08-jesper-just-interoceptions-grandes-locos-la-mulatiere-2024-photo-blandine-soulage-2.jpeg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-16T08:00:00+00:00"
-  },
-  {
-   "id": "lavillaflorentinefaitpeauneuveetveutreconqurirleslyonnais",
-   "title": "La Villa Florentine fait peau neuve et veut reconquérir les Lyonnais",
-   "summary": "Après quatre mois de travaux, la Villa Florentine a officiellement célébré sa nouvelle ère ce mardi soir.",
-   "url": "https://www.lyonmag.com/article/153999/la-villa-florentine-fait-peau-neuve-et-veut-reconquerir-les-lyonnais",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aaa3af035c93-img-0055.jpeg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-16T07:30:00+00:00"
-  },
-  {
-   "id": "lyonunlujugpouravoirenvoylenumrodetlphonederomanabreu10000sy",
-   "title": "Lyon : un élu jugé pour avoir envoyé le numéro de téléphone de Roman Abreu à 10 000 sympathisants de Coeur Lyonnais",
-   "summary": "Jean-Arnaud Niepceron, aujourd’hui conseiller du 6e arrondissement de Lyon, comparaissait devant le tribunal correctionnel après la plainte de Roman Abreu, ancien communicant de Jean-Michel Aulas.",
-   "url": "https://www.lyonmag.com/article/153996/lyon-un-elu-juge-pour-avoir-envoye-le-numero-de-telephone-de-roman-abreu-a-10-000-sympathisants-de-coeur-lyonnais",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aaa1f9d789d8-55338117721-dbd7ea9dc9-o.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-16T04:42:00+00:00"
   },
   {
    "id": "anderlechtoltoujoursspcialpourunstphanoisdejouerlolsouritptr",
