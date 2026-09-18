@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-18T16:23:03+00:00",
+ "updatedAt": "2026-09-18T20:53:29+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -9,8 +9,30 @@
  ],
  "items": [
   {
-   "id": "lacompoetledirectsuivezlehavreollyonnes",
-   "title": "La compo et le direct... Suivez Le Havre - OL Lyonnes",
+   "id": "nouvelledmonstrationauhavrepourollyonnes18",
+   "title": "Nouvelle démonstration au Havre pour OL Lyonnes (1-8)",
+   "summary": "Sept buts contre Fleury et le Paris FC, puis huit au Havre. Ce vendredi, OL Lyonnes a encore été sans pitié pour son adversaire en dominant largement le HAC (1-8). Au vu de la marge dont dispose OL Lyonnes en championnat, on est bien content que Jonatan Giráldez ait renoué avec le 4-2-3-1.",
+   "url": "https://www.olympique-et-lyonnais.com/nouvelle-demonstration-au-havre-pour-ol-lyonnes-1-8,407896.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F08%2FIMG_3626-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-09-18T18:54:46+00:00"
+  },
+  {
+   "id": "olrennesabnerderetourtagliaficoetduranvilleabsents",
+   "title": "OL - Rennes : Abner de retour, Tagliafico et Duranville absents",
+   "summary": "Sans surprise, Abner revient dans le groupe de l'OL face à Rennes. En revanche, Nicolas Tagliafico et Julien Duranville ne participeront pas au match de samedi (20h45). Paulo Fonseca devait faire des choix.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-rennes-abner-de-retour-tagliafico-et-duranville-absents,407894.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FDuranville-2-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-18T17:04:39+00:00"
+  },
+  {
+   "id": "lacompoetledirectrevivezlehavreollyonnes",
+   "title": "La compo et le direct... Revivez Le Havre - OL Lyonnes",
    "summary": "Après deux larges victoires pour lancer leur saison, les OL Lyonnes se déplacent au Havre ce vendredi pour la troisième journée de Première Ligue. Suivez la rencontre en direct à partir de 19 heures.",
    "url": "https://www.olympique-et-lyonnais.com/la-compo-et-le-direct-suivez-le-havre-ol-lyonnes,407784.html",
    "source": "Olympique-et-Lyonnais",
@@ -130,17 +152,6 @@
    "publishedAt": "2026-09-18T11:15:00+00:00"
   },
   {
-   "id": "ancienjoueurdanderlechtetdeloleugnekabongoaassistaumatchmerc",
-   "title": "Ancien joueur d'Anderlecht et de l'OL, Eugène Kabongo a assisté au match mercredi",
-   "summary": "Parmi les anciens joueurs ayant porté les maillots d’Anderlecht et de l’OL, Eugène Kabongo était présent dans les tribunes du Lotto Park mercredi soir. Il a assisté aux retrouvailles entre les deux équipes.",
-   "url": "https://www.olympique-et-lyonnais.com/anderlecht-ol-un-ancien-joueur-des-deux-clubs-present-au-lotto-park,407705.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FKabongo-e1789718780976-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-18T10:40:00+00:00"
-  },
-  {
    "id": "agressionracistedemeriemboucheddadevantlegroupamastadiumlesd",
    "title": "Agression raciste de Meriem Bouchedda devant le Groupama Stadium ? Les deux mis en cause livrent leur version des faits",
    "summary": "Les deux individus mis en cause dans l'agression survenue le 29 août dernier devant le Groupama Stadium contre-attaquent.",
@@ -150,28 +161,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aad1447efac5-1200x675-6a95a3ee0a046-blessure.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-18T10:35:00+00:00"
-  },
-  {
-   "id": "olnicolastagliaficoabsentdelentranementcollectif",
-   "title": "OL : Nicolas Tagliafico absent de l'entraînement collectif",
-   "summary": "Avant Rennes, Paulo Fonseca a presque un groupe au complet. Nicolas Tagliafico n'a néanmoins pas participé à la séance de ce vendredi. C'est un des sujets de l'OL sur ce début de saison.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-nicolas-tagliafico-absent-de-lentrainement-collectif,407793.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FGettyImages-2238964032.jpg-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-18T09:50:05+00:00"
-  },
-  {
-   "id": "ligue1leprogrammecompletdelaj5avecleclassiqueompsg",
-   "title": "Ligue 1 : Le programme complet de la J5 avec le Classique OM-PSG",
-   "summary": "Rencontres à suivre sur Ligue 1+ du 18 au 20 septembre, avec AS Monaco - RC Lens en ouverture. L'OL accueille Rennes, le Paris FC reçoit Strasbourg, Lille se déplace à Nice… Et en clôture, l'Olympique de Marseille reçoit le Paris Saint-Germain au Vélodrome.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-ligue-1-le-programme-complet-de-la-j5-avec-le-classique-om-psg_VN-202609180345.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FYs8RYiXszZUmRBFwd1QVlsQo5b0%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FLigue-1-Le-programme-complet-de-la-J5-avec-le-Classique-OM-PSG-2350356.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-18T08:50:27+00:00"
   },
   {
    "id": "indiceuefaleportugaltalonnelafranceaprslesrsultatsdelomrenne",
