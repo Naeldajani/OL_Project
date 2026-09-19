@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-19T15:52:16+00:00",
+ "updatedAt": "2026-09-19T20:38:44+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,61 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "asselesvertssinvitentmalgreuxdansunincidentquifaitparlerduct",
+   "title": "ASSE : les Verts s’invitent malgré eux dans un incident qui fait parler du côté de l’OL",
+   "summary": "Une banderole visant directement l’ASSE a provoqué l’intervention de l’arbitre lors d’OL-Rennes. Le choc entre l’OL et le Stade Rennais a été brièvement interrompu ce samedi soir au Groupama Stadium.",
+   "url": "https://www.butfootballclub.fr/1699506-asse-les-verts-sinvitent-malgre-eux-dans-un-incident-qui-fait-parler-du-cote-de-lol/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fad76c050-asse-les-verts-sinvitent-malgre-eux-dans-un-incident-qui-fait-parler-du-cote-de-lol.jpg&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-09-19T19:40:00+00:00"
+  },
+  {
+   "id": "olstaderennaislescomposdefonsecaethaisesontconnues",
+   "title": "OL – Stade Rennais : les compos de Fonseca et Haise sont connues",
+   "summary": "L’OL reçoit le Stade Rennais ce samedi soir pour le compte de la 5e journée de Ligue 1. Voici les compos officielles. Ce samedi soir, l’OL reçoit le Stade Rennais pour un des chocs de la 5e journée de Ligue 1.",
+   "url": "https://www.butfootballclub.fr/1699482-ol-stade-rennais-les-compos-de-fonseca-et-haise-sont-connues/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Faa362f4c-ol-stade-rennais-haise-savoue-vaincu-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-19T18:04:16+00:00"
+  },
+  {
+   "id": "olrennespasdechangementdansleonzedefonsecaparrapportaupfc",
+   "title": "OL - Rennes : pas de changement dans le onze de Fonseca par rapport au PFC",
+   "summary": "L'OL affronte Rennes ce samedi soir. Les deux clubs sont invaincus en Ligue 1. Fonseca a choisi d'aligner le même onze que face au Paris FC. Les deux équipes n'ont pas encore connu la défaite depuis le début du championnat.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-rennes-pas-de-changement-dans-le-onze-de-fonseca-par-rapport-au-pfc,408003.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Thomas Dioudonnat",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260503__A9P72U6__v1__HighRes__FblFraLigue1LyonRennes-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-19T17:48:57+00:00"
+  },
+  {
+   "id": "top14leloucrasepaudcrochelebonusoffensifetprendprovisoiremen",
+   "title": "Top 14 : le LOU écrase Pau, décroche le bonus offensif et prend provisoirement la tête",
+   "summary": "Troisième match et troisième victoire pour le LOU Rugby. Les Lyonnais ont surclassé Pau ce samedi (51-25), avec sept essais et un nouveau bonus offensif. Ils prennent provisoirement la tête du Top 14 avec 14 points.",
+   "url": "https://www.lyonmag.com/article/154018/top-14-le-lou-ecrase-pau-decroche-le-bonus-offensif-et-prend-provisoirement-la-tete",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aaecc05c1930-809209339-1127624393073297-8428028276151320688-n.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-19T17:45:00+00:00"
+  },
+  {
+   "id": "olrennesfranckhaiseredoutelestransitionslyonnaises",
+   "title": "OL - Rennes : Franck Haise redoute les transitions lyonnaises",
+   "summary": "Franck Haise se méfie de l'OL avant le choc ce samedi soir à Décines. Le coach breton, qui arrive au complet, a salué le travail de Fonseca. À quelques heures d'affronter l'OL ce samedi soir, Franck Haise sait à quoi s'attendre à Décines.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-rennes-franck-haise-redoute-les-transitions-lyonnaises,408006.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Thomas Dioudonnat",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FMjAyNjAxZjZlOWU4N2RmODMyZGY2NWE4NDZkYWY1ZmQ5MTM5ODU-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-19T16:45:26+00:00"
+  },
   {
    "id": "olrennes44butsinscritslorsdesdixderniresconfrontations",
    "title": "OL - Rennes : 44 buts inscrits lors des dix dernières confrontations",
@@ -51,28 +106,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2017%2F11%2FIMG_4431.jpg&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-09-19T11:30:28+00:00"
-  },
-  {
-   "id": "staderennaispluiedebonnesnouvellesavantlol",
-   "title": "Stade Rennais : pluie de bonnes nouvelles avant l’OL !",
-   "summary": "S’il compte modifier son onze de départ face à l’OL (20h45), Franck Haise a reçu plusieurs bonnes nouvelles dans les rangs du Stade Rennais. Franck Haise a reçu plusieurs nouvelles encourageantes avant d’aller titiller l’OL sur ses terres.",
-   "url": "https://www.butfootballclub.fr/1699332-stade-rennais-pluie-de-bonnes-nouvelles-avant-lol/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fe05fa501-stade-rennais-pluie-de-mauvaises-nouvelles-pour-haise-avant-lol.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-19T11:20:00+00:00"
-  },
-  {
-   "id": "psgomasserclensfcnantesolstaderennaiscoupdetonnerrepourlacou",
-   "title": "PSG, OM, ASSE, RC Lens, FC Nantes, OL Stade Rennais : coup de tonnerre pour la Coupe de France !",
-   "summary": "La diffusion de la Coupe de France pourrait connaître un énorme retournement de situation cette saison. Un changement majeur pourrait se préparer autour de la Coupe de France.",
-   "url": "https://www.butfootballclub.fr/1699398-psg-om-asse-rc-lens-fc-nantes-ol-stade-rennais-coup-de-tonnerre-pour-la-coupe-de-france/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fb8c32b7b-coup-de-tonnerre-pour-la-coupe-de-france.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-09-19T10:30:00+00:00"
   },
   {
    "id": "abneravantolrennesunegrossequipe",
@@ -119,28 +152,6 @@
    "publishedAt": "2026-09-19T07:25:00+00:00"
   },
   {
-   "id": "olrennespremierchocetderniermatchrfrence",
-   "title": "OL - Rennes : premier choc et dernier match référence",
-   "summary": "Trois jours après son entrée en lice européenne, l'OL reçoit Rennes ce samedi pour le premier choc de la saison. L'enjeu : la seconde place. Tout va très vite dans le football.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-rennes-premier-choc-et-dernier-match-reference,407868.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Thomas Dioudonnat",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F09%2FAFP__20250914__74GQ6M3__v1__HighRes__FblFraLigue1RennesLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-19T06:40:00+00:00"
-  },
-  {
-   "id": "olrennesavantmatchhorairediffusiontv",
-   "title": "OL - Rennes : avant-match, horaire, diffusion TV",
-   "summary": "Après son déplacement à Anderlecht en Ligue Europa, l’OL retrouvera la Ligue 1 avec la réception de Rennes ce samedi. Retrouvez toutes les informations pratiques de cette cinquième journée du championnat de France.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-rennes-avant-match-horaire-diffusion-tv-2,407306.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260503__A9P72U6__v1__HighRes__FblFraLigue1LyonRennes-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-19T06:00:00+00:00"
-  },
-  {
    "id": "aprsleuropelolenchaneavecungrostestfacerennes",
    "title": "Après l’Europe, l’OL enchaîne avec un gros test face à Rennes",
    "summary": "Ce samedi à 20h45 au Groupama Stadium, l’OL affronte le Stade Rennais.",
@@ -150,17 +161,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aad6016562a9-screenshot-2026-09-18-at-18.png&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-19T05:30:00+00:00"
-  },
-  {
-   "id": "lourugbyfacepauconfirmersanssenflammer",
-   "title": "LOU Rugby : face à Pau, confirmer sans s’enflammer",
-   "summary": "Après deux premières journées réussies, le LOU Rugby s’apprête à recevoir Pau, actuel leader du Top 14, ce samedi 19 septembre à 16h35. Une affiche qui excite le groupe lyonnais, mais qui doit aussi lui permettre de mesurer sa capacité à faire preuve de constance dans la durée.",
-   "url": "https://www.lyonmag.com/article/154018/lou-rugby-face-a-pau-confirmer-sans-s-enflammer",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aab7aef2887d-807843952-1629886875430814-3801947155097942328-n.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-19T05:00:00+00:00"
   },
   {
    "id": "lyonrennessurquellechaneetquelleheureregarderlematchdeligue1",
@@ -271,17 +271,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aabb397253f5-screenshot-2026-09-17-at-11.png&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-17T09:27:00+00:00"
-  },
-  {
-   "id": "ligueeuropalolgagneanderlechtavecunequipelargementremanie",
-   "title": "Ligue Europa : l’OL gagne à Anderlecht avec une équipe largement remaniée",
-   "summary": "L’Olympique Lyonnais a parfaitement lancé sa campagne de Ligue Europa en s’imposant 2-1 sur la pelouse d’Anderlecht ce mercredi soir. Avec une équipe largement remaniée, les Lyonnais ont fait la différence en première période avant de résister au retour des Belges.",
-   "url": "https://www.lyonfoot.com/article/14182/anderlecht-ol-lyon-doit-repartir-de-l-avant-pour-ses-debuts-en-ligue-europa",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aaaffe52839b-hsxhe4gxgaaugou.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-16T20:52:00+00:00"
   }
  ]
 }
