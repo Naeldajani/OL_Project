@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-19T04:36:00+00:00",
+ "updatedAt": "2026-09-19T10:57:04+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -9,15 +9,136 @@
  ],
  "items": [
   {
-   "id": "lyonrennessurquellechaneetquelleheureregarderlematchdeligue1",
-   "title": "Lyon - Rennes : sur quelle chaîne et à quelle heure regarder le match de Ligue 1 en direct ?",
-   "summary": "Quatrième, l’Olympique Lyonnais accueille un Stade Rennais installé sur le podium pour une affiche qui pourrait déjà compter dans la course aux premières places. Voici toutes les informations pour suivre ce match en direct.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/lyon-rennes-sur-quelle-chaine-et-a-quelle-heure-regarder-le-match-de-ligue-1-en-direct_AN-202609190019.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FKQBg0e-5zQpIV8YhTuwaVPjmw9w%3D%2F0x0%3A1600x900%2F800x0%2Fimages%2FLyon-Rennes-sur-quelle-chaine-et-a-quelle-heure-regarder-le-match-de-Ligue-1-en-direct-2349177.jpg&w=800&output=webp&q=78",
+   "id": "psgomasserclensfcnantesolstaderennaiscoupdetonnerrepourlacou",
+   "title": "PSG, OM, ASSE, RC Lens, FC Nantes, OL Stade Rennais : coup de tonnerre pour la Coupe de France !",
+   "summary": "La diffusion de la Coupe de France pourrait connaître un énorme retournement de situation cette saison. Un changement majeur pourrait se préparer autour de la Coupe de France.",
+   "url": "https://www.butfootballclub.fr/1699398-psg-om-asse-rc-lens-fc-nantes-ol-stade-rennais-coup-de-tonnerre-pour-la-coupe-de-france/",
+   "source": "But! Football Club",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fb8c32b7b-coup-de-tonnerre-pour-la-coupe-de-france.jpg&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-09-19T10:30:00+00:00"
+  },
+  {
+   "id": "abneravantolrennesunegrossequipe",
+   "title": "Abner avant OL - Rennes : \"Une grosse équipe\"",
+   "summary": "Présent en conférence de presse d'avant-match, le Brésilien Abner est revenu sur les enjeux de la rencontre face à Rennes. Sur votre début de saison, qu’est-ce que vous attendez de cet exercice après une saison dernière très pleine ?",
+   "url": "https://www.olympique-et-lyonnais.com/abner-avant-ol-rennes-une-grosse-equipe,407850.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2FAFP__20260103__89JE3CQ__v1__HighRes__FblFraLigue1MonacoLyon-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
-   "publishedAt": "2026-09-19T04:00:00+00:00"
+   "publishedAt": "2026-09-19T10:00:00+00:00"
+  },
+  {
+   "id": "ollyonnesplacelaliguedeschampions",
+   "title": "OL Lyonnes : place à la Ligue des champions",
+   "summary": "Largement victorieuses ce vendredi contre Le Havre, les joueuses d'OL Lyonnes vont maintenant retrouver la C1 contre le Servette FCCF. Difficile de faire meilleure répétition avant l'Europe.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-place-a-la-ligue-des-champions,407926.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Thomas Dioudonnat",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260502__A9M36EH__v3__HighRes__FblEurC1WomenLyonnesArsenal-e1779288782294-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-09-19T09:00:00+00:00"
+  },
+  {
+   "id": "olfonsecavaalignerlartillerielourdecontrelestaderennais",
+   "title": "OL : Fonseca va aligner l’artillerie lourde contre le Stade Rennais",
+   "summary": "Pour accueillir le Stade Rennais, Paulo Fonseca prépare plusieurs surprises dans le onze de départ de l’OL.",
+   "url": "https://www.butfootballclub.fr/1699323-ol-fonseca-va-aligner-lartillerie-lourde-contre-le-stade-rennais/",
+   "source": "But! Football Club",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F47ca4e86-ligue-1-le-paris-fc-et-lol-se-neutralisent-logc-nice-dernier-apres-sa-defaite-a-auxerre.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-19T08:40:00+00:00"
+  },
+  {
+   "id": "olpaulofonsecaprendladfensedecorentintolisso",
+   "title": "OL : Paulo Fonseca prend la défense de Corentin Tolisso",
+   "summary": "Avant la réception de Rennes, Paulo Fonseca a évoqué le début de saison de son capitaine, Corentin Tolisso. L’entraîneur de l’OL souligne son importance pour l’équipe tout en rappelant que le milieu lyonnais a connu quelques soucis physiques.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-paulo-fonseca-prend-la-defense-de-corentin-tolisso,407853.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260826__AA_26082026_2929039__v1__HighRes__OlympiqueLyonVFenerbahceUefaChampio-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-19T08:10:00+00:00"
+  },
+  {
+   "id": "olrennesaucunmatchnullorsdesdixderniersduels",
+   "title": "OL - Rennes : aucun match nul lors des dix derniers duels",
+   "summary": "Les dix dernières confrontations entre l’OL et Rennes en Ligue 1 ont toutes livré un vainqueur. Les Bretons ont remporté six de ces rencontres, contre quatre pour les Lyonnais. Depuis le 7 novembre 2021, les deux équipes se sont affrontées à dix reprises en championnat.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-rennes-aucun-nul-lors-des-dix-derniers-duels,407800.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260503__A9P72U6__v1__HighRes__FblFraLigue1LyonRennes-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-19T07:25:00+00:00"
+  },
+  {
+   "id": "staderennaisundfenseuroutpluiedesurprisesdansleonzedehaisely",
+   "title": "Stade Rennais : un défenseur out, pluie de surprises dans le onze de Haise à Lyon",
+   "summary": "Pour le périlleux déplacement à Lyon (20h45), dans le choc de la 5e journée de Ligue 1, Franck Haise devrait apporter des changements dans le onze du Stade Rennais.",
+   "url": "https://www.butfootballclub.fr/1699327-stade-rennais-un-defenseur-out-pluie-de-surprises-dans-le-onze-de-haise-a-lyon/",
+   "source": "But! Football Club",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F7138af05-stade-rennais-le-mercato-nest-pas-termine-haise-offre-une-belle-surprise-aux-supporters.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-19T07:20:00+00:00"
+  },
+  {
+   "id": "olrennespremierchocetderniermatchrfrence",
+   "title": "OL - Rennes : premier choc et dernier match référence",
+   "summary": "Trois jours après son entrée en lice européenne, l'OL reçoit Rennes ce samedi pour le premier choc de la saison. L'enjeu : la seconde place. Tout va très vite dans le football.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-rennes-premier-choc-et-dernier-match-reference,407868.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Thomas Dioudonnat",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F09%2FAFP__20250914__74GQ6M3__v1__HighRes__FblFraLigue1RennesLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-19T06:40:00+00:00"
+  },
+  {
+   "id": "olrennesavantmatchhorairediffusiontv",
+   "title": "OL - Rennes : avant-match, horaire, diffusion TV",
+   "summary": "Après son déplacement à Anderlecht en Ligue Europa, l’OL retrouvera la Ligue 1 avec la réception de Rennes ce samedi. Retrouvez toutes les informations pratiques de cette cinquième journée du championnat de France.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-rennes-avant-match-horaire-diffusion-tv-2,407306.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260503__A9P72U6__v1__HighRes__FblFraLigue1LyonRennes-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-19T06:00:00+00:00"
+  },
+  {
+   "id": "olmoussaniakhatslectionnaveclesngal",
+   "title": "OL : Moussa Niakhaté sélectionné avec le Sénégal",
+   "summary": "Le défenseur de l’Olympique lyonnais, Moussa Niakhaté, figure dans la nouvelle liste du Sénégal pour le prochain rassemblement international. Le Lyonnais retrouvera les Lions de la Teranga à l’occasion de cette trêve de septembre.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-moussa-niakhate-selectionne-avec-le-senegal,407827.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAFP__20260627__kumala-thefifaw260626_npccP__v1__HighRes__SenegalVIraqGroupIFifaWorld-e1782717990223-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-19T05:30:00+00:00"
+  },
+  {
+   "id": "aprsleuropelolenchaneavecungrostestfacerennes",
+   "title": "Après l’Europe, l’OL enchaîne avec un gros test face à Rennes",
+   "summary": "Ce samedi à 20h45 au Groupama Stadium, l’OL affronte le Stade Rennais.",
+   "url": "https://www.lyonfoot.com/article/14228/tous-les-matchs-sont-des-tests-l-ol-pret-pour-le-choc-face-a-rennes",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aad6016562a9-screenshot-2026-09-18-at-18.png&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-19T05:30:00+00:00"
+  },
+  {
+   "id": "lourugbyfacepauconfirmersanssenflammer",
+   "title": "LOU Rugby : face à Pau, confirmer sans s’enflammer",
+   "summary": "Après deux premières journées réussies, le LOU Rugby s’apprête à recevoir Pau, actuel leader du Top 14, ce samedi 19 septembre à 16h35. Une affiche qui excite le groupe lyonnais, mais qui doit aussi lui permettre de mesurer sa capacité à faire preuve de constance dans la durée.",
+   "url": "https://www.lyonmag.com/article/154018/lou-rugby-face-a-pau-confirmer-sans-s-enflammer",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aab7aef2887d-807843952-1629886875430814-3801947155097942328-n.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-19T05:00:00+00:00"
   },
   {
    "id": "nouvelledmonstrationauhavrepourollyonnes18",
@@ -53,28 +174,6 @@
    "publishedAt": "2026-09-18T16:10:00+00:00"
   },
   {
-   "id": "olopendarvlelescoulissesdunmercatoquiauraitpucapoter",
-   "title": "OL : Openda révèle les coulisses d’un mercato qui aurait pu capoter",
-   "summary": "Loïs Openda raconte comment Paulo Fonseca et Matthieu Louis-Jean ont tout fait pour le convaincre de signer à l’OL, dans un dossier très complexe.",
-   "url": "https://www.butfootballclub.fr/1699259-ol-openda-mercato-coulisses-signature/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F58546db7-ol-openda-mercato-coulisses-signature-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-18T15:27:41+00:00"
-  },
-  {
-   "id": "olacadmieleprogrammeduweekend",
-   "title": "OL Académie : le programme du week-end",
-   "summary": "Un week-end chargé pour les équipes de l’Académie. Les cinq principales formations lyonnaises seront sur les terrains samedi et dimanche. Avec notamment des Gones en quête de rebond.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-le-programme-du-week-end-105,407614.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2F570088858_755892724154764_5732577515089168934_n-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-18T14:50:00+00:00"
-  },
-  {
    "id": "lyonpolitiquesmunicipalitslfimenacesauditdelamtropoleetateli",
    "title": "Lyon Politiques : municipalités LFI menacées, audit de la Métropole et ateliers vélo - 18/09/26",
    "summary": "L'émission Lyon Politiques et ses intervenants décryptent pour vous les évènements marquants de la semaine dans l'agglomération lyonnaise.",
@@ -84,83 +183,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aad4d5453780-image-codex-18-sept-2026-16-39-57.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-18T14:40:00+00:00"
-  },
-  {
-   "id": "ollecouperetesttombpourtagliaficoavantrennes",
-   "title": "OL : Le couperet est tombé pour Tagliafico avant Rennes",
-   "summary": "Nicolas Tagliafico ne participera pas à la réception du Stade Rennais, samedi soir, lors de la cinquième journée de Ligue 1. Touché musculairement contre Anderlecht, le défenseur argentin doit observer quelques jours de repos.",
-   "url": "https://www.butfootballclub.fr/1699253-ol-le-couperet-est-tombe-pour-tagliafico-avant-rennes/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F8e0faf34-ol-le-couperet-est-tombe-pour-tagliafico-avant-rennes-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-18T14:25:52+00:00"
-  },
-  {
-   "id": "coupedumondeu20lafranceetromanerafalskiollyonnesliminesparle",
-   "title": "Coupe du monde U20 : la France et Romane Rafalski (OL Lyonnes) éliminées par le Canada",
-   "summary": "Les Bleuettes ont été éliminées de la Coupe du monde U20 dès les huitièmes de finale, après leur défaite face au Canada jeudi (1-3). Titulaire, Romane Rafalski a disputé 73 minutes.",
-   "url": "https://www.olympique-et-lyonnais.com/coupe-du-monde-u20-la-france-et-romane-rafalski-ol-lyonnes-eliminees-par-le-canada,407771.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Alban Nivet",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2F679071307_900491026361599_3105090295949108993_n-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-18T14:00:00+00:00"
-  },
-  {
-   "id": "ollosopendaloueletravaildesdirigeantspourlefairevenir",
-   "title": "OL : Loïs Openda loue le travail des dirigeants pour le faire venir",
-   "summary": "Recrue la plus \"clinquante\" de l'été lyonnais, Loïs Openda affirme s'être parfaitement acclimaté. Le Belge a notamment apprécié les échanges avec Paulo Fonseca et Matthieu Louis-Jean avant sa venue.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lois-openda-loue-le-travail-des-dirigeants-pour-le-faire-venir,407792.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260829__C6TV7FV__v1__HighRes__FblFraLigue1LyonLeHavre-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-18T13:35:00+00:00"
-  },
-  {
-   "id": "olcesttoujoursbienabnervoquelaconcurrenceaupostedelatralgauc",
-   "title": "OL : \"C'est toujours bien\", Abner évoque la concurrence au poste de latéral gauche",
-   "summary": "Il a pour l'instant une longueur d'avance sur ses concurrents. En ce début de saison, Abner est celui qui se démarque au poste de latéral gauche, plus que Nicolas Tagliafico et Mohamed Ouedraogo.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-cest-toujours-bien-abner-evoque-la-concurrence-au-poste-de-lateral-gauche,407836.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FAFP__20260222__98KE9PU__v1__HighRes__FblFraLigue1StrasbourgLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-18T13:10:00+00:00"
-  },
-  {
-   "id": "paulofonsecaavantolrennesjenesaispassicestvraimentunpremiert",
-   "title": "Paulo Fonseca avant OL - Rennes : \"Je ne sais pas si c'est vraiment un premier test\"",
-   "summary": "Muselé par le Paris FC (0-0), puis vainqueur en deux temps d'Anderlecht mercredi (1-2), l'OL passera au révélateur rennais samedi (20h45). Mais Paulo Fonseca refuse de voir ce choc comme un \"test\" pour les ambitions lyonnaises.",
-   "url": "https://www.olympique-et-lyonnais.com/paulo-fonseca-avant-ol-rennes-je-ne-sais-pas-si-cest-vraiment-un-premier-test,407826.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F08%2FIMG_3615-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-18T12:35:00+00:00"
-  },
-  {
-   "id": "olrennesnicolastagliaficodoitdclarerforfait",
-   "title": "OL - Rennes : Nicolas Tagliafico doit déclarer forfait",
-   "summary": "Pas à la fête contre Anderlecht mercredi (1-2), Nicolas Tagliafico ne sera pas de la partie contre Rennes samedi soir. L'Argentin souffre d'un petit pépin physique. À un poste où il dispose de trois solutions, Paulo Fonseca a des options pour pallier le forfait de Nicolas Tagliafico.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-rennes-nicolas-tagliafico-doit-declarer-forfait,407817.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP__20260315__A3CP47K__v1__HighRes__FblFraLigue1LeHavreLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-09-18T11:50:00+00:00"
-  },
-  {
-   "id": "olprivdumondiallosopendarenoueraaveclabelgique",
-   "title": "OL : privé du Mondial, Loïs Openda renouera avec la Belgique",
-   "summary": "L'été dernier, Loïs Openda n'avait pas été retenu pour la Coupe du Monde avec la Belgique. Mais le début de saison de l'attaquant lui rouvre les portes de la sélection. Jusqu'au bout, il a pensé pouvoir disputer une deuxième Coupe du Monde.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-prive-du-mondial-lois-openda-renouera-avec-la-belgique,407812.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FLois-Openda-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-18T11:15:00+00:00"
   },
   {
    "id": "agressionracistedemeriemboucheddadevantlegroupamastadiumlesd",
@@ -262,15 +284,15 @@
    "publishedAt": "2026-09-16T20:52:00+00:00"
   },
   {
-   "id": "joalpes2030leciovalidelepleglacedelyonetlarpartitiondespreuv",
-   "title": "JO Alpes 2030 : le CIO valide le pôle glace de Lyon et la répartition des épreuves",
-   "summary": "Le pôle lyonnais des Jeux olympiques d’hiver 2030 se précise.",
-   "url": "https://www.lyonmag.com/article/154006/jo-alpes-2030-le-cio-valide-le-pole-glace-de-lyon-et-la-repartition-des-epreuves",
-   "source": "Lyon Mag",
+   "id": "anderlechtoltoujoursspcialpourunstphanoisdejouerlolsouritptr",
+   "title": "Anderlecht-OL : “Toujours spécial pour un Stéphanois de jouer l’OL”, sourit Pétrot",
+   "summary": "L’Olympique Lyonnais se déplace en Belgique pour affronter le Royal Sporting Club Anderlecht dans le cadre de la première journée de Ligue Europa, mercredi à 21h. En conférence de presse, Léo Pétrot, né à St Etienne, qui a joué à St Etienne se remémore les souvenirs de derby face aux Lyonnais.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-anderlecht-ol-toujours-special-pour-un-stephanois-de-jouer-l-ol-sourit-petrot_VN-202609150611.html",
+   "source": "RMC Sport",
    "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aaa921cc7534-ldlc-arena.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-16T13:00:00+00:00"
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F4KGai-Y5W761tBE_KyV1QSNMSrA%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FAnderlecht-OL-Toujours-special-pour-un-Stephanois-de-jouer-l-OL-sourit-Petrot-2348464.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-15T15:15:58+00:00"
   }
  ]
 }
