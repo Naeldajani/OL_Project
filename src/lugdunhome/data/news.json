@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-18T23:17:33+00:00",
+ "updatedAt": "2026-09-19T04:36:00+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "lyonrennessurquellechaneetquelleheureregarderlematchdeligue1",
+   "title": "Lyon - Rennes : sur quelle chaîne et à quelle heure regarder le match de Ligue 1 en direct ?",
+   "summary": "Quatrième, l’Olympique Lyonnais accueille un Stade Rennais installé sur le podium pour une affiche qui pourrait déjà compter dans la course aux premières places. Voici toutes les informations pour suivre ce match en direct.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/lyon-rennes-sur-quelle-chaine-et-a-quelle-heure-regarder-le-match-de-ligue-1-en-direct_AN-202609190019.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FKQBg0e-5zQpIV8YhTuwaVPjmw9w%3D%2F0x0%3A1600x900%2F800x0%2Fimages%2FLyon-Rennes-sur-quelle-chaine-et-a-quelle-heure-regarder-le-match-de-Ligue-1-en-direct-2349177.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-19T04:00:00+00:00"
+  },
   {
    "id": "nouvelledmonstrationauhavrepourollyonnes18",
    "title": "Nouvelle démonstration au Havre pour OL Lyonnes (1-8)",
@@ -260,17 +271,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aaa921cc7534-ldlc-arena.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-16T13:00:00+00:00"
-  },
-  {
-   "id": "anderlechtoltoujoursspcialpourunstphanoisdejouerlolsouritptr",
-   "title": "Anderlecht-OL : “Toujours spécial pour un Stéphanois de jouer l’OL”, sourit Pétrot",
-   "summary": "L’Olympique Lyonnais se déplace en Belgique pour affronter le Royal Sporting Club Anderlecht dans le cadre de la première journée de Ligue Europa, mercredi à 21h. En conférence de presse, Léo Pétrot, né à St Etienne, qui a joué à St Etienne se remémore les souvenirs de derby face aux Lyonnais.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-anderlecht-ol-toujours-special-pour-un-stephanois-de-jouer-l-ol-sourit-petrot_VN-202609150611.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F4KGai-Y5W761tBE_KyV1QSNMSrA%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FAnderlecht-OL-Toujours-special-pour-un-Stephanois-de-jouer-l-OL-sourit-Petrot-2348464.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-15T15:15:58+00:00"
   }
  ]
 }
