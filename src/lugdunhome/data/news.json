@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-20T11:21:21+00:00",
+ "updatedAt": "2026-09-20T16:04:29+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,83 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "lyonjeanmichelaulasdevientparraindepromotiondelihecf",
+   "title": "Lyon : Jean-Michel Aulas devient parrain de promotion de l’IHECF",
+   "summary": "Jean-Michel Aulas devient parrain de promotion de l’IHECF Lyon, école spécialisée dans les métiers de la comptabilité, de la finance et de la gestion. L’ancien président de l’OL participera également à une masterclass consacrée à son parcours de dirigeant.",
+   "url": "https://www.lyonmag.com/article/154065/lyon-jean-michel-aulas-devient-parrain-de-promotion-de-l-ihecf",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aaff31254589-55153359992-1282531fac-o.jpg&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-09-20T14:50:00+00:00"
+  },
+  {
+   "id": "olrennes40franckhaisefaitsonmeaculpa",
+   "title": "OL - Rennes (4-0) : Franck Haise fait son mea culpa",
+   "summary": "Balayé par l'OL (4-0), samedi, Franck Haise a assumé sa part de responsabilité. Le coach rennais a reconnu la supériorité lyonnaise. Il n'a pas cherché à se défiler.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-rennes-4-0-franck-haise-fait-son-mea-culpa,408080.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Thomas Dioudonnat",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F02%2F000_32KL3TV-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-20T14:41:34+00:00"
+  },
+  {
+   "id": "mutilparunenginexplosiflorsdolasseen2015unelourdeamenderequi",
+   "title": "Mutilé par un engin explosif lors d'OL-ASSE en 2015 : une lourde amende requise contre l'employeur d'un stadier",
+   "summary": "Le 8 novembre 2015, lors d’un derby entre l’OL et Saint-Etienne au stade de Gerland, sa vie basculait. Le procès de l'employeur d'un stadier grièvement blessé par un engin explosif s'est tenu à Lyon.",
+   "url": "https://www.lyonfoot.com/article/14235/lyon-50-000-euros-d-amende-requis-contre-l-employeur-du-stadier-mutile-lors-d-un-derby-ol-asse",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aaff0cf02b92-22318590803-1d38d79f96-o.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-09-20T14:41:00+00:00"
+  },
+  {
+   "id": "ligue1lolnedoitpassemballerpourautant",
+   "title": "Ligue 1 : l'OL ne doit pas s'emballer pour autant",
+   "summary": "Invaincu en Ligue 1 et large vainqueur de Rennes (4-0), l'OL fait le plein de confiance. Mais plusieurs statistiques invitent à la prudence. La fête était belle ce samedi au Parc OL, et personne ne songerait à la bouder.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-1-lol-ne-doit-pas-semballer-pour-autant,408077.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Thomas Dioudonnat",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F09%2FAFP__20250914__74GN8KV__v1__HighRes__FblFraLigue1RennesLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-20T13:05:00+00:00"
+  },
+  {
+   "id": "olstaderennaistolissorvlelesraisonsdesarage",
+   "title": "OL, Stade Rennais : Tolisso révèle les raisons de sa rage",
+   "summary": "Corentin Tolisso explique sa colère après son but contre le Stade Rennais. Le capitaine de l'OL évoque un début de saison pesant mentalement.",
+   "url": "https://www.butfootballclub.fr/1699577-ol-stade-rennais-tolisso-rage/",
+   "source": "But! Football Club",
+   "author": "Wladimir DELCROS",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F06c6c791-ol-stade-rennais-tolisso-rage-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-20T12:23:17+00:00"
+  },
+  {
+   "id": "olrclensungroscassettetombeavantlesretrouvailles",
+   "title": "OL, RC Lens : un gros casse-tête tombe avant les retrouvailles",
+   "summary": "Privé de presque tous ses internationaux, l’OL de Paulo Fonseca prépare le déplacement au RC Lens avec un groupe réduit et sans match amical.",
+   "url": "https://www.butfootballclub.fr/1699575-ol-rc-lens-casse-tete-avant-retrouvailles/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F60757b53-ol-rc-lens-casse-tete-avant-retrouvailles-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-20T12:03:08+00:00"
+  },
+  {
+   "id": "olrennes40labilletterienumriquevireaufiasco",
+   "title": "OL - Rennes (4-0) : la billetterie numérique vire au fiasco",
+   "summary": "Des centaines de fans de l'OL ont manqué le coup d'envoi du match, samedi, l'application permettant l'accès au stade ayant dysfonctionné. L'image avait de quoi surprendre.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-rennes-la-billetterie-numerique-vire-au-fiasco,408069.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Thomas Dioudonnat",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F06%2FAFP__20250620__DPPI_50025025_047__v1__HighRes__RugbyFrenchChamp12ToulouseVBayonne-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-20T11:50:00+00:00"
+  },
   {
    "id": "olrenneslabanderoleantistphanoisdesbadgonespourraitcotercher",
    "title": "OL-Rennes : la banderole anti-stéphanois des Bad Gones pourrait coûter cher",
@@ -64,17 +141,6 @@
    "publishedAt": "2026-09-20T08:05:12+00:00"
   },
   {
-   "id": "olleparivenudemilanaffoledjlescompteurs",
-   "title": "OL : le pari venu de Milan affole déjà les compteurs",
-   "summary": "Prêté par l’AC Milan, Zachary Athekame s’impose déjà à l’OL avec deux buts et deux passes décisives en six matches, sans option d’achat.",
-   "url": "https://www.butfootballclub.fr/1699559-ol-zachary-athekame-pari-milan/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F1ccb4738-ol-zachary-athekame-pari-milan-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-20T08:03:04+00:00"
-  },
-  {
    "id": "olrennesonnepeutquefairemalladversairelyonsavouresabluffante",
    "title": "OL - Rennes : « On ne peut que faire mal à l’adversaire »… Lyon savoure sa bluffante osmose collective",
    "summary": "Désormais 2e de Ligue 1, l’Olympique Lyonnais a sans doute signé son meilleur match de l’ère Paulo Fonseca en étrillant samedi le Stade Rennais 4-0. Le tout en s’appuyant sur quatre buts superbes qui symbolisent sa nouvelle force collective",
@@ -108,17 +174,6 @@
    "publishedAt": "2026-09-20T07:00:00+00:00"
   },
   {
-   "id": "olstaderennaislecartonlyonnaiseffaceunelonguedisetteenligue1",
-   "title": "OL, Stade Rennais : le carton lyonnais efface une longue disette en Ligue 1",
-   "summary": "L'OL a battu le Stade Rennais 4-0 et met fin à une longue disette en Ligue 1. Tolisso a brillé, Lyon reste invaincu après cinq journées.",
-   "url": "https://www.butfootballclub.fr/1699555-ol-stade-rennais-carton-lyonnais-disette-ligue1/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F0339890b-ol-stade-rennais-carton-lyonnais-disette-ligue1-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-20T06:05:19+00:00"
-  },
-  {
    "id": "fonsecaaprsolrennes40jaimelamentalitdecegroupe",
    "title": "Fonseca après OL - Rennes (4-0) : \"J'aime la mentalité de ce groupe\"",
    "summary": "Après la large victoire de l'OL contre Rennes (4-0), samedi, Paulo Fonseca a salué l'état d'esprit affiché par ses joueurs. Difficile de trouver la moindre fausse note.",
@@ -150,17 +205,6 @@
    "image": "https://images.weserv.nl/?url=img.20mn.fr%2FjQjubVjVRSC1S3R6b4dZEyk%2F1444x920_les-supporters-lyonnais-tiennent-un-cercueil-en-carton-portant-un-message-insultant-adresse-aux-supporters-de-saint-etienne-lors-du-match-de-football-de-l1-francaise-entre-l-olympique-lyonnais-ol-et-le-stade-rennais-fc-rennes-au-stade-parc-ol-de-decines-charpieu-dans-le-centre-est-de-la-france-le-19-septembre-2026-photo-d-olivier-chassignole-afp&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-20T05:17:36+00:00"
-  },
-  {
-   "id": "staderennaisolhaisereconnatsonerreuraprslaclaque",
-   "title": "Stade Rennais, OL : Haise reconnaît son erreur après la claque",
-   "summary": "Franck Haise assume la lourde défaite du Stade Rennais face à l’OL après ses sept changements et reconnaît sans détour avoir commis une erreur.",
-   "url": "https://www.butfootballclub.fr/1699551-stade-rennais-ol-haise-erreur-claque/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F692efa7f-stade-rennais-ol-haise-erreur-claque-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-20T03:01:09+00:00"
   },
   {
    "id": "ol40renneschantsbanderolesarrtertouslesmatchspasquelyondfend",
@@ -229,17 +273,6 @@
    "publishedAt": "2026-09-19T21:42:09+00:00"
   },
   {
-   "id": "lolroulesurrennes40etgrimpeprovisoirementla2eplace",
-   "title": "L'OL roule sur Rennes (4-0) et grimpe provisoirement à la 2e place",
-   "summary": "Auteur d'une démonstration ce samedi soir à Décines, l'OL a corrigé Rennes (4-0) et passera la trêve internationale sur le podium. Il y a des soirées qui font du bien. Ce samedi au Parc OL, les hommes de Paulo Fonseca ont livré un véritable match référence face au Stade Rennais.",
-   "url": "https://www.olympique-et-lyonnais.com/lol-roule-sur-rennes-4-0-et-grimpe-provisoirement-a-la-2e-place,408019.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Thomas Dioudonnat",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260503__A9P38V4__v1__HighRes__FblFraLigue1LyonRennes-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-19T21:21:10+00:00"
-  },
-  {
    "id": "lyon40rennesnuamahsperstarsenthousiasmeacherchour",
    "title": "Lyon 4-0 Rennes : \"Nuamah sperstar\" s'enthousiasme Acherchour",
    "summary": "L'OL a atomisé Rennes 4-0, ce samedi soir lors de la 5e journée de Ligue 1. Dans L'After, Walid Acherchour a encensé les Gones qui ont réussi leur victoire référence grâce à un doublé de Nuamah.",
@@ -260,17 +293,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FHv-mtrBowPuZm2YRdV6B0aSSVeM%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FLyon-4-0-Rennes-L-OL-regale-au-Groupama-et-grimpe-sur-le-podium-les-Commms-RMC-2351092.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-19T21:10:05+00:00"
-  },
-  {
-   "id": "lolatomiserennesetprendladeuximeplacelesnotesdesgones",
-   "title": "L’OL atomise Rennes et prend la deuxième place, les notes des Gones",
-   "summary": "Ce samedi soir, l’OL ne s’est pas raté dans son choc d’européens face au Stade Rennais. Portés par un Ernest Nuamah diabolique et auteur d’un doublé, les Gones se sont imposés 4-0, prenant provisoirement la deuxième place de Ligue 1.",
-   "url": "https://www.butfootballclub.fr/1699531-lol-atomise-rennes-et-prend-la-deuxieme-place-les-notes-des-gones/",
-   "source": "But! Football Club",
-   "author": "Alexandre Corboz",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F195552be-lol-atomise-rennes-et-prend-la-deuxieme-place-les-notes-des-gones.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-09-19T20:55:55+00:00"
   },
   {
    "id": "olrennesnuamahenfeutolissobuteurlyonraliselematchparfait",
@@ -295,28 +317,6 @@
    "publishedAt": "2026-09-19T19:55:54+00:00"
   },
   {
-   "id": "asselesvertssinvitentmalgreuxdansunincidentquifaitparlerduct",
-   "title": "ASSE : les Verts s’invitent malgré eux dans un incident qui fait parler du côté de l’OL",
-   "summary": "Une banderole visant directement l’ASSE a provoqué l’intervention de l’arbitre lors d’OL-Rennes. Le choc entre l’OL et le Stade Rennais a été brièvement interrompu ce samedi soir au Groupama Stadium.",
-   "url": "https://www.butfootballclub.fr/1699506-asse-les-verts-sinvitent-malgre-eux-dans-un-incident-qui-fait-parler-du-cote-de-lol/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fad76c050-asse-les-verts-sinvitent-malgre-eux-dans-un-incident-qui-fait-parler-du-cote-de-lol.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-09-19T19:40:00+00:00"
-  },
-  {
-   "id": "olrennespasdechangementdansleonzedefonsecaparrapportaupfc",
-   "title": "OL - Rennes : pas de changement dans le onze de Fonseca par rapport au PFC",
-   "summary": "L'OL affronte Rennes ce samedi soir. Les deux clubs sont invaincus en Ligue 1. Fonseca a choisi d'aligner le même onze que face au Paris FC. Les deux équipes n'ont pas encore connu la défaite depuis le début du championnat.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-rennes-pas-de-changement-dans-le-onze-de-fonseca-par-rapport-au-pfc,408003.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Thomas Dioudonnat",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260503__A9P72U6__v1__HighRes__FblFraLigue1LyonRennes-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-19T17:48:57+00:00"
-  },
-  {
    "id": "top14leloucrasepaudcrochelebonusoffensifetprendprovisoiremen",
    "title": "Top 14 : le LOU écrase Pau, décroche le bonus offensif et prend provisoirement la tête",
    "summary": "Troisième match et troisième victoire pour le LOU Rugby. Les Lyonnais ont surclassé Pau ce samedi (51-25), avec sept essais et un nouveau bonus offensif. Ils prennent provisoirement la tête du Top 14 avec 14 points.",
@@ -326,17 +326,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aaecc05c1930-809209339-1127624393073297-8428028276151320688-n.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-19T17:45:00+00:00"
-  },
-  {
-   "id": "olrennesfranckhaiseredoutelestransitionslyonnaises",
-   "title": "OL - Rennes : Franck Haise redoute les transitions lyonnaises",
-   "summary": "Franck Haise se méfie de l'OL avant le choc ce samedi soir à Décines. Le coach breton, qui arrive au complet, a salué le travail de Fonseca. À quelques heures d'affronter l'OL ce samedi soir, Franck Haise sait à quoi s'attendre à Décines.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-rennes-franck-haise-redoute-les-transitions-lyonnaises,408006.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Thomas Dioudonnat",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FMjAyNjAxZjZlOWU4N2RmODMyZGY2NWE4NDZkYWY1ZmQ5MTM5ODU-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-19T16:45:26+00:00"
   },
   {
    "id": "lyonrennessurquellechaneetquelleheureregarderlematchdeligue1",
@@ -370,17 +359,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aad1447efac5-1200x675-6a95a3ee0a046-blessure.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-18T10:35:00+00:00"
-  },
-  {
-   "id": "indiceuefaleportugaltalonnelafranceaprslesrsultatsdelomrenne",
-   "title": "Indice UEFA : Le Portugal talonne la France après les résultats de l’OM, Rennes et Lyon",
-   "summary": "Les résultats mitigés des clubs français cette semaine en Ligue Europa permettent aux Lusitaniens de grappiller des points sur la 5e place",
-   "url": "https://www.20minutes.fr/sport/football/4246428-20260918-indice-uefa-portugal-talonne-france-apres-resultats-om-rennes-lyon?at_medium=display&at_campaign=149",
-   "source": "20 Minutes",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FO9W3kgqkQ1CEPFYpChUjxik%2F1444x920_jeffrey-de-lange-a-passe-une-sale-soiree-en-turquie-jeudi-soir-ou-l-om-a-ete-largement-battu-par-le-besiktas-4-1&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-18T08:02:49+00:00"
   },
   {
    "id": "ollyonnesauhavrepourconfirmerunexcellentdbutdesaison",
@@ -425,17 +403,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aabe840329b6-53845840265-ef42f77809-o.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-17T13:30:00+00:00"
-  },
-  {
-   "id": "olmichelekangentredanslhistoireavecunedistinctionindite",
-   "title": "OL : Michele Kang entre dans l’histoire avec une distinction inédite",
-   "summary": "Michele Kang a été récompensée mardi soir à Madrid lors des WFS Awards 2026.",
-   "url": "https://www.lyonfoot.com/article/14210/ol-michele-kang-devient-la-premiere-femme-sacree-meilleure-dirigeante-au-world-football-summit",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aabb397253f5-screenshot-2026-09-17-at-11.png&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-17T09:27:00+00:00"
   }
  ]
 }
