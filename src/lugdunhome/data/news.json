@@ -1,13 +1,56 @@
 {
- "updatedAt": "2026-09-20T16:04:29+00:00",
+ "updatedAt": "2026-09-20T20:47:48+00:00",
  "sources": [
   "20 Minutes",
-  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "mondiauxdecyclismepaulseixasenbronzesurlecontrelamontreremco",
+   "title": "Mondiaux de cyclisme : Paul Seixas en bronze sur le contre-la-montre, Remco Evenepoel dans l’histoire",
+   "summary": "Paul Seixas est seulement le troisième Français à monter sur un podium mondial du contre-la-montre, après le titre de Laurent Jalabert en 1997 et la 3e place de Jérôme Coppel en 2015.",
+   "url": "https://www.20minutes.fr/sport/cyclisme/4247096-20260920-mondiaux-cyclisme-paul-seixas-bronze-contre-montre-remco-evenepoel-histoire?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FlPfFCzVXRNi2Sub0fGZVfyk%2F1444x920_l-r-l-italien-filippo-ganna-deuxieme-remco-evenepoel-de-belgique-et-le-francais-paul-seixas-troisieme-celebrent-leur-montee-sur-le-podium-apres-le-contre-la-montre-individuel-elite-masculin-des-championnats-du-monde-sur-route-2026-de-l-union-cycliste-internationale-uci-a-montreal-au-quebec-le-20-septembre-2026-photo-d-andrej-ivanov-afp&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-20T20:05:37+00:00"
+  },
+  {
+   "id": "desfootballeursdehautslyonnaistouchspardestirsdepaintballlor",
+   "title": "Des footballeurs de Hauts Lyonnais touchés par des tirs de paintball lors d'un match à Grenoble",
+   "summary": "La fin de match a été particulièrement mouvementée samedi soir au stade Vercors, dans le quartier Teisseire à Grenoble. Lors de la rencontre opposant le FC Allobroges Asafia et Hauts Lyonnais, des tirs de paintball ont visé les joueurs.",
+   "url": "https://www.grenoblemag.com/article/3347/grenoble-des-joueurs-de-football-amateur-vises-par-des-tirs-de-paintball-apres-un-match",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab01c9377dc5-man-military-ammunition-stand-guard-military-man-hide-position-with-weapon-hands-ranger-military-operation.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-20T17:47:00+00:00"
+  },
+  {
+   "id": "nicelilletrsbonneoprationpourlesnioislillelaisselepodiumlole",
+   "title": "Nice-Lille: très bonne opération pour les Niçois, Lille laisse le podium à l'OL et au PFC",
+   "summary": "Grâce à Amoura, Nice s'offre Lille (2-1), lors de la cinquième journée de Ligue 1, et quitte sa place de lanterne rouge.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-nice-lille-suivez-en-live-le-match-de-la-5e-journee-de-ligue-1_LS-202609200248.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Ffjh_6mqQj31jO9KaGs320U6Ia_M%3D%2F0x46%3A2048x1198%2F800x0%2Fimages%2FMohamed-Amoura-fete-son-but-pour-l-OGC-Nice-20-septembre-2026-2351311.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-20T17:12:02+00:00"
+  },
+  {
+   "id": "olacadmielesu19simposentsochaux",
+   "title": "OL Académie : les U19 s'imposent à Sochaux",
+   "summary": "En déplacement à Sochaux ce dimanche, les U19 de l'OL ont signé leur premier succès en championnat (0-1). Un vrai bol d'air au classement. Il n'y a pas que les professionnels qui ont fait le plein de confiance ce week-end.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-les-u19-simposent-a-sochaux,408089.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Thomas Dioudonnat",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FIMG_2553-e1772982898337-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-20T16:25:11+00:00"
+  },
   {
    "id": "lyonjeanmichelaulasdevientparraindepromotiondelihecf",
    "title": "Lyon : Jean-Michel Aulas devient parrain de promotion de l’IHECF",
@@ -51,28 +94,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F09%2FAFP__20250914__74GN8KV__v1__HighRes__FblFraLigue1RennesLyon-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-20T13:05:00+00:00"
-  },
-  {
-   "id": "olstaderennaistolissorvlelesraisonsdesarage",
-   "title": "OL, Stade Rennais : Tolisso révèle les raisons de sa rage",
-   "summary": "Corentin Tolisso explique sa colère après son but contre le Stade Rennais. Le capitaine de l'OL évoque un début de saison pesant mentalement.",
-   "url": "https://www.butfootballclub.fr/1699577-ol-stade-rennais-tolisso-rage/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F06c6c791-ol-stade-rennais-tolisso-rage-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-20T12:23:17+00:00"
-  },
-  {
-   "id": "olrclensungroscassettetombeavantlesretrouvailles",
-   "title": "OL, RC Lens : un gros casse-tête tombe avant les retrouvailles",
-   "summary": "Privé de presque tous ses internationaux, l’OL de Paulo Fonseca prépare le déplacement au RC Lens avec un groupe réduit et sans match amical.",
-   "url": "https://www.butfootballclub.fr/1699575-ol-rc-lens-casse-tete-avant-retrouvailles/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F60757b53-ol-rc-lens-casse-tete-avant-retrouvailles-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-20T12:03:08+00:00"
   },
   {
    "id": "olrennes40labilletterienumriquevireaufiasco",
@@ -240,17 +261,6 @@
    "publishedAt": "2026-09-19T22:05:15+00:00"
   },
   {
-   "id": "olrennes40lebaromtredumatchcequilfautretenir",
-   "title": "OL - Rennes (4 -0) : le baromètre du match, ce qu'il faut retenir",
-   "summary": "Largement vainqueur de Rennes (4-0), l'OL a brillé ce samedi à Décines. Retrouvez le baromètre de ce match contre Rennes. On a moins aimé La coupure du match par l'arbitre Le match aurait pu basculer dans une toute autre dimension peu avant la mi-temps.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-rennes-4-0-le-barometre-du-match-ce-quil-faut-retenir,407995.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Thomas Dioudonnat",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F09%2FAFP__20250914__DPPI_40025073_004__v1__HighRes__FootballFrenchChampRennesVLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-19T21:56:43+00:00"
-  },
-  {
    "id": "olrennesnouveauxdauphinslesgonescorrigentlesbretons",
    "title": "OL-Rennes: nouveaux dauphins, les Gones corrigent les Bretons",
    "summary": "Alors qu'on attendait un duel équilibré ce samedi soir au Groupama Stadium entre l'OL et le Stade rennais, tous les deux invaincus cette saison, la partie a totalement tourné à l'avantage des Lyonnais, faciles vainqueurs (4-0).",
@@ -392,17 +402,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aac06065a583-8d0acb6d-c1c0-4608-a807-61717232e308.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-17T15:25:00+00:00"
-  },
-  {
-   "id": "lyonpartberlinpourattirerdenouveauxinvestisseursallemandsdan",
-   "title": "Lyon part à Berlin pour attirer de nouveaux investisseurs allemands dans son industrie",
-   "summary": "ONLYLYON Invest participera le 22 septembre à l’opération Choose France organisée à Berlin. La délégation lyonnaise veut convaincre de nouveaux groupes allemands d’investir dans l’industrie locale, avec un accent mis sur les technologies critiques et les chaînes de valeur européennes.",
-   "url": "https://www.lyonmag.com/article/154025/lyon-part-a-berlin-pour-attirer-de-nouveaux-investisseurs-allemands-dans-son-industrie",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aabe840329b6-53845840265-ef42f77809-o.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-17T13:30:00+00:00"
   }
  ]
 }
