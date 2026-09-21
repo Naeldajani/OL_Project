@@ -1,12 +1,145 @@
 {
- "updatedAt": "2026-09-21T04:53:41+00:00",
+ "updatedAt": "2026-09-21T12:46:00+00:00",
  "sources": [
   "20 Minutes",
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ligue1loldauphindupsgen2026",
+   "title": "Ligue 1 : l’OL dauphin du PSG en 2026",
+   "summary": "Avec 44 points sur l’année civile en cours, l’OL est le deuxième club à avoir inscrit le plus de points en Ligue 1. Seul le Paris Saint Germain fait mieux (48). Malgré une édition 2025/2026 qui ne s’est pas achevée à la place que le club espérait et un début de saison difficile avec l'élimination…",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-1-lol-dauphin-du-psg-en-2026,408142.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260919__C8T96GA__v1__HighRes__FblFraLigue1LyonRennes-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-21T12:20:00+00:00"
+  },
+  {
+   "id": "ompsgrclensolstaderennaisliaannoncedebonnesnouvelles",
+   "title": "OM, PSG, RC Lens, OL, Stade Rennais : l’IA annonce de bonnes nouvelles !",
+   "summary": "L’intelligence artificielle d’Opta a livré ses prédictions pour le classement final de Ligue 1. Malgré son début de saison catastrophique, l’OM éviterait largement la relégation.",
+   "url": "https://www.butfootballclub.fr/1699745-om-psg-rc-lens-ol-stade-rennais-lia-annonce-de-bonnes-nouvelles/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F4901086d-om-psg-rc-lens-ol-stade-rennais-lia-annonce-de-bonnes-nouvelles.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-21T12:20:00+00:00"
+  },
+  {
+   "id": "liguedeschampionsservetteollyonnesarbitrparunetchque",
+   "title": "Ligue des champions : Servette - OL Lyonnes arbitré par une Tchèque",
+   "summary": "Après trois victoires en trois matchs de championnat, OL Lyonnes lance sa campagne de Ligue des champions mercredi. Un court déplacement en Suisse pour affronter le Servette dans un match qui sera arbitré par la Tchèque Michaela Pachtová.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-des-champions-servette-ol-lyonnes-arbitre-par-une-tcheque,408136.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F08%2FIMG_3560-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-21T11:30:00+00:00"
+  },
+  {
+   "id": "olmdiastkydgavecaulasinhocelundipartirde19h",
+   "title": "OL - Médias : TKYDG avec Aulasinho ce lundi à partir de 19h",
+   "summary": "Lancée dans une nouvelle formule depuis la reprise avec quatre chroniqueurs en plus de notre consultant Nicolas Puydebois, \"Tant qu'il y aura des Gones\" revient pour un nouveau numéro ce lundi soir.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-medias-tkydg-avec-aulasinho-ce-lundi-a-partir-de-19h,408125.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FWhatsApp-Image-2026-08-17-at-16.51.27-e1789980863794-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-09-21T10:40:00+00:00"
+  },
+  {
+   "id": "lolrenouvelleavecsonplusancienpartenaireinternationaljusquen",
+   "title": "L’OL renouvelle avec son plus ancien partenaire international jusqu’en 2029",
+   "summary": "Après une brève coupure, l'OL et l’académie de football libanaise, l'Athletico SC ont officialisé l’extension de leur collaboration pour trois années supplémentaires, soit jusqu’en 2029.",
+   "url": "https://www.olympique-et-lyonnais.com/lol-renouvelle-avec-son-plus-ancien-partenaire-international-jusquen-2029,408126.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FCapture-decran-2026-09-21-a-10.48.58-770x433.png&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-09-21T09:50:00+00:00"
+  },
+  {
+   "id": "lehavreollyonnes18jamaisdanslhistoiredelapremireligue",
+   "title": "Le Havre - OL Lyonnes (1-8), à jamais dans l’histoire de la Première Ligue",
+   "summary": "Encore une fois large vainqueur du Havre vendredi soir, OL Lyonnes caracole en tête de la Première Ligue. La rencontre est d’ailleurs entrée dans l’histoire du championnat avec la première décision de la VAR.",
+   "url": "https://www.olympique-et-lyonnais.com/le-havre-ol-lyonnes-1-8-a-jamais-dans-lhistoire-de-la-premiere-ligue,408123.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F09%2FAFP__20250921__doucelin-sainteti250920_npdXV__v1__HighRes__SaintEtienneVOlLyonArkema-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-09-21T09:00:00+00:00"
+  },
+  {
+   "id": "moinsdedixjoueurspasdamicaletdureposlolvasadapterlanouvellet",
+   "title": "Moins de dix joueurs, pas d’amical et du repos… l’OL va s’adapter à la nouvelle trêve",
+   "summary": "Depuis ce lundi, le football mondial est entré dans sa première trêve internationale de la saison. Une fenêtre qui s’étire désormais sur trois semaines et qui pousse logiquement à s’adapter.",
+   "url": "https://www.olympique-et-lyonnais.com/moins-de-dix-joueurs-pas-damical-et-du-repos-lol-va-sadapter-a-la-nouvelle-treve,408115.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2Fentrainement-2-e1787907490954-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-21T08:15:00+00:00"
+  },
+  {
+   "id": "hallespaulbocuselyonclapdefinpourlamaisonpupierquivarevivres",
+   "title": "Halles Paul-Bocuse à Lyon : clap de fin pour la Maison Pupier, qui va revivre sous une nouvelle identité",
+   "summary": "C'est une page de l'histoire gastronomique lyonnaise qui se tourne. Présente depuis plusieurs décennies aux Halles Paul Bocuse, la Maison Pupier va définitivement baisser le rideau.",
+   "url": "https://www.lyonmag.com/article/154073/halles-paul-bocuse-a-lyon-clap-de-fin-pour-la-maison-pupier-qui-va-revivre-sous-une-nouvelle-identite",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab0d654da4bf-1200x675-6603bcef0a468-mg-0799-enhanced-nr.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-21T08:00:00+00:00"
+  },
+  {
+   "id": "olacadmielesu17soffrentuneremontadacontreauxerre",
+   "title": "OL Académie : les U17 s’offrent une remontada contre Auxerre",
+   "summary": "Menés 3-0 juste avant l’heure de jeu, les U17 de l’OL ont fait preuve de caractère pour prendre le meilleur sur Auxerre. Une victoire 4-3 qui risque de faire du bien aux têtes. Il aurait certainement préféré une victoire bien plus tranquille.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-les-u17-soffrent-une-remontada-contre-auxerre,408094.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FIMG_3700-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-21T07:30:00+00:00"
+  },
+  {
+   "id": "olboudacheetbenlahlouaveclesespoirsalgriens",
+   "title": "OL : Boudache et Benlahlou avec les Espoirs algériens",
+   "summary": "Ces dernières heures, Kaïl Boudache a quitté Décines pour rejoindre l'Algérie. Au même titre que Daryll Benlahlou, actuellement prêté à Montpellier, l'ailier de l'OL a été retenu avec les U23 algériens pour la trêve internationale.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-boudache-et-benlahlou-avec-les-espoirs-algeriens,408112.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260829__C6TU2N4__v1__HighRes__FblFraLigue1LyonLeHavre-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-21T06:45:54+00:00"
+  },
+  {
+   "id": "ensimposantcontrerenneslolvalideuneentamedesaisonsatisfaisan",
+   "title": "En s'imposant contre Rennes, l'OL valide une entame de saison satisfaisante",
+   "summary": "Vainqueur avec la manière du Stade Rennais, samedi soir, l'OL a pu se tourner vers la trêve internationale avec le sourire. Deuxième du championnat, la formation rhodanienne a plutôt bien géré son entame de championnat, avant d'attaquer un mois d'octobre plus corsé.",
+   "url": "https://www.olympique-et-lyonnais.com/en-simposant-contre-rennes-lol-valide-une-entame-de-saison-satisfaisante,408100.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260919__C8T64YA__v1__HighRes__FblFraLigue1LyonRennes-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-09-21T06:00:00+00:00"
+  },
+  {
+   "id": "olfaceauracismegovoulanceunnouveaumessagefort",
+   "title": "OL : face au racisme, Govou lance un nouveau message fort",
+   "summary": "N'ayant pas mâché ses mots il y a quelques semaines face à la situation dans les tribunes du Parc OL, Sidney Govou a affiné sa pensée. L'ancien ailier de l'OL assure qu'il faut éradiquer le racisme et pas seulement à Lyon.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-face-au-racisme-govou-lance-un-nouveau-message-fort,408106.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F09%2F000_9MT27Z-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-21T05:30:00+00:00"
+  },
   {
    "id": "mondiauxdecyclismepaulseixasenbronzesurlecontrelamontreremco",
    "title": "Mondiaux de cyclisme : Paul Seixas en bronze sur le contre-la-montre, Remco Evenepoel dans l’histoire",
@@ -41,17 +174,6 @@
    "publishedAt": "2026-09-20T17:12:02+00:00"
   },
   {
-   "id": "olacadmielesu19simposentsochaux",
-   "title": "OL Académie : les U19 s'imposent à Sochaux",
-   "summary": "En déplacement à Sochaux ce dimanche, les U19 de l'OL ont signé leur premier succès en championnat (0-1). Un vrai bol d'air au classement. Il n'y a pas que les professionnels qui ont fait le plein de confiance ce week-end.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-les-u19-simposent-a-sochaux,408089.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Thomas Dioudonnat",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FIMG_2553-e1772982898337-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-20T16:25:11+00:00"
-  },
-  {
    "id": "lyonjeanmichelaulasdevientparraindepromotiondelihecf",
    "title": "Lyon : Jean-Michel Aulas devient parrain de promotion de l’IHECF",
    "summary": "Jean-Michel Aulas devient parrain de promotion de l’IHECF Lyon, école spécialisée dans les métiers de la comptabilité, de la finance et de la gestion. L’ancien président de l’OL participera également à une masterclass consacrée à son parcours de dirigeant.",
@@ -61,17 +183,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aaff31254589-55153359992-1282531fac-o.jpg&w=800&output=webp&q=78",
    "topic": "Club",
    "publishedAt": "2026-09-20T14:50:00+00:00"
-  },
-  {
-   "id": "olrennes40franckhaisefaitsonmeaculpa",
-   "title": "OL - Rennes (4-0) : Franck Haise fait son mea culpa",
-   "summary": "Balayé par l'OL (4-0), samedi, Franck Haise a assumé sa part de responsabilité. Le coach rennais a reconnu la supériorité lyonnaise. Il n'a pas cherché à se défiler.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-rennes-4-0-franck-haise-fait-son-mea-culpa,408080.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Thomas Dioudonnat",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F02%2F000_32KL3TV-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-20T14:41:34+00:00"
   },
   {
    "id": "mutilparunenginexplosiflorsdolasseen2015unelourdeamenderequi",
@@ -85,28 +196,6 @@
    "publishedAt": "2026-09-20T14:41:00+00:00"
   },
   {
-   "id": "ligue1lolnedoitpassemballerpourautant",
-   "title": "Ligue 1 : l'OL ne doit pas s'emballer pour autant",
-   "summary": "Invaincu en Ligue 1 et large vainqueur de Rennes (4-0), l'OL fait le plein de confiance. Mais plusieurs statistiques invitent à la prudence. La fête était belle ce samedi au Parc OL, et personne ne songerait à la bouder.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-1-lol-ne-doit-pas-semballer-pour-autant,408077.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Thomas Dioudonnat",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F09%2FAFP__20250914__74GN8KV__v1__HighRes__FblFraLigue1RennesLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-20T13:05:00+00:00"
-  },
-  {
-   "id": "olrennes40labilletterienumriquevireaufiasco",
-   "title": "OL - Rennes (4-0) : la billetterie numérique vire au fiasco",
-   "summary": "Des centaines de fans de l'OL ont manqué le coup d'envoi du match, samedi, l'application permettant l'accès au stade ayant dysfonctionné. L'image avait de quoi surprendre.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-rennes-la-billetterie-numerique-vire-au-fiasco,408069.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Thomas Dioudonnat",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F06%2FAFP__20250620__DPPI_50025025_047__v1__HighRes__RugbyFrenchChamp12ToulouseVBayonne-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-20T11:50:00+00:00"
-  },
-  {
    "id": "olrenneslabanderoleantistphanoisdesbadgonespourraitcotercher",
    "title": "OL-Rennes : la banderole anti-stéphanois des Bad Gones pourrait coûter cher",
    "summary": "Ce samedi soir, la rencontre OL-Rennes a été interrompue à cause d'une banderole insultante déployée par les Bad Gones. Un épisode qui pourrait valoir au club des sanctions.",
@@ -116,17 +205,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aafbcdbc4e7c-53512949300-bd12dbf535-o-1.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-20T10:58:00+00:00"
-  },
-  {
-   "id": "olrennes40athekamelabonnepiochedroite",
-   "title": "OL - Rennes (4-0) : Athekame, la bonne pioche à droite",
-   "summary": "Buteur et précieux face à Rennes (4-0), Zachary Athekame confirme. Le Suisse comble un poste de latéral droit longtemps resté problématique à l'OL. Depuis combien de temps l'OL n'avait-il plus compté sur un latéral droit digne de son rang ?",
-   "url": "https://www.olympique-et-lyonnais.com/ol-rennes-athekame-la-bonne-pioche-a-droite,408054.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Thomas Dioudonnat",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260904__C7DW9E4__v1__HighRes__FblFraLigue1LyonAuxerre-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-20T10:35:00+00:00"
   },
   {
    "id": "missrhnealpes2026lalyonnaisejuliagridconstantinodcrochelacou",
@@ -140,28 +218,6 @@
    "publishedAt": "2026-09-20T09:33:00+00:00"
   },
   {
-   "id": "nuamahaprsolrennes40jesuisderetour",
-   "title": "Nuamah après OL - Rennes (4-0) : \"Je suis de retour\"",
-   "summary": "Auteur d'un doublé contre Rennes (4-0), Ernest Nuamah a crevé l'écran ce samedi. L'ailier ghanéen savoure son retour en forme avec l'OL. Ernest Nuamah est un homme heureux.",
-   "url": "https://www.olympique-et-lyonnais.com/nuamah-apres-ol-rennes-je-suis-de-retour,408048.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Thomas Dioudonnat",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FErnest-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-09-20T09:15:00+00:00"
-  },
-  {
-   "id": "olacadmielarservedcrocheenfinsapremirevictoire32",
-   "title": "OL Académie : la réserve décroche enfin sa première victoire (3-2)",
-   "summary": "Portée par plusieurs pros, la réserve de l'OL a battu Thonon Évian (3-2) ce samedi au GOLTC. Un premier succès qui lance enfin sa saison. La réserve de l'OL avait fière allure ce samedi du côté du GOLTC.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-la-reserve-decroche-enfin-sa-premiere-victoire-3-2,408046.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Thomas Dioudonnat",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3765-e1784449699478-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-20T08:05:12+00:00"
-  },
-  {
    "id": "olrennesonnepeutquefairemalladversairelyonsavouresabluffante",
    "title": "OL - Rennes : « On ne peut que faire mal à l’adversaire »… Lyon savoure sa bluffante osmose collective",
    "summary": "Désormais 2e de Ligue 1, l’Olympique Lyonnais a sans doute signé son meilleur match de l’ère Paulo Fonseca en étrillant samedi le Stade Rennais 4-0. Le tout en s’appuyant sur quatre buts superbes qui symbolisent sa nouvelle force collective",
@@ -173,17 +229,6 @@
    "publishedAt": "2026-09-20T07:32:36+00:00"
   },
   {
-   "id": "olrennes40quandtolissovatoutva",
-   "title": "OL - Rennes (4-0) : quand Tolisso va, tout va",
-   "summary": "Buteur et passeur face à Rennes (4-0), Tolisso a livré un match plein à Décines. À ce niveau, le capitaine est tout bonnement indispensable à l'OL. Les étoiles étaient alignées.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-rennes-4-0-quand-tolisso-va-tout-va,408042.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Thomas Dioudonnat",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FAFP__20251127__86EW6HW__v1__HighRes__FblEurC3MaccabiLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-20T07:00:25+00:00"
-  },
-  {
    "id": "lunionestlasolutionlascissionunnaufragegrgorydoucetrejettela",
    "title": "\"L’Union est la solution. La scission, un naufrage\" : Grégory Doucet rejette la liste dissidente de Bruno Bernard aux sénatoriales",
    "summary": "La majorité municipale lyonnaise prend ses distances avec la candidature dissidente de Bruno Bernard aux sénatoriales. Dans un communiqué, les groupes de l'exécutif de Grégory Doucet appellent les grands électeurs à voter pour la liste d’union conduite par Thomas Dossus le 27 septembre.",
@@ -193,28 +238,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aaf7cd1509bf-53836654504-8125207c15-o.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-20T07:00:00+00:00"
-  },
-  {
-   "id": "fonsecaaprsolrennes40jaimelamentalitdecegroupe",
-   "title": "Fonseca après OL - Rennes (4-0) : \"J'aime la mentalité de ce groupe\"",
-   "summary": "Après la large victoire de l'OL contre Rennes (4-0), samedi, Paulo Fonseca a salué l'état d'esprit affiché par ses joueurs. Difficile de trouver la moindre fausse note.",
-   "url": "https://www.olympique-et-lyonnais.com/fonseca-apres-ol-rennes-jaime-la-mentalite-de-ce-groupe,408039.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Thomas Dioudonnat",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260915__186537086__v1__HighRes__SoccerElDay1OlLyonPreparations-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-20T06:00:00+00:00"
-  },
-  {
-   "id": "ligue1lolsimposepar4butsdcartinditdepuisfvrier2025",
-   "title": "Ligue 1 : l'OL s'impose par 4 buts d'écart, inédit depuis février 2025",
-   "summary": "En surclassant Rennes (4-0), l'OL a signé son plus large succès en Ligue 1 depuis février 2025 et une victoire contre le Stade de Reims. C'est une soirée qui restera comme un vrai marqueur dans la saison lyonnaise.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-1-lol-simpose-par-4-buts-decart-inedit-depuis-fevrier-2025,408035.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Thomas Dioudonnat",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F09%2FAFP__20250914__74GN2PA__v1__HighRes__FblFraLigue1RennesLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-20T05:30:08+00:00"
   },
   {
    "id": "olrennesilfautlefairepartoutaquoirimaitcetteinterruptiondema",
@@ -369,28 +392,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aac1b3327524-tabitha-chawinga-ol-lyonnes.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-18T06:02:00+00:00"
-  },
-  {
-   "id": "loletlollyonnesnejouerontfinalementpasenmmetemps",
-   "title": "L'OL et l'OL Lyonnes ne joueront finalement pas en même temps",
-   "summary": "Le premier grand rendez-vous de la saison entre le Paris Saint-Germain et OL Lyonnes change de date.",
-   "url": "https://www.lyonfoot.com/article/14213/psg-ol-lyonnes-avance-pour-eviter-le-choc-avec-l-equipe-masculine",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aac08f70e046-screenshot-2026-09-17-at-17.png&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-09-17T15:34:00+00:00"
-  },
-  {
-   "id": "messagesvidoshtelslavocatlyonnaisdavidmetaxasrpondpointparpo",
-   "title": "Messages, vidéos, hôtels… L'avocat lyonnais David Metaxas répond point par point aux accusations de viols qui le visent",
-   "summary": "Une ancienne stagiaire de David Metaxas, l’une des six plaignantes dans l’enquête visant l’avocat pénaliste lyonnais, a témoigné ce jeudi 17 septembre auprès de franceinter. Elle l’accuse notamment de viol et de \"violences sexuelles à répétition\".",
-   "url": "https://www.lyonmag.com/article/154029/messages-videos-hotels-l-avocat-lyonnais-david-metaxas-repond-point-par-point-aux-accusations-de-viols-qui-le-visent",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aac06065a583-8d0acb6d-c1c0-4608-a807-61717232e308.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-17T15:25:00+00:00"
   }
  ]
 }
