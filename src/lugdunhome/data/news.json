@@ -1,8 +1,7 @@
 {
- "updatedAt": "2026-09-22T00:06:03+00:00",
+ "updatedAt": "2026-09-22T04:53:42+00:00",
  "sources": [
   "20 Minutes",
-  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
@@ -62,17 +61,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FAFP__20230530__33GJ773__v2__HighRes__FblFraWomenLyonPortrait-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Féminines",
    "publishedAt": "2026-09-21T14:45:00+00:00"
-  },
-  {
-   "id": "staderennaishaiseacartdeuxrecrues",
-   "title": "Stade Rennais : Haise a écarté deux recrues !",
-   "summary": "Pour le déplacement à Lyon (4-0), Franck Haise a décidé de se passer de deux recrues estivales du Stade Rennais, Gonçalo Oliveira et Issa Soumaré.",
-   "url": "https://www.butfootballclub.fr/1699836-stade-rennais-haise-a-ecarte-deux-recrues/",
-   "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F6afbba07-stade-rennais-haise-a-ecarte-deux-recrues.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-21T14:40:00+00:00"
   },
   {
    "id": "oldesnouvellesdesjoueursprts",
@@ -370,17 +358,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aad4d5453780-image-codex-18-sept-2026-16-39-57.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-18T14:40:00+00:00"
-  },
-  {
-   "id": "agressionracistedemeriemboucheddadevantlegroupamastadiumlesd",
-   "title": "Agression raciste de Meriem Bouchedda devant le Groupama Stadium ? Les deux mis en cause livrent leur version des faits",
-   "summary": "Les deux individus mis en cause dans l'agression survenue le 29 août dernier devant le Groupama Stadium contre-attaquent.",
-   "url": "https://www.lyonfoot.com/article/14219/agression-raciste-devant-le-groupama-stadium-les-deux-mis-en-cause-livrent-leur-version-des-faits",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aad1447efac5-1200x675-6a95a3ee0a046-blessure.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-18T10:35:00+00:00"
   }
  ]
 }
