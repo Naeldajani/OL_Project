@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-22T16:56:47+00:00",
+ "updatedAt": "2026-09-22T21:17:10+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,28 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ungroupepresqueaucompletpourollyonnesfaceauservettefc",
+   "title": "Un groupe presque au complet pour OL Lyonnes face au Servette FC",
+   "summary": "C'est la bonne nouvelle pour ce déplacement d'OL Lyonnes à Genève. Wendie Renard, Caroline Weir sont de retour, tout comme Liana Joseph. Pour entamer ce nouveau chapitre de Ligue des champions, OL Lyonnes a \"l'ensemble du groupe à disposition\", a confié Jonatan Giráldez ce mardi depuis Genève.",
+   "url": "https://www.olympique-et-lyonnais.com/un-groupe-presque-au-complet-pour-ol-lyonnes-face-au-servette-fc,408359.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FAFP__20251111__2246241204__v1__HighRes__OlLyonnesVVflWolfsburgUefaWomenSChampionsLea-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-22T19:58:40+00:00"
+  },
+  {
+   "id": "rclensoldeuxprparationsopposesavantleurconfrontation",
+   "title": "RC Lens, OL : deux préparations opposées avant leur confrontation",
+   "summary": "Le RC Lens jouera un amical contre le Standard pendant la trêve, tandis que l’OL, privé de nombreux joueurs, travaillera sans match avant la 6e journée.",
+   "url": "https://www.butfootballclub.fr/1700192-rc-lens-ol-preparations-opposees-confrontation/",
+   "source": "But! Football Club",
+   "author": "Wladimir DELCROS",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F6ae4d36b-rc-lens-ol-preparations-opposees-confrontation-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-22T17:27:25+00:00"
+  },
   {
    "id": "unhommeinterpellaprslecambriolagedudomiciledunejoueusedollyo",
    "title": "Un homme interpellé après le cambriolage du domicile d'une joueuse d'OL Lyonnes",
@@ -119,17 +141,6 @@
    "publishedAt": "2026-09-22T11:30:00+00:00"
   },
   {
-   "id": "staderennaishaiseprenduneballeperduetlguideparluisenriqueetl",
-   "title": "Stade Rennais : Haise prend une balle perdue téléguidée par Luis Enrique et le PSG",
-   "summary": "Coupable de la lourde défaite encaissée par le Stade Rennais à Lyon (0-4), Franck Haise encaisse des critiques estampillées PSG. La lourde défaite du Stade Rennais à Lyon (0-4) n’a pas seulement laissé des traces au classement.",
-   "url": "https://www.butfootballclub.fr/1700006-stade-rennais-haise-prend-une-balle-perdue-teleguidee-par-luis-enrique-et-le-psg/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fa864b798-stade-rennais-haise-prend-une-balle-perdue-teleguidee-par-luis-enrique-et-le-psg.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-22T11:00:00+00:00"
-  },
-  {
    "id": "olnicolastagliaficoserapprochedelafinaveclargentine",
    "title": "OL : Nicolas Tagliafico se rapproche de la fin avec l'Argentine",
    "summary": "Arrivé lundi en Argentine, Nicolas Tagliafico a été interrogé sur son avenir en sélection. Au vu de sa réponse, on sent que le Lyonnais se rapproche du terme de sa carrière internationale.",
@@ -161,17 +172,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3765-e1784449699478-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-09-22T09:00:00+00:00"
-  },
-  {
-   "id": "olligue1unpremierpointsurlesavertissementsaprs5journes",
-   "title": "OL - Ligue 1 : un premier point sur les avertissements après 5 journées",
-   "summary": "Comme la saison passée, chaque joueur de Ligue 1 sera automatiquement suspendu à son 5e avertissement. Pour l'instant, l'OL n'est pas inquiété. Vous avez désormais pris l'habitude après une saison sous ce nouveau régime.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-ligue-1-un-premier-point-sur-les-avertissements-apres-5-journees,408229.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FNartey-e1787429714559-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-22T08:10:00+00:00"
   },
   {
    "id": "mondialdelapralinedcouvrezlesgrandsgagnantsdeldition2026",
