@@ -1,12 +1,145 @@
 {
- "updatedAt": "2026-09-22T04:53:42+00:00",
+ "updatedAt": "2026-09-22T11:36:16+00:00",
  "sources": [
   "20 Minutes",
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olacadmiedeuxlyonnaisaveclquipedefranceu17",
+   "title": "OL Académie : deux Lyonnais avec l'équipe de France U17",
+   "summary": "La liste est tombée. Johan Radet a décidé de convoquer deux autres joueurs de l'académie lyonnaise pour participer au stage en Murcie (Espagne) fin septembre, avec l'équipe de France U17.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-deux-lyonnais-avec-lequipe-de-france-u17,408245.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F01%2FIMG_3272-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-22T11:30:00+00:00"
+  },
+  {
+   "id": "staderennaishaiseprenduneballeperduetlguideparluisenriqueetl",
+   "title": "Stade Rennais : Haise prend une balle perdue téléguidée par Luis Enrique et le PSG",
+   "summary": "Coupable de la lourde défaite encaissée par le Stade Rennais à Lyon (0-4), Franck Haise encaisse des critiques estampillées PSG. La lourde défaite du Stade Rennais à Lyon (0-4) n’a pas seulement laissé des traces au classement.",
+   "url": "https://www.butfootballclub.fr/1700006-stade-rennais-haise-prend-une-balle-perdue-teleguidee-par-luis-enrique-et-le-psg/",
+   "source": "But! Football Club",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fa864b798-stade-rennais-haise-prend-une-balle-perdue-teleguidee-par-luis-enrique-et-le-psg.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-22T11:00:00+00:00"
+  },
+  {
+   "id": "olnicolastagliaficoserapprochedelafinaveclargentine",
+   "title": "OL : Nicolas Tagliafico se rapproche de la fin avec l'Argentine",
+   "summary": "Arrivé lundi en Argentine, Nicolas Tagliafico a été interrogé sur son avenir en sélection. Au vu de sa réponse, on sent que le Lyonnais se rapproche du terme de sa carrière internationale.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-nicolas-tagliafico-se-rapproche-de-la-fin-avec-largentine,408262.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2022%2F12%2F000_333M6RB-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-22T10:40:00+00:00"
+  },
+  {
+   "id": "liguedeschampionsollyonnesestilprtfairetomberbarcelone",
+   "title": "Ligue des champions : OL Lyonnes est-il prêt à faire tomber Barcelone ?",
+   "summary": "Après un nouvel échec l’an dernier, OL Lyonnes, équipe la plus titrée de la Ligue des champions, repart en campagne européenne. Objectif, décrocher le titre qui fuit le club depuis 2022 et mettre fin à la domination de Barcelone.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-des-champions-ol-lyonnes-est-il-pret-a-faire-tomber-barcelone,408244.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260523__B3UN2J4__v1__HighRes__FblEurC1BarcelonaLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-22T09:50:00+00:00"
+  },
+  {
+   "id": "olacadmieleprogrammedesjeunesconvoqusparleurslectiondurantla",
+   "title": "OL Académie : le programme des jeunes convoqués par leur sélection durant la trêve",
+   "summary": "10 joueurs chez les A et 8 avec les sélections jeunes ont été convoqués par leur pays respectif. Au programme des footballeurs de l'OL, des matchs amicaux mais aussi des qualifications européennes.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-le-programme-des-jeunes-convoques-par-leur-selection-pendant-la-treve,408197.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3765-e1784449699478-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-09-22T09:00:00+00:00"
+  },
+  {
+   "id": "olligue1unpremierpointsurlesavertissementsaprs5journes",
+   "title": "OL - Ligue 1 : un premier point sur les avertissements après 5 journées",
+   "summary": "Comme la saison passée, chaque joueur de Ligue 1 sera automatiquement suspendu à son 5e avertissement. Pour l'instant, l'OL n'est pas inquiété. Vous avez désormais pris l'habitude après une saison sous ce nouveau régime.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-ligue-1-un-premier-point-sur-les-avertissements-apres-5-journees,408229.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FNartey-e1787429714559-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-22T08:10:00+00:00"
+  },
+  {
+   "id": "olgomesrodriguezgonalvesetdasilvaretenuschezlesjeunesanglais",
+   "title": "OL : Gomes Rodriguez, Gonçalves et Da Silva retenus chez les jeunes Anglais et Portugais",
+   "summary": "Joueurs de la réserve, Alejandro Gomes Rodriguez, Tiago Gonçalves et Matthias Da Silva vont s'envoler pour leur sélection respective. Ils rejoindront l'Angleterre U19 et le Portugais U20.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-gomes-rodriguez-goncalves-et-da-silva-retenus-chez-les-jeunes-anglais-et-portugais,408138.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F07%2FIMG_3480-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-22T07:25:00+00:00"
+  },
+  {
+   "id": "mercatolomlestaderennaisetlolontlaissfilerlanouvellestarquim",
+   "title": "Mercato : l’OM, le Stade Rennais et l’OL ont laissé filer la nouvelle star qui met le feu à la L1",
+   "summary": "Cible de l’OM, du Stade Rennais et de l’OL au mercato estival, Mohamed Amoura (26 ans) a rejoint l’OGC Nice et semble avoir le profil pour devenir la nouvelle star de Ligue 1. Courtisé en Ligue 1 cet été, Mohamed Amoura a choisi l’OGC Nice.",
+   "url": "https://www.butfootballclub.fr/1699997-mercato-lom-le-stade-rennais-et-lol-ont-laisse-filer-la-nouvelle-star-qui-met-le-feu-a-la-l1/",
+   "source": "But! Football Club",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F8b3fa6a1-mercato-lom-le-stade-rennais-et-lol-ont-laisse-filer-la-nouvelle-star-qui-met-le-feu-a-la-l1.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-22T07:20:00+00:00"
+  },
+  {
+   "id": "olunemmeformuledeuxvisagesduparisfcrennes",
+   "title": "OL : une même formule, deux visages du Paris FC à Rennes",
+   "summary": "Même 11, même dispositif, mais rendu totalement différent. Après une prestation très ronronnante au Paris FC (0-0), l'OL a délivré une toute autre copie contre Rennes (4-0). Tout le monde a parfaitement joué sa partition samedi.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-une-meme-formule-deux-visages-du-paris-fc-a-rennes,408204.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260919__C8T64Y4__v1__HighRes__FblFraLigue1LyonRennes-e1790053861377-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-22T06:40:00+00:00"
+  },
+  {
+   "id": "mondialdelapralinedcouvrezlesgrandsgagnantsdeldition2026",
+   "title": "Mondial de la Praline : découvrez les grands gagnants de l’édition 2026",
+   "summary": "Le Mondial de la Praline a rendu son verdict ce 21 septembre au Château de Lacroix-Laval, à Marcy-l’Étoile. Plusieurs professionnels et apprentis ont décroché une Praline d’Or, avant une semaine d’animations consacrée à la spécialité lyonnaise.",
+   "url": "https://www.lyonmag.com/article/154085/mondial-de-la-praline-decouvrez-les-grands-gagnants-de-l-edition-2026",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab214ffd9f13-praline-or-categorie-tradition-tarte-jospy-collado-c-justine-peilley.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-22T06:15:00+00:00"
+  },
+  {
+   "id": "olomunballonspcialpourlesolympicocettesaison",
+   "title": "OL - OM : un ballon spécial pour les Olympico cette saison",
+   "summary": "À l’occasion de cinq grandes affiches de la saison, la LFP et Kipsta vont dévoiler cinq ballons événementiels spécialement conçus pour les \"Matchs Temps Forts\" de la Ligue 1. Parmi eux, un ballon sera dédié aux chocs des Olympiques entre l'OL et l'OM.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-om-un-ballon-special-pour-les-olympico-cette-saison,407549.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Alban Nivet",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FCapture-decran-2026-09-15-a-17.28.06-770x433.png&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-22T06:00:00+00:00"
+  },
+  {
+   "id": "olleprogrammedesinternationauxalyonnaispendantlatrve",
+   "title": "OL : le programme des internationaux A lyonnais pendant la trêve",
+   "summary": "Depuis lundi, 10 joueurs lyonnais ont quitté le club pour rejoindre leur sélection A. Ligue des Nations, matchs amicaux ou encore qualification à la CAN 2027, du lourd les attend lors des trois prochaines semaines.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-le-programme-des-internationaux-a-lyonnais-pendant-la-treve,408195.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F12%2FAFP__20251116__2246917410__v2__HighRes__BrazilVSenegalInternationalFriendly-e1766819141208-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-22T05:30:00+00:00"
+  },
   {
    "id": "enimagescherkikoundmbapplepaullestenuesdesbleuspourleurrentr",
    "title": "EN IMAGES. Cherki, Koundé, Mbappé, Lepaul… Les tenues des Bleus pour leur rentrée à Clairefontaine",
@@ -30,61 +163,6 @@
    "publishedAt": "2026-09-21T16:55:00+00:00"
   },
   {
-   "id": "enchampionnatloldomineleuropedfensivement",
-   "title": "En championnat, l'OL domine l'Europe défensivement",
-   "summary": "L’OL fait figure de grand d’Europe en possédant la meilleure défense des cinq grands championnats. Avec deux buts encaissés en cinq matchs de championnat, les Lyonnais sont à égalité avec le Borussia Dortmund, le Bayern Munich et Cagliari.",
-   "url": "https://www.olympique-et-lyonnais.com/en-championnat-lol-domine-leurope-defensivement,408140.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260829__C6TV2GD__v1__HighRes__FblFraLigue1LyonLeHavre-e1788250100378-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-21T16:20:00+00:00"
-  },
-  {
-   "id": "touchphysiquementangelgarciaolcontraintderenoncerlquipedefra",
-   "title": "Touché physiquement, Angel Garcia (OL) contraint de renoncer à l'équipe de France U19",
-   "summary": "Retenu pour la première fois avec l'équipe de France U19, Angel Garcia ne pourra pas honorer sa convocation. Touché avec l'OL, le latéral gauche a dû déclarer forfait. Dimanche, Rémi Himbert a pris seul la direction de Clairefontaine.",
-   "url": "https://www.olympique-et-lyonnais.com/touche-physiquement-angel-garcia-ol-contraint-de-renoncer-a-lequipe-de-france-u19,408170.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FHLBtzb6W0AAm5gs-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-09-21T15:35:00+00:00"
-  },
-  {
-   "id": "ollyonnesuneinterpellationaprslecambriolagedudomiciledadaheg",
-   "title": "OL Lyonnes : une interpellation après le cambriolage du domicile d’Ada Hegerberg",
-   "summary": "Un homme a été interpellé mercredi 16 septembre, à Grenoble, dans le cadre de l’enquête menée après le cambriolage en mai dernier du domicile de l’attaquante d’OL Lyonnes, Ada Hegerberg.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-une-interpellation-apres-le-cambriolage-du-domicile-dada-hegerberg,408179.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FAFP__20230530__33GJ773__v2__HighRes__FblFraWomenLyonPortrait-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-09-21T14:45:00+00:00"
-  },
-  {
-   "id": "oldesnouvellesdesjoueursprts",
-   "title": "OL : des nouvelles des joueurs prêtés",
-   "summary": "De Getafe à la MLS en passant par la Ligue 2, les joueurs prêtés par l'OL ont connu des fortunes diverses ce week-end. Tour d'horizon. Du côté de l'Espagne, Orel Mangala a vécu un week-end particulier.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-des-nouvelles-des-joueurs-pretes,408108.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Thomas Dioudonnat",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F06%2F000_34YG298-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-21T14:00:00+00:00"
-  },
-  {
-   "id": "olacadmieweekendencorevictorieuxpourleslyonnes",
-   "title": "OL Académie : week-end encore victorieux pour les Lyonnes",
-   "summary": "Au même titre que leurs aînées, les équipes de l’Académie d’OL Lyonnes ont connu la victoire ce week-end. Avec un nouveau score fleuve pour la réserve. Les week-ends se suivent et se rassemblent pour les équipes de jeunes de l'OL Académie féminine.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-week-end-encore-victorieux-pour-les-lyonnes,408147.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FCapture-decran-2026-04-23-092902-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-21T13:10:00+00:00"
-  },
-  {
    "id": "vlovlectriqueslassistancedsormaiscoupeautomatiquementdansplu",
    "title": "Vélo’v électriques : l’assistance désormais coupée automatiquement dans plusieurs zones piétonnes",
    "summary": "Depuis le 1er septembre, l’assistance électrique des Vélo’v est automatiquement désactivée dans plusieurs secteurs piétons ou de rencontre de la métropole lyonnaise. L’objectif affiché est d’améliorer la cohabitation avec les piétons dans les espaces les plus fréquentés.",
@@ -96,50 +174,6 @@
    "publishedAt": "2026-09-21T12:55:00+00:00"
   },
   {
-   "id": "ligue1loldauphindupsgen2026",
-   "title": "Ligue 1 : l’OL dauphin du PSG en 2026",
-   "summary": "Avec 44 points sur l’année civile en cours, l’OL est le deuxième club à avoir inscrit le plus de points en Ligue 1. Seul le Paris Saint Germain fait mieux (48). Malgré une édition 2025/2026 qui ne s’est pas achevée à la place que le club espérait et un début de saison difficile avec l'élimination…",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-1-lol-dauphin-du-psg-en-2026,408142.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260919__C8T96GA__v1__HighRes__FblFraLigue1LyonRennes-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-21T12:20:00+00:00"
-  },
-  {
-   "id": "liguedeschampionsservetteollyonnesarbitrparunetchque",
-   "title": "Ligue des champions : Servette - OL Lyonnes arbitré par une Tchèque",
-   "summary": "Après trois victoires en trois matchs de championnat, OL Lyonnes lance sa campagne de Ligue des champions mercredi. Un court déplacement en Suisse pour affronter le Servette dans un match qui sera arbitré par la Tchèque Michaela Pachtová.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-des-champions-servette-ol-lyonnes-arbitre-par-une-tcheque,408136.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F08%2FIMG_3560-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-21T11:30:00+00:00"
-  },
-  {
-   "id": "olmdiastkydgavecaulasinhocelundipartirde19h",
-   "title": "OL - Médias : TKYDG avec Aulasinho ce lundi à partir de 19h",
-   "summary": "Lancée dans une nouvelle formule depuis la reprise avec quatre chroniqueurs en plus de notre consultant Nicolas Puydebois, \"Tant qu'il y aura des Gones\" revient pour un nouveau numéro ce lundi soir.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-medias-tkydg-avec-aulasinho-ce-lundi-a-partir-de-19h,408125.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FWhatsApp-Image-2026-08-17-at-16.51.27-e1789980863794-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-09-21T10:40:00+00:00"
-  },
-  {
-   "id": "lolrenouvelleavecsonplusancienpartenaireinternationaljusquen",
-   "title": "L’OL renouvelle avec son plus ancien partenaire international jusqu’en 2029",
-   "summary": "Après une brève coupure, l'OL et l’académie de football libanaise, l'Athletico SC ont officialisé l’extension de leur collaboration pour trois années supplémentaires, soit jusqu’en 2029.",
-   "url": "https://www.olympique-et-lyonnais.com/lol-renouvelle-avec-son-plus-ancien-partenaire-international-jusquen-2029,408126.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FCapture-decran-2026-09-21-a-10.48.58-770x433.png&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-09-21T09:50:00+00:00"
-  },
-  {
    "id": "hallespaulbocuselyonclapdefinpourlamaisonpupierquivarevivres",
    "title": "Halles Paul-Bocuse à Lyon : clap de fin pour la Maison Pupier, qui va revivre sous une nouvelle identité",
    "summary": "C'est une page de l'histoire gastronomique lyonnaise qui se tourne. Présente depuis plusieurs décennies aux Halles Paul Bocuse, la Maison Pupier va définitivement baisser le rideau.",
@@ -149,17 +183,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab0d654da4bf-1200x675-6603bcef0a468-mg-0799-enhanced-nr.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-21T08:00:00+00:00"
-  },
-  {
-   "id": "mondiauxdecyclismepaulseixasenbronzesurlecontrelamontreremco",
-   "title": "Mondiaux de cyclisme : Paul Seixas en bronze sur le contre-la-montre, Remco Evenepoel dans l’histoire",
-   "summary": "Paul Seixas est seulement le troisième Français à monter sur un podium mondial du contre-la-montre, après le titre de Laurent Jalabert en 1997 et la 3e place de Jérôme Coppel en 2015.",
-   "url": "https://www.20minutes.fr/sport/cyclisme/4247096-20260920-mondiaux-cyclisme-paul-seixas-bronze-contre-montre-remco-evenepoel-histoire?at_medium=display&at_campaign=149",
-   "source": "20 Minutes",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FlPfFCzVXRNi2Sub0fGZVfyk%2F1444x920_l-r-l-italien-filippo-ganna-deuxieme-remco-evenepoel-de-belgique-et-le-francais-paul-seixas-troisieme-celebrent-leur-montee-sur-le-podium-apres-le-contre-la-montre-individuel-elite-masculin-des-championnats-du-monde-sur-route-2026-de-l-union-cycliste-internationale-uci-a-montreal-au-quebec-le-20-septembre-2026-photo-d-andrej-ivanov-afp&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-20T20:05:37+00:00"
   },
   {
    "id": "desfootballeursdehautslyonnaistouchspardestirsdepaintballlor",
@@ -327,17 +350,6 @@
    "publishedAt": "2026-09-19T20:51:00+00:00"
   },
   {
-   "id": "olrennespourquoilematchatinterrompuetlesjoueursrenvoysauvest",
-   "title": "OL-Rennes: pourquoi le match a été interrompu et les joueurs renvoyés au vestiaire",
-   "summary": "La rencontre de la 5e journée de Ligue 1 entre l'OL et Rennes a été temporairement interrompue à la 36e minute après deux rappels du speaker concernant une banderole à caractère discriminatoire.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/ol-rennes-pourquoi-le-match-a-ete-interrompu-et-les-joueurs-renvoyes-au-vestiaire_AV-202609190372.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FXkDNp4srrQ4UYsl42v4-bK_k3o4%3D%2F151x0%3A1463x738%2F800x0%2Fimages%2FLe-message-au-Groupama-Stadium-lors-d-OL-Rennes-le-19-septembre-2026-2351069.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-19T19:55:54+00:00"
-  },
-  {
    "id": "top14leloucrasepaudcrochelebonusoffensifetprendprovisoiremen",
    "title": "Top 14 : le LOU écrase Pau, décroche le bonus offensif et prend provisoirement la tête",
    "summary": "Troisième match et troisième victoire pour le LOU Rugby. Les Lyonnais ont surclassé Pau ce samedi (51-25), avec sept essais et un nouveau bonus offensif. Ils prennent provisoirement la tête du Top 14 avec 14 points.",
@@ -347,17 +359,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aaecc05c1930-809209339-1127624393073297-8428028276151320688-n.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-19T17:45:00+00:00"
-  },
-  {
-   "id": "lyonpolitiquesmunicipalitslfimenacesauditdelamtropoleetateli",
-   "title": "Lyon Politiques : municipalités LFI menacées, audit de la Métropole et ateliers vélo - 18/09/26",
-   "summary": "L'émission Lyon Politiques et ses intervenants décryptent pour vous les évènements marquants de la semaine dans l'agglomération lyonnaise.",
-   "url": "https://www.lyonmag.com/article/154043/lyon-politiques-municipalites-lfi-menacees-audit-de-la-metropole-et-ateliers-velo-18-09-26",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aad4d5453780-image-codex-18-sept-2026-16-39-57.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-18T14:40:00+00:00"
   }
  ]
 }
