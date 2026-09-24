@@ -1,12 +1,33 @@
 {
- "updatedAt": "2026-09-23T21:29:16+00:00",
+ "updatedAt": "2026-09-24T04:48:17+00:00",
  "sources": [
-  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "conseilmunicipaldelyonpriscolairebudgetsdesarrondissementsha",
+   "title": "Conseil municipal de Lyon : périscolaire, budgets des arrondissements, handicap… les dossiers à suivre ce jeudi",
+   "summary": "Les élus lyonnais se retrouvent ce jeudi 24 septembre pour le premier conseil municipal de la rentrée.",
+   "url": "https://www.lyonmag.com/article/154120/conseil-municipal-de-lyon-periscolaire-budgets-des-arrondissements-handicap-les-dossiers-a-suivre-ce-jeudi",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab4a2a22fe2d-55544009044-8950d6d4ac-o.jpg&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-09-24T04:07:00+00:00"
+  },
+  {
+   "id": "liguedeschampionsollyonnesatomiseleservettegenveundlugedebut",
+   "title": "Ligue des Champions : OL Lyonnes atomise le Servette Genève, un déluge de buts sur la Suisse",
+   "summary": "Quelques mois après la finale perdue en Ligue des Champions, OL Lyonnes retrouvait l'Europe ce mercredi. Le Servette Genève a été sèchement battu par une équipe lyonnaise très inspirée devant le but.",
+   "url": "https://www.lyonfoot.com/article/14263/ligue-des-champions-ol-lyonnes-en-passe-huit-au-servette-triple-pour-katoto",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab4964e8a7db-820251455-2329478161127161-7331547698934882943-n.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-09-24T03:00:00+00:00"
+  },
   {
    "id": "marieantoinettekatotoaprsservetteollyonnes08afaitplaisir",
    "title": "Marie-Antoinette Katoto après Servette - OL Lyonnes (0-8) : \"Ça fait plaisir\"",
@@ -28,17 +49,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260402__2269575782__v2__HighRes__OlLyonnesVVflWolfsburgUefaWomenSChampionsLea-e1790187633886-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Féminines",
    "publishedAt": "2026-09-23T18:36:30+00:00"
-  },
-  {
-   "id": "olassetolissomonteaucrneauaprslinterruptionfacerennes",
-   "title": "OL, ASSE : Tolisso monte au créneau après l’interruption face à Rennes",
-   "summary": "Corentin Tolisso a réagi après l'interruption d'OL-Rennes par une banderole visant l'ASSE et demande des sanctions appliquées partout.",
-   "url": "https://www.butfootballclub.fr/1700375-ol-asse-tolisso-interruption-rennes/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F273532c3-ol-asse-tolisso-interruption-rennes-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-23T17:39:17+00:00"
   },
   {
    "id": "servettefccfollyonnesleduohegerbergkatotoalign",
@@ -96,17 +106,6 @@
    "publishedAt": "2026-09-23T13:10:00+00:00"
   },
   {
-   "id": "psgomolrclensstaderennaisloscdanielriolodvoiledjsonpodiumfin",
-   "title": "PSG, OM, OL, RC Lens, Stade Rennais, LOSC : Daniel Riolo dévoile déjà son podium final de L1",
-   "summary": "Après cinq petites journées de Ligue 1, Daniel Riolo s’est déjà positionné sur le podium finale de Ligue 1. Daniel Riolo a déjà une idée assez précise des équipes qui devraient se mêler à la course au podium de Ligue 1 cette saison.",
-   "url": "https://www.butfootballclub.fr/1700303-psg-om-ol-rc-lens-stade-rennais-losc-daniel-riolo-devoile-deja-son-podium-final-de-l1/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fb37f4ee5-pronostic-ol-stade-rennais-qui-frappera-un-grand-coup-dans-la-course-a-leurope.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-23T13:00:00+00:00"
-  },
-  {
    "id": "aprsdesbonsdbutslolfelixbachervisaitlautriche",
    "title": "Après des bons débuts à l'OL, Felix Bacher visait l'Autriche",
    "summary": "Depuis trois ans, Felix Bacher continue de franchir des étapes majeures dans sa carrière. Désormais titulaire à l'OL, le défenseur a été sélectionné pour la première fois de sa carrière avec l'équipe d'Autriche.",
@@ -162,17 +161,6 @@
    "publishedAt": "2026-09-23T09:50:00+00:00"
   },
   {
-   "id": "liguedeschampionsollyonnesaffronteleservettegenve",
-   "title": "Ligue des Champions : OL Lyonnes affronte le Servette Genève",
-   "summary": "Quelques mois après la finale perdue en Ligue des Champions, OL Lyonnes retrouve l'Europe ce mercredi.",
-   "url": "https://www.lyonfoot.com/article/14263/ol-lyonnes-face-au-servette-geneve-pour-son-retour-en-ligue-des-champions",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab2990d0d7f2-tarciane-ol-lyonnes.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-23T05:00:00+00:00"
-  },
-  {
    "id": "unhommeinterpellaprslecambriolagedudomiciledunejoueusedollyo",
    "title": "Un homme interpellé après le cambriolage du domicile d'une joueuse d'OL Lyonnes",
    "summary": "Un homme a été interpellé dans l'enquête sur le cambriolage du domicile d'Ada Hegerberg.",
@@ -215,17 +203,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab214ffd9f13-praline-or-categorie-tradition-tarte-jospy-collado-c-justine-peilley.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-22T06:15:00+00:00"
-  },
-  {
-   "id": "vlovlectriqueslassistancedsormaiscoupeautomatiquementdansplu",
-   "title": "Vélo’v électriques : l’assistance désormais coupée automatiquement dans plusieurs zones piétonnes",
-   "summary": "Depuis le 1er septembre, l’assistance électrique des Vélo’v est automatiquement désactivée dans plusieurs secteurs piétons ou de rencontre de la métropole lyonnaise. L’objectif affiché est d’améliorer la cohabitation avec les piétons dans les espaces les plus fréquentés.",
-   "url": "https://www.lyonmag.com/article/154077/velo-v-electriques-l-assistance-desormais-coupee-automatiquement-dans-plusieurs-zones-pietonnes",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab127cecdcfa-54277779123-7cd5d11f0c-o.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-21T12:55:00+00:00"
   },
   {
    "id": "nicelilletrsbonneoprationpourlesnioislillelaisselepodiumlole",
