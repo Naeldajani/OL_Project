@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-24T17:09:27+00:00",
+ "updatedAt": "2026-09-24T21:29:50+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,28 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "oluntaulierdepaulofonsecavasignerdansunautreclubdeligue1",
+   "title": "OL : un taulier de Paulo Fonseca va signer dans un autre club de Ligue 1",
+   "summary": "Après sept années passées à l’Olympique Lyonnais, l’analyste vidéo Anthony Michel va poursuivre sa carrière au LOSC, où il intégrera le staff de Davide Ancelotti. L’OL voit partir l’un de ses membres forts de l’ombre.",
+   "url": "https://www.butfootballclub.fr/1700660-ol-un-taulier-de-paulo-fonseca-va-signer-dans-un-autre-club-de-ligue-1/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fa30055f5-ol-le-groupe-de-fonseca-pour-anderlecht-est-tombe-deux-ecartes-reintegres.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-24T20:30:00+00:00"
+  },
+  {
+   "id": "olunlyonnaisaffolelemercatojackpotenvuedscethiver",
+   "title": "OL : un Lyonnais affole le mercato, jackpot en vue dès cet hiver ?",
+   "summary": "Le milieu de l’OL Tyler Morton serait suivi par plusieurs clubs de Premier League, avec une possible offensive dès le prochain mercato hivernal. Arrivé à l’Olympique Lyonnais à l’été 2025 en provenance de Liverpool, Tyler Morton pourrait déjà être au cœur d’un important dossier mercato.",
+   "url": "https://www.butfootballclub.fr/1700640-ol-un-lyonnais-affole-le-mercato-jackpot-en-vue-des-cet-hiver/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Ficonsport_273988_0176-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-24T18:40:00+00:00"
+  },
   {
    "id": "olmercatopavelulcexpliquepourquoiilestfinalementrest",
    "title": "OL - Mercato : Pavel Šulc explique pourquoi il est finalement resté",
@@ -94,17 +116,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FMelchie-Dumornay-656x433.jpeg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-24T11:30:00+00:00"
-  },
-  {
-   "id": "omfcnantesolaccordannoncpourlerachatdunclubfranaishistorique",
-   "title": "OM, FC Nantes, OL : accord annoncé pour le rachat d’un club français historique !",
-   "summary": "Alors que plusieurs clubs français croulent sous les rumeurs de rachat, l’un d’entre eux semble toucher au but. Le scénario était encore difficilement imaginable il y a quelques semaines.",
-   "url": "https://www.butfootballclub.fr/1700541-om-fc-nantes-ol-accord-annonce-pour-le-rachat-dun-club-francais-historique/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Ff977c911-om-fc-nantes-ol-accord-annonce-pour-le-rachat-dun-club-francais-historique.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-24T11:00:00+00:00"
   },
   {
    "id": "ligue1unolsouventsouveraindomicileen2026",
@@ -215,17 +226,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab2a599baa00-ada-hegerberg-1.jpg&w=800&output=webp&q=78",
    "topic": "Féminines",
    "publishedAt": "2026-09-22T16:01:00+00:00"
-  },
-  {
-   "id": "aprsolrennesleclubajustedjsabilletterie",
-   "title": "Après OL - Rennes, le club ajuste déjà sa billetterie",
-   "summary": "Après les problèmes d’accès constatés au Groupama Stadium lors d’OL - Rennes, l’OL a présenté ses excuses aux supporters et prépare déjà plusieurs ajustements. En attendant le passage complet au billet numérique, le club conserve des solutions de secours pour faciliter l’entrée au stade.",
-   "url": "https://www.lyonfoot.com/article/14253/ol-apres-le-fiasco-contre-rennes-le-club-adapte-deja-sa-billetterie",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab272d308bab-billeterie-ol-problemes.jpeg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-09-22T14:30:00+00:00"
   },
   {
    "id": "nicelilletrsbonneoprationpourlesnioislillelaisselepodiumlole",
