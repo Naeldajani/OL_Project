@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-24T21:29:50+00:00",
+ "updatedAt": "2026-09-25T04:55:46+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "lyonaprslesclbrationsdelavictoiredupsgunsecondpoliciercondam",
+   "title": "Lyon : après les célébrations de la victoire du PSG, un second policier condamné pour avoir frappé le même homme",
+   "summary": "Un policier a été condamné ce jeudi à Lyon à 12 mois de prison avec sursis pour des violences commises sur un homme placé en garde à vue après les débordements ayant suivi la victoire du PSG en Ligue des champions.",
+   "url": "https://www.lyonmag.com/article/154137/lyon-apres-les-celebrations-de-la-victoire-du-psg-un-second-policier-condamne-pour-avoir-frappe-le-meme-homme",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab5f063bd3bd-54971153636-c84e1e1008-o.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-25T03:51:00+00:00"
+  },
   {
    "id": "oluntaulierdepaulofonsecavasignerdansunautreclubdeligue1",
    "title": "OL : un taulier de Paulo Fonseca va signer dans un autre club de Ligue 1",
@@ -217,17 +228,6 @@
    "publishedAt": "2026-09-23T11:00:00+00:00"
   },
   {
-   "id": "unhommeinterpellaprslecambriolagedudomiciledunejoueusedollyo",
-   "title": "Un homme interpellé après le cambriolage du domicile d'une joueuse d'OL Lyonnes",
-   "summary": "Un homme a été interpellé dans l'enquête sur le cambriolage du domicile d'Ada Hegerberg.",
-   "url": "https://www.lyonfoot.com/article/14264/cambriolage-du-domicile-d-ada-hegerbeg-ol-lyonnes-un-homme-interpelle-a-grenoble",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab2a599baa00-ada-hegerberg-1.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-09-22T16:01:00+00:00"
-  },
-  {
    "id": "nicelilletrsbonneoprationpourlesnioislillelaisselepodiumlole",
    "title": "Nice-Lille: très bonne opération pour les Niçois, Lille laisse le podium à l'OL et au PFC",
    "summary": "Grâce à Amoura, Nice s'offre Lille (2-1), lors de la cinquième journée de Ligue 1, et quitte sa place de lanterne rouge.",
@@ -259,17 +259,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FIPczbLQn2vC-U2KSSpKDzeWKyPU%3D%2F0x210%3A2048x1362%2F800x0%2Fimages%2FCorentin-Tolisso-s-explique-avec-le-delegue-du-match-OL-Rennes-lors-de-l-interruption-19-septembre-2026-2351114.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-19T22:28:39+00:00"
-  },
-  {
-   "id": "lyon40rennesuneprestationmagnifiquefonsecasaluelaperformance",
-   "title": "Lyon 4-0 Rennes : \"Une prestation magnifique\", Fonseca salue la performance XXL des Lyonnais",
-   "summary": "Une prestation aboutie offensivement et défensivement. C'est ce qu'a laissé sous-entendre l'entraîneur des Gones, Fonseca, en conférence de presse après le large succès de l'OL face à Rennes (4-0) lors de la 5e journée.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-lyon-4-0-rennes-une-prestation-magnifique-fonseca-salue-la-performance-xxl-des-lyonnais_VN-202609190418.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FTZxZONizyXPZZpxFh-aC1_1Yw4A%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FLyon-4-0-Rennes-Une-prestation-magnifique-Fonseca-salue-la-performance-XXL-des-Lyonnais-2351116.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-19T22:05:15+00:00"
   }
  ]
 }
