@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-25T04:55:46+00:00",
+ "updatedAt": "2026-09-25T11:49:15+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,105 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "carolineweirdevientla208ejoueusedollyonnes",
+   "title": "Caroline Weir devient la 208e joueuse d'OL Lyonnes",
+   "summary": "Entrée en jeu ce mercredi contre le Servette FC, Caroline Weir a porté pour la première fois le maillot lyonnais. Une apparition qui lui permet de devenir la 208e joueuse de l'histoire du club.",
+   "url": "https://www.olympique-et-lyonnais.com/caroline-weir-devient-la-208e-joueuse-dol-lyonnes,408606.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3795-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-09-25T11:30:00+00:00"
+  },
+  {
+   "id": "buteurhistoriquedelolandrguyestdcd",
+   "title": "Buteur historique de l’OL, André Guy est décédé",
+   "summary": "Quatorzième meilleur buteur de l’histoire de l’OL, André Guy s’en est allé ce vendredi matin. Il avait 85 ans. C'est encore un membre de la génération Di Nallo qui s'en va.",
+   "url": "https://www.olympique-et-lyonnais.com/buteur-historique-de-lol-andre-guy-est-decede,408615.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2021%2F06%2F000_Par8244800-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-25T10:40:00+00:00"
+  },
+  {
+   "id": "olpavelulcmoinsbankablecausedesanationalit",
+   "title": "OL : Pavel Šulc moins bankable à cause de sa nationalité ?",
+   "summary": "Convoité durant le mercato estival, Pavel Šulc a finalement poursuivi son aventure à l'OL. Profitant de la trêve internationale avec sa sélection, le Tchèque est revenu sur certaines raisons qui auraient pu empêcher son départ de Lyon.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-pavel-sulc-moins-bankable-a-cause-de-sa-nationalite,408594.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F12%2FAFP__20251221__88TC3FZ__v1__HighRes__FblFraCupLyonSaintCyr-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-25T09:50:00+00:00"
+  },
+  {
+   "id": "olopendaniakhatquelsinternationauxjouentcevendredi",
+   "title": "OL : Openda, Niakhaté... Quels internationaux jouent ce vendredi ?",
+   "summary": "Après Mads Bidstrup, Keito Nakamura, Ernest Nuamah et Felix Bacher, d'autres internationaux lyonnais seront sur les pelouses ce vendredi. Cinq membres de l'Académie et deux joueurs de l'équipe A représenteront l'OL ce vendredi.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-openda-niakhate-quels-internationaux-jouent-ce-vendredi,408345.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FLois-Openda-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-25T09:00:00+00:00"
+  },
+  {
+   "id": "ollyonneschelseaunmatchmouvantpourbompastor",
+   "title": "OL Lyonnes - Chelsea, un \"match émouvant\" pour Bompastor",
+   "summary": "Deux ans après son départ d'OL Lyonnes pour Chelsea, Sonia Bompastor va retrouver son club de coeur mercredi en Ligue des champions. Un rendez-vous forcément particulier d'un côté comme de l'autre.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-chelsea-un-match-emouvant-pour-bompastor,408581.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F05%2F000_34TY72C-e1716875319180-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-25T08:15:00+00:00"
+  },
+  {
+   "id": "olpremireslectionpourbidstrupnuamahdfaitavecleghana",
+   "title": "OL : première sélection pour Bidstrup, Nuamah défait avec le Ghana",
+   "summary": "De retour en sélection deux ans après sa première convocation, Mads Bidstrup a connu sa première sélection avec le Danemark dans la défaite contre la Norvège. Ernest Nuamah a lui aussi connu une soirée frustrante avec le revers du Ghana contre la Côte d'Ivoire.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-premiere-selection-pour-bidstrup-nuamah-defait-avec-le-ghana,408591.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260924__20260925-000933-L-2__v1__HighRes__DenmarkNationsLeagueNorwayDenmark-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-25T07:30:00+00:00"
+  },
+  {
+   "id": "athekameveuttoutdonnerlolavantderetournermilan",
+   "title": "Athekame veut \"tout donner\" à l'OL avant de \"retourner à Milan\"",
+   "summary": "Prêté sans option d'achat par l'AC Milan, Zachary Athekame a plutôt bien réussi ses débuts avec l'OL. Le latéral, qui a retrouvé la sélection suisse, veut profiter de ce prêt pour s'imposer ensuite en Italie.",
+   "url": "https://www.olympique-et-lyonnais.com/athekame-veut-tout-donner-a-lol-avant-de-retourner-a-milan,408589.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260904__C7DW9E4__v1__HighRes__FblFraLigue1LyonAuxerre-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-25T06:45:32+00:00"
+  },
+  {
+   "id": "exclumadsbidstrupoljadorelamodeetlart",
+   "title": "Exclu - Mads Bidstrup (OL) : \"J'adore la mode et l'art\"",
+   "summary": "Milieu infatigable de l'OL, Mads Bidstrup détonne aussi bien sur qu'en dehors du terrain. Dans cette seconde partie de l'interview exclusive pour Olympique-et-Lyonnais, le Danois est revenu sur son départ du Danemark à 16 ans pour rejoindre l'Allemagne, ses passions loin du foot.",
+   "url": "https://www.olympique-et-lyonnais.com/exclu-mads-bidstrup-ol-jadore-la-mode-et-lart,408478.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260510__APAIMG_004462756__v1__HighRes__20260510LaskVFcRedBullSalzburgAdmiralB-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-25T06:00:00+00:00"
+  },
+  {
+   "id": "lolobligdegrerulctoutelasaison",
+   "title": "L’OL obligé de gérer Šulc toute la saison ?",
+   "summary": "Ayant manqué une grande partie de la préparation estivale de l'OL à son retour de Coupe du monde, Pavel Šulc est loin d’être à 100% selon ses propres dires. Il a fait partie de ces très bonnes surprises qui ont rendu un fier service à l’OL la saison passée.",
+   "url": "https://www.olympique-et-lyonnais.com/lol-oblige-de-gerer-sulc-toute-la-saison,408583.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F08%2FIMG_3575-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-25T05:30:00+00:00"
+  },
   {
    "id": "lyonaprslesclbrationsdelavictoiredupsgunsecondpoliciercondam",
    "title": "Lyon : après les célébrations de la victoire du PSG, un second policier condamné pour avoir frappé le même homme",
@@ -30,17 +129,6 @@
    "publishedAt": "2026-09-24T20:30:00+00:00"
   },
   {
-   "id": "olunlyonnaisaffolelemercatojackpotenvuedscethiver",
-   "title": "OL : un Lyonnais affole le mercato, jackpot en vue dès cet hiver ?",
-   "summary": "Le milieu de l’OL Tyler Morton serait suivi par plusieurs clubs de Premier League, avec une possible offensive dès le prochain mercato hivernal. Arrivé à l’Olympique Lyonnais à l’été 2025 en provenance de Liverpool, Tyler Morton pourrait déjà être au cœur d’un important dossier mercato.",
-   "url": "https://www.butfootballclub.fr/1700640-ol-un-lyonnais-affole-le-mercato-jackpot-en-vue-des-cet-hiver/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Ficonsport_273988_0176-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-24T18:40:00+00:00"
-  },
-  {
    "id": "olmercatopavelulcexpliquepourquoiilestfinalementrest",
    "title": "OL - Mercato : Pavel Šulc explique pourquoi il est finalement resté",
    "summary": "Très sollicité durant l'été avec beaucoup de rumeurs concernant un potentiel départ, Pavel Šulc est finalement resté à l'OL. Dans un entretien accordé à un média tchèque, le milieu offensif est revenu sur ces rumeurs et sur le rôle que Corentin Tolisso a joué dans sa décision.",
@@ -52,94 +140,6 @@
    "publishedAt": "2026-09-24T16:20:00+00:00"
   },
   {
-   "id": "olmercatounanciendurclenscommepremiertransfertdelt2027",
-   "title": "OL Mercato : un ancien du RC Lens comme premier transfert de l’été 2027 ?",
-   "summary": "Prêté cette saison à l’OL par la Juventus, l’ancien attaquant du RC Lens Loïs Openda pourrait être le premier transfert définitif de l’OL lors du mercato de l’été 2027, alors que le club italien serait ouvert à une vente aux Gones.",
-   "url": "https://www.butfootballclub.fr/1700592-ol-mercato-un-ancien-du-rc-lens-comme-premier-transfert-de-lete-2027/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F2b6bc8c5-pronostic-ol-aj-auxerre-lyon-va-t-il-se-relancer-face-a-la-lanterne-rouge.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-24T15:40:00+00:00"
-  },
-  {
-   "id": "lolencoresurlepodiumdesquipeslesplusintensesdeligue1",
-   "title": "L'OL encore sur le podium des équipes les plus intenses de Ligue 1",
-   "summary": "L'Olympique lyonnais affiche une importante force physique en ce début de saison. Avec près de 119 km parcourus par match et 136 sprints en moyenne, l'OL figure dans le top 3 de Ligue 1 dans les deux catégories.",
-   "url": "https://www.olympique-et-lyonnais.com/lol-encore-sur-le-podium-des-equipes-les-plus-intenses-de-ligue-1,408292.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FMads-Bidstrup-e1790257684453-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-24T15:35:00+00:00"
-  },
-  {
-   "id": "olcorentintolissounbonexemplepourlajeunegnrationselonnicolas",
-   "title": "OL : Corentin Tolisso \"un bon exemple pour la jeune génération\", selon Nicolas Puydebois",
-   "summary": "Après un début de saison difficile, Corentin Tolisso a su redresser la barre samedi face à Rennes. Il s'en est ouvert après Rennes samedi. Une remise en question que salue notre consultant Nicolas Puydebois.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-corentin-tolisso-un-bon-exemple-pour-la-jeune-generation-selon-nicolas-puydebois,408234.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260715__C2AR9EW__v1__HighRes__FblFraFriendlyLyonServette-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-24T14:50:00+00:00"
-  },
-  {
-   "id": "ollyonnesmelchiedumornayaffoledjlescompteurs",
-   "title": "OL Lyonnes : Melchie Dumornay affole déjà les compteurs",
-   "summary": "Avec deux buts et une passe décisive mercredi soir, Melchie Dumornay continue d'engranger de la confiance. La milieu offensive réalise un grand début de saison. Lors des quatre dernières rencontres officielles, elle a été décisive onze fois.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-melchie-dumornay-affole-deja-les-compteurs,408509.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F08%2FIMG_3143-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-24T14:00:00+00:00"
-  },
-  {
-   "id": "keitonakamuraoldcisiflorsdusuccsdujaponcontreluruguay",
-   "title": "Keito Nakamura (OL) décisif lors du succès du Japon contre l'Uruguay",
-   "summary": "30e cape pour Keito Nakamura avec sa sélection. Ce jeudi, l'ailier lyonnais était titulaire lors de la victoire du Japon sur l'Uruguay (3-1). Les chiffres retiendront qu'il a donné un caviar.",
-   "url": "https://www.olympique-et-lyonnais.com/keito-nakamura-ol-decisif-lors-du-succes-du-japon-contre-luruguay,408533.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FKeito-Nakamura-avec-le-Japon-e1790250908250-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-24T13:10:00+00:00"
-  },
-  {
-   "id": "ollyonnescamillemarmillotetdeuxcoquipiresaveclafranceu19",
-   "title": "OL Lyonnes : Camille Marmillot et deux coéquipières avec la France U19",
-   "summary": "Trois Fenottes joueront avec l'équipe de France U19 en octobre. En réussite avec la réserve, Camille Marmillot est récompensée de son début de saison.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-camille-marmillot-et-deux-coequipieres-avec-la-france-u19,408516.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FCapture-decran-2026-04-23-092902-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-24T12:20:00+00:00"
-  },
-  {
-   "id": "ollyonnesundbutdesaisonsurlesbasesdesgrandesannes",
-   "title": "OL Lyonnes : un début de saison sur les bases des grandes années",
-   "summary": "Avec 30 buts inscrits en seulement quatre matchs, OL Lyonnes démarre sa saison sur les chapeaux de roues. Un rythme offensif qui rappelle les grandes années du club. Après quatre rencontres officielles, les Lyonnaises ont déjà trouvé le chemin des filets à 30 reprises.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-un-debut-de-saison-sur-les-bases-des-grandes-annees,408479.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FMelchie-Dumornay-656x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-24T11:30:00+00:00"
-  },
-  {
-   "id": "ligue1unolsouventsouveraindomicileen2026",
-   "title": "Ligue 1 : un OL souvent souverain à domicile en 2026",
-   "summary": "Grâce à la victoire écrasante face à Rennes (4-0), l'OL est venu parachever son huitième succès en 2026 dans son antre décinoise. Aucune équipe en Ligue 1 ne fait mieux. Le Parc OL est un lieu de casse-tête sans fin pour les formations de Ligue 1 en 2026.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-1-un-ol-souvent-souverain-a-domicile-en-2026,408391.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260904__C7DX7C3__v1__HighRes__FblFraLigue1LyonAuxerre-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-24T10:40:00+00:00"
-  },
-  {
    "id": "lecorpsdunlyonnaisretrouvaubordduneroutelapistedunerixeetunm",
    "title": "Le corps d’un Lyonnais retrouvé au bord d’une route : la piste d'une rixe et un mystérieux transport dans un coffre",
    "summary": "L’enquête avance après la découverte macabre survenue en Haute-Savoie.",
@@ -149,28 +149,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab4f0d7060c4-51656771764-5e7c806869-o.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-09-24T10:00:00+00:00"
-  },
-  {
-   "id": "olacadmielesjeuneslyonnaisbienreprsentschezlesbleuets",
-   "title": "OL Académie : les jeunes Lyonnais bien représentés chez les Bleuets",
-   "summary": "L'Olympique lyonnais continue d'être représenté en équipe de France de jeunes. Des U17 aux U20, l'académie a de nombreux joueurs appelés lors de cette trêve internationale. Une présence qui place le club parmi les plus gros fournisseurs chez les Bleuets.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-les-jeunes-lyonnais-bien-representes-chez-les-bleuets,408402.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FAFP__20251105__varittyakkal-francevc251105_npxGq__v1__HighRes__FifaU17WorldCup-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-24T09:50:00+00:00"
-  },
-  {
-   "id": "ollyonneslianajosephderetouraprs351joursdabsence",
-   "title": "OL Lyonnes : Liana Joseph de retour après 351 jours d'absence",
-   "summary": "Environ un an après sa rupture des ligaments croisés, Liana Joseph a retrouvé la compétition ce mercredi avec OL Lyonnes face au Servette FC (0-8). L'attaquante lyonnaise a joué ses premières minutes depuis 351 jours.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-liana-joseph-de-retour-apres-351-jours-dabsence,408471.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F08%2FIMG_2494-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-09-24T09:00:00+00:00"
   },
   {
    "id": "mtropoledelyondotationsauxcommunesanru3etcasquesobligatoires",
