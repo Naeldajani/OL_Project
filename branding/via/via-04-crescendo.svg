@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 227 130" role="img" aria-label="VIA — Voir, Interpréter, Agir">
+  <polygon points="0,0 19,0 40,70 61,0 80,0 50,100 30,100" fill="none" stroke="#0D1424" stroke-width="2.4"/>
+  <rect x="102" y="0" width="19" height="100" fill="none" stroke="#0D1424" stroke-width="2.4"/>
+  <rect x="102" y="50" width="19" height="50" fill="#0D1424"/>
+  <g fill="#FF5B3A">
+    <polygon points="173,0 193,0 223,100 204,100 183,30 162,100 143,100"/>
+    <rect x="167" y="60" width="32" height="18"/>
+  </g>
+  <g font-family="Manrope, 'Helvetica Neue', Arial, sans-serif" font-size="6.2" font-weight="700" letter-spacing="1.1" fill="#5A6275" text-anchor="middle">
+    <text x="40" y="122">VOIR</text>
+    <text x="111.5" y="122">INTERPRÉTER</text>
+    <text x="183" y="122">AGIR</text>
+  </g>
+</svg>

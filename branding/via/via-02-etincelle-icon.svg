@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="VIA">
+  <rect width="120" height="120" rx="27" fill="#0D1424"/>
+  <g transform="translate(60 60) scale(0.66) translate(-60 -60)">
+    <g fill="none" stroke-width="13" stroke-linecap="round">
+      <path d="M41.62 41.62 L21.82 21.82 M78.38 41.62 L98.18 21.82" stroke="#3D63FF"/>
+      <path d="M60 34 V6 M60 86 V114" stroke="#FFFFFF"/>
+      <path d="M41.62 78.38 L21.82 98.18 M78.38 78.38 L98.18 98.18" stroke="#FF5B3A"/>
+    </g>
+    <circle cx="60" cy="60" r="7" fill="#FFFFFF"/>
+  </g>
+</svg>

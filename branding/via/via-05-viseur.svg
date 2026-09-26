@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-38 -96 248 198" role="img" aria-label="VIA — Voir, Interpréter, Agir">
+  <g fill="#0D1424">
+    <polygon points="0,0 17,0 30,39.6 43,0 60,0 39,64 21,64"/>
+    <rect x="76" y="0" width="17" height="64"/>
+    <path fill-rule="evenodd" d="M172 32 A32 32 0 1 0 108 32 A32 32 0 1 0 172 32 Z M155 32 A15 15 0 1 0 125 32 A15 15 0 1 0 155 32 Z"/>
+    <rect x="155" y="0" width="17" height="64"/>
+  </g>
+  <circle cx="84.5" cy="-21" r="10.5" fill="#3D63FF"/>
+  <circle cx="84.5" cy="-21" r="16" fill="none" stroke="#3D63FF" stroke-width="1.6"/>
+  <path d="M-34 -42 V-66 H-10 M182 -66 H206 V-42 M206 74 V98 H182 M-10 98 H-34 V74" fill="none" stroke="#0D1424" stroke-width="4.5" stroke-linecap="square"/>
+  <rect x="-36.25" y="-95" width="150" height="20" fill="#3D63FF"/>
+  <text x="-29" y="-81.7" textLength="136" lengthAdjust="spacing" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, Consolas, monospace" font-size="9" font-weight="500" fill="#FFFFFF">VOIR · INTERPRÉTER · AGIR</text>
+</svg>

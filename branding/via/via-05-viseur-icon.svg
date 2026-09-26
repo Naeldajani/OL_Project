@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="VIA">
+  <rect width="120" height="120" rx="27" fill="#0D1424"/>
+  <path d="M28 44 V28 H44 M76 28 H92 V44 M92 76 V92 H76 M44 92 H28 V76" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"/>
+  <circle cx="60" cy="60" r="11" fill="#3D63FF"/>
+  <circle cx="60" cy="60" r="19" fill="none" stroke="#3D63FF" stroke-width="2.6"/>
+</svg>

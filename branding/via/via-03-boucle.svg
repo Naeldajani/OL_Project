@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 198" role="img" aria-label="VIA — Voir, Interpréter, Agir">
+  <g transform="translate(10 0)">
+    <g fill="none" stroke="#0D1424" stroke-linecap="round">
+      <path d="M72 17.67 A44 44 0 0 1 102.25 72.27" stroke-width="6"/>
+      <path d="M91.75 90.46 A44 44 0 0 1 30.48 92.63" stroke-width="12"/>
+      <path d="M16.98 69.25 A44 44 0 0 1 48 17.67" stroke-width="18"/>
+    </g>
+    <circle cx="60" cy="60" r="14" fill="#FF5B3A"/>
+  </g>
+  <g transform="translate(29.4 132) scale(0.4)" fill="#0D1424">
+    <polygon points="0,0 11,0 35,81.36 59,0 70,0 40.5,100 29.5,100"/>
+    <rect x="96" y="0" width="11" height="100"/>
+    <polygon points="162.5,0 173.5,0 203,100 192,100 168,18.64 144,100 133,100"/>
+    <rect x="148" y="63" width="40" height="11"/>
+  </g>
+  <text x="70" y="190" text-anchor="middle" textLength="128" lengthAdjust="spacing" font-family="Manrope, 'Helvetica Neue', Arial, sans-serif" font-size="7" font-weight="600" fill="#5A6275">VOIR · INTERPRÉTER · AGIR</text>
+</svg>

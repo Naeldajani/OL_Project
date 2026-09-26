@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="VIA">
+  <rect width="120" height="120" rx="27" fill="#0D1424"/>
+  <g transform="translate(60 60) scale(0.38) translate(-111.5 -50)">
+    <polygon points="0,0 19,0 40,70 61,0 80,0 50,100 30,100" fill="none" stroke="#FFFFFF" stroke-width="5"/>
+    <rect x="102" y="0" width="19" height="100" fill="none" stroke="#FFFFFF" stroke-width="5"/>
+    <rect x="102" y="50" width="19" height="50" fill="#FFFFFF"/>
+    <g fill="#FF5B3A">
+      <polygon points="173,0 193,0 223,100 204,100 183,30 162,100 143,100"/>
+      <rect x="167" y="60" width="32" height="18"/>
+    </g>
+  </g>
+</svg>
