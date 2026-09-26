@@ -1,6 +1,7 @@
 {
- "updatedAt": "2026-09-26T04:56:21+00:00",
+ "updatedAt": "2026-09-26T11:23:09+00:00",
  "sources": [
+  "20 Minutes",
   "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
@@ -8,15 +9,147 @@
  ],
  "items": [
   {
-   "id": "olmercatolyonprpareunjolicoup25mlomadjvalid",
-   "title": "OL Mercato : Lyon prépare un joli coup à 2,5 M€, l’OM a déjà validé !",
-   "summary": "L’OL aurait activé la piste menant à Ali Maamar, le jeune latéral droit marocain d’Anderlecht, déjà associé à l’OM il y a quelques mois. L’Olympique Lyonnais tient-il déjà son futur latéral droit ?",
-   "url": "https://www.butfootballclub.fr/1700793-ol-mercato-lyon-prepare-un-joli-coup-a-25-me-lom-a-deja-valide/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F812ad9ee-ol-mercato-lyon-prepare-un-joli-coup-a-25-me-lom-a-deja-valide.jpg&w=800&output=webp&q=78",
+   "id": "tantquilyauradesgonesnotrechroniqueurbaptistemonveneurexolen",
+   "title": "Tant qu'il y aura des Gones : notre chroniqueur Baptiste Monveneur (ex-OL) en dédicace à Caluire",
+   "summary": "Le samedi 3 octobre, Baptiste Monveneur tiendra une séance de dédicaces. Notre chroniqueur et ancien joueur de l'OL rencontrera les lecteurs à Caluire-et-Cuire. C'est une des recrues de Tant qu'il y aura des Gones pour la saison 2026-2027.",
+   "url": "https://www.olympique-et-lyonnais.com/tant-quil-y-aura-des-gones-notre-consultant-baptiste-monveneur-ex-ol-en-dedicace-a-caluire,408673.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2Fbaptiste-monveneur-c2-ab-e2-80-afle-centre-de-formation-est-une-machine-qui-consume-nos-reves-e2-80-af-c2-bb.jpg-e1790413488282-770x433.webp&w=800&output=webp&q=78",
    "topic": "Mercato",
-   "publishedAt": "2026-09-25T16:40:00+00:00"
+   "publishedAt": "2026-09-26T10:40:00+00:00"
+  },
+  {
+   "id": "nathaliearthaudattenduesaintfonspourlaftelyonnaisedelutteouv",
+   "title": "Nathalie Arthaud attendue à Saint-Fons pour la fête lyonnaise de Lutte ouvrière",
+   "summary": "La fête lyonnaise de Lutte ouvrière se tiendra les 26 et 27 septembre au Hall des fêtes de Saint-Fons. Nathalie Arthaud, candidate du parti à l’élection présidentielle de 2027, participera à un débat le dimanche après-midi.",
+   "url": "https://www.lyonmag.com/article/154074/nathalie-arthaud-attendue-a-saint-fons-pour-la-fete-lyonnaise-de-lutte-ouvriere",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab0e238decf9-652678950-1477005080745324-3737969893294128501-n.jpg&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-09-26T10:00:00+00:00"
+  },
+  {
+   "id": "olacadmiedeuxmatchsceweekendpourlesfenottes",
+   "title": "OL Académie : deux matchs ce week-end pour les Fenottes",
+   "summary": "Les joueuses de l'Académie ne font pas relâche ce week-end. La réserve et les U19 joueront dimanche à 15 heures en championnat, avec l'envie de poursuivre la série de victoires. Cinq matchs, cinq victoires et quelques cartons.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-deux-matchs-ce-week-end-pour-les-fenottes,408671.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2019%2F10%2FOLacad%C3%A9mie-1-650x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-26T09:50:00+00:00"
+  },
+  {
+   "id": "olcinqinternationauxlyonnaisprennentlerelaiscesamedi",
+   "title": "OL : cinq internationaux lyonnais prennent le relais ce samedi",
+   "summary": "11 Lyonnais ont déjà fait leur première rencontre lors de cette trêve internationale. Ce samedi 26 septembre, cinq autres joueurs du club vont faire leurs débuts avec leur sélection.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-cinq-internationaux-lyonnais-prennent-le-relais-ce-samedi,408404.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAthekame-e1787434339215-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-26T09:00:00+00:00"
+  },
+  {
+   "id": "olmercatolecouperetesttombpouruncadredelarserve",
+   "title": "OL Mercato : le couperet est tombé pour un cadre de la réserve",
+   "summary": "Fallou Fall a annoncé son départ de l’Olympique Lyonnais alors que son contrat courait jusqu’en juin 2028. Le milieu sénégalais de 20 ans est désormais attendu à Bastia, où un bail de trois ans est évoqué.",
+   "url": "https://www.butfootballclub.fr/1700882-ol-mercato-le-couperet-est-tombe-pour-un-cadre-de-la-reserve/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F92b2fe93-ol-mercato-le-couperet-est-tombe-pour-un-cadre-de-la-reserve-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-26T08:13:18+00:00"
+  },
+  {
+   "id": "olmercatofalloufalldevraitsengageravecbastia",
+   "title": "OL - Mercato : Fallou Fall devrait s'engager avec Bastia",
+   "summary": "Membre de la réserve lyonnaise, Fallou Fall ne devrait pas aller au bout de son contrat. Le Sénégalais de 20 ans est attendu à Bastia, en Ligue 3. Depuis quelques jours, des informations fuitaient au sujet d'un possible départ de Fallou Fall de l'OL.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-fallou-fall-devrait-sengager-avec-bastia,408665.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F10%2FCapture-decran-2024-10-22-144329-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-26T08:10:00+00:00"
+  },
+  {
+   "id": "turquiefranceunrlequejaffectionneetsirayancherkiavaittrouvsa",
+   "title": "Turquie - France : « Un rôle que j’affectionne »… Et si Rayan Cherki avait trouvé sa place chez les Bleus ?",
+   "summary": "Le milieu offensif de Manchester City a été titularisé en même temps que Michael Olise par Zinédine Zidane, vendredi soir en Turquie. Une innovation prometteuse, et qui plaît bien sûr au principal intéressé",
+   "url": "https://www.20minutes.fr/sport/football/ligue-nations/4248895-20260926-turquie-france-role-affectionne-si-rayan-cherki-trouve-place-chez-bleus?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FXChFZNmlTQmY5zvIUn3crik%2F1444x920_le-joueur-francais-rayan-cherki-et-le-joueur-turc-salih-ozcan-lors-du-match-de-football-de-l-uefa-nations-league-entre-la-turquie-et-la-france-a-kocaeli-en-turquie-le-25-septembre-2026-fatih-erdogdu-depo-photos-sipa-etats-unis-73562191-2609252233&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-26T08:02:37+00:00"
+  },
+  {
+   "id": "dubonetdumoinsbonpourlesinternationauxdelolvendredi",
+   "title": "Du bon et du moins bon pour les internationaux de l'OL vendredi",
+   "summary": "Beaucoup de joueurs de l'OL étaient sollicités vendredi avec leur sélection. Peu d'entre eux se sont mis en valeur lors de ces rencontres. Moussa Niakhaté en capitaine. Le cadre de l'OL a entamé sa période internationale avec le Sénégal par un nul vendredi contre le Mozambique (1-1).",
+   "url": "https://www.olympique-et-lyonnais.com/du-bon-et-du-moins-bon-pour-les-internationaux-de-lol-vendredi,408657.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F07%2FAlejandroGomes-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-26T07:25:00+00:00"
+  },
+  {
+   "id": "top14aprstroisvictoireslelouveutviterlecoupdarrtaustadefrana",
+   "title": "Top 14 : après trois victoires, le LOU veut éviter le coup d’arrêt au Stade Français",
+   "summary": "Invaincu après trois journées, le LOU se déplace au Stade Français avec l’ambition de prolonger son excellent début de saison.",
+   "url": "https://www.lyonmag.com/article/154147/top-14-apres-trois-victoires-le-lou-veut-eviter-le-coup-d-arret-au-stade-francais",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab76b2f35318-815468524-1297792495692930-6556247870766283096-n.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-26T06:48:00+00:00"
+  },
+  {
+   "id": "olunerservedcimerechuteavantleretourauchampionnat",
+   "title": "OL : une réserve décimée rechute avant le retour au championnat",
+   "summary": "Privée de six titulaires, la réserve de l’OL s’incline 2-1 face à Espaly en amical, avant de retrouver le championnat de National 2 le 3 octobre.",
+   "url": "https://www.butfootballclub.fr/1700874-ol-reserve-decimee-rechute-avant-championnat/",
+   "source": "But! Football Club",
+   "author": "Wladimir DELCROS",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F78c4e407-ol-reserve-decimee-rechute-avant-championnat-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-26T06:45:03+00:00"
+  },
+  {
+   "id": "sanssesjeunesinternationauxlarservedelolsinclineenamical",
+   "title": "Sans ses jeunes internationaux, la réserve de l'OL s'incline en amical",
+   "summary": "Privée de nombreux joueurs retenus en sélection, la réserve lyonnaise a perdu 2 à 1 contre Espaly vendredi. Retour du championnat dans une semaine. C'est la grande fête du football amateur ce week-end.",
+   "url": "https://www.olympique-et-lyonnais.com/sans-ses-jeunes-internationaux-la-reserve-de-lol-sincline-en-amical,408649.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F09%2FIMG_2649-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-26T06:40:00+00:00"
+  },
+  {
+   "id": "olmohamedouedraogouneadaptationpaspas",
+   "title": "OL : Mohamed Ouedraogo, une adaptation pas à pas",
+   "summary": "Contrairement à la majorité des recrues estivales, Mohamed Ouedraogo n'a pas rassuré en ce début de saison. Paulo Fonseca a pris sa défense, et plusieurs éléments expliquent ses difficultés actuelles.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-mohamed-ouedraogo-une-adaptation-pas-a-pas,408640.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FOuedraogo-e1787461591236-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-26T06:00:00+00:00"
+  },
+  {
+   "id": "olpavelulcadjgalsontotaldelasaisondernirelapasse",
+   "title": "OL : Pavel Šulc a déjà égalé son total de la saison dernière à la passe",
+   "summary": "Co-meilleur buteur de l'OL la saison dernière en championnat, Pavel Šulc s'est trouvé un nouveau rôle en ce début d'exercice. Avec déjà trois offrandes, le Tchèque a déjà égalé son total de l'an dernier.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-pavel-sulc-a-deja-egale-son-total-de-la-saison-derniere-a-la-passe,408414.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F12%2FAFP__20251214__883Y2LE__v1__HighRes__FblFraLigue1LyonLeHavre-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-26T05:30:00+00:00"
   },
   {
    "id": "ancieninternationaletancienjoueurdelolandrguyestdcd",
@@ -63,17 +196,6 @@
    "publishedAt": "2026-09-25T15:00:00+00:00"
   },
   {
-   "id": "olacadmielarservedisputeunamicalpourgarderlerythme",
-   "title": "OL Académie : la réserve dispute un amical pour garder le rythme",
-   "summary": "Bien que privée de nombreux jeunes internationaux, la réserve de l’OL va disputer un match amical ce vendredi soir à Décines. Les joueurs de Gueïda Fofana affrontent Espaly.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-la-reserve-dispute-un-amical-pour-garder-le-rythme,408607.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F07%2FIMG_2962-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-25T14:50:00+00:00"
-  },
-  {
    "id": "lyonpolitiquessnatorialesetrndurhne250926",
    "title": "Lyon Politiques : sénatoriales et RN du Rhône - 25/09/26",
    "summary": "L'émission Lyon Politiques et ses intervenants décryptent pour vous les évènements marquants de la semaine dans l'agglomération lyonnaise.",
@@ -85,17 +207,6 @@
    "publishedAt": "2026-09-25T14:30:00+00:00"
   },
   {
-   "id": "lolacadmierestebienreprsenteenquipedefrance",
-   "title": "L'OL Académie reste bien représentée en équipe de France",
-   "summary": "La formation lyonnaise reste bien représentée en équipe de France. Pour sa première liste à la tête des Bleus, Zinédine Zidane a convoqué quatre joueurs passés par l'Académie de l'OL, dont Estéban Lepaul, appelé pour la première fois.",
-   "url": "https://www.olympique-et-lyonnais.com/lol-academie-reste-bien-representee-en-equipe-de-france,408430.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2Festeban-lepaul-decouvre-clairefontaine-et-les-bleus-apres-avoir-ete-convoque-au-sein-de-la-toute-premiere-liste-de-zinedine-zidane-photo-afp-franck-fife-1790093110-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-09-25T14:00:00+00:00"
-  },
-  {
    "id": "cejoueurdeloljouemalgrunproblmepersistantaugenou",
    "title": "Ce joueur de l’OL joue malgré un problème persistant au genou",
    "summary": "Pavel Šulc traverse un début de saison convaincant avec l’OL, mais le Tchèque compose pourtant avec un problème physique persistant. Une gêne au genou qui l’accompagne depuis plusieurs mois et dont la seule véritable solution pourrait être bien plus contraignante qu’il ne l’espérait.",
@@ -105,72 +216,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab67574bd66f-pavel-sulc-probleme-genou-ol.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-25T13:30:00+00:00"
-  },
-  {
-   "id": "tarcianeollyonnesretrouveralebrsildurantlatrveinternationale",
-   "title": "Tarciane (OL Lyonnes) retrouvera le Brésil durant la trêve internationale",
-   "summary": "Titulaire depuis le début de saison avec l'absence prolongée de Wendie Renard, Tarciane accumule les minutes. Cela semble avoir convaincu son sélectionneur puisque Arthur Elias a convoqué la défenseuse d'OL Lyonnes pour le rassemblement du Brésil en octobre.",
-   "url": "https://www.olympique-et-lyonnais.com/tarciane-ol-lyonnes-retrouvera-le-bresil-durant-la-treve-internationale,408577.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F01%2Fbrazil-v-spain-womens-football-semifinal-olympic-games-paris-2024-day-11-1024x674-1-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-25T13:10:00+00:00"
-  },
-  {
-   "id": "leloscvapiocherlolpourrenforcersonstaff",
-   "title": "Le LOSC va piocher à l'OL pour renforcer son staff",
-   "summary": "Paulo Fonseca voit l'un des membres de son staff quitter le club. Après sept années passées à l'OL, Anthony Michel va rejoindre le LOSC, où il intégrera la cellule vidéo de Davide Ancelotti.",
-   "url": "https://www.olympique-et-lyonnais.com/le-losc-va-piocher-a-lol-pour-renforcer-son-staff,408597.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F01%2FIMG_2885-copie-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-25T12:20:00+00:00"
-  },
-  {
-   "id": "carolineweirdevientla208ejoueusedollyonnes",
-   "title": "Caroline Weir devient la 208e joueuse d'OL Lyonnes",
-   "summary": "Entrée en jeu ce mercredi contre le Servette FC, Caroline Weir a porté pour la première fois le maillot lyonnais. Une apparition qui lui permet de devenir la 208e joueuse de l'histoire du club.",
-   "url": "https://www.olympique-et-lyonnais.com/caroline-weir-devient-la-208e-joueuse-dol-lyonnes,408606.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3795-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-09-25T11:30:00+00:00"
-  },
-  {
-   "id": "buteurhistoriquedelolandrguyestdcd",
-   "title": "Buteur historique de l’OL, André Guy est décédé",
-   "summary": "Quatorzième meilleur buteur de l’histoire de l’OL, André Guy s’en est allé ce vendredi matin. Il avait 85 ans. C'est encore un membre de la génération Di Nallo qui s'en va.",
-   "url": "https://www.olympique-et-lyonnais.com/buteur-historique-de-lol-andre-guy-est-decede,408615.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2021%2F06%2F000_Par8244800-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-25T10:40:00+00:00"
-  },
-  {
-   "id": "olpavelulcmoinsbankablecausedesanationalit",
-   "title": "OL : Pavel Šulc moins bankable à cause de sa nationalité ?",
-   "summary": "Convoité durant le mercato estival, Pavel Šulc a finalement poursuivi son aventure à l'OL. Profitant de la trêve internationale avec sa sélection, le Tchèque est revenu sur certaines raisons qui auraient pu empêcher son départ de Lyon.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-pavel-sulc-moins-bankable-a-cause-de-sa-nationalite,408594.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F12%2FAFP__20251221__88TC3FZ__v1__HighRes__FblFraCupLyonSaintCyr-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-25T09:50:00+00:00"
-  },
-  {
-   "id": "olopendaniakhatquelsinternationauxjouentcevendredi",
-   "title": "OL : Openda, Niakhaté... Quels internationaux jouent ce vendredi ?",
-   "summary": "Après Mads Bidstrup, Keito Nakamura, Ernest Nuamah et Felix Bacher, d'autres internationaux lyonnais seront sur les pelouses ce vendredi. Cinq membres de l'Académie et deux joueurs de l'équipe A représenteront l'OL ce vendredi.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-openda-niakhate-quels-internationaux-jouent-ce-vendredi,408345.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FLois-Openda-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-25T09:00:00+00:00"
   },
   {
    "id": "lyonaprslesclbrationsdelavictoiredupsgunsecondpoliciercondam",
@@ -204,28 +249,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab4ce3303f8c-50367987626-76e44e5719-o.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-24T07:11:00+00:00"
-  },
-  {
-   "id": "conseilmunicipaldelyonpriscolairebudgetsdesarrondissementsha",
-   "title": "Conseil municipal de Lyon : périscolaire, budgets des arrondissements, handicap… les dossiers à suivre ce jeudi",
-   "summary": "Les élus lyonnais se retrouvent ce jeudi 24 septembre pour le premier conseil municipal de la rentrée.",
-   "url": "https://www.lyonmag.com/article/154120/conseil-municipal-de-lyon-periscolaire-budgets-des-arrondissements-handicap-les-dossiers-a-suivre-ce-jeudi",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab4a2a22fe2d-55544009044-8950d6d4ac-o.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-09-24T04:07:00+00:00"
-  },
-  {
-   "id": "liguedeschampionsollyonnesatomiseleservettegenveundlugedebut",
-   "title": "Ligue des Champions : OL Lyonnes atomise le Servette Genève, un déluge de buts sur la Suisse",
-   "summary": "Quelques mois après la finale perdue en Ligue des Champions, OL Lyonnes retrouvait l'Europe ce mercredi. Le Servette Genève a été sèchement battu par une équipe lyonnaise très inspirée devant le but.",
-   "url": "https://www.lyonfoot.com/article/14263/ligue-des-champions-ol-lyonnes-en-passe-huit-au-servette-triple-pour-katoto",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab4964e8a7db-820251455-2329478161127161-7331547698934882943-n.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-09-24T03:00:00+00:00"
   },
   {
    "id": "nicelilletrsbonneoprationpourlesnioislillelaisselepodiumlole",
