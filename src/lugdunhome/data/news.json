@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-27T05:17:00+00:00",
+ "updatedAt": "2026-09-27T12:00:13+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -9,15 +9,147 @@
  ],
  "items": [
   {
-   "id": "asseolstaderennaisunancienbuteurestdcd",
-   "title": "ASSE, OL, Stade Rennais : un ancien buteur est décédé",
-   "summary": "André Guy, ancien attaquant de l’AS Saint-Étienne, de l’Olympique Lyonnais et du Stade Rennais, est décédé ce vendredi 25 septembre à l’âge de 85 ans. Le football français perd un buteur marquant des années 1960.",
-   "url": "https://www.butfootballclub.fr/1700973-asse-ol-stade-rennais-un-ancien-buteur-est-decede/",
+   "id": "unepremirehistoriqueentreloletcrystalpalace",
+   "title": "Une première historique entre l'OL et Crystal Palace",
+   "summary": "Si l'OL et Crystal Palace se sont déjà retrouvés en amical, les deux clubs n'ont pas encore croisé le fer lors d'un match officiel. Ce sera le cas jeudi 15 octobre. Ce sera un des duels les plus attendus pour l'OL en octobre, avec potentiellement le déplacement au Parc des Princes.",
+   "url": "https://www.olympique-et-lyonnais.com/une-premiere-historique-entre-lol-et-crystal-palace,408784.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2Ffbl-eur-c3-anderlecht-lyon-2-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-27T11:30:00+00:00"
+  },
+  {
+   "id": "olunerecrueestivalesefaitremarquer",
+   "title": "OL : une recrue estivale se fait remarquer",
+   "summary": "Pour sa première sélection avec la Suisse, le latéral droit de l’OL, Zachary Athekame, s’est immédiatement illustré en délivrant deux passes décisives. Zachary Athekame n’a pas manqué ses grands débuts avec la sélection suisse.",
+   "url": "https://www.butfootballclub.fr/1701109-ol-une-recrue-estivale-se-fait-remarquer/",
    "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Faeae1acf-asse-un-renfort-de-ligue-2-va-debarquer-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-09-26T19:20:00+00:00"
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F7aa6c4b6-ol-une-recrue-estivale-se-fait-remarquer.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-27T11:20:33+00:00"
+  },
+  {
+   "id": "premireliguejulebrandalesensducollectif",
+   "title": "Première Ligue : Jule Brand a le sens du collectif",
+   "summary": "Trois titularisations, un but et surtout cinq passes décisives pour Jule Brand en Première Ligue. L'Allemande régale ses coéquipières en ce début de saison. Pendant que Melchie Dumornay (sept) et Ada Hegerberg (cinq) empilent les buts en Première Ligue, Jule Brand démontre tout son sens du…",
+   "url": "https://www.olympique-et-lyonnais.com/premiere-ligue-jule-brand-a-le-sens-du-collectif,408777.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260502__A9M36EH__v3__HighRes__FblEurC1WomenLyonnesArsenal-e1779288782294-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-27T10:40:00+00:00"
+  },
+  {
+   "id": "ligue1lolefficacedeloinencedbutdesaison",
+   "title": "Ligue 1 : l'OL efficace de loin en ce début de saison",
+   "summary": "Après cinq journées, l'OL compte trois buts en dehors de la surface. C'est plus que n'importe quelle autre équipe de Ligue 1. Avant de nous laisser pour trois semaines et une longue trêve internationale, l'OL a eu le bon goût de finir septembre en beauté avec un superbe succès 4 à 0 contre Rennes.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-1-lol-efficace-de-loin-en-ce-debut-de-saison,408771.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260919__C8T86LY__v1__HighRes__FblFraLigue1LyonRennes-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-27T09:50:00+00:00"
+  },
+  {
+   "id": "oltroisinternationauxenpistecedimanche",
+   "title": "OL : trois internationaux en piste ce dimanche",
+   "summary": "La trêve internationale se poursuit mais se termine aussi pour certains Lyonnais. Voici les trois joueurs de l'OL qui joueront ce dimanche avec leur sélection. La Ligue des nations se poursuit pour les Lyonnais convoqués en sélection A.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-trois-internationaux-en-piste-ce-dimanche,408491.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FBacher-et-Bidstrup-e1788586298867-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-09-27T09:00:00+00:00"
+  },
+  {
+   "id": "oldeuxdfaitespourulcetlesjeunesportugaislesrsultatsdesamedi",
+   "title": "OL : deux défaites pour Šulc et les jeunes Portugais... Les résultats de samedi",
+   "summary": "La Tchéquie n'est pas repartie sur de bonnes bases après son mauvais Mondial. Pavel Šulc et ses coéquipiers ont perdu 2-1 contre la Croatie samedi. Côté lyonnais, Zachary Athekame (Suisse) et Dominik Greif (Slovaquie) ont vécu une belle soirée samedi avec leur sélection.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-deux-defaites-pour-sulc-et-les-jeunes-portugais-les-resultats-de-samedi,408762.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAFP__20260618__2282234050__v1__HighRes__CzechiaVSouthAfricaGroupAFifaWorldCup2026-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-27T08:10:00+00:00"
+  },
+  {
+   "id": "flashbackilyaunanfonsecalasrnitdfensiveetlegrandviragelyonna",
+   "title": "Flashback, il y a un an : Fonseca, la sérénité défensive… et le grand virage lyonnais depuis",
+   "summary": "Paulo Fonseca annonce les forfaits de Descamps et Abner avant LOSC-OL, et rappelle que Lyon reste une équipe offensive malgré les critiques.",
+   "url": "https://www.butfootballclub.fr/1701065-ol-losc-fonseca-deux-absents-jeu/",
+   "source": "But! Football Club",
+   "author": "Wladimir DELCROS",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fd247e40a-ol-losc-fonseca-deux-absents-jeu-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-09-27T07:58:21+00:00"
+  },
+  {
+   "id": "slovaquiesoiretranquillepourdominikgreifolderetourenslection",
+   "title": "Slovaquie : soirée tranquille pour Dominik Greif (OL) de retour en sélection",
+   "summary": "Presque deux ans après sa dernière cape, Dominik Greif était titulaire avec la Slovaquie samedi. Les Slovaques ont aisément gagné contre la Moldavie. Peu sollicité mais globalement solide avec l'OL, Dominik Greif a vécu une soirée très tranquille avec la Slovaquie.",
+   "url": "https://www.olympique-et-lyonnais.com/slovaquie-soiree-tranquille-pour-dominik-greif-ol-de-retour-en-selection,408757.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FGreif-1-e1790491783396-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-09-27T07:25:00+00:00"
+  },
+  {
+   "id": "olintensitetrythmelesmatresmotsdelatrve",
+   "title": "OL : intensité et rythme, les maîtres-mots de la trêve",
+   "summary": "Au \"repos\" pendant trois semaines, l'OL doit compenser l'absence de matchs autrement. Ce sera tout l'enjeu de la deuxième moitié de la trêve. Entre la démonstration rennaise du 19 septembre (4-0) et la prochaine journée de Ligue 1 à Lens (le 9 octobre), 20 jours se seront écoulés.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-intensite-et-rythme-les-maitres-mots-de-la-treve,408231.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FAFP__20250707__662N726__v5__HighRes__FblFraLigue1LyonTraining-e1766472569904-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-27T06:40:00+00:00"
+  },
+  {
+   "id": "staderennaisdjunebonnenouvellepourhaiseavantauxerre",
+   "title": "Stade Rennais : déjà une bonne nouvelle pour Haise avant Auxerre !",
+   "summary": "L’AJ Auxerre sera privé de son défenseur central Christ Makosso pour son déplacement sur la pelouse du Stade Rennais après la trêve internationale.",
+   "url": "https://www.butfootballclub.fr/1700552-stade-rennais-deja-une-bonne-nouvelle-pour-haise-avant-auxerre/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Ff351851b-jdff.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-27T06:40:00+00:00"
+  },
+  {
+   "id": "ollyonnesdjtroistriplspourleslyonnaisescettesaison",
+   "title": "OL Lyonnes : déjà trois triplés pour les Lyonnaises cette saison",
+   "summary": "En seulement quatre rencontres cette saison, trois Lyonnaises ont déjà inscrit un triplé. Le symbole d'un rouleau compresseur qui ne laisse que des miettes. Les attaquantes d'OL Lyonnes se régalent depuis le début de la saison.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-deja-trois-triples-pour-les-lyonnaises-cette-saison,408723.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FAFP__20251007__77ZW2LT__v1__HighRes__FblEurC1WomenArsenalLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-27T06:00:00+00:00"
+  },
+  {
+   "id": "oluneexcellentepremirepourzacharyathekameaveclasuisse",
+   "title": "OL : une excellente première pour Zachary Athekame avec la Suisse",
+   "summary": "Titulaire pour sa première cape avec la Suisse, Zachary Athekame a offert deux passes décisives. Son équipe s'est imposée facilement en Macédoine du Nord (0-3). C'est un match qu'il n'oubliera pas.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-une-excellente-premiere-pour-zachary-athekame-avec-la-suisse,408736.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAthekame-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-27T05:30:00+00:00"
+  },
+  {
+   "id": "unevictimeduprepreynatreueenprivparlepapelonxivcedimanche",
+   "title": "Une victime du père Preynat reçue en privé par le pape Léon XIV ce dimanche",
+   "summary": "Pour son troisième jour de visite en France, le pape Léon XIV passe ce dimanche 27 septembre par Lourdes. Une messe géante doit réunir près de 200 000 personnes, avant une rencontre très attendue avec sept victimes de violences sexuelles dans l’Église dont le lyonnais Bertrand Virieux.",
+   "url": "https://www.francemag.fr/article/3649/leon-xiv-a-lourdes-200-000-fideles-attendus-et-une-rencontre-a-huis-clos-avec-des-victimes-de-violences-sexuelles",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab8aa6560dfe-1200x900-bertrand-virieux-cajazz.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-27T05:30:00+00:00"
   },
   {
    "id": "top14leloucraqueaprslapauseetperdsoninvincibilitparis",
@@ -42,105 +174,6 @@
    "publishedAt": "2026-09-26T16:20:00+00:00"
   },
   {
-   "id": "ompsgasserclensfcnantesstaderennaisolliadsignelemeilleurpubl",
-   "title": "OM, PSG, ASSE, RC Lens, FC Nantes, Stade Rennais, OL : l’IA désigne le meilleur public de France",
-   "summary": "Quel club possède le meilleur public de France ? L’IA a comparé l’OM, le PSG, l’ASSE, le RC Lens et plusieurs autres cadors sur six critères pour établir son classement. Quel est le meilleur public de football en France ?",
-   "url": "https://www.butfootballclub.fr/1700912-om-psg-asse-rc-lens-fc-nantes-stade-rennais-ol-lia-designe-le-meilleur-public-de-france/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fd6794ac2-om-psg-1-2-une-agression-scandaleuse-a-eu-lieu-au-velodrome.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-09-26T16:00:00+00:00"
-  },
-  {
-   "id": "liguedeschampionsollyonneschelseasuivreenclair",
-   "title": "Ligue des champions : OL Lyonnes - Chelsea à suivre en clair",
-   "summary": "Contrairement à l'affiche contre le Servette FC, le choc OL Lyonnes - Chelsea sera visible en clair. Un premier duel important dans la saison lyonnaise. Cette partie mérite d'être vue depuis le stade.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-des-champions-ol-lyonnes-chelsea-a-suivre-en-clair,408705.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F03%2F000_33CD3CK-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-09-26T15:35:00+00:00"
-  },
-  {
-   "id": "olmercatouneoffrefollede40mesttombe",
-   "title": "OL Mercato : une offre folle de 40 M€ est tombée !",
-   "summary": "Courtisé par Wrexham cet été, Pavel Šulc a préféré rester à l’OL malgré une proposition pouvant atteindre 40 M€. Pavel Šulc aurait pu quitter l’OL lors du dernier mercato estival.",
-   "url": "https://www.butfootballclub.fr/1700903-ol-mercato-une-offre-folle-de-40-me-est-tombee/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fol-une-autre-recrue-quendrick-fait-sensation-a-lyon-memphis-depay-aux-oubliettes-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-26T15:20:00+00:00"
-  },
-  {
-   "id": "ollosopendaestsousctestimenicolaspuydebois",
-   "title": "OL : Loïs Openda est \"sous-côté\", estime Nicolas Puydebois",
-   "summary": "Arrivé en manque de confiance, après une saison presque blanche avec la Juventus, Loïs Openda s'est bien relancé depuis ses premières minutes avec l'OL. L'attaquant belge retrouve petit à petit ses sensations et du temps de jeu.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lois-openda-est-sous-cote-estime-nicolas-puydebois,408612.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260818__2291047809__v1__HighRes__FenerbahceVOlLyonnesUefaChampionsLeague20262-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-26T14:50:00+00:00"
-  },
-  {
-   "id": "olsuivezvotremdiaolympiqueetlyonnaissurinstagram",
-   "title": "OL : suivez votre média Olympique-et-Lyonnais sur Instagram !",
-   "summary": "Votre média indépendant Olympique-et-Lyonnais est présent sur Instagram (@tkydg.oetl). N’hésitez pas à nous suivre pour ne rien manquer de l’actualité de l’OL. Olympique-et-Lyonnais est de retour sur Instagram depuis quelques semaines.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-suivez-votre-media-olympique-et-lyonnais-sur-instagram-5,408695.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2F730585012_122112797781310812_3530105501615620084_n-1-e1785233915912-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-09-26T14:00:00+00:00"
-  },
-  {
-   "id": "ligueeuropacorentintolissoarejointanthonylopes",
-   "title": "Ligue Europa : Corentin Tolisso a rejoint Anthony Lopes",
-   "summary": "En entrant en jeu contre Anderlecht, Corentin Tolisso a égalé son ancien compère Anthony Lopes. Tous deux sont les Lyonnais les plus capés en C3. Ils ont partagé quelques campagnes ensemble, dont sûrement la plus inoubliable (positivement), en 2016-2017.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-europa-corentin-tolisso-a-rejoint-anthony-lopes,408690.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FAFP__20251130__86MP7DT__v2__HighRes__TopshotFblFraLigue1LyonNantes-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-26T13:10:00+00:00"
-  },
-  {
-   "id": "ligue1lolpeutilgommersessoucisdaprstrve",
-   "title": "Ligue 1 : l'OL peut-il gommer ses soucis d'après-trêve ?",
-   "summary": "Souvent amené à se déplacer après les trêves internationales, l'OL obtient rarement de bons résultats. Il reste sur six matchs de suite sans gagner. Avec seulement neuf éléments du groupe professionnel disponibles, l'OL évoluera à effectif très réduit lors des deux semaines de trêve restantes.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-1-lol-peut-il-gommer-ses-soucis-dapres-treve,408682.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260919__C8T96GA__v1__HighRes__FblFraLigue1LyonRennes-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-26T12:20:00+00:00"
-  },
-  {
-   "id": "ollyonnescarolineweirenmissionpourqualifierlecosseaumondial",
-   "title": "OL Lyonnes : Caroline Weir en mission pour qualifier l'Ecosse au Mondial",
-   "summary": "L'Ecosse veut obtenir sa place pour le Mondial 2027. Pour ça, il doit en passer par les barrages, avec un premier tour contre la Tchéquie. Caroline Weir y sera. Elle a fait ses premiers pas avec OL Lyonnes mercredi contre le Servette FC (0-8).",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-caroline-weir-en-mission-pour-qualifier-lecosse-au-mondial,408678.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FWeir-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-09-26T11:30:00+00:00"
-  },
-  {
-   "id": "tantquilyauradesgonesnotrechroniqueurbaptistemonveneurexolen",
-   "title": "Tant qu'il y aura des Gones : notre chroniqueur Baptiste Monveneur (ex-OL) en dédicace à Caluire",
-   "summary": "Le samedi 3 octobre de 10h à midi, Baptiste Monveneur tiendra une séance de dédicaces. Notre chroniqueur et ancien joueur de l'OL rencontrera les lecteurs à Caluire-et-Cuire. C'est une des recrues de \"Tant qu'il y aura des Gones\" pour la saison 2026-2027.",
-   "url": "https://www.olympique-et-lyonnais.com/tant-quil-y-aura-des-gones-notre-consultant-baptiste-monveneur-ex-ol-en-dedicace-a-caluire,408673.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2Fbaptiste-monveneur-c2-ab-e2-80-afle-centre-de-formation-est-une-machine-qui-consume-nos-reves-e2-80-af-c2-bb.jpg-e1790413488282-770x433.webp&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-26T10:40:00+00:00"
-  },
-  {
    "id": "nathaliearthaudattenduesaintfonspourlaftelyonnaisedelutteouv",
    "title": "Nathalie Arthaud attendue à Saint-Fons pour la fête lyonnaise de Lutte ouvrière",
    "summary": "La fête lyonnaise de Lutte ouvrière se tiendra les 26 et 27 septembre au Hall des fêtes de Saint-Fons. Nathalie Arthaud, candidate du parti à l’élection présidentielle de 2027, participera à un débat le dimanche après-midi.",
@@ -150,28 +183,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab0e238decf9-652678950-1477005080745324-3737969893294128501-n.jpg&w=800&output=webp&q=78",
    "topic": "Club",
    "publishedAt": "2026-09-26T10:00:00+00:00"
-  },
-  {
-   "id": "olacadmiedeuxmatchsceweekendpourlesfenottes",
-   "title": "OL Académie : deux matchs ce week-end pour les Fenottes",
-   "summary": "Les joueuses de l'Académie ne font pas relâche ce week-end. La réserve et les U19 joueront dimanche à 15 heures en championnat, avec l'envie de poursuivre la série de victoires. Cinq matchs, cinq victoires et quelques cartons.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-deux-matchs-ce-week-end-pour-les-fenottes,408671.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2019%2F10%2FOLacad%C3%A9mie-1-650x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-26T09:50:00+00:00"
-  },
-  {
-   "id": "olcinqinternationauxlyonnaisprennentlerelaiscesamedi",
-   "title": "OL : cinq internationaux lyonnais prennent le relais ce samedi",
-   "summary": "11 Lyonnais ont déjà fait leur première rencontre lors de cette trêve internationale. Ce samedi 26 septembre, cinq autres joueurs du club vont faire leurs débuts avec leur sélection.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-cinq-internationaux-lyonnais-prennent-le-relais-ce-samedi,408404.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAthekame-e1787434339215-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-26T09:00:00+00:00"
   },
   {
    "id": "turquiefranceunrlequejaffectionneetsirayancherkiavaittrouvsa",
@@ -238,17 +249,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab5f063bd3bd-54971153636-c84e1e1008-o.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-25T03:51:00+00:00"
-  },
-  {
-   "id": "lecorpsdunlyonnaisretrouvaubordduneroutelapistedunerixeetunm",
-   "title": "Le corps d’un Lyonnais retrouvé au bord d’une route : la piste d'une rixe et un mystérieux transport dans un coffre",
-   "summary": "L’enquête avance après la découverte macabre survenue en Haute-Savoie.",
-   "url": "https://www.lyonmag.com/article/154130/le-corps-d-un-lyonnais-retrouve-au-bord-d-une-route-la-piste-d-une-rixe-et-un-mysterieux-transport-dans-un-coffre",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab4f0d7060c4-51656771764-5e7c806869-o.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-24T10:00:00+00:00"
   },
   {
    "id": "nicelilletrsbonneoprationpourlesnioislillelaisselepodiumlole",
