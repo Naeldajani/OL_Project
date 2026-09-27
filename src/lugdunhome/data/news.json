@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-27T16:57:01+00:00",
+ "updatedAt": "2026-09-27T21:19:41+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olaulasremetunepicedanslamachineetallumelasse",
+   "title": "OL : Aulas remet une pièce dans la machine et allume l’ASSE",
+   "summary": "En souhaitant l’anniversaire de Maxwel Cornet, Jean-Michel Aulas a ressorti un souvenir bien lyonnais : les victoires de l’OL contre l’ASSE. Jean-Michel Aulas n’a visiblement pas perdu ses habitudes.",
+   "url": "https://www.butfootballclub.fr/1701218-ol-aulas-remet-une-piece-dans-la-machine-et-allume-lasse/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fol-la-fff-tire-les-oreilles-daulas-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-27T18:20:00+00:00"
+  },
   {
    "id": "romyfournierarbitreralarencontreollyonnestoulousefc",
    "title": "Romy Fournier arbitrera la rencontre OL Lyonnes - Toulouse FC",
@@ -84,17 +95,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2Ffbl-eur-c3-anderlecht-lyon-2-770x433.jpeg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-27T11:30:00+00:00"
-  },
-  {
-   "id": "olunerecrueestivalesefaitremarquer",
-   "title": "OL : une recrue estivale se fait remarquer",
-   "summary": "Pour sa première sélection avec la Suisse, le latéral droit de l’OL, Zachary Athekame, s’est immédiatement illustré en délivrant deux passes décisives. Zachary Athekame n’a pas manqué ses grands débuts avec la sélection suisse.",
-   "url": "https://www.butfootballclub.fr/1701109-ol-une-recrue-estivale-se-fait-remarquer/",
-   "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F7aa6c4b6-ol-une-recrue-estivale-se-fait-remarquer.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-27T11:20:33+00:00"
   },
   {
    "id": "premireliguejulebrandalesensducollectif",
