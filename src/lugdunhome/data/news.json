@@ -1,11 +1,89 @@
 {
- "updatedAt": "2026-09-28T13:51:43+00:00",
+ "updatedAt": "2026-09-28T21:13:45+00:00",
  "sources": [
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "omollajuventusmenacedepillerlesdeuxolympiquescethiver",
+   "title": "OM, OL : la Juventus menace de piller les deux Olympiques cet hiver",
+   "summary": "La Juventus cible Emerson Palmieri, Abner et Nicolás Tagliafico pour renforcer son couloir gauche, avec l'OM et l'OL en danger cet hiver.",
+   "url": "https://www.butfootballclub.fr/1701450-juventus-om-ol-mercato-hiver/",
+   "source": "But! Football Club",
+   "author": "Wladimir DELCROS",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F2a59521f-juventus-om-ol-mercato-hiver-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-28T17:23:34+00:00"
+  },
+  {
+   "id": "himbertoletlquipedefranceu19serattrapentcontrelacroatie",
+   "title": "Himbert (OL) et l'équipe de France U19 se rattrapent contre la Croatie",
+   "summary": "Battue par l'Italie lors du premier match du tournoi amical organisé en Croatie, l'équipe de France U19 s'est bien rattrapée face au pays hôte. Remplaçant au coup d'envoi, Rémi Himbert a joué une demi-heure dans la victoire française (2-1).",
+   "url": "https://www.olympique-et-lyonnais.com/himbert-ol-et-lequipe-de-france-u19-se-rattrapent-contre-la-croatie,408900.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FAFP__20251105__varittyakkal-francevc251105_npxGq__v1__HighRes__FifaU17WorldCup-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-28T16:28:33+00:00"
+  },
+  {
+   "id": "rclensleprogrammedelatrveestdsormaistotalementboucl",
+   "title": "RC Lens : Le programme de la trêve est désormais totalement bouclé",
+   "summary": "Le RC Lens affronte le Standard de Liège en amical à La Gaillette, avant la reprise face à l’OL puis le Sporting en Ligue des Champions.",
+   "url": "https://www.butfootballclub.fr/1701446-rc-lens-programme-treve-boucle/",
+   "source": "But! Football Club",
+   "author": "Wladimir DELCROS",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F1c739c5f-rc-lens-programme-treve-boucle-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-28T16:22:11+00:00"
+  },
+  {
+   "id": "ilavaitchambrlessupportersaugroupamastadiumlasanctiondematto",
+   "title": "Il avait chambré les supporters au Groupama Stadium : la sanction de Mattéo Guendouzi réduite après OL-Fenerbahçe",
+   "summary": "Sanctionné après les incidents qui avaient suivi OL-Fenerbahçe le 26 août, Mattéo Guendouzi a obtenu une réduction de sa suspension en appel.",
+   "url": "https://www.lyonfoot.com/article/14320/ol-fenerbahce-guendouzi-deja-autorise-a-rejouer-en-europe-apres-les-incidents",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aba8f7bca8f6-1200x675-6a9bd2e819c89-guendouzi.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-09-28T16:00:00+00:00"
+  },
+  {
+   "id": "avantollyonneschelseakatotosexprimesurbompastoretabily",
+   "title": "Avant OL Lyonnes - Chelsea, Katoto s’exprime sur Bompastor et Abily",
+   "summary": "Ce mercredi, OL Lyonnes reçoit Chelsea pour la deuxième journée de Ligue des champions. Cela signifiera les retrouvailles avec Sonia Bompastor et Camille Abily, \"deux légendes du club\" pour Marie-Antoinette Katoto.",
+   "url": "https://www.olympique-et-lyonnais.com/avant-ol-lyonnes-chelsea-katoto-sexprime-sur-bompastor-et-abily,408873.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F03%2FIMG_2268-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-28T15:40:00+00:00"
+  },
+  {
+   "id": "premiredfaitepourlarservedollyonneslesu19droulent",
+   "title": "Première défaite pour la réserve d’OL Lyonnes, les U19 déroulent",
+   "summary": "Pendant que les garçons de l'Académie font relâche en cette trêve internationale, les filles d'OL Lyonnes étaient sur le pont ce week-end. Avec une première défaite à mettre au compteur de la réserve dimanche contre Albi.",
+   "url": "https://www.olympique-et-lyonnais.com/premiere-defaite-pour-la-reserve-dol-lyonnes-les-u19-deroulent,408868.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2019%2F09%2FOLacad%C3%A9mie-650x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-28T14:50:00+00:00"
+  },
+  {
+   "id": "khalismeraholsaluelexploitdelusmeyzieuencoupedefrance",
+   "title": "Khalis Merah (OL) salue l’exploit de l’US Meyzieu en Coupe de France",
+   "summary": "Actuellement avec l’équipe de France U20, Khalis Merah n’oublie pas d’où il vient. Quelques minutes après le coup de sifflet final, le milieu de l’OL a salué l’exploit de l’US Meyzieu, pensionnaire de D2 et qualifié pour le cinquième tour de Coupe de France.",
+   "url": "https://www.olympique-et-lyonnais.com/khalis-merah-ol-salue-lexploit-de-lus-meyzieu-en-coupe-de-france,408844.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260425__A8XW6NZ__v1__HighRes__FblFraLigue1LyonAuxerre-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-28T14:00:00+00:00"
+  },
   {
    "id": "dcisifathekameolvaaccrochercepremiermaillotaveclasuisse",
    "title": "Décisif, Athekame (OL) va \"accrocher ce premier maillot\" avec la Suisse",
@@ -82,50 +160,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FAFP__20260222__98KE9PU__v1__HighRes__FblFraLigue1StrasbourgLyon-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-09-28T09:00:00+00:00"
-  },
-  {
-   "id": "mercatopavelulcolarvdelajuventuscett",
-   "title": "Mercato : Pavel Šulc (OL) a \"rêvé\" de la Juventus cet été",
-   "summary": "Après un début d'été marqué par une Coupe du monde ratée, Pavel Šulc a suscité de nombreux intérêts dans des grands clubs européens. Parmi eux, la Juventus Turin a particulièrement retenu son attention.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-pavel-sulc-ol-a-reve-de-la-juventus-cet-ete,408848.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F08%2FAFP__20250831__72Z39A8__v1__HighRes__FblFraLigue1LyonMarseille-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-28T08:18:19+00:00"
-  },
-  {
-   "id": "tournoidelimogespasdesacrepourhamdanioletlesbleuets",
-   "title": "Tournoi de Limoges : pas de sacre pour Hamdani (OL) et les Bleuets",
-   "summary": "Devant s'imposer contre le Japon pour s'offrir le titre au tournoi de Limoges, l'équipe de France U18 s'est finalement inclinée (1-3) contre la nation nippone, sacrée après les trois matchs.",
-   "url": "https://www.olympique-et-lyonnais.com/tournoi-de-limoges-pas-de-sacre-pour-hamdani-ol-et-les-bleuets,408838.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FHamdani-avec-la-France-U18-e1790232362506-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-28T07:30:00+00:00"
-  },
-  {
-   "id": "luefarduitlasanctiondeguendouziaprslesincidentslorsdolfenerb",
-   "title": "L'UEFA réduit la sanction de Guendouzi après les incidents lors d'OL - Fenerbahçe",
-   "summary": "Un mois après les incidents qui ont entaché l'après-match entre l'OL et Fenerbahçe en barrages de Ligue des champions, l'UEFA a choisi de réduire la sanction de Mattéo Guendouzi.",
-   "url": "https://www.olympique-et-lyonnais.com/luefa-reduit-la-sanction-de-guendouzi-apres-les-incidents-lors-dol-fenerbahce,408841.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260826__AA_27082026_2929253__v1__HighRes__OlympiqueLyonVFenerbahceUefaChampio-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-28T06:45:00+00:00"
-  },
-  {
-   "id": "commentlepadelaconquislesexfootballeursdontceuxdelol",
-   "title": "Comment le padel a conquis les (ex)footballeurs, dont ceux de l’OL",
-   "summary": "La semaine passée s’est tenu le Lyon FIP Platinum Padel au Palais des Sports de Gerland. L’occasion pour d’anciennes figures de l’OL de montrer leur nouvelle appétence pour cette discipline qui fait fureur chez de nombreux retraités du football professionnel.",
-   "url": "https://www.olympique-et-lyonnais.com/comment-le-padel-a-conquis-les-footballeurs-dont-ceux-de-lol,408732.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260913__KMSP_002661_0128__v1__HighRes__PadelCoeurPadelWithTheFrenchAthletes-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-28T06:00:00+00:00"
   },
   {
    "id": "unevictimeduprepreynatreueenprivparlepapelonxivcedimanche",
