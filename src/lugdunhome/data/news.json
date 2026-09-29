@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-29T09:47:55+00:00",
+ "updatedAt": "2026-09-29T18:04:25+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -8,15 +8,125 @@
  ],
  "items": [
   {
-   "id": "asseolstaderennaismercatoles3clubsontratlanouvellestardesble",
-   "title": "ASSE, OL, Stade Rennais Mercato : les 3 clubs ont raté la nouvelle star des Bleus",
-   "summary": "Originaire de Roanne, le nouveau milieu des Bleus Lucas Da Cunha (Côme, 25 ans) aurait pu faire les beaux jours de l’OL et même de l’ASSE étant plus jeune. Le destin de Lucas Da Cunha est en train de prendre une tournure complètement folle.",
-   "url": "https://www.butfootballclub.fr/1701563-asse-ol-stade-rennais-mercato-les-3-clubs-ont-rate-la-nouvelle-star-des-bleus/",
+   "id": "realmadridolmercatocestconfirmpourendrick",
+   "title": "Real Madrid, OL Mercato : c’est confirmé pour Endrick !",
+   "summary": "En manque de temps de jeu au Real Madrid, Endrick devrait bien de nouveau être prêté cet hiver, une situation forcément à surveiller du côté de l’OL. Comme pressenti depuis plusieurs semaines, Endrick devrait bien quitter le Real Madrid cet hiver.",
+   "url": "https://www.butfootballclub.fr/1701701-real-madrid-ol-mercato-cest-confirme-pour-endrick/",
    "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F65ff6a41-asse-ol-stade-rennais-mercato-les-3-clubs-ont-rate-la-nouvelle-star-des-bleus.jpg&w=800&output=webp&q=78",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Ffbcdae2c-real-madrid-ol-mercato-cest-confirme-pour-endrick.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
-   "publishedAt": "2026-09-29T09:20:00+00:00"
+   "publishedAt": "2026-09-29T17:20:00+00:00"
+  },
+  {
+   "id": "olniakhatcapitaineaveclesngalgomesrodriguezbuteuraveclanglet",
+   "title": "OL : Niakhaté capitaine avec le Sénégal, Gomes Rodriguez buteur avec l'Angleterre U19",
+   "summary": "Après avoir concédé le match nul face au Mozambique, le Sénégal affrontait l'Éthiopie pour la deuxième journée des qualifications à la CAN 2027. Moussa Niakhaté était de nouveau titulaire et capitaine.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-niakhate-capitaine-avec-le-senegal-gomes-rodriguez-buteur-avec-langleterre-u19,408953.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2FAFP__20260114__92PY84X__v3__HighRes__TopshotFblAfr2025Match49SenEgy-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-29T16:49:33+00:00"
+  },
+  {
+   "id": "bechoavantollyonneschelseasijesuislcestgrcesoniabompastor",
+   "title": "Becho avant OL Lyonnes - Chelsea : \"Si je suis là, c'est grâce à Sonia Bompastor\"",
+   "summary": "Ayant quitté le PSG pour OL Lyonnes pour terminer sa formation, Vicki Becho ne garde que des bons souvenirs du duo Sonia Bompastor - Camille Abily. Un tandem qu'elle se fera un plaisir à retrouver, mais une fois le coup de sifflet final donné.",
+   "url": "https://www.olympique-et-lyonnais.com/becho-avant-ol-lyonnes-chelsea-si-je-suis-la-cest-grace-a-sonia-bompastor,408956.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260510__B2EK7CW__v1__HighRes__FblFraCupWomenPsgLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-09-29T15:18:39+00:00"
+  },
+  {
+   "id": "tensionsdansplusieurslycesautourdelyonlapoliceintervient44in",
+   "title": "Tensions dans plusieurs lycées autour de Lyon : la police intervient, 44 interpellations",
+   "summary": "La matinée est particulièrement agitée devant plusieurs lycées de l'agglomération lyonnaise ce mardi 29 septembre.",
+   "url": "https://www.lyonmag.com/article/154190/tensions-dans-plusieurs-lycees-autour-de-lyon-la-police-intervient-44-interpellations",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abb64c41a4e0-img-6800.png&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-29T14:40:00+00:00"
+  },
+  {
+   "id": "giraldezavantollyonneschelseajenaimepasparlerdematchplusimpo",
+   "title": "Giraldez avant OL Lyonnes - Chelsea : \"Je n'aime pas parler de match plus important\"",
+   "summary": "Auteur d'un sans-faute depuis le début de la saison, OL Lyonnes se frotte à Chelsea, parmi les favoris à la Ligue des champions. Un test pour les Lyonnaises, même si Jonatan Giráldez ne veut pas entendre parler de match le plus important de ce début de saison.",
+   "url": "https://www.olympique-et-lyonnais.com/giraldez-avant-ol-lyonnes-chelsea-je-naime-pas-parler-de-match-plus-important,408954.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260523__2277836963__v3__HighRes__FcBarcelonaVOlLyonnesUefaWomenSChampionsLeag-e1785582377388-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-29T14:05:23+00:00"
+  },
+  {
+   "id": "olchocsenligue1etsuitedelaligueeuropaenoctobre",
+   "title": "OL : chocs en Ligue 1 et suite de la Ligue Europa en octobre",
+   "summary": "Après un mois de septembre terminé en apothéose face à Rennes (4-0), la trêve permet à l'OL de respirer. Une bonne nouvelle avant d'attaquer un mois d'octobre très intense, avec six rencontres programmées.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-chocs-en-ligue-1-et-suite-de-la-ligue-europa-en-octobre,408520.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FAFP__20251109__83JR63Y__v1__HighRes__FblFraLigue1LyonPsg-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-29T13:10:00+00:00"
+  },
+  {
+   "id": "snatorialesdanslerhnearithmtique",
+   "title": "Sénatoriales dans le Rhône : arithmétique ?",
+   "summary": "Dimanche 27 septembre, 3 749 grands électeurs, délégués municipaux pour l'essentiel, ont désigné à la proportionnelle les sept sénateurs du Rhône. La gauche comptait trois sortants, elle garde deux sièges.",
+   "url": "https://www.lyonmag.com/article/154195/senatoriales-dans-le-rhone-arithmetique",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abb9ab029b0e-1200x675-6a9507f2c0e44-1200x675-6a8bd4575b5ff-1200x675-6a82bcfac3ede-1200x675-6a798d6317bba-1200x675-6a70ab4cd7f0f-whatsapp-image-2026-08-03-at-16-04-47.jpeg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-29T13:00:00+00:00"
+  },
+  {
+   "id": "mardisanspourlesinternationauxu20delolenligueelite",
+   "title": "Mardi sans pour les internationaux U20 de l'OL en Ligue Elite",
+   "summary": "Ce midi, les Bleuets, dirigés par Bernard Diomède, se sont inclinés face aux jeunes Anglais (2-1), pour ce deuxième match dans cette trêve. Khalis Merah et Noham Kamara ont démarré la rencontre sur le banc des remplaçants.",
+   "url": "https://www.olympique-et-lyonnais.com/mardi-sans-pour-les-internationaux-u20-de-lol-en-ligue-elite,408926.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FCapture-decran-2025-10-14-134247-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-29T12:20:00+00:00"
+  },
+  {
+   "id": "parallueloollyonnesconvoquepourlesdeuxchocsetatsunisespagne",
+   "title": "Paralluelo (OL Lyonnes) convoquée pour les deux chocs Etats-Unis - Espagne",
+   "summary": "Prenant petit à petit ses marques avec OL Lyonnes, Salma Paralluelo va retrouver la sélection espagnole pour la trêve internationale. L'ailière a été retenue pour les deux amicaux contre les États-Unis sur le sol américain.",
+   "url": "https://www.olympique-et-lyonnais.com/paralluelo-ol-lyonnes-convoquee-pour-les-deux-chocs-etats-unis-espagne,408930.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3793-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-09-29T11:30:00+00:00"
+  },
+  {
+   "id": "ollyonneschelseasouslesignedesretrouvailles",
+   "title": "OL Lyonnes - Chelsea sous le signe des retrouvailles",
+   "summary": "Ce mercredi, OL Lyonnes affrontera Chelsea lors de la deuxième journée de la phase de ligue de la Ligue des champions 2026-2027. Cette confrontation aura une saveur particulière cette saison, avec beaucoup de retrouvailles entre les deux camps.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-chelsea-sous-le-signe-des-retrouvailles,408854.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fmelvine-malard-constant-contact-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-29T10:40:00+00:00"
+  },
+  {
+   "id": "olmadsbidstruplevolumecommearmeprincipale",
+   "title": "OL : Mads Bidstrup, le volume comme arme principale",
+   "summary": "Quand on s'attarde sur les milieux de l'OL, Mads Bidstrup n'est pas celui qui crève l'écran. Pourtant, le Danois s'impose progressivement comme un élément essentiel du plan de Paulo Fonseca, grâce à sa plus grande qualité : sa capacité à répéter les efforts.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-mads-bidstrup-le-volume-comme-arme-principale,408846.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260715__C2AQ3TU__v2__HighRes__FblFraFriendlyLyonServette-e1784264181738-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-29T09:50:00+00:00"
   },
   {
    "id": "franceu20merahetkamarasurlepontcontrelangleterreendirect11h3",
@@ -27,17 +137,6 @@
    "author": "David Hernandez",
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FCapture-decran-2025-10-14-134247-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
-   "publishedAt": "2026-09-29T09:00:00+00:00"
-  },
-  {
-   "id": "rclensmesloubrenvoysurlebancfacelol",
-   "title": "RC Lens : Mesloub renvoyé sur le banc face à l’OL ?",
-   "summary": "Titulaire lors de la défaite des siens à Monaco, Mezian Mesloub (16 ans) n’a pas convaincu les supporters du RC Lens. Mezian Mesloub continue d’écrire une histoire particulièrement précoce avec le RC Lens.",
-   "url": "https://www.butfootballclub.fr/1701500-rc-lens-mesloub-renvoye-sur-le-banc-face-a-lol/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F94e41287-rc-lens-mesloub-renvoye-sur-le-banc-face-a-lol.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
    "publishedAt": "2026-09-29T09:00:00+00:00"
   },
   {
@@ -52,94 +151,6 @@
    "publishedAt": "2026-09-29T08:15:00+00:00"
   },
   {
-   "id": "olpasmoinsde10internationauxenpistecemardi",
-   "title": "OL : pas moins de 10 internationaux en piste ce mardi",
-   "summary": "C'est probablement la journée la plus intense concernant les Lyonnais convoqués avec leur sélection. Dix joueurs ont des matchs programmés ce mardi, lors de cette deuxième semaine de trêve internationale.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-pas-moins-de-10-internationaux-en-piste-ce-mardi,408871.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAFP__20260618__wvolcov_czech_republic_south_africa_18062026_0091__v1__HighRes__FifaW-e1782108850565-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-29T07:30:00+00:00"
-  },
-  {
-   "id": "tensionsdansplusieurslycesautourdelyonlapoliceintervientdesa",
-   "title": "Tensions dans plusieurs lycées autour de Lyon : la police intervient, des affrontements signalés",
-   "summary": "La matinée est particulièrement agitée devant plusieurs lycées de l'agglomération lyonnaise ce mardi 29 septembre.",
-   "url": "https://www.lyonmag.com/article/154190/tensions-dans-plusieurs-lycees-autour-de-lyon-la-police-intervient-des-affrontements-signales",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abb64c41a4e0-img-6800.png&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-29T07:11:00+00:00"
-  },
-  {
-   "id": "ol30minutespournarteyopendaestrestsurlebancpourbelgiquefranc",
-   "title": "OL : 30 minutes pour Nartey, Openda est resté sur le banc pour Belgique - France",
-   "summary": "Dans le choc entre la Belgique et la France, Loïs Openda n'a pu se mettre en évidence. L'attaquant de l'OL est resté sur le banc de cette rencontre de Ligue des Nations. De son côté, Noah Nartey s'est contenté d'une demi-heure avec les Espoirs danois pour les qualifications à l'Euro.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-30-minutes-pour-nartey-openda-est-reste-sur-le-banc-pour-belgique-france,408907.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2FAFP__20251010__20251010-201356-L-2__v1__HighRes__U21EuropeanChampionshipQualificatio-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-29T06:45:00+00:00"
-  },
-  {
-   "id": "aprsunesemainedevacanceslolreprendlentranementenpetitcomit",
-   "title": "Après une semaine de vacances, l'OL reprend l'entraînement en petit comité",
-   "summary": "Ayant eu le droit à une semaine de vacances complète plutôt que quatre jours, les joueurs de l'OL non concernés par la trêve internationale ont repris le chemin de l'entraînement lundi.",
-   "url": "https://www.olympique-et-lyonnais.com/apres-une-semaine-de-vacances-lol-reprend-lentrainement-en-petit-comite,408902.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2Fentrainement-2-e1787907490954-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-09-29T06:00:00+00:00"
-  },
-  {
-   "id": "ollefeuilletonfofanaundrglementquirendlemercatoencoreplusdte",
-   "title": "OL : le feuilleton Fofana, un dérèglement qui rend le mercato encore plus détestable",
-   "summary": "Il y a un mois, l'OL subissait de plein front les desiderata des agents de Malick Fofana dans une dernière journée de mercato invraisemblable. Une mise en lumière d'un système déréglé où chacun cherche à croquer dans la pomme.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-le-feuilleton-fofana-un-dereglement-qui-rend-le-mercato-encore-plus-detestable,408888.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F09%2FAFP__20250919__766Y34J__v1__HighRes__FblFraLigue1LyonAngers-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-29T05:30:00+00:00"
-  },
-  {
-   "id": "omollajuventusmenacedepillerlesdeuxolympiquescethiver",
-   "title": "OM, OL : la Juventus menace de piller les deux Olympiques cet hiver",
-   "summary": "La Juventus cible Emerson Palmieri, Abner et Nicolás Tagliafico pour renforcer son couloir gauche, avec l'OM et l'OL en danger cet hiver.",
-   "url": "https://www.butfootballclub.fr/1701450-juventus-om-ol-mercato-hiver/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F2a59521f-juventus-om-ol-mercato-hiver-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-28T17:23:34+00:00"
-  },
-  {
-   "id": "himbertoletlquipedefranceu19serattrapentcontrelacroatie",
-   "title": "Himbert (OL) et l'équipe de France U19 se rattrapent contre la Croatie",
-   "summary": "Battue par l'Italie lors du premier match du tournoi amical organisé en Croatie, l'équipe de France U19 s'est bien rattrapée face au pays hôte. Remplaçant au coup d'envoi, Rémi Himbert a joué une demi-heure dans la victoire française (2-1).",
-   "url": "https://www.olympique-et-lyonnais.com/himbert-ol-et-lequipe-de-france-u19-se-rattrapent-contre-la-croatie,408900.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FAFP__20251105__varittyakkal-francevc251105_npxGq__v1__HighRes__FifaU17WorldCup-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-28T16:28:33+00:00"
-  },
-  {
-   "id": "rclensleprogrammedelatrveestdsormaistotalementboucl",
-   "title": "RC Lens : Le programme de la trêve est désormais totalement bouclé",
-   "summary": "Le RC Lens affronte le Standard de Liège en amical à La Gaillette, avant la reprise face à l’OL puis le Sporting en Ligue des Champions.",
-   "url": "https://www.butfootballclub.fr/1701446-rc-lens-programme-treve-boucle/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F1c739c5f-rc-lens-programme-treve-boucle-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-28T16:22:11+00:00"
-  },
-  {
    "id": "ilavaitchambrlessupportersaugroupamastadiumlasanctiondematto",
    "title": "Il avait chambré les supporters au Groupama Stadium : la sanction de Mattéo Guendouzi réduite après OL-Fenerbahçe",
    "summary": "Sanctionné après les incidents qui avaient suivi OL-Fenerbahçe le 26 août, Mattéo Guendouzi a obtenu une réduction de sa suspension en appel.",
@@ -151,39 +162,6 @@
    "publishedAt": "2026-09-28T16:00:00+00:00"
   },
   {
-   "id": "avantollyonneschelseakatotosexprimesurbompastoretabily",
-   "title": "Avant OL Lyonnes - Chelsea, Katoto s’exprime sur Bompastor et Abily",
-   "summary": "Ce mercredi, OL Lyonnes reçoit Chelsea pour la deuxième journée de Ligue des champions. Cela signifiera les retrouvailles avec Sonia Bompastor et Camille Abily, \"deux légendes du club\" pour Marie-Antoinette Katoto.",
-   "url": "https://www.olympique-et-lyonnais.com/avant-ol-lyonnes-chelsea-katoto-sexprime-sur-bompastor-et-abily,408873.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F03%2FIMG_2268-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-28T15:40:00+00:00"
-  },
-  {
-   "id": "premiredfaitepourlarservedollyonneslesu19droulent",
-   "title": "Première défaite pour la réserve d’OL Lyonnes, les U19 déroulent",
-   "summary": "Pendant que les garçons de l'Académie font relâche en cette trêve internationale, les filles d'OL Lyonnes étaient sur le pont ce week-end. Avec une première défaite à mettre au compteur de la réserve dimanche contre Albi.",
-   "url": "https://www.olympique-et-lyonnais.com/premiere-defaite-pour-la-reserve-dol-lyonnes-les-u19-deroulent,408868.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2019%2F09%2FOLacad%C3%A9mie-650x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-28T14:50:00+00:00"
-  },
-  {
-   "id": "khalismeraholsaluelexploitdelusmeyzieuencoupedefrance",
-   "title": "Khalis Merah (OL) salue l’exploit de l’US Meyzieu en Coupe de France",
-   "summary": "Actuellement avec l’équipe de France U20, Khalis Merah n’oublie pas d’où il vient. Quelques minutes après le coup de sifflet final, le milieu de l’OL a salué l’exploit de l’US Meyzieu, pensionnaire de D2 et qualifié pour le cinquième tour de Coupe de France.",
-   "url": "https://www.olympique-et-lyonnais.com/khalis-merah-ol-salue-lexploit-de-lus-meyzieu-en-coupe-de-france,408844.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260425__A8XW6NZ__v1__HighRes__FblFraLigue1LyonAuxerre-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-28T14:00:00+00:00"
-  },
-  {
    "id": "tentativesdeblocagedansquatrelycesdelestlyonnaissixinterpell",
    "title": "Tentatives de blocage dans quatre lycées de l’Est lyonnais, six interpellations",
    "summary": "Quatre lycées de l’Est lyonnais ont été concernés par des tentatives de blocage ce lundi matin. Selon la préfecture du Rhône, six personnes ont été interpellées.",
@@ -193,28 +171,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aba4723a0050-1200x675-69b2ef669eb82-rd.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-09-28T10:51:00+00:00"
-  },
-  {
-   "id": "unevictimeduprepreynatreueenprivparlepapelonxivcedimanche",
-   "title": "Une victime du père Preynat reçue en privé par le pape Léon XIV ce dimanche",
-   "summary": "Pour son troisième jour de visite en France, le pape Léon XIV passe ce dimanche 27 septembre par Lourdes. Une messe géante doit réunir près de 200 000 personnes, avant une rencontre très attendue avec sept victimes de violences sexuelles dans l’Église dont le lyonnais Bertrand Virieux.",
-   "url": "https://www.francemag.fr/article/3649/leon-xiv-a-lourdes-200-000-fideles-attendus-et-une-rencontre-a-huis-clos-avec-des-victimes-de-violences-sexuelles",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab8aa6560dfe-1200x900-bertrand-virieux-cajazz.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-27T05:30:00+00:00"
-  },
-  {
-   "id": "top14leloucraqueaprslapauseetperdsoninvincibilitparis",
-   "title": "Top 14 : le LOU craque après la pause et perd son invincibilité à Paris",
-   "summary": "Après trois victoires en trois journées, le LOU a subi son premier revers de la saison ce samedi sur la pelouse du Stade Français (31-10). Les Lyonnais menaient pourtant 10-5 à la pause avant de s’effondrer en seconde période.",
-   "url": "https://www.lyonmag.com/article/154147/top-14-le-lou-craque-apres-la-pause-et-perd-son-invincibilite-a-paris",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ab8a0e28289e-825279050-1622211322889822-7464196488493558068-n.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-26T18:00:00+00:00"
   },
   {
    "id": "nicelilletrsbonneoprationpourlesnioislillelaisselepodiumlole",
@@ -237,17 +193,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FFI1nGtKb7mnRA3YFaftmsJy79k4%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FOL-4-0-Rennes-Chants-banderoles-arreter-tous-les-matchs-pas-que-Lyon-defend-Tolisso-2351118.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-19T22:31:53+00:00"
-  },
-  {
-   "id": "cestbiendarrterdesmatchsmaisilfautlefairepartoutlappeldetoli",
-   "title": "\"C'est bien d'arrêter des matchs mais il faut le faire partout\": l'appel de Tolisso aux arbitres après OL-Rennes",
-   "summary": "Avant de s'achever sur une claque infligée par l'OL au Stade Rennais (4-0), le match de la cinquième journée de Ligue 1 au Groupama Stadium a été interrompu une dizaine de minutes en première période.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/c-est-bien-d-arreter-des-matchs-mais-il-faut-le-faire-a-tous-les-matchs-l-appel-de-tolisso-aux-arbitres-apres-ol-rennes_AV-202609190425.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FIPczbLQn2vC-U2KSSpKDzeWKyPU%3D%2F0x210%3A2048x1362%2F800x0%2Fimages%2FCorentin-Tolisso-s-explique-avec-le-delegue-du-match-OL-Rennes-lors-de-l-interruption-19-septembre-2026-2351114.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-19T22:28:39+00:00"
   }
  ]
 }
