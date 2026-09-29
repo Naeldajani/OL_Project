@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-29T18:04:25+00:00",
+ "updatedAt": "2026-09-29T22:13:49+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,28 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ollenouveaumahrezchezlesgones",
+   "title": "OL : le nouveau Mahrez chez les Gones ?",
+   "summary": "Comparé à Riyad Mahrez par son ancien formateur, Kaïl Boudache reçoit également les éloges de son entraîneur à l’OL, Paulo Fonseca. Kaïl Boudache commence à se faire un nom du côté de l’Olympique Lyonnais.",
+   "url": "https://www.butfootballclub.fr/1701753-ol-le-nouveau-mahrez-chez-les-gones/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fed004f7c-ol-le-nouveau-mahrez-chez-les-gones.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-29T21:20:00+00:00"
+  },
+  {
+   "id": "omstaderennaisolloscmercatonouvelledferlantepourunretourdema",
+   "title": "OM, Stade Rennais, OL, LOSC Mercato : nouvelle déferlante pour un retour de Martin Terrier en L1 !",
+   "summary": "Toujours aussi peu utilisé au Bayer Leverkusen, Martin Terrier (29 ans) pourrait de nouveau regarder vers la Ligue 1 au mercato hivernal. Le feuilleton Martin Terrier pourrait bien repartir de plus belle.",
+   "url": "https://www.butfootballclub.fr/1701584-om-stade-rennais-ol-losc-mercato-nouvelle-deferlante-pour-un-retour-de-martin-terrier-en-l1/",
+   "source": "But! Football Club",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fe2d6fa93-om-stade-rennais-losc-mercato-nouvelle-deferlante-pour-un-retour-de-martin-terrier-en-l1.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-09-29T18:20:00+00:00"
+  },
   {
    "id": "realmadridolmercatocestconfirmpourendrick",
    "title": "Real Madrid, OL Mercato : c’est confirmé pour Endrick !",
