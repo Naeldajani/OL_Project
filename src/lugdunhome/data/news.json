@@ -1,12 +1,46 @@
 {
- "updatedAt": "2026-09-29T22:13:49+00:00",
+ "updatedAt": "2026-09-30T05:30:38+00:00",
  "sources": [
+  "20 Minutes",
   "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ollyonneschelseagiraldezreconduitpresquelemmegroupequgenve",
+   "title": "OL Lyonnes - Chelsea : Giraldez reconduit (presque) le même groupe qu'à Genève",
+   "summary": "Pour le choc de la deuxième journée de Ligue des champions, OL Lyonnes reçoit Chelsea à Décines.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-chelsea-giraldez-reconduit-presque-le-meme-groupe-qua-geneve,408978.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260425__A8XM3R7__v1__HighRes__FblEurC1WomenLyonTraining-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-30T05:30:00+00:00"
+  },
+  {
+   "id": "lyonfchelseafsurquellechanetvetquelleheurevoirlematchdeligue",
+   "title": "Lyon (F) - Chelsea (F) : Sur quelle chaîne TV et à quelle heure voir le match de Ligue des Champions ?",
+   "summary": "Mercredi à 21 heures, les Gones reçoivent les Blues sur la pelouse du Parc OL, lors de la 2e journée de la phase de ligue de la compétition",
+   "url": "https://www.20minutes.fr/sport/football/4249731-20260930-lyon-f-chelsea-f-chaine-tv-heure-voir-match-ligue-champions?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FrrRCU1UUSaewz4L7NqqQVCk%2F1444x920_l-ol-lyonnes-veut-enchainer-un-5e-succes-consecutif-le-2e-en-ligue-des-champions-photo-d-illustration&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-30T05:02:38+00:00"
+  },
+  {
+   "id": "ollyonneschelseapremierchoceuropendelasaisonaugroupamastadiu",
+   "title": "OL Lyonnes – Chelsea : premier choc européen de la saison au Groupama Stadium",
+   "summary": "OL Lyonnes retrouve le Groupama Stadium et la Ligue des champions ce mercredi soir.",
+   "url": "https://www.lyonfoot.com/article/14334/ol-lyonnes-chelsea-un-choc-europeen-place-sous-le-signe-des-retrouvailles",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abbd60dc6af4-ol-lyonnes-groupama-stadium.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-09-30T05:01:00+00:00"
+  },
   {
    "id": "ollenouveaumahrezchezlesgones",
    "title": "OL : le nouveau Mahrez chez les Gones ?",
@@ -162,17 +196,6 @@
    "publishedAt": "2026-09-29T09:00:00+00:00"
   },
   {
-   "id": "ollyonnesadahegerbergetingridengenretenuesaveclanorvge",
-   "title": "OL Lyonnes : Ada Hegerberg et Ingrid Engen retenues avec la Norvège",
-   "summary": "Ada Hegerberg et Ingrid Engen vont retrouver leur sélection durant la prochaine trêve internationale. Les deux joueuses d'OL Lyonnes figurent dans le groupe de la Norvège, qui aura deux rendez-vous face à la Roumanie, dans le cadre des barrages européens pour la Coupe du monde 2027.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-ada-hegerberg-et-ingrid-engen-retenues-avec-la-norvege,408897.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F07%2FCapture-decran-2025-07-03-081913-e1751523635800-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-09-29T08:15:00+00:00"
-  },
-  {
    "id": "ilavaitchambrlessupportersaugroupamastadiumlasanctiondematto",
    "title": "Il avait chambré les supporters au Groupama Stadium : la sanction de Mattéo Guendouzi réduite après OL-Fenerbahçe",
    "summary": "Sanctionné après les incidents qui avaient suivi OL-Fenerbahçe le 26 août, Mattéo Guendouzi a obtenu une réduction de sa suspension en appel.",
@@ -215,6 +238,17 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FFI1nGtKb7mnRA3YFaftmsJy79k4%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FOL-4-0-Rennes-Chants-banderoles-arreter-tous-les-matchs-pas-que-Lyon-defend-Tolisso-2351118.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-09-19T22:31:53+00:00"
+  },
+  {
+   "id": "cestbiendarrterdesmatchsmaisilfautlefairepartoutlappeldetoli",
+   "title": "\"C'est bien d'arrêter des matchs mais il faut le faire partout\": l'appel de Tolisso aux arbitres après OL-Rennes",
+   "summary": "Avant de s'achever sur une claque infligée par l'OL au Stade Rennais (4-0), le match de la cinquième journée de Ligue 1 au Groupama Stadium a été interrompu une dizaine de minutes en première période.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/c-est-bien-d-arreter-des-matchs-mais-il-faut-le-faire-a-tous-les-matchs-l-appel-de-tolisso-aux-arbitres-apres-ol-rennes_AV-202609190425.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FIPczbLQn2vC-U2KSSpKDzeWKyPU%3D%2F0x210%3A2048x1362%2F800x0%2Fimages%2FCorentin-Tolisso-s-explique-avec-le-delegue-du-match-OL-Rennes-lors-de-l-interruption-19-septembre-2026-2351114.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-19T22:28:39+00:00"
   }
  ]
 }
