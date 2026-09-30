@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-30T12:32:44+00:00",
+ "updatedAt": "2026-09-30T20:00:15+00:00",
  "sources": [
   "20 Minutes",
   "Lyon Mag",
@@ -7,6 +7,72 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ollyonneschelseabrandderetourdansleonzeweirtitulaire",
+   "title": "OL Lyonnes - Chelsea : Brand de retour dans le onze, Weir titulaire",
+   "summary": "Ce mercredi (21h), OL Lyonnes dispute son deuxième match de la phase de Ligue des champions. Après un facile succès contre le Servette FCCF, les Lyonnaises affrontent le Chelsea de Sonia Bompastor.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-chelsea-brand-de-retour-dans-le-onze-weir-titulaire,409037.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20251015__2241230054__v4__HighRes__OlLyonnesVSknStPoltenUefaWomenSChampionsLeag-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-30T17:54:17+00:00"
+  },
+  {
+   "id": "oladilhamdaniadjfaitsonretourlentranement",
+   "title": "OL : Adil Hamdani a déjà fait son retour à l’entraînement",
+   "summary": "Retenu avec l'équipe de France U18 pour le tournoi de Limoges, Adil Hamdani a déjà fait son retour à Décines. Le jeune joueur offensif de l'OL a participé à la séance collective du jour, quarante-huit heures après son dernier match en sélection.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-adil-hamdani-a-deja-fait-son-retour-a-lentrainement,409026.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3757-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-30T15:00:00+00:00"
+  },
+  {
+   "id": "deuxjoueusesdelollyonnesnommespouruntrophe",
+   "title": "Deux joueuses de l'OL Lyonnes nommées pour un trophée",
+   "summary": "Jule Brand et Melchie Dumornay font partie des trois joueuses nommées pour le Trophée UNFP de la Joueuse du mois de septembre.",
+   "url": "https://www.lyonfoot.com/article/14347/ol-lyonnes-brand-et-dumornay-en-lice-pour-le-trophee-unfp",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abd1e2e1359e-1200x675-6abd081e12cf7-d1-nommees-16-9.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-09-30T14:33:00+00:00"
+  },
+  {
+   "id": "jo2030geoffroyrouxdebzieuxpressentipoursuccderedgargrospiron",
+   "title": "JO 2030 : Geoffroy Roux de Bézieux pressenti pour succéder à Edgar Grospiron",
+   "summary": "Le futur patron des Alpes françaises 2030 sera-t-il d’origine lyonnaise ?",
+   "url": "https://www.lyonmag.com/article/154210/jo-2030-geoffroy-roux-de-bezieux-d-origine-lyonnaise-pressenti-pour-succeder-a-edgar-grospiron",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abd185fdf01b-roux-de-bzieux.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-30T14:02:00+00:00"
+  },
+  {
+   "id": "olnicolastagliaficoestleseulinternationallyonnaisenpisteceme",
+   "title": "OL : Nicolas Tagliafico est le seul international lyonnais en piste ce mercredi",
+   "summary": "Après 10 internationaux de l'OL sur le pont mardi, seul Nicolas Tagliafico a rendez-vous avec sa sélection ce mercredi pour commencer sa trêve internationale.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-nicolas-tagliafico-est-le-seul-international-lyonnais-en-piste-ce-mercredi,408887.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260719__2286798444__v1__HighRes__SpainVArgentinaFinalFifaWorldCup2026-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-09-30T14:00:00+00:00"
+  },
+  {
+   "id": "ollyonnesenpleineformekatotoveutvaincresonsigneindiencontrec",
+   "title": "OL Lyonnes : en pleine forme, Katoto veut vaincre son signe indien contre Chelsea",
+   "summary": "C'est l'une des armes les plus dangereuses côté OL Lyonnes. Avec un début de saison très prolifique, Marie-Antoinette Katoto est en pleine forme avant d'affronter Chelsea, ce mercredi.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-en-pleine-forme-katoto-veut-vaincre-son-signe-indien-contre-chelsea,408946.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FMarie-Antoinette-Katoto-656x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-30T13:00:00+00:00"
+  },
   {
    "id": "dbutsrepoussspourlarservedollyonnesenchallengeespoirs",
    "title": "Débuts repoussés pour la réserve d’OL Lyonnes en Challenge Espoirs",
@@ -64,7 +130,7 @@
   },
   {
    "id": "unedizainedelycestouchspardesrassemblementsviolentslyonlesfo",
-   "title": "Une dizaine de lycées touchés par des rassemblements violents à Lyon : les forces de l’ordre déployées en nombre, 14 interpellations",
+   "title": "Une dizaine de lycées touchés par des rassemblements violents à Lyon : les forces de l’ordre déployées en nombre, 30 interpellations",
    "summary": "Pas de retour au calme devant les lycées de l'agglomération lyonnaise.",
    "url": "https://www.lyonmag.com/article/154207/une-dizaine-de-lycees-touches-par-des-rassemblements-violents-a-lyon-les-forces-de-l-ordre-deployees-en-nombre",
    "source": "Lyon Mag",
@@ -83,39 +149,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FHTaDDf0WoAE2VjF-770x433.webp&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-09-30T08:00:00+00:00"
-  },
-  {
-   "id": "ollyonneschelseaavantmatchhorairediffusiontv",
-   "title": "OL Lyonnes - Chelsea : avant-match, horaire, diffusion TV",
-   "summary": "Après un début de saison stratosphérique, OL Lyonnes va disputer son premier gros choc de la saison, en Ligue des champions, face à Chelsea, ce mercredi. Retrouvez toutes les informations pratiques de cette deuxième journée de Ligue des champions féminine.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-chelsea-avant-match-horaire-diffusion-tv,408880.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F03%2F000_33BV2GK-scaled-e1680072632635-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-30T07:00:00+00:00"
-  },
-  {
-   "id": "dollyonneschelseabompastorabienchangendeuxans",
-   "title": "D'OL Lyonnes à Chelsea, Bompastor a bien changé en deux ans",
-   "summary": "Après plus d'une décennie à OL Lyonnes en qualité de joueuse, directrice du centre et entraîneure, Sonia Bompastor a choisi de s'exporter en Angleterre. Depuis deux saisons, elle estime être devenue une autre coach, notamment avec la pression médiatique qui entoure Chelsea et le championnat anglais.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-chelsea-bompastor-a-bien-change-en-deux-ans,408936.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F03%2F000_34LU6FY-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-09-30T06:00:00+00:00"
-  },
-  {
-   "id": "ollyonneschelseagiraldezreconduitpresquelemmegroupequgenve",
-   "title": "OL Lyonnes - Chelsea : Giraldez reconduit (presque) le même groupe qu'à Genève",
-   "summary": "Pour le choc de la deuxième journée de Ligue des champions, OL Lyonnes reçoit Chelsea à Décines.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-chelsea-giraldez-reconduit-presque-le-meme-groupe-qua-geneve,408978.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260425__A8XM3R7__v1__HighRes__FblEurC1WomenLyonTraining-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-30T05:30:00+00:00"
   },
   {
    "id": "lyonfchelseafsurquellechanetvetquelleheurevoirlematchdeligue",
@@ -138,17 +171,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abbd60dc6af4-ol-lyonnes-groupama-stadium.jpg&w=800&output=webp&q=78",
    "topic": "Féminines",
    "publishedAt": "2026-09-30T05:01:00+00:00"
-  },
-  {
-   "id": "olniakhatcapitaineaveclesngalgomesrodriguezbuteuraveclanglet",
-   "title": "OL : Niakhaté capitaine avec le Sénégal, Gomes Rodriguez buteur avec l'Angleterre U19",
-   "summary": "Après avoir concédé le match nul face au Mozambique, le Sénégal affrontait l'Éthiopie pour la deuxième journée des qualifications à la CAN 2027. Moussa Niakhaté était de nouveau titulaire et capitaine.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-niakhate-capitaine-avec-le-senegal-gomes-rodriguez-buteur-avec-langleterre-u19,408953.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2FAFP__20260114__92PY84X__v3__HighRes__TopshotFblAfr2025Match49SenEgy-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-29T16:49:33+00:00"
   },
   {
    "id": "tensionsdansplusieurslycesautourdelyonlapoliceintervient44in",
@@ -182,17 +204,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aba8f7bca8f6-1200x675-6a9bd2e819c89-guendouzi.jpg&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-09-28T16:00:00+00:00"
-  },
-  {
-   "id": "tentativesdeblocagedansquatrelycesdelestlyonnaissixinterpell",
-   "title": "Tentatives de blocage dans quatre lycées de l’Est lyonnais, six interpellations",
-   "summary": "Quatre lycées de l’Est lyonnais ont été concernés par des tentatives de blocage ce lundi matin. Selon la préfecture du Rhône, six personnes ont été interpellées.",
-   "url": "https://www.lyonmag.com/article/154180/tentatives-de-blocage-dans-quatre-lycees-de-l-est-lyonnais-six-interpellations",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aba4723a0050-1200x675-69b2ef669eb82-rd.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-28T10:51:00+00:00"
   },
   {
    "id": "nicelilletrsbonneoprationpourlesnioislillelaisselepodiumlole",
