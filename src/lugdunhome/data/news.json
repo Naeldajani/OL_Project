@@ -1,12 +1,122 @@
 {
- "updatedAt": "2026-10-01T10:06:21+00:00",
+ "updatedAt": "2026-10-01T18:25:01+00:00",
  "sources": [
-  "20 Minutes",
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olacadmielyliandinotarejointlesu17franais",
+   "title": "OL Académie : Lylian Di Nota rejoint les U17 français",
+   "summary": "Déjà convoqués dans la liste de l'équipe de France U17, Ethan Leveneur et Bojan Zekovic seront finalement accompagnés d'un troisième Lyonnais lors du rassemblement en Espagne. Lylian Di Nota a été appelé par la sélection française pour rejoindre le groupe réuni du 29 septembre au 7 octobre.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-lylian-di-nota-rejoint-les-u17-francais,409019.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2020%2F01%2FOLacad%C3%A9mie-650x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-10-01T16:30:00+00:00"
+  },
+  {
+   "id": "lolaccueilleunnouveauclubpartenairedanslallier",
+   "title": "L'OL accueille un nouveau club partenaire dans l'Allier",
+   "summary": "L'Olympique lyonnais poursuit le développement de son réseau de clubs partenaires. L'Académie Sportive Moulins Football a rejoint la convention de partenariat de l'OL, devenant ainsi le premier club partenaire du club lyonnais dans l'Allier.",
+   "url": "https://www.olympique-et-lyonnais.com/lol-accueille-un-nouveau-club-partenaire-dans-lallier,409095.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F01%2FIMG_2885-copie-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-10-01T15:40:00+00:00"
+  },
+  {
+   "id": "karltokoekambiexolrejointummsalalauqatar",
+   "title": "Karl Toko-Ekambi (ex-OL) rejoint Umm Salal au Qatar",
+   "summary": "Longtemps annoncé dans le viseur de l'Olympique de Marseille cet été, Karl Toko-Ekambi a trouvé son nouveau point de chute. L'ancien attaquant de l'OL s'est officiellement engagé à Umm Salal, au Qatar, jusqu'à la fin de l'exercice 2026-2027.",
+   "url": "https://www.olympique-et-lyonnais.com/karl-toko-ekambi-ex-ol-rejoint-umm-salal-au-qatar,409025.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2022%2F01%2F000_9WZ8WP-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-01T14:50:00+00:00"
+  },
+  {
+   "id": "josephetsangarollyonnesaveclesu23delquipedefrance",
+   "title": "Joseph et Sangaré (OL Lyonnes) avec les U23 de l'équipe de France",
+   "summary": "En plus des A, l'équipe de France féminine a dévoilé la première liste de la saison des U23 de Philippe Joly. Deux joueuses d'OL Lyonnes en font partie avec Liana Joseph et Wassa Sangaré.",
+   "url": "https://www.olympique-et-lyonnais.com/joseph-et-sangare-ol-lyonnes-avec-lequipe-de-france-u23,409121.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F06%2FCapture-decran-2025-06-16-063755-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-10-01T14:00:00+00:00"
+  },
+  {
+   "id": "ligueeuropalespremiersmillionsdeluefatombentpourlol",
+   "title": "Ligue Europa : les premiers millions de l'UEFA tombent pour l'OL",
+   "summary": "L'OL a déjà sécurisé au moins 4,76 millions d'euros grâce à sa participation à la Ligue Europa et à sa victoire contre Anderlecht.",
+   "url": "https://www.lyonfoot.com/article/14355/ligue-europa-les-premiers-millions-de-l-uefa-tombent-pour-l-ol",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abe65f9e6046-ol-logo.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-01T13:52:00+00:00"
+  },
+  {
+   "id": "rclensavantlolthauvinmontredjlesmusclescahuzac",
+   "title": "RC Lens : avant l’OL, Thauvin montre déjà les muscles à Cahuzac",
+   "summary": "Capitaine du RC Lens, Florian Thauvin (33 ans) a remis fort le chemin de La Gaillette. Florian Thauvin est déjà de retour aux affaires.",
+   "url": "https://www.butfootballclub.fr/1702022-rc-lens-avant-lol-thauvin-montre-deja-les-muscles-a-cahuzac/",
+   "source": "But! Football Club",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F202c652c-rc-lens-avant-lol-thauvin-montre-deja-les-muscles-a-cahuzac.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-10-01T13:40:00+00:00"
+  },
+  {
+   "id": "nakamuraoletlejaponenfinaledelakirincuphimbertbuteuraveclafr",
+   "title": "Nakamura (OL) et le Japon en finale de la Kirin Cup, Himbert buteur avec la France",
+   "summary": "Relancée par la fédération japonaise après quatre ans d'absence, la Kirin Cup offrira une finale Japon - Nouvelle-Zélande lundi prochain. Titulaire, Keito Nakamura a joué 79 minutes contre l'Équateur (0-0, 5 Tab 4).",
+   "url": "https://www.olympique-et-lyonnais.com/nakamura-ol-et-le-japon-en-finale-de-la-kirin-cup-himbert-buteur-avec-la-france,409115.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FKeito-Nakamura-avec-le-Japon-e1790250908250-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-01T13:10:00+00:00"
+  },
+  {
+   "id": "ollyonnesswierotaccompagnebachabechoetkatotochezlesbleues",
+   "title": "OL Lyonnes : Swierot accompagne Bacha, Becho et Katoto chez les Bleues",
+   "summary": "Pour le seul match amical de la trêve internationale d'octobre, Laurent Bonadei a décidé de convoquer quatre joueuses d'OL Lyonnes. Forte d'un début de saison encourageant, Julie Swierot enchaine un nouveau rassemblement aux côtés de Selma Bacha, Marie-Antoinette Katoto et Vicki Becho.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-swierot-accompagne-bacha-becho-et-katoto-chez-les-bleues,409112.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F12%2FIMG_2820-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-01T12:20:00+00:00"
+  },
+  {
+   "id": "lepledeloisirsolvallevachangerdenometdevenirfunagora",
+   "title": "Le pôle de loisirs OL Vallée va changer de nom et devenir Funagora",
+   "summary": "Depuis ce jeudi 1er octobre, le pôle loisir situé entre le Parc OL et l'Arena de Décines change de nom. OL Vallée va progressivement devenir Funagora, une nouvelle appellation portée par les 17 exploitants du site.",
+   "url": "https://www.olympique-et-lyonnais.com/le-pole-de-loisirs-ol-vallee-va-changer-de-nom-et-devenir-funagora,409088.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2022%2F07%2FOL-Romane-Thevenot-34-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-01T11:30:00+00:00"
+  },
+  {
+   "id": "damarisegurrolaollyonnesretrouveralespaysbasdurantlatrve",
+   "title": "Damaris Egurrola (OL Lyonnes) retrouvera les Pays-Bas durant la trêve",
+   "summary": "Ayant raté de peu la qualification directe pour la Coupe du monde 2027 face à la France, les Pays-Bas doivent donc passer par des barrages. Pour affronter la Hongrie, Damaris Egurrola sera logiquement de la partie avec l'objectif de viser une place en \"finale\" de ces playoffs.",
+   "url": "https://www.olympique-et-lyonnais.com/damaris-egurrola-ol-lyonnes-retrouvera-les-pays-bas-durant-la-treve,409039.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F02%2F000_33CC9VY-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-01T10:40:00+00:00"
+  },
   {
    "id": "olnakamuraboudachebidstrupquelslyonnaisjouentcejeudi",
    "title": "OL : Nakamura, Boudache, Bidstrup... Quels Lyonnais jouent ce jeudi ?",
@@ -30,50 +140,6 @@
    "publishedAt": "2026-10-01T09:00:00+00:00"
   },
   {
-   "id": "ancienjoueurdelolfurlanestatteintdunemaladieneurodgnrative",
-   "title": "Ancien joueur de l'OL, Furlan est atteint d’une maladie neurodégénérative",
-   "summary": "Ancien joueur de l'Olympique lyonnais entre 1980 et 1982, Jean-Marc Furlan souffre aujourd'hui d'une maladie neurodégénérative. C'est son épouse, Cécile Traverse Furlan, qui a révélé l'information dans un livre consacré à son parcours et aux dernières années de sa carrière.",
-   "url": "https://www.olympique-et-lyonnais.com/ancien-joueur-de-lol-furlan-est-atteint-dune-maladie-neurodegenerative,409075.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2022%2F08%2F000_32GV9CZ-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-01T08:15:00+00:00"
-  },
-  {
-   "id": "tagliaficoolprservpourargentinebolivie40",
-   "title": "Tagliafico (OL) préservé pour Argentine - Bolivie (4-0)",
-   "summary": "Seul international de l'OL sur le pont mercredi, Nicolás Tagliafico n'était finalement pas sur la feuille de match d'Argentine - Bolivie (4-0). Touché avec son club avant la trêve, Lionel Scaloni a préservé son latéral.",
-   "url": "https://www.olympique-et-lyonnais.com/tagliafico-ol-preserve-pour-argentine-bolivie-4-0,409076.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F06%2F000_34Y232Q-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-01T07:30:00+00:00"
-  },
-  {
-   "id": "giraldezaprsollyonneschelsea00quandtunepeuxpasgagnercestbien",
-   "title": "Giraldez après OL Lyonnes - Chelsea (0-0) : \"Quand tu ne peux pas gagner, c'est bien de prendre un point\"",
-   "summary": "Visant un deuxième succès en deux matchs de Ligue des champions, Jonatan Giraldez se contentait malgré tout du nul contre Chelsea mercredi soir (0-0). Le coach d'OL Lyonnes a également mis en avant la prestation défensive de son équipe.",
-   "url": "https://www.olympique-et-lyonnais.com/giraldez-apres-ol-lyonnes-chelsea-0-0-quand-tu-ne-peux-pas-gagner-cest-bien-de-prendre-un-point,409065.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260403__DPPI_40426188_008__v1__HighRes__FootballWomenSChampionsLeagueOlLyonne-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-10-01T06:45:00+00:00"
-  },
-  {
-   "id": "madsbidstrupolpartirjeuneatdifficilemaismaendurci",
-   "title": "Mads Bidstrup (OL) : \"Partir jeune a été difficile mais m'a endurci\"",
-   "summary": "Pour s'installer comme joueur professionnel, Mads Bidstrup a choisi l'exil pour percer loin de son pays natal. À seulement 16 ans, il a quitté Copenhague pour rejoindre le RB Leipzig.",
-   "url": "https://www.olympique-et-lyonnais.com/mads-bidstrup-ol-partir-jeune-a-ete-difficile-mais-ma-endurci,408862.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3780-e1784293530710-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-01T06:00:00+00:00"
-  },
-  {
    "id": "liguedeschampionsollyonnestenuenchecparchelseadcines",
    "title": "Ligue des champions : OL Lyonnes tenu en échec par Chelsea à Décines",
    "summary": "La série parfaite d'OL Lyonnes a pris fin mercredi soir à Décines.",
@@ -83,50 +149,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abdf23cde4e9-zj206822.png&w=800&output=webp&q=78",
    "topic": "Féminines",
    "publishedAt": "2026-10-01T05:36:00+00:00"
-  },
-  {
-   "id": "salmaparallueloaprsollyonneschelsea00biensrquonestdues",
-   "title": "Salma Paralluelo après OL Lyonnes - Chelsea (0-0) : \"Bien sûr qu'on est déçues\"",
-   "summary": "Ayant vu la VAR lui annuler un but et ayant perdu un duel en première mi-temps, Salma Paralluelo a vécu un match frustrant contre Chelsea. Toutefois, la recrue star de l'été d'OL Lyonnes voit des jours meilleurs au fil des semaines.",
-   "url": "https://www.olympique-et-lyonnais.com/salma-paralluelo-apres-ol-lyonnes-chelsea-0-0-bien-sur-quon-est-decues,409063.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260930__2297937714__v1__HighRes__OlLyonnesVChelseaFcUefaWomenSChampionsLeague-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-01T05:30:00+00:00"
-  },
-  {
-   "id": "bompastoraprsollyonneschelsea00cestunpenaltyclair",
-   "title": "Bompastor après OL Lyonnes - Chelsea (0-0) : \"C’est un penalty clair\"",
-   "summary": "Après le nul entre OL Lyonnes et Chelsea, Sonia Bompastor avait logiquement des regrets. Sur les occasions ratées en fin de match et ce penalty valable à ses yeux mais finalement annulé par la VAR.",
-   "url": "https://www.olympique-et-lyonnais.com/bompastor-apres-ol-lyonnes-chelsea-0-0-cest-un-penalty-clair,409053.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260930__2297953073__v1__HighRes__OlLyonnesVChelseaFcUefaWomenSChampionsLeague-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-30T22:09:59+00:00"
-  },
-  {
-   "id": "dominateurollyonnesbutesurchelsea00",
-   "title": "Dominateur, OL Lyonnes bute sur Chelsea (0-0)",
-   "summary": "Dans un match tactique, OL Lyonnes a eu la maîtrise du jeu contre Chelsea. Il a seulement manqué un peu de justesse dans l'avant-dernier et le dernier geste pour prendre le meilleur sur les Londoniennes (0-0).",
-   "url": "https://www.olympique-et-lyonnais.com/dominateur-ol-lyonnes-bute-sur-chelsea-0-0,409048.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260930__C9V276A__v1__HighRes__FblEurC1WomenLyonChelsea-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-30T20:58:33+00:00"
-  },
-  {
-   "id": "ollyonneschelseabrandderetourdansleonzeweirtitulaire",
-   "title": "OL Lyonnes - Chelsea : Brand de retour dans le onze, Weir titulaire",
-   "summary": "Ce mercredi (21h), OL Lyonnes dispute son deuxième match de la phase de Ligue des champions. Après un facile succès contre le Servette FCCF, les Lyonnaises affrontent le Chelsea de Sonia Bompastor.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-chelsea-brand-de-retour-dans-le-onze-weir-titulaire,409037.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20251015__2241230054__v4__HighRes__OlLyonnesVSknStPoltenUefaWomenSChampionsLeag-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-30T17:54:17+00:00"
   },
   {
    "id": "deuxjoueusesdelollyonnesnommespouruntrophe",
@@ -160,17 +182,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abcbbac904b0-7172faa6-250e-40a8-8706-077601e93f23.jpg&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-09-30T08:56:00+00:00"
-  },
-  {
-   "id": "lyonfchelseafsurquellechanetvetquelleheurevoirlematchdeligue",
-   "title": "Lyon (F) - Chelsea (F) : Sur quelle chaîne TV et à quelle heure voir le match de Ligue des Champions ?",
-   "summary": "Mercredi à 21 heures, les Gones reçoivent les Blues sur la pelouse du Parc OL, lors de la 2e journée de la phase de ligue de la compétition",
-   "url": "https://www.20minutes.fr/sport/football/4249731-20260930-lyon-f-chelsea-f-chaine-tv-heure-voir-match-ligue-champions?at_medium=display&at_campaign=149",
-   "source": "20 Minutes",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FrrRCU1UUSaewz4L7NqqQVCk%2F1444x920_l-ol-lyonnes-veut-enchainer-un-5e-succes-consecutif-le-2e-en-ligue-des-champions-photo-d-illustration&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-09-30T05:02:38+00:00"
   },
   {
    "id": "ollyonneschelseapremierchoceuropendelasaisonaugroupamastadiu",
