@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-30T20:00:15+00:00",
+ "updatedAt": "2026-10-01T00:32:21+00:00",
  "sources": [
   "20 Minutes",
   "Lyon Mag",
@@ -7,6 +7,28 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "bompastoraprsollyonneschelsea00cestunpenaltyclair",
+   "title": "Bompastor après OL Lyonnes - Chelsea (0-0) : \"C’est un penalty clair\"",
+   "summary": "Après le nul entre OL Lyonnes et Chelsea, Sonia Bompastor avait logiquement des regrets. Sur les occasions ratées en fin de match et ce penalty valable à ses yeux mais finalement annulé par la VAR.",
+   "url": "https://www.olympique-et-lyonnais.com/bompastor-apres-ol-lyonnes-chelsea-0-0-cest-un-penalty-clair,409053.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260930__2297953073__v1__HighRes__OlLyonnesVChelseaFcUefaWomenSChampionsLeague-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-30T22:09:59+00:00"
+  },
+  {
+   "id": "dominateurollyonnesbutesurchelsea00",
+   "title": "Dominateur, OL Lyonnes bute sur Chelsea (0-0)",
+   "summary": "Dans un match tactique, OL Lyonnes a eu la maîtrise du jeu contre Chelsea. Il a seulement manqué un peu de justesse dans l'avant-dernier et le dernier geste pour prendre le meilleur sur les Londoniennes (0-0).",
+   "url": "https://www.olympique-et-lyonnais.com/dominateur-ol-lyonnes-bute-sur-chelsea-0-0,409048.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260930__C9V276A__v1__HighRes__FblEurC1WomenLyonChelsea-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-09-30T20:58:33+00:00"
+  },
   {
    "id": "ollyonneschelseabrandderetourdansleonzeweirtitulaire",
    "title": "OL Lyonnes - Chelsea : Brand de retour dans le onze, Weir titulaire",
@@ -118,17 +140,6 @@
    "publishedAt": "2026-09-30T10:00:00+00:00"
   },
   {
-   "id": "ollyonnesjulebrandetmelchiedumornaynommespourletropheunfpdes",
-   "title": "OL Lyonnes : Jule Brand et Melchie Dumornay nommées pour le trophée UNFP de septembre",
-   "summary": "OL Lyonnes est doublement représenté dans les nominations pour le trophée de joueuse du mois de Première Ligue. Jule Brand et Melchie Dumornay font partie des trois retenues, en compagnie de Sanaâ Mssoudy (FC Fleury).",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-jule-brand-et-melchie-dumornay-nommees-pour-le-trophee-unfp-de-septembre,408989.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FMelchie-Dumornay-656x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-09-30T09:00:00+00:00"
-  },
-  {
    "id": "unedizainedelycestouchspardesrassemblementsviolentslyonlesfo",
    "title": "Une dizaine de lycées touchés par des rassemblements violents à Lyon : les forces de l’ordre déployées en nombre, 30 interpellations",
    "summary": "Pas de retour au calme devant les lycées de l'agglomération lyonnaise.",
@@ -138,17 +149,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abcbbac904b0-7172faa6-250e-40a8-8706-077601e93f23.jpg&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-09-30T08:56:00+00:00"
-  },
-  {
-   "id": "olulcvoitrougenuamahbuteurlerecapdesinternationauxquijouaien",
-   "title": "OL : Šulc voit rouge, Nuamah buteur... le recap des internationaux qui jouaient ce mardi",
-   "summary": "Pas moins de dix internationaux lyonnais étaient convoqués par leur sélection, mardi, pour disputer une rencontre. Si certains ont brillé en étant décisifs, Pavel Šulc, lui, s'est fait explulser face à l'Angleterre.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-sulc-voit-rouge-nuamah-buteur-le-recap-des-internationaux-qui-jouaient-ce-mardi,408986.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FHTaDDf0WoAE2VjF-770x433.webp&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-09-30T08:00:00+00:00"
   },
   {
    "id": "lyonfchelseafsurquellechanetvetquelleheurevoirlematchdeligue",
