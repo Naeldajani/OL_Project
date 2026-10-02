@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-01T18:25:01+00:00",
+ "updatedAt": "2026-10-02T00:46:34+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olnormecoupdurpourmoussaniakhataveclesngal",
+   "title": "OL : énorme coup dur pour Moussa Niakhaté avec le Sénégal",
+   "summary": "Moussa Niakhaté quitte prématurément le rassemblement du Sénégal après avoir passé une IRM à Marseille. Libéré par Patrick Vieira, le défenseur de l’OL va rentrer à Lyon pour poursuivre ses soins.",
+   "url": "https://www.butfootballclub.fr/1702160-ol-enorme-coup-dur-pour-moussa-niakhate-avec-le-senegal/",
+   "source": "But! Football Club",
+   "author": "Wladimir DELCROS",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F94ad033c-ol-enorme-coup-dur-pour-moussa-niakhate-avec-le-senegal-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-01T20:25:07+00:00"
+  },
   {
    "id": "olacadmielyliandinotarejointlesu17franais",
    "title": "OL Académie : Lylian Di Nota rejoint les U17 français",
