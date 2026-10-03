@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-03T16:16:22+00:00",
+ "updatedAt": "2026-10-03T21:13:01+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -9,8 +9,41 @@
  ],
  "items": [
   {
-   "id": "ollyonnestoulousesuivreendirect",
-   "title": "OL Lyonnes - Toulouse à suivre en direct",
+   "id": "ollyonnesretrouvelechemindesfiletscontretoulouseavantlatrve",
+   "title": "OL Lyonnes retrouve le chemin des filets contre Toulouse avant la trêve",
+   "summary": "Après un petit coup d'arrêt en Ligue des Champions, OL Lyonnes a repris confiance ce samedi face à Toulouse en championnat. Victoire finale : 5-0.",
+   "url": "https://www.lyonfoot.com/article/14370/ol-lyonnes-toulouse-les-fenottes-retrouvent-le-chemin-du-but-5-0",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac14714b7e91-htuw12wwwaaswcy.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-03T18:10:00+00:00"
+  },
+  {
+   "id": "ollavictoirecontretoulouselaisseungotdinachev",
+   "title": "OL : la victoire contre Toulouse laisse un goût d’inachevé",
+   "summary": "OL Lyonnes a largement dominé Toulouse samedi au Parc OL (5-0), trois jours après son nul contre Chelsea. Mais malgré l’ampleur du score, les nombreuses joueuses relancées par Jonatan Giráldez n’ont pas toutes profité de l’occasion pour marquer des points.",
+   "url": "https://www.butfootballclub.fr/1702562-ol-la-victoire-contre-toulouse-laisse-un-gout-dinacheve/",
+   "source": "But! Football Club",
+   "author": "Wladimir DELCROS",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F3a8535a8-ol-la-victoire-contre-toulouse-laisse-un-gout-dinacheve-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-03T18:06:09+00:00"
+  },
+  {
+   "id": "ollyonnessimposefacilementcontretoulouse50",
+   "title": "OL Lyonnes s'impose facilement contre Toulouse (5-0)",
+   "summary": "Face à un adversaire vaillant mais limité, OL Lyonnes a signé une nouvelle victoire en Première Ligue (5-0). Néanmoins, le visage montré par les habituelles remplaçantes n'a pas forcément été fameux.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-simpose-facilement-contre-toulouse-5-0,409271.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260930__C9UY7VJ__v1__HighRes__FblEurC1WomenLyonChelsea-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-03T17:53:08+00:00"
+  },
+  {
+   "id": "revivezollyonnestoulouse",
+   "title": "Revivez OL Lyonnes - Toulouse",
    "summary": "Trois jours après le nul contre Chelsea, OL Lyonnes retrouve le championnat avec la réception de Toulouse. Face au promu, la formation rhodanienne espère continuer son sans-faute en Première Ligue avant de partir en trêve internationale.",
    "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-toulouse-a-suivre-en-direct,409091.html",
    "source": "Olympique-et-Lyonnais",
@@ -86,17 +119,6 @@
    "publishedAt": "2026-10-03T11:40:00+00:00"
   },
   {
-   "id": "realmadridolmercatounclubprendlapolepourendrick",
-   "title": "Real Madrid, OL Mercato : un club prend la pole pour Endrick",
-   "summary": "En manque de temps de jeu au Real Madrid, Endrick se rapproche d’un nouveau prêt cet hiver, avec l’AS Roma en pole position. En cruel manque de temps de jeu au Real Madrid, Endrick pourrait de nouveau faire ses valises lors du prochain mercato hivernal.",
-   "url": "https://www.butfootballclub.fr/1702491-real-madrid-ol-mercato-un-club-prend-la-pole-pour-endrick/",
-   "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fc9e9f835-real-madrid-ol-mercato-un-club-prend-la-pole-pour-endrick.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-03T11:20:00+00:00"
-  },
-  {
    "id": "liguedeschampionsollyonnesmuetunepremiredepuis2023",
    "title": "Ligue des champions : OL Lyonnes muet, une première depuis 2023",
    "summary": "Auteur de 30 buts sur le début de saison, OL Lyonnes est resté muet mercredi soir contre Chelsea. Cela faisait depuis 2023 que la formation lyonnaise n’avait plus réussi à marquer à la maison en Ligue des champions.",
@@ -150,28 +172,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FCapture-decran-2025-10-14-134247-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-10-03T08:15:00+00:00"
-  },
-  {
-   "id": "ollyonnestoulouseversunlargeturnoverdelapartdegiraldez",
-   "title": "OL Lyonnes - Toulouse : vers un large turnover de la part de Giraldez ?",
-   "summary": "Trois jours après le nul concédé face à Chelsea, OL Lyonnes retrouve la Première Ligue avec la venue de Toulouse ce samedi (18h). Pour ce rendez-vous, Jonatan Giráldez devrait procéder à un large turnover, toujours dans son désir de concerner tout son groupe.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-toulouse-vers-un-large-turnover-de-la-part-de-giraldez,409252.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260425__A8XM3R7__v1__HighRes__FblEurC1WomenLyonTraining-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-10-03T07:30:00+00:00"
-  },
-  {
-   "id": "ollyonnesreoittoulouseavantlatrve",
-   "title": "OL Lyonnes reçoit Toulouse avant la trêve",
-   "summary": "Après trois victoires en autant de journées d’Arkema Première Ligue, OL Lyonnes accueille Toulouse ce samedi à 18h au Groupama Stadium.",
-   "url": "https://www.lyonfoot.com/article/14370/ol-lyonnes-recoit-toulouse-avant-la-treve",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abfbc8ff3831-jonatan-giraldez-ol-lyonnes.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-03T05:10:00+00:00"
   },
   {
    "id": "blessavecsaslectioncedfenseurdelolseratilremispourlens",
