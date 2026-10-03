@@ -1,12 +1,123 @@
 {
- "updatedAt": "2026-10-03T05:16:51+00:00",
+ "updatedAt": "2026-10-03T11:38:00+00:00",
  "sources": [
   "20 Minutes",
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "realmadridolmercatounclubprendlapolepourendrick",
+   "title": "Real Madrid, OL Mercato : un club prend la pole pour Endrick",
+   "summary": "En manque de temps de jeu au Real Madrid, Endrick se rapproche d’un nouveau prêt cet hiver, avec l’AS Roma en pole position. En cruel manque de temps de jeu au Real Madrid, Endrick pourrait de nouveau faire ses valises lors du prochain mercato hivernal.",
+   "url": "https://www.butfootballclub.fr/1702491-real-madrid-ol-mercato-un-club-prend-la-pole-pour-endrick/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fc9e9f835-real-madrid-ol-mercato-un-club-prend-la-pole-pour-endrick.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-03T11:20:00+00:00"
+  },
+  {
+   "id": "liguedeschampionsollyonnesmuetunepremiredepuis2023",
+   "title": "Ligue des champions : OL Lyonnes muet, une première depuis 2023",
+   "summary": "Auteur de 30 buts sur le début de saison, OL Lyonnes est resté muet mercredi soir contre Chelsea. Cela faisait depuis 2023 que la formation lyonnaise n’avait plus réussi à marquer à la maison en Ligue des champions.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-des-champions-ol-lyonnes-muet-une-premiere-depuis-2023,409257.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260930__2297937714__v1__HighRes__OlLyonnesVChelseaFcUefaWomenSChampionsLeague-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-03T10:40:00+00:00"
+  },
+  {
+   "id": "psgolunmaillotspcialpouroctobrerose",
+   "title": "PSG - OL : un maillot spécial pour Octobre Rose",
+   "summary": "Le Paris Saint-Germain portera un maillot spécial à l'occasion de la réception de l'OL, le dimanche 25 octobre au Parc des Princes. Cette rencontre de la 8e journée de Ligue 1 s'inscrit dans la campagne d'Octobre Rose, dédiée à la sensibilisation et à la lutte contre le cancer du sein.",
+   "url": "https://www.olympique-et-lyonnais.com/psg-ol-un-maillot-special-pour-octobre-rose,409023.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260419__A8CF82K__v1__HighRes__FblFraLigue1PsgLyon-e1776634636515-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-03T09:50:00+00:00"
+  },
+  {
+   "id": "conseilmunicipaldelyoncurlyonnaisquittelasanceetdnonceundnid",
+   "title": "Conseil municipal de Lyon : Cœur Lyonnais quitte la séance et dénonce un \"déni de démocratie\"",
+   "summary": "La séance du conseil municipal de Lyon a été interrompue ce vendredi 2 octobre après le départ de plusieurs élus d’opposition. Le groupe Cœur Lyonnais justifie son geste en dénonçant un manque de réponses de la majorité, l’attitude de l’exécutif et l’absence de Grégory Doucet au début de la séance.",
+   "url": "https://www.lyonmag.com/article/154251/conseil-municipal-de-lyon-coeur-lyonnais-quitte-la-seance-et-denonce-un-deni-de-democratie",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac0cc36528fe-55183815473-3ab5329700-o.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-03T09:30:00+00:00"
+  },
+  {
+   "id": "avantlollensretrouvedelaconfiancefaceaustandarddelige",
+   "title": "Avant l'OL, Lens retrouve de la confiance face au Standard de Liège",
+   "summary": "Une semaine avant de recevoir l'Olympique lyonnais, le RC Lens accueillait le Standard de Liège dans une rencontre amicale. L'objectif était de se remettre dans le bain et de reprendre de la confiance.",
+   "url": "https://www.olympique-et-lyonnais.com/avant-lol-lens-retrouve-de-la-confiance-face-au-standard-de-liege,409210.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FLens-e1790950695406-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-03T09:00:00+00:00"
+  },
+  {
+   "id": "olcinqinternationauxprennentlerelaiscesamedi",
+   "title": "OL : cinq internationaux prennent le relais ce samedi",
+   "summary": "Encore quelques jours et les Lyonnais seront de retour dans le Rhône pour entamer le mois d'octobre. En attendant, il reste quelques matchs à disputer pour conclure en beauté cette trêve internationale.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-cinq-internationaux-prennent-le-relais-ce-samedi,409106.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FCapture-decran-2025-10-14-134247-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-10-03T08:15:00+00:00"
+  },
+  {
+   "id": "ollyonnestoulouseversunlargeturnoverdelapartdegiraldez",
+   "title": "OL Lyonnes - Toulouse : vers un large turnover de la part de Giraldez ?",
+   "summary": "Trois jours après le nul concédé face à Chelsea, OL Lyonnes retrouve la Première Ligue avec la venue de Toulouse ce samedi (18h). Pour ce rendez-vous, Jonatan Giráldez devrait procéder à un large turnover, toujours dans son désir de concerner tout son groupe.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-toulouse-vers-un-large-turnover-de-la-part-de-giraldez,409252.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260425__A8XM3R7__v1__HighRes__FblEurC1WomenLyonTraining-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-10-03T07:30:00+00:00"
+  },
+  {
+   "id": "olenfindesminutespouropendaaveclabelgiquegreifdcisif",
+   "title": "OL : enfin des minutes pour Openda avec la Belgique, Greif décisif",
+   "summary": "Pour cette nouvelle journée de trêve internationale, Loïs Openda a connu ses premières minutes avec la Belgique. L'attaquant de l'OL a joué une dizaine de minutes, tandis que Dominik Greif et la Slovaquie ont partagé les points avec les Îles Féroé en Ligue des Nations.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-enfin-des-minutes-pour-openda-avec-la-belgique-greif-decisif,409250.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FLois-Openda-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-03T06:44:36+00:00"
+  },
+  {
+   "id": "plusieursanciensdelolrunismetzpourlejubilderobertpirs",
+   "title": "Plusieurs anciens de l'OL réunis à Metz pour le jubilé de Robert Pirès",
+   "summary": "Le jubilé de Robert Pirès s'annonce riche en légendes du football français et international. Organisé mardi 6 octobre à 20h45, au stade Saint-Symphorien, à Metz, l'événement va permettre de revoir plusieurs lyonnais.",
+   "url": "https://www.olympique-et-lyonnais.com/plusieurs-anciens-de-lol-reunis-a-metz-pour-le-jubile-de-robert-pires,408933.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FIMG_3718-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-10-03T06:00:00+00:00"
+  },
+  {
+   "id": "olacadmiejosumbalaaveclesu15franaispourunmondialindit",
+   "title": "OL Académie : Josué M'Bala avec les U15 français pour un Mondial inédit",
+   "summary": "L'Olympique lyonnais sera représenté chez les U15 français. Le défenseur Josué M'Bala a été retenu par l'équipe de France. Il participera à la Coupe du monde de sa catégorie. C'est une nouvelle convocation internationale pour un Lyonnais.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-josue-mbala-avec-les-u15-francais-pour-un-mondial-inedit,409172.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2020%2F01%2FOLacad%C3%A9mie-650x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-03T05:30:00+00:00"
+  },
   {
    "id": "ollyonnesreoittoulouseavantlatrve",
    "title": "OL Lyonnes reçoit Toulouse avant la trêve",
@@ -52,17 +163,6 @@
    "publishedAt": "2026-10-02T16:25:00+00:00"
   },
   {
-   "id": "olultimeentranementavantunweekendderepos",
-   "title": "OL : ultime entraînement avant un week-end de repos",
-   "summary": "Cinq séances et puis un peu de repos. L'OL a le temps avant son prochain match à Lens. Les joueurs souffleront donc samedi et dimanche après des entraînements du lundi à ce vendredi.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-ultime-entrainement-avant-un-week-end-de-repos,409184.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F07%2FDSC01537-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-02T15:40:00+00:00"
-  },
-  {
    "id": "blessavecsaslectioncedfenseurdelolseratilremispourlens",
    "title": "Blessé avec sa sélection, ce défenseur de l'OL sera-t-il remis pour Lens ?",
    "summary": "C'est potentiellement un coup dur pour Paulo Fonseca.",
@@ -72,28 +172,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abfcffad7000-niakhate-tagliafico-ol.jpg&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-10-02T15:37:00+00:00"
-  },
-  {
-   "id": "ollyonnescinqfenottesaumondialu17aveclquipedefrance",
-   "title": "OL Lyonnes : cinq Fenottes au Mondial U17 avec l'équipe de France",
-   "summary": "OL Lyonnes est le club le plus représenté en équipe de France. Cinq Lyonnaises sont présentes dans la liste de la FFF, pour participer au prochain Mondial U17, qui se déroulera au Maroc.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-cinq-fenottes-au-mondial-u17-avec-lequipe-de-france,409186.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2Fd45254a73b8b2ad9a7b92bc3a6b71caa-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-10-02T14:50:00+00:00"
-  },
-  {
-   "id": "olacadmieleprogrammeduweekend",
-   "title": "OL Académie : le programme du week-end",
-   "summary": "Après un week-end sans matchs pour plusieurs équipes de l'académie, les jeunes Lyonnais et Lyonnaises retrouvent les terrains ce week-end. Du samedi 3 au dimanche 4 octobre, plusieurs formations de l'OL et d'OL Lyonnes sont engagées.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-le-programme-du-week-end-106,409032.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2021%2F06%2FJeunes-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-10-02T14:00:00+00:00"
   },
   {
    "id": "cettecoursecestunandecombatsde120kgausemimarathondelyoncomme",
@@ -107,39 +185,6 @@
    "publishedAt": "2026-10-02T13:39:21+00:00"
   },
   {
-   "id": "martinsatrianogetafeselivresursonpassagelol",
-   "title": "Martin Satriano (Getafe) se livre sur son passage à l'OL",
-   "summary": "Transféré définitivement à Getafe, Martin Satriano est revenu sur ses expériences en Ligue 1. Passé par Brest, Lens puis l'OL, l'attaquant uruguayen conserve un souvenir \"étrange\" de son aventure lyonnaise.",
-   "url": "https://www.olympique-et-lyonnais.com/martin-satriano-getafe-se-livre-sur-son-passage-a-lol,409155.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FAFP__20251002__77JQ436__v1__HighRes__FblEurC3LyonSalzburg-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-02T13:10:00+00:00"
-  },
-  {
-   "id": "ollyonneslecalendrierdumoisdoctobreentred1etliguedeschampion",
-   "title": "OL Lyonnes : le calendrier du mois d'octobre, entre D1 et Ligue des champions",
-   "summary": "5 matchs en septembre, autant en octobre. OL Lyonnes s'apprête à vivre un mois très dense après la trêve internationale. Les joueuses de Jonatan Giraldez disputeront des affiches de Première Ligue ainsi qu'une rencontre de Ligue des champions.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-le-calendrier-du-mois-doctobre-entre-d1-et-ligue-des-champions,409163.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20260930__2297951718__v1__HighRes__OlLyonnesVChelseaFcUefaWomenSChampionsLeague-e1790937687906-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-02T12:20:00+00:00"
-  },
-  {
-   "id": "aprssonexpulsioncontrelangleterrelecoachtchquesoutientpavelu",
-   "title": "Après son expulsion contre l'Angleterre, le coach tchèque soutient Pavel Šulc (OL)",
-   "summary": "Décidément bien malheureux en sélection actuellement, Pavel Šulc a pénalisé la Tchéquie mardi en prenant un carton rouge face à l'Angleterre. Mais son sélectionneur garde confiance en lui.",
-   "url": "https://www.olympique-et-lyonnais.com/apres-son-expulsion-contre-langleterre-le-coach-tcheque-soutient-pavel-sulc-ol,409173.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAFP__20260618__wvolcov_czech_republic_south_africa_18062026_0091__v1__HighRes__FifaW-e1782108850565-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-02T11:30:00+00:00"
-  },
-  {
    "id": "museannoncedeuxconcertslaldlcarenadedcinesen2027",
    "title": "Muse annonce deux concerts à la LDLC Arena de Décines en 2027",
    "summary": "Muse va faire son retour dans la métropole lyonnaise.",
@@ -151,17 +196,6 @@
    "publishedAt": "2026-10-02T11:09:00+00:00"
   },
   {
-   "id": "olcinqinternationauxlyonnaisenactioncevendredi",
-   "title": "OL : cinq internationaux lyonnais en action ce vendredi",
-   "summary": "La trêve internationale touche progressivement à sa fin, mais il reste encore quelques matchs à disputer pour les Lyonnais. Ils retourneront ensuite dans le Rhône pour préparer le déplacement à Lens dans une semaine.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-cinq-internationaux-lyonnais-en-action-ce-vendredi,408919.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FGreif-1-e1790491783396-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-02T10:40:00+00:00"
-  },
-  {
    "id": "tennislelyonnaiskyrianjacquetentredansletop100mondial",
    "title": "Tennis : le Lyonnais Kyrian Jacquet entre dans le Top 100 mondial",
    "summary": "Le Lyonnais Kyrian Jacquet vient de franchir un cap important dans sa carrière.",
@@ -171,17 +205,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abf7f4c32d01-jacquet.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-02T09:51:00+00:00"
-  },
-  {
-   "id": "maxencecaqueretcmeamersurlafindesonhistoirelol",
-   "title": "Maxence Caqueret (Côme) amer sur la fin de son histoire à l'OL",
-   "summary": "Parti de l'OL en janvier 2025 pour rejoindre Côme, Maxence Caqueret a longtemps gardé une certaine discrétion sur les derniers mois de son aventure lyonnaise.",
-   "url": "https://www.olympique-et-lyonnais.com/maxence-caqueret-come-amer-sur-la-fin-de-son-histoire-a-lol,409142.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F05%2F000_34TZ9KQ-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-02T09:50:00+00:00"
   },
   {
    "id": "ligueeuropalespremiersmillionsdeluefatombentpourlol",
@@ -204,39 +227,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abdf23cde4e9-zj206822.png&w=800&output=webp&q=78",
    "topic": "Féminines",
    "publishedAt": "2026-10-01T05:36:00+00:00"
-  },
-  {
-   "id": "deuxjoueusesdelollyonnesnommespouruntrophe",
-   "title": "Deux joueuses de l'OL Lyonnes nommées pour un trophée",
-   "summary": "Jule Brand et Melchie Dumornay font partie des trois joueuses nommées pour le Trophée UNFP de la Joueuse du mois de septembre.",
-   "url": "https://www.lyonfoot.com/article/14347/ol-lyonnes-brand-et-dumornay-en-lice-pour-le-trophee-unfp",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abd1e2e1359e-1200x675-6abd081e12cf7-d1-nommees-16-9.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-09-30T14:33:00+00:00"
-  },
-  {
-   "id": "jo2030geoffroyrouxdebzieuxpressentipoursuccderedgargrospiron",
-   "title": "JO 2030 : Geoffroy Roux de Bézieux pressenti pour succéder à Edgar Grospiron",
-   "summary": "Le futur patron des Alpes françaises 2030 sera-t-il d’origine lyonnaise ?",
-   "url": "https://www.lyonmag.com/article/154210/jo-2030-geoffroy-roux-de-bezieux-d-origine-lyonnaise-pressenti-pour-succeder-a-edgar-grospiron",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abd185fdf01b-roux-de-bzieux.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-09-30T14:02:00+00:00"
-  },
-  {
-   "id": "unedizainedelycestouchspardesrassemblementsviolentslyonlesfo",
-   "title": "Une dizaine de lycées touchés par des rassemblements violents à Lyon : les forces de l’ordre déployées en nombre, 30 interpellations",
-   "summary": "Pas de retour au calme devant les lycées de l'agglomération lyonnaise.",
-   "url": "https://www.lyonmag.com/article/154207/une-dizaine-de-lycees-touches-par-des-rassemblements-violents-a-lyon-les-forces-de-l-ordre-deployees-en-nombre",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abcbbac904b0-7172faa6-250e-40a8-8706-077601e93f23.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-09-30T08:56:00+00:00"
   },
   {
    "id": "nicelilletrsbonneoprationpourlesnioislillelaisselepodiumlole",
