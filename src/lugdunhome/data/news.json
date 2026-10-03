@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-02T22:12:40+00:00",
+ "updatedAt": "2026-10-03T05:16:51+00:00",
  "sources": [
   "20 Minutes",
   "Lyon Mag",
@@ -7,6 +7,28 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ollyonnesreoittoulouseavantlatrve",
+   "title": "OL Lyonnes reçoit Toulouse avant la trêve",
+   "summary": "Après trois victoires en autant de journées d’Arkema Première Ligue, OL Lyonnes accueille Toulouse ce samedi à 18h au Groupama Stadium.",
+   "url": "https://www.lyonfoot.com/article/14370/ol-lyonnes-recoit-toulouse-avant-la-treve",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abfbc8ff3831-jonatan-giraldez-ol-lyonnes.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-03T05:10:00+00:00"
+  },
+  {
+   "id": "lelouveutsejaugerfacelunionbordeauxbgles",
+   "title": "Le LOU veut se jauger face à l'Union Bordeaux Bègles",
+   "summary": "Le LOU se déplace sur la pelouse de Bordeaux ce samedi 3 octobre à 14h30 pour le compte de la 5e journée de Top 14. Après trois victoires pour lancer sa saison puis un premier revers face au Stade Français, les Lyonnais veulent rebondir et se jauger face à l’une des grosses équipes du championnat.",
+   "url": "https://www.lyonmag.com/article/154236/lou",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abf44b432d78-img-7036.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-03T04:30:00+00:00"
+  },
   {
    "id": "ollyonnesnelhagerevientcontretoulouseegurrolaetdumornayaurep",
    "title": "OL Lyonnes : Nelhage revient contre Toulouse, Egurrola et Dumornay au repos",
