@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-03T11:38:00+00:00",
+ "updatedAt": "2026-10-03T16:16:22+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,83 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ollyonnestoulousesuivreendirect",
+   "title": "OL Lyonnes - Toulouse à suivre en direct",
+   "summary": "Trois jours après le nul contre Chelsea, OL Lyonnes retrouve le championnat avec la réception de Toulouse. Face au promu, la formation rhodanienne espère continuer son sans-faute en Première Ligue avant de partir en trêve internationale.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-toulouse-a-suivre-en-direct,409091.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260930__C9V277W__v1__HighRes__FblEurC1WomenLyonChelsea-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-10-03T15:55:00+00:00"
+  },
+  {
+   "id": "ollyonnestoulousebrandseulerescapedechelsea",
+   "title": "OL Lyonnes - Toulouse : Brand seule rescapée de Chelsea",
+   "summary": "Trois jours après le nul en Ligue des champions, OL Lyonnes est de nouveau sur le pont, en Première Ligue cette fois-ci. Face à Toulouse, Jonatan Giráldez a choisi de changer presque tout son onze de départ.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-toulouse-brand-seule-rescapee-de-chelsea,409266.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260930__C9UY7UN__v1__HighRes__FblEurC1WomenLyonChelsea-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-03T15:21:13+00:00"
+  },
+  {
+   "id": "lelousincline5128bordeauxaprsunepremirepriodesensunique",
+   "title": "Le LOU s’incline 51-28 à Bordeaux après une première période à sens unique",
+   "summary": "Débordé avant la pause, le LOU a perdu samedi à Bordeaux-Bègles (51-28), malgré une réaction en seconde période. Les Lyonnais retrouveront Gerland samedi 10 octobre pour recevoir La Rochelle.",
+   "url": "https://www.lyonmag.com/article/154236/le-lou-s-incline-51-28-a-bordeaux-apres-une-premiere-periode-a-sens-unique",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac118757f4b7-831327299-28916130984693976-2985558168254769651-n.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-03T15:00:00+00:00"
+  },
+  {
+   "id": "nelhageollyonnesderetourcontretoulouseetretenueaveclasude",
+   "title": "Nelhage (OL Lyonnes) de retour contre Toulouse et retenue avec la Suède",
+   "summary": "De retour dans le groupe d'OL Lyonnes ce samedi pour affronter Toulouse, Elma Juntilla Nelhage prendra la direction de la Suède pendant la trêve internationale. La défenseuse affrontera la Lituanie en barrages européens pour la Coupe du monde 2027.",
+   "url": "https://www.olympique-et-lyonnais.com/nelhage-ol-lyonnes-de-retour-contre-toulouse-et-retenue-avec-la-suede,409262.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2Felma-junttila-nelhage-aterbud-770x433.avif&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-03T13:40:00+00:00"
+  },
+  {
+   "id": "gleventsremportelaconcessionducentredescongrsdelimaauproupou",
+   "title": "GL events remporte la concession du centre des congrès de Lima au Pérou pour 15 ans",
+   "summary": "Le groupe lyonnais GL events annonce avoir remporté la concession du Lima Convention Center, au Pérou. Le contrat doit porter sur 15 ans et permettre au spécialiste de l’événementiel d’exploiter un site capable d’accueillir jusqu’à 10 000 personnes.",
+   "url": "https://www.lyonmag.com/article/154247/gl-events-remporte-la-concession-du-centre-des-congres-de-lima-au-perou-pour-15-ans",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac09c6db33e7-lcc-028.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-03T13:00:00+00:00"
+  },
+  {
+   "id": "unedfaitedepluspourlafranceu20avecmerahetkamaratitulaires",
+   "title": "Une défaite de plus pour la France U20 avec Merah et Kamara titulaires",
+   "summary": "Ce samedi, l'équipe de France U20 disputait son dernier match amical de la trêve. Les jeunes Français se sont une nouvelle fois inclinés face à l'Italie, malgré les présences de Khalis Merah et Noham Kamara dans le onze de départ.",
+   "url": "https://www.olympique-et-lyonnais.com/une-defaite-de-plus-pour-la-france-u20-avec-merah-et-kamara-titulaires,409264.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2FAFP__20251009__786V2Q6__v1__HighRes__FblWcU202025JpnFra-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-03T12:40:00+00:00"
+  },
+  {
+   "id": "olacadmieunerserveamoindrieserenddanslejura",
+   "title": "OL Académie : une réserve amoindrie se rend dans le Jura",
+   "summary": "Malgré la trêve internationale, la réserve de l’OL dispute bien un match de championnat ce samedi soir (18h). Gueïda Fofana doit composer avec plusieurs absences pour se rendre à Jura Dolois, co-leader de la poule.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-une-reserve-amoindrie-se-rend-dans-le-jura,409260.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F07%2FIMG_2961-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-03T11:40:00+00:00"
+  },
   {
    "id": "realmadridolmercatounclubprendlapolepourendrick",
    "title": "Real Madrid, OL Mercato : un club prend la pole pour Endrick",
@@ -86,39 +163,6 @@
    "publishedAt": "2026-10-03T07:30:00+00:00"
   },
   {
-   "id": "olenfindesminutespouropendaaveclabelgiquegreifdcisif",
-   "title": "OL : enfin des minutes pour Openda avec la Belgique, Greif décisif",
-   "summary": "Pour cette nouvelle journée de trêve internationale, Loïs Openda a connu ses premières minutes avec la Belgique. L'attaquant de l'OL a joué une dizaine de minutes, tandis que Dominik Greif et la Slovaquie ont partagé les points avec les Îles Féroé en Ligue des Nations.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-enfin-des-minutes-pour-openda-avec-la-belgique-greif-decisif,409250.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FLois-Openda-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-03T06:44:36+00:00"
-  },
-  {
-   "id": "plusieursanciensdelolrunismetzpourlejubilderobertpirs",
-   "title": "Plusieurs anciens de l'OL réunis à Metz pour le jubilé de Robert Pirès",
-   "summary": "Le jubilé de Robert Pirès s'annonce riche en légendes du football français et international. Organisé mardi 6 octobre à 20h45, au stade Saint-Symphorien, à Metz, l'événement va permettre de revoir plusieurs lyonnais.",
-   "url": "https://www.olympique-et-lyonnais.com/plusieurs-anciens-de-lol-reunis-a-metz-pour-le-jubile-de-robert-pires,408933.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FIMG_3718-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-10-03T06:00:00+00:00"
-  },
-  {
-   "id": "olacadmiejosumbalaaveclesu15franaispourunmondialindit",
-   "title": "OL Académie : Josué M'Bala avec les U15 français pour un Mondial inédit",
-   "summary": "L'Olympique lyonnais sera représenté chez les U15 français. Le défenseur Josué M'Bala a été retenu par l'équipe de France. Il participera à la Coupe du monde de sa catégorie. C'est une nouvelle convocation internationale pour un Lyonnais.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-josue-mbala-avec-les-u15-francais-pour-un-mondial-inedit,409172.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2020%2F01%2FOLacad%C3%A9mie-650x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-03T05:30:00+00:00"
-  },
-  {
    "id": "ollyonnesreoittoulouseavantlatrve",
    "title": "OL Lyonnes reçoit Toulouse avant la trêve",
    "summary": "Après trois victoires en autant de journées d’Arkema Première Ligue, OL Lyonnes accueille Toulouse ce samedi à 18h au Groupama Stadium.",
@@ -128,39 +172,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abfbc8ff3831-jonatan-giraldez-ol-lyonnes.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-03T05:10:00+00:00"
-  },
-  {
-   "id": "lelouveutsejaugerfacelunionbordeauxbgles",
-   "title": "Le LOU veut se jauger face à l'Union Bordeaux Bègles",
-   "summary": "Le LOU se déplace sur la pelouse de Bordeaux ce samedi 3 octobre à 14h30 pour le compte de la 5e journée de Top 14. Après trois victoires pour lancer sa saison puis un premier revers face au Stade Français, les Lyonnais veulent rebondir et se jauger face à l’une des grosses équipes du championnat.",
-   "url": "https://www.lyonmag.com/article/154236/lou",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abf44b432d78-img-7036.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-03T04:30:00+00:00"
-  },
-  {
-   "id": "ollyonnesnelhagerevientcontretoulouseegurrolaetdumornayaurep",
-   "title": "OL Lyonnes : Nelhage revient contre Toulouse, Egurrola et Dumornay au repos",
-   "summary": "Dernier match avant la trêve pour OL Lyonnes. Samedi, les Rhodaniennes reçoivent Toulouse (18 heures), avec Elma Nelhage, mais sans Melchie Dumornay Il reste quelques efforts à finir pour boucler ce début de saison avec le sourire.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-nelhage-revient-contre-toulouse-egurrola-et-dumornay-au-repos,409239.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FAFP__20251015__2240814711__v1__HighRes__OlLyonnesVSknStPoltenUefaWomenSChampionsLeag-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-02T17:40:00+00:00"
-  },
-  {
-   "id": "oljeunedansleschiffresmoinssurletempsdejeuenligue1",
-   "title": "OL : jeune dans les chiffres, moins sur le temps de jeu en Ligue 1",
-   "summary": "L'OL fait partie des équipes les plus jeunes de Ligue 1 depuis le début de la saison. Mais derrière cette moyenne d'âge relativement basse, les U21 disposent encore d'un temps de jeu limité.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-jeune-dans-les-chiffres-moins-sur-le-temps-de-jeu-en-ligue-1,409227.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2Folympique_lyonnais_v_paok_fc_-_uefa_europa_league_2025_26_league_phase_md8-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-02T16:25:00+00:00"
   },
   {
    "id": "blessavecsaslectioncedfenseurdelolseratilremispourlens",
