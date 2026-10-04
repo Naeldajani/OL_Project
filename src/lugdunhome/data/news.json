@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-03T23:46:26+00:00",
+ "updatedAt": "2026-10-04T05:50:25+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ollyonnestoulouse50girldeznapasvuunmatchdetopniveau",
+   "title": "OL Lyonnes - Toulouse (5-0) : Giráldez n'a pas vu un match de \"top niveau\"",
+   "summary": "Trois jours après le nul contre Chelsea, OL Lyonnes a renoué avec la victoire face à Toulouse. Malgré un nouveau score fleuve (5-0), Jonatan Giráldez n'était pas forcément satisfait du visage de son équipe, notamment en première mi-temps.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-toulouse-5-0-giraldez-na-pas-vu-un-match-de-top-niveau,409276.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FCapture-decran-2025-10-08-065544-e1760692506703-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-04T05:30:00+00:00"
+  },
   {
    "id": "ollyonnesretrouvelechemindesfiletscontretoulouseavantlatrve",
    "title": "OL Lyonnes retrouve le chemin des filets contre Toulouse avant la trêve",
@@ -161,17 +172,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FLens-e1790950695406-770x433.jpeg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-03T09:00:00+00:00"
-  },
-  {
-   "id": "olcinqinternationauxprennentlerelaiscesamedi",
-   "title": "OL : cinq internationaux prennent le relais ce samedi",
-   "summary": "Encore quelques jours et les Lyonnais seront de retour dans le Rhône pour entamer le mois d'octobre. En attendant, il reste quelques matchs à disputer pour conclure en beauté cette trêve internationale.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-cinq-internationaux-prennent-le-relais-ce-samedi,409106.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FCapture-decran-2025-10-14-134247-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-10-03T08:15:00+00:00"
   },
   {
    "id": "blessavecsaslectioncedfenseurdelolseratilremispourlens",
