@@ -1,13 +1,133 @@
 {
- "updatedAt": "2026-10-04T05:50:25+00:00",
+ "updatedAt": "2026-10-04T12:19:48+00:00",
  "sources": [
-  "20 Minutes",
   "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olquatrelyonnaisenpistecedimanche",
+   "title": "OL : quatre Lyonnais en piste ce dimanche",
+   "summary": "Plus que trois jours avant la fin de la trêve internationale pour les joueurs de l'OL, qui retourneront ensuite dans le Rhône pour préparer le déplacement périlleux face à Lens, ce vendredi.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-quatre-lyonnais-en-piste-ce-dimanche,409109.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260924__20260925-000933-L-2__v1__HighRes__DenmarkNationsLeagueNorwayDenmark-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-04T11:45:00+00:00"
+  },
+  {
+   "id": "dumornayollyonnesavechatipourdeuxmatchsenfrance",
+   "title": "Dumornay (OL Lyonnes) avec Haïti pour deux matchs en France",
+   "summary": "Hors du groupe samedi mais bien présente à Décines, Melchie Dumornay va désormais rejoindre sa sélection. Haïti dispute deux matchs amicaux contre le Japon et l’Australie, qui se disputeront sur le sol français.",
+   "url": "https://www.olympique-et-lyonnais.com/dumornay-ol-lyonnes-avec-haiti-pour-deux-matchs-en-france,409300.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260930__C9V277W__v1__HighRes__FblEurC1WomenLyonChelsea-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-10-04T10:45:00+00:00"
+  },
+  {
+   "id": "olcoupdurpourfonsecaavantlerclens",
+   "title": "OL : coup dur pour Fonseca avant le RC Lens ?",
+   "summary": "Nicolás Tagliafico est très incertain avec l’OL pour le choc face au RC Lens vendredi prochain à Bollaert. Une fois la trêve internationale terminée, le RC Lens et l’Olympique Lyonnais ouvriront la 6e journée de Ligue 1 par un choc à Bollaert, vendredi prochain à 20h45.",
+   "url": "https://www.butfootballclub.fr/1702659-ol-coup-dur-pour-fonseca-avant-le-rc-lens/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fc6d4f59d-ol-mauvaise-nouvelle-pour-fonseca-avant-le-rc-lens.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-04T10:30:00+00:00"
+  },
+  {
+   "id": "olacadmiezekovicbuteurdanslavictoiredelquipedefranceu17",
+   "title": "OL Académie : Zekovic buteur dans la victoire de l’équipe de France U17",
+   "summary": "Absent pour le match des U19 de l'OL ce dimanche en championnat, Bojan Zekovic est avant tout en sélection avec l'équipe de France U17. L'attaquant s'est illustré dans le large victoire contre les Etats-Unis (4-1) avec un but.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-zekovic-buteur-dans-la-victoire-de-lequipe-de-france-u17,409289.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F01%2FIMG_3272-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-04T09:45:00+00:00"
+  },
+  {
+   "id": "liguedesnationsathekameoletlasuissepoursuiventleursansfaute",
+   "title": "Ligue des Nations : Athekame (OL) et la Suisse poursuivent leur sans-faute",
+   "summary": "De nouveau titulaire pour la troisième fois du rassemblement, Zachary Athekame a encore connu la victoire. Le latéral de l'OL a joué 87 minutes dans la victoire suisse sur la Slovénie (2-1).",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-des-nations-athekame-ol-et-la-suisse-poursuivent-leur-sans-faute,409286.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261003__D26P9WB__v1__HighRes__FblEurNationsSwiSlo-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-04T08:45:00+00:00"
+  },
+  {
+   "id": "rclenscahuzacenvoieunmessageauxsupportersavantlol",
+   "title": "RC Lens : Cahuzac envoie un message aux supporters avant l’OL",
+   "summary": "À quelques jours de RC Lens – OL, Yannick Cahuzac a affiché son impatience de retrouver Bollaert et les supporters lensois. Pendant cette longue trêve internationale, le RC Lens disputait ce vendredi un match amical face au Standard de Liège.",
+   "url": "https://www.butfootballclub.fr/1702618-rc-lens-cahuzac-envoie-un-message-aux-supporters-avant-lol/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F890cb312-pronostic-as-monaco-rc-lens-cahuzac-va-t-il-reussir-sa-premiere.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-04T08:00:00+00:00"
+  },
+  {
+   "id": "ollyonnesbenyahiacontentedaiderlquipe",
+   "title": "OL Lyonnes : Benyahia \"contente d'aider l'équipe\"",
+   "summary": "En manque de temps de jeu depuis le début de la saison, Inès Benyahia a profité du large turnover de Jonatan Giráldez pour se mettre en évidence. La numéro 10 d'OL Lyonnes espère avoir un rôle à jouer cette saison.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-benyahia-contente-daider-lequipe,409283.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FAFP__20251015__2241254377__v3__HighRes__OlLyonnesVSknStPoltenUefaWomenSChampionsLeag-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-04T07:45:00+00:00"
+  },
+  {
+   "id": "realmadridmercatoendrickderetourlolunpremierverdictesttomb",
+   "title": "Real Madrid Mercato : Endrick de retour à l’OL, un premier verdict est tombé !",
+   "summary": "Un sondage réalisé par nos soins révèle qu’une majorité de supporters lyonnais est favorable au retour d’Endrick cet hiver.",
+   "url": "https://www.butfootballclub.fr/1702573-real-madrid-mercato-endrick-de-retour-a-lol-un-premier-verdict-est-tombe/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Ffbcdae2c-real-madrid-ol-mercato-cest-confirme-pour-endrick.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-04T07:00:00+00:00"
+  },
+  {
+   "id": "nicolastagliaficoolunenouvellefoisprservlorsdargentineburkin",
+   "title": "Nicolas Tagliafico (OL) une nouvelle fois préservé lors d'Argentine - Burkina Faso",
+   "summary": "S'entraînant avant tout de façon individuelle depuis le début du rassemblement, Nicolás Tagliafico a une nouvelle fois fait l'impasse sur l'amical contre le Burkina Faso. Le latéral n'était pas sur la feuille de match dans la large victoire de l'Argentine.",
+   "url": "https://www.olympique-et-lyonnais.com/nicolas-tagliafico-ol-une-nouvelle-fois-preserve-lors-dargentine-burkina-faso,409280.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260719__2286798444__v1__HighRes__SpainVArgentinaFinalFifaWorldCup2026-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-04T06:45:00+00:00"
+  },
+  {
+   "id": "olunbutasuffiaubonheurdelarservejuradolois",
+   "title": "OL : un but a suffi au bonheur de la réserve à Jura Dolois",
+   "summary": "En déplacement dans le Jura pour la quatrième journée de National 2, la réserve de l'OL a signé sa deuxième victoire de la saison. Un but contre son camp du club jurassien a suffi au bonheur rhodanien.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-un-but-a-suffi-au-bonheur-de-la-reserve-a-jura-dolois,409278.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3757-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-04T06:00:00+00:00"
+  },
+  {
+   "id": "psgrclensomolstaderennaislesnommsautropheunfpfontpolmique",
+   "title": "PSG, RC Lens, OM, OL, Stade Rennais : les nommés au trophée UNFP font polémique !",
+   "summary": "Les nominés pour le trophée UNFP du joueur de Ligue 1 du mois de septembre font beaucoup parler. Cette semaine, les trois nommés pour le trophée UNFP du meilleur joueur de Ligue 1 du mois de septembre ont été dévoilés.",
+   "url": "https://www.butfootballclub.fr/1702590-psg-rc-lens-om-ol-stade-rennais-les-nommes-au-trophee-unfp-font-polemique/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F9bce6a73-psg-barca-ferran-torres-a-deja-lance-les-hostilites-avant-le-choc.jpg&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-10-04T06:00:00+00:00"
+  },
   {
    "id": "ollyonnestoulouse50girldeznapasvuunmatchdetopniveau",
    "title": "OL Lyonnes - Toulouse (5-0) : Giráldez n'a pas vu un match de \"top niveau\"",
@@ -29,17 +149,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac14714b7e91-htuw12wwwaaswcy.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-03T18:10:00+00:00"
-  },
-  {
-   "id": "ollavictoirecontretoulouselaisseungotdinachev",
-   "title": "OL : la victoire contre Toulouse laisse un goût d’inachevé",
-   "summary": "OL Lyonnes a largement dominé Toulouse samedi au Parc OL (5-0), trois jours après son nul contre Chelsea. Mais malgré l’ampleur du score, les nombreuses joueuses relancées par Jonatan Giráldez n’ont pas toutes profité de l’occasion pour marquer des points.",
-   "url": "https://www.butfootballclub.fr/1702562-ol-la-victoire-contre-toulouse-laisse-un-gout-dinacheve/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F3a8535a8-ol-la-victoire-contre-toulouse-laisse-un-gout-dinacheve-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-03T18:06:09+00:00"
   },
   {
    "id": "ollyonnessimposefacilementcontretoulouse50",
@@ -64,17 +173,6 @@
    "publishedAt": "2026-10-03T15:55:00+00:00"
   },
   {
-   "id": "ollyonnestoulousebrandseulerescapedechelsea",
-   "title": "OL Lyonnes - Toulouse : Brand seule rescapée de Chelsea",
-   "summary": "Trois jours après le nul en Ligue des champions, OL Lyonnes est de nouveau sur le pont, en Première Ligue cette fois-ci. Face à Toulouse, Jonatan Giráldez a choisi de changer presque tout son onze de départ.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-toulouse-brand-seule-rescapee-de-chelsea,409266.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260930__C9UY7UN__v1__HighRes__FblEurC1WomenLyonChelsea-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-03T15:21:13+00:00"
-  },
-  {
    "id": "lelousincline5128bordeauxaprsunepremirepriodesensunique",
    "title": "Le LOU s’incline 51-28 à Bordeaux après une première période à sens unique",
    "summary": "Débordé avant la pause, le LOU a perdu samedi à Bordeaux-Bègles (51-28), malgré une réaction en seconde période. Les Lyonnais retrouveront Gerland samedi 10 octobre pour recevoir La Rochelle.",
@@ -84,17 +182,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac118757f4b7-831327299-28916130984693976-2985558168254769651-n.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-03T15:00:00+00:00"
-  },
-  {
-   "id": "nelhageollyonnesderetourcontretoulouseetretenueaveclasude",
-   "title": "Nelhage (OL Lyonnes) de retour contre Toulouse et retenue avec la Suède",
-   "summary": "De retour dans le groupe d'OL Lyonnes ce samedi pour affronter Toulouse, Elma Juntilla Nelhage prendra la direction de la Suède pendant la trêve internationale. La défenseuse affrontera la Lituanie en barrages européens pour la Coupe du monde 2027.",
-   "url": "https://www.olympique-et-lyonnais.com/nelhage-ol-lyonnes-de-retour-contre-toulouse-et-retenue-avec-la-suede,409262.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2Felma-junttila-nelhage-aterbud-770x433.avif&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-03T13:40:00+00:00"
   },
   {
    "id": "gleventsremportelaconcessionducentredescongrsdelimaauproupou",
@@ -108,50 +195,6 @@
    "publishedAt": "2026-10-03T13:00:00+00:00"
   },
   {
-   "id": "unedfaitedepluspourlafranceu20avecmerahetkamaratitulaires",
-   "title": "Une défaite de plus pour la France U20 avec Merah et Kamara titulaires",
-   "summary": "Ce samedi, l'équipe de France U20 disputait son dernier match amical de la trêve. Les jeunes Français se sont une nouvelle fois inclinés face à l'Italie, malgré les présences de Khalis Merah et Noham Kamara dans le onze de départ.",
-   "url": "https://www.olympique-et-lyonnais.com/une-defaite-de-plus-pour-la-france-u20-avec-merah-et-kamara-titulaires,409264.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2FAFP__20251009__786V2Q6__v1__HighRes__FblWcU202025JpnFra-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-03T12:40:00+00:00"
-  },
-  {
-   "id": "olacadmieunerserveamoindrieserenddanslejura",
-   "title": "OL Académie : une réserve amoindrie se rend dans le Jura",
-   "summary": "Malgré la trêve internationale, la réserve de l’OL dispute bien un match de championnat ce samedi soir (18h). Gueïda Fofana doit composer avec plusieurs absences pour se rendre à Jura Dolois, co-leader de la poule.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-une-reserve-amoindrie-se-rend-dans-le-jura,409260.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F07%2FIMG_2961-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-03T11:40:00+00:00"
-  },
-  {
-   "id": "liguedeschampionsollyonnesmuetunepremiredepuis2023",
-   "title": "Ligue des champions : OL Lyonnes muet, une première depuis 2023",
-   "summary": "Auteur de 30 buts sur le début de saison, OL Lyonnes est resté muet mercredi soir contre Chelsea. Cela faisait depuis 2023 que la formation lyonnaise n’avait plus réussi à marquer à la maison en Ligue des champions.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-des-champions-ol-lyonnes-muet-une-premiere-depuis-2023,409257.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260930__2297937714__v1__HighRes__OlLyonnesVChelseaFcUefaWomenSChampionsLeague-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-03T10:40:00+00:00"
-  },
-  {
-   "id": "psgolunmaillotspcialpouroctobrerose",
-   "title": "PSG - OL : un maillot spécial pour Octobre Rose",
-   "summary": "Le Paris Saint-Germain portera un maillot spécial à l'occasion de la réception de l'OL, le dimanche 25 octobre au Parc des Princes. Cette rencontre de la 8e journée de Ligue 1 s'inscrit dans la campagne d'Octobre Rose, dédiée à la sensibilisation et à la lutte contre le cancer du sein.",
-   "url": "https://www.olympique-et-lyonnais.com/psg-ol-un-maillot-special-pour-octobre-rose,409023.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260419__A8CF82K__v1__HighRes__FblFraLigue1PsgLyon-e1776634636515-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-03T09:50:00+00:00"
-  },
-  {
    "id": "conseilmunicipaldelyoncurlyonnaisquittelasanceetdnonceundnid",
    "title": "Conseil municipal de Lyon : Cœur Lyonnais quitte la séance et dénonce un \"déni de démocratie\"",
    "summary": "La séance du conseil municipal de Lyon a été interrompue ce vendredi 2 octobre après le départ de plusieurs élus d’opposition. Le groupe Cœur Lyonnais justifie son geste en dénonçant un manque de réponses de la majorité, l’attitude de l’exécutif et l’absence de Grégory Doucet au début de la séance.",
@@ -163,17 +206,6 @@
    "publishedAt": "2026-10-03T09:30:00+00:00"
   },
   {
-   "id": "avantlollensretrouvedelaconfiancefaceaustandarddelige",
-   "title": "Avant l'OL, Lens retrouve de la confiance face au Standard de Liège",
-   "summary": "Une semaine avant de recevoir l'Olympique lyonnais, le RC Lens accueillait le Standard de Liège dans une rencontre amicale. L'objectif était de se remettre dans le bain et de reprendre de la confiance.",
-   "url": "https://www.olympique-et-lyonnais.com/avant-lol-lens-retrouve-de-la-confiance-face-au-standard-de-liege,409210.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FLens-e1790950695406-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-03T09:00:00+00:00"
-  },
-  {
    "id": "blessavecsaslectioncedfenseurdelolseratilremispourlens",
    "title": "Blessé avec sa sélection, ce défenseur de l'OL sera-t-il remis pour Lens ?",
    "summary": "C'est potentiellement un coup dur pour Paulo Fonseca.",
@@ -183,17 +215,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abfcffad7000-niakhate-tagliafico-ol.jpg&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-10-02T15:37:00+00:00"
-  },
-  {
-   "id": "cettecoursecestunandecombatsde120kgausemimarathondelyoncomme",
-   "title": "« Cette course, c’est un an de combats »… De 120 kg au semi-marathon de Lyon, comment Enzo a tout changé dans sa vie",
-   "summary": "Il y a un an, Enzo, 31 ans, ne courait plus depuis dix ans, fumait deux paquets par jour et était en surpoids. Dimanche, ce Lyonnais des Monts d'Or s’alignera au départ du semi-marathon de la Run in Lyon",
-   "url": "https://www.20minutes.fr/sport/4250642-20261002-course-an-combats-120-kg-semi-marathon-lyon-comment-enzo-tout-change-vie?at_medium=display&at_campaign=149",
-   "source": "20 Minutes",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FNDtugPb7QhmYv8xAJFW1Vyk%2F1444x920_capture-d-ecran&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-02T13:39:21+00:00"
   },
   {
    "id": "museannoncedeuxconcertslaldlcarenadedcinesen2027",
@@ -216,28 +237,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abf7f4c32d01-jacquet.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-02T09:51:00+00:00"
-  },
-  {
-   "id": "ligueeuropalespremiersmillionsdeluefatombentpourlol",
-   "title": "Ligue Europa : les premiers millions de l'UEFA tombent pour l'OL",
-   "summary": "L'OL a déjà sécurisé au moins 4,76 millions d'euros grâce à sa participation à la Ligue Europa et à sa victoire contre Anderlecht.",
-   "url": "https://www.lyonfoot.com/article/14355/ligue-europa-les-premiers-millions-de-l-uefa-tombent-pour-l-ol",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abe65f9e6046-ol-logo.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-01T13:52:00+00:00"
-  },
-  {
-   "id": "liguedeschampionsollyonnestenuenchecparchelseadcines",
-   "title": "Ligue des champions : OL Lyonnes tenu en échec par Chelsea à Décines",
-   "summary": "La série parfaite d'OL Lyonnes a pris fin mercredi soir à Décines.",
-   "url": "https://www.lyonfoot.com/article/14350/ol-lyonnes-accroche-par-chelsea-au-groupama-stadium-0-0",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abdf23cde4e9-zj206822.png&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-10-01T05:36:00+00:00"
   },
   {
    "id": "nicelilletrsbonneoprationpourlesnioislillelaisselepodiumlole",
