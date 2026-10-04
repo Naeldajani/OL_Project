@@ -1,6 +1,7 @@
 {
- "updatedAt": "2026-10-04T18:38:19+00:00",
+ "updatedAt": "2026-10-04T23:56:54+00:00",
  "sources": [
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
@@ -40,6 +41,17 @@
    "publishedAt": "2026-10-04T15:20:00+00:00"
   },
   {
+   "id": "realmadridolunconseilradicalrelancelapistedunretourlyon",
+   "title": "Real Madrid, OL : un conseil radical relance la piste d’un retour à Lyon",
+   "summary": "Alexandre Pato conseille à Endrick de quitter le Real Madrid, tandis que l'OL et plusieurs clubs italiens préparent un prêt cet hiver.",
+   "url": "https://www.butfootballclub.fr/1702710-real-madrid-ol-endrick-retour-lyon/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F207e98bc-real-madrid-ol-endrick-retour-lyon-1024x684.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-04T15:05:09+00:00"
+  },
+  {
    "id": "mercatoendrickderetourlolildoitchangerdeclubpourpato",
    "title": "Mercato : Endrick de retour à l'OL ? \"Il doit changer de club\", pour Pato",
    "summary": "De retour au Real Madrid après un prêt de six mois à l'OL, Endrick traverse une nouvelle passe difficile. Un nouveau prêt est de nouveau à l'étude et ce ne serait qu'une bonne nouvelle pour Pato, ancien attaquant de l'AC Milan notamment.",
@@ -49,6 +61,17 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2FAFP__20260115__DPPI_40026005_121__v1__HighRes__FootballFrenchCupLilleVLyon-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-10-04T14:30:00+00:00"
+  },
+  {
+   "id": "olletransfertavortdefofanafaitunheureuxsville",
+   "title": "OL : le transfert avorté de Fofana fait un heureux à Séville",
+   "summary": "Youssouf Fofana devait signer à l’OL, mais Séville a profité du blocage lyonnais pour boucler son arrivée dans les dernières heures du mercato.",
+   "url": "https://www.butfootballclub.fr/1702706-ol-fofana-transfert-avorte-seville/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fecfc131c-ol-fofana-transfert-avorte-seville-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-04T14:23:31+00:00"
   },
   {
    "id": "mtrodlyoncirculationlimiteleslundisetmardissoirpartirdu5octo",
