@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-04T23:56:54+00:00",
+ "updatedAt": "2026-10-05T05:37:28+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "infatigableavecollyonnesbrandvaenchaineraveclallemagne",
+   "title": "Infatigable avec OL Lyonnes, Brand va enchainer avec l’Allemagne",
+   "summary": "De nouveau titulaire avec OL Lyonnes contre Toulouse, Jule Brand enchaine en ce début de saison. La joueuse offensive ne va pas pouvoir beaucoup se reposer puisqu’elle a été retenue avec l’Allemagne.",
+   "url": "https://www.olympique-et-lyonnais.com/infatigable-avec-ol-lyonnes-brand-va-enchainer-avec-lallemagne,409309.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F06%2FJule-Brand-e1749736283652-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-05T05:30:00+00:00"
+  },
   {
    "id": "ligue1leparcolendessousdes40000spectateursdemoyenneentroisjo",
    "title": "Ligue 1 : le Parc OL en-dessous des 40 000 spectateurs de moyenne en trois journées",
@@ -151,17 +162,6 @@
    "publishedAt": "2026-10-04T08:45:00+00:00"
   },
   {
-   "id": "ollyonnesbenyahiacontentedaiderlquipe",
-   "title": "OL Lyonnes : Benyahia \"contente d'aider l'équipe\"",
-   "summary": "En manque de temps de jeu depuis le début de la saison, Inès Benyahia a profité du large turnover de Jonatan Giráldez pour se mettre en évidence. La numéro 10 d'OL Lyonnes espère avoir un rôle à jouer cette saison.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-benyahia-contente-daider-lequipe,409283.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FAFP__20251015__2241254377__v3__HighRes__OlLyonnesVSknStPoltenUefaWomenSChampionsLeag-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-04T07:45:00+00:00"
-  },
-  {
    "id": "ollyonnesretrouvelechemindesfiletscontretoulouseavantlatrve",
    "title": "OL Lyonnes retrouve le chemin des filets contre Toulouse avant la trêve",
    "summary": "Après un petit coup d'arrêt en Ligue des Champions, OL Lyonnes a repris confiance ce samedi face à Toulouse en championnat. Victoire finale : 5-0.",
@@ -215,28 +215,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abfcffad7000-niakhate-tagliafico-ol.jpg&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-10-02T15:37:00+00:00"
-  },
-  {
-   "id": "museannoncedeuxconcertslaldlcarenadedcinesen2027",
-   "title": "Muse annonce deux concerts à la LDLC Arena de Décines en 2027",
-   "summary": "Muse va faire son retour dans la métropole lyonnaise.",
-   "url": "https://www.lyonmag.com/article/154243/muse-annonce-deux-concerts-a-la-ldlc-arena-de-decines-en-2027",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abf91a39cb87-muse.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-02T11:09:00+00:00"
-  },
-  {
-   "id": "tennislelyonnaiskyrianjacquetentredansletop100mondial",
-   "title": "Tennis : le Lyonnais Kyrian Jacquet entre dans le Top 100 mondial",
-   "summary": "Le Lyonnais Kyrian Jacquet vient de franchir un cap important dans sa carrière.",
-   "url": "https://www.lyonmag.com/article/154241/kyrian-jacquet-entre-dans-le-top-100-mondial",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6abf7f4c32d01-jacquet.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-02T09:51:00+00:00"
   },
   {
    "id": "nicelilletrsbonneoprationpourlesnioislillelaisselepodiumlole",
