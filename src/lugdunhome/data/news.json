@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-05T22:00:38+00:00",
+ "updatedAt": "2026-10-06T06:18:40+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,61 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ligue1lensolarbitrparjrmystinat",
+   "title": "Ligue 1 : Lens - OL arbitré par Jérémy Stinat",
+   "summary": "Ce vendredi marque la reprise de la Ligue 1 avec un Lens - OL en ouverture à 20h45. Cette rencontre de la 6e journée sera arbitrée par Jérémy Stinat. Après trois semaines de pause, la Ligue 1 reprend enfin ses droits.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-1-lens-ol-arbitre-par-jeremy-stinat,409442.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F01%2FAFP__20250104__36T28HN__v1__HighRes__FblFraLigue1LyonMontpellier-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-06T06:00:00+00:00"
+  },
+  {
+   "id": "rclensdoublecoupdurpourcahuzacavantlol",
+   "title": "RC Lens : double coup dur pour Cahuzac avant l’OL ?",
+   "summary": "Yannick Cahuzac pourrait être privé de deux joueurs du RC Lens pour recevoir l’OL vendredi à Bollaert en ouverture de la 6e journée de Ligue 1 (20h45). Le RC Lens va-t-il devoir bricoler son équipe face à l’OL ?",
+   "url": "https://www.butfootballclub.fr/1702942-rc-lens-double-coup-dur-pour-cahuzac-avant-lol/",
+   "source": "But! Football Club",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fec3a52cd-rc-lens-double-coup-dur-pour-cahuzac-avant-lol.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-06T05:40:53+00:00"
+  },
+  {
+   "id": "francebelgiqueolisecherkietsionavaitassistlanaissancedunduod",
+   "title": "France-Belgique : Olise-Cherki... Et si on avait assisté à la naissance d’un duo dévastateur en Bleu ?",
+   "summary": "Entrés en jeu alors que les Bleus étaient menés d’un but et peinaient à envoyer du jeu, Michael Olise et Rayan Cherki, bien aidé aussi par Désiré Doué, ont illuminé le jeu de l’équipe de France lundi soir face à la Belgique",
+   "url": "https://www.20minutes.fr/sport/football/ligue-nations/4251634-20261006-france-belgique-olise-cherki-si-assiste-naissance-duo-devastateur-bleu?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FtJCqSeYoSPqhuMfu7T9Eiik%2F1444x920_michael-olise-et-rayan-cherki-parle-le-meme-football&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-06T05:32:36+00:00"
+  },
+  {
+   "id": "lolvadevoirsepasserdeniakhat",
+   "title": "L'OL va devoir se passer de Niakhaté",
+   "summary": "Touché durant la trêve internationale avec le Sénégal, Moussa Niakhaté va manquer le déplacement à Lens, vendredi. Le défenseur de l'OL est également incertain pour la venue de Crystal Palace, jeudi 15 octobre, en Ligue Europa...",
+   "url": "https://www.olympique-et-lyonnais.com/lol-va-devoir-se-passer-de-niakhate,409438.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FNiakhate-e1787823625615-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-06T05:31:01+00:00"
+  },
+  {
+   "id": "enimagesfrancebelgiquedemblctdesespompesolisecherkietdoutail",
+   "title": "EN IMAGES France - Belgique : Dembélé à côté de ses pompes, Olise, Cherki et Doué taille patron… Les notes des Bleus",
+   "summary": "Longtemps menés d’un but face à la Belgique, lundi soir, au Stade de France, les Bleus ont renversé la table après les entrées en jeu de Doué, Olise et Cherki, pour finalement s’imposer quatre buts à un",
+   "url": "https://www.20minutes.fr/football/ligue-nations/diaporama-4251628-images-france-belgique-dembele-cote-pompes-camavinga-yoro-taille-patron-notes-bleus?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2F2JqljohRSKift-gHXoR5xSk%2F1444x920_ousmane-dembele-est-a-nouveau-passe-totalement-a-cote-de-son-match&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-10-05T21:06:11+00:00"
+  },
   {
    "id": "ollecouperetesttombavantlenspourmoussaniakhat",
    "title": "OL : Le couperet est tombé avant Lens pour Moussa Niakhaté",
@@ -40,6 +95,17 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F09%2FIMG_2649-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-05T16:20:00+00:00"
+  },
+  {
+   "id": "francebelgiqueolisecherkietdouonttoutchanglesbleusfessentfin",
+   "title": "France - Belgique : Olise, Cherki et Doué ont tout changé... Les Bleus fessent finalement les Belges... Revivez le match avec nous...",
+   "summary": "L'équipe de France s'est imposée face à la Belgique (4-1) ce lundi soir, après un match où elle a longtemps été menée",
+   "url": "https://www.20minutes.fr/sport/football/ligue-nations/4251476-20261005-direct-france-belgique-victoire-face-belges-rien-mieux-finir-treve-internationale-non-suivez-match?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FGzsgysbFQISK5sCRN6Ew7yk%2F1444x920_michael-olise-et-rayan-cherki-de-france-celebrent-leur-but-lors-du-match-de-phase-de-groupes-de-l-uefa-nations-league-2026-27-entre-la-france-et-l-italie-au-stade-de-france-le-2-octobre-2026-a-paris-en-france-photo-de-tnani-badreddine-defodi-images-649-20261002-0k6a4219-jpg-649-france-italie-ligue-des-nations-de-l-uefa-2026-27-groupe-a1-md3-defodi-images-649-20261002-0k6a4219-credit-tnani-badreddine-defodi-images-sipa-2610022218&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-05T16:02:36+00:00"
   },
   {
    "id": "olretourlentranementavecmerahhimbertetnuamah",
@@ -163,17 +229,6 @@
    "publishedAt": "2026-10-05T10:40:00+00:00"
   },
   {
-   "id": "olopendanakamuraetgomesrodriguezsurlepontcelundi",
-   "title": "OL : Openda, Nakamura et Gomes Rodriguez sur le pont ce lundi",
-   "summary": "La reprise arrive à grands pas pour les internationaux lyonnais, mais il reste encore deux jours pour clore cette longue trêve internationale. Quelques Lyonnais sont encore convoqués par leur sélection pour un dernier match.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-openda-nakamura-et-gomes-rodriguez-sur-le-pont-ce-lundi,409340.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F07%2FAle-Web-1-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-05T09:50:00+00:00"
-  },
-  {
    "id": "unjoueurdeloldisputeunefinaleavecsaslectioncelundimidi",
    "title": "Un joueur de l’OL dispute une finale avec sa sélection ce lundi midi",
    "summary": "Un international lyonnais peut décrocher un trophée ce lundi. Deux autres joueurs de l’OL sont également attendus sur les terrains au fil de la journée.",
@@ -183,17 +238,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac36f5a084ae-finale-joueur-ol-selection.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-05T09:45:00+00:00"
-  },
-  {
-   "id": "olacadmielesu17delolsauventunpointdijon",
-   "title": "OL Académie : les U17 de l'OL sauvent un point à Dijon",
-   "summary": "Menés 2-0 après six minutes de jeu, les U17 de l'OL ont frôlé la correctionnelle à Dijon. Le groupe de Florent Balmont a finalement sauvé les apparences, et n'est pas passé loin de l'emporter.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-les-u17-de-lol-sauvent-un-point-a-dijon,409352.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FIMG_3699-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-05T09:00:00+00:00"
   },
   {
    "id": "equipedefranceencoreuneinventionrayancherkidmentunemsentente",
@@ -238,39 +282,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac0cab37ddb1-55093711576-752d77e3e7-o.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-04T14:00:00+00:00"
-  },
-  {
-   "id": "ollyonnesretrouvelechemindesfiletscontretoulouseavantlatrve",
-   "title": "OL Lyonnes retrouve le chemin des filets contre Toulouse avant la trêve",
-   "summary": "Après un petit coup d'arrêt en Ligue des Champions, OL Lyonnes a repris confiance ce samedi face à Toulouse en championnat. Victoire finale : 5-0.",
-   "url": "https://www.lyonfoot.com/article/14370/ol-lyonnes-toulouse-les-fenottes-retrouvent-le-chemin-du-but-5-0",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac14714b7e91-htuw12wwwaaswcy.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-03T18:10:00+00:00"
-  },
-  {
-   "id": "lelousincline5128bordeauxaprsunepremirepriodesensunique",
-   "title": "Le LOU s’incline 51-28 à Bordeaux après une première période à sens unique",
-   "summary": "Débordé avant la pause, le LOU a perdu samedi à Bordeaux-Bègles (51-28), malgré une réaction en seconde période. Les Lyonnais retrouveront Gerland samedi 10 octobre pour recevoir La Rochelle.",
-   "url": "https://www.lyonmag.com/article/154236/le-lou-s-incline-51-28-a-bordeaux-apres-une-premiere-periode-a-sens-unique",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac118757f4b7-831327299-28916130984693976-2985558168254769651-n.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-03T15:00:00+00:00"
-  },
-  {
-   "id": "gleventsremportelaconcessionducentredescongrsdelimaauproupou",
-   "title": "GL events remporte la concession du centre des congrès de Lima au Pérou pour 15 ans",
-   "summary": "Le groupe lyonnais GL events annonce avoir remporté la concession du Lima Convention Center, au Pérou. Le contrat doit porter sur 15 ans et permettre au spécialiste de l’événementiel d’exploiter un site capable d’accueillir jusqu’à 10 000 personnes.",
-   "url": "https://www.lyonmag.com/article/154247/gl-events-remporte-la-concession-du-centre-des-congres-de-lima-au-perou-pour-15-ans",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac09c6db33e7-lcc-028.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-03T13:00:00+00:00"
   },
   {
    "id": "nicelilletrsbonneoprationpourlesnioislillelaisselepodiumlole",
