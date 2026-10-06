@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-06T06:18:40+00:00",
+ "updatedAt": "2026-10-06T15:56:02+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -9,26 +9,169 @@
  ],
  "items": [
   {
-   "id": "ligue1lensolarbitrparjrmystinat",
-   "title": "Ligue 1 : Lens - OL arbitré par Jérémy Stinat",
-   "summary": "Ce vendredi marque la reprise de la Ligue 1 avec un Lens - OL en ouverture à 20h45. Cette rencontre de la 6e journée sera arbitrée par Jérémy Stinat. Après trois semaines de pause, la Ligue 1 reprend enfin ses droits.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-1-lens-ol-arbitre-par-jeremy-stinat,409442.html",
+   "id": "mercatormydescampsalesidesclairessursonfuturelol",
+   "title": "Mercato : Rémy Descamps a les idées claires sur son future à l'OL",
+   "summary": "Doublure de Dominik Greif dans les cages de l'OL, Rémy Descamps veut retrouver davantage de temps de jeu et n'exclut pas l'idée de changer d'air. Malgré un contrat qui s'étend jusqu'en 2029, le portier lyonnais garde tout de même un œil sur les opportunités qui pourraient se présenter.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-remy-descamps-a-les-idees-claires-sur-son-future-a-lol,409490.html",
    "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F01%2FAFP__20250104__36T28HN__v1__HighRes__FblFraLigue1LyonMontpellier-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-06T06:00:00+00:00"
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2FAFP__20260112__DPPI_40026005_022__v1__HighRes__FootballFrenchCupLilleVLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-06T15:30:00+00:00"
   },
   {
-   "id": "rclensdoublecoupdurpourcahuzacavantlol",
-   "title": "RC Lens : double coup dur pour Cahuzac avant l’OL ?",
-   "summary": "Yannick Cahuzac pourrait être privé de deux joueurs du RC Lens pour recevoir l’OL vendredi à Bollaert en ouverture de la 6e journée de Ligue 1 (20h45). Le RC Lens va-t-il devoir bricoler son équipe face à l’OL ?",
-   "url": "https://www.butfootballclub.fr/1702942-rc-lens-double-coup-dur-pour-cahuzac-avant-lol/",
+   "id": "ollefeuilletonendrickrepartdeplusbellelyon",
+   "title": "OL : le feuilleton Endrick repart de plus belle à Lyon !",
+   "summary": "OL serait emballé par un retour d’Endrick à Lyon. Après le démenti de novembre, le dossier du Brésilien repart de plus belle en coulisses.",
+   "url": "https://www.butfootballclub.fr/1703159-ol-endrick-retour-lyon-feuilleton/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F9a3daf87-ol-endrick-retour-lyon-feuilleton-1024x682.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-06T15:25:18+00:00"
+  },
+  {
+   "id": "bidstrupbacheropendailssontderetourlentranementdelol",
+   "title": "Bidstrup, Bacher, Openda... ils sont de retour à l'entraînement de l'OL",
+   "summary": "Au fur et à mesure des jours, Paulo Fonseca retrouve des joueurs pour préparer le déplacement de l'OL à Lens. Ce mardi, Loïs Openda ou encore Mads Bidstrup étaient de retour à l'entraînement.",
+   "url": "https://www.olympique-et-lyonnais.com/bidstrup-bacher-openda-ils-sont-de-retour-a-lentrainement-de-lol,409497.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__AA_18082026_2918735__v1__HighRes__FenerbahceVOlympiqueLyonnaisUefaCha-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-06T14:50:00+00:00"
+  },
+  {
+   "id": "lolprochedentamerunmarathondeplusieursmatchsenoctobre",
+   "title": "L’OL proche d'entamer un marathon de plusieurs matchs en octobre",
+   "summary": "Du 9 au 31 octobre, les Lyonnais enchaîneront championnat et Ligue Europa. Avec Lens, Crystal Palace et le PSG au programme, plusieurs rendez-vous majeurs attendent les Gones.",
+   "url": "https://www.lyonfoot.com/article/14399/ol-un-calendrier-charge-en-octobre-avec-6-matchs-en-23-jours",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac50449d2a32-6ac4f1c8a0426-32478984114-7ddd366ae6-o.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-06T14:30:00+00:00"
+  },
+  {
+   "id": "lensoldplacementencadrpourlessupporterslyonnais",
+   "title": "Lens - OL : déplacement encadré pour les supporters lyonnais",
+   "summary": "Ce vendredi, l'OL retrouve le chemin de la Ligue 1 du côté de Lens. Si les supporters lyonnais sont autorisés au sein du stade Bollaert, leur déplacement sera encadré, avec notamment une interdiction de circuler ou stationner aux abords de l'enceinte, à Lens, Liévin, Avion mais aussi Arras.",
+   "url": "https://www.olympique-et-lyonnais.com/lens-ol-deplacement-encadre-pour-les-supporters-lyonnais,409495.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F08%2FAFP__20250816__69PJ29F__v1__HighRes__FblFraLigue1LensLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-06T14:00:00+00:00"
+  },
+  {
+   "id": "insbenyahiaollyonnesafinalementrejointlquipedefranceu23",
+   "title": "Inès Benyahia (OL Lyonnes) a finalement rejoint l'équipe de France U23",
+   "summary": "Non sélectionnée avec l'équipe de France A, Inès Benyahia n'avait pas vu son nom dans la liste des U23 dont elle est pourtant une cadre. Finalement, la milieu d'OL Lyonnes a bien rejoint le rassemblement à Clairefontaine, suite à une blessure.",
+   "url": "https://www.olympique-et-lyonnais.com/ines-benyahia-ol-lyonnes-a-finalement-rejoint-lequipe-de-france-u23,409484.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F03%2FIMG_2216-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-10-06T13:10:00+00:00"
+  },
+  {
+   "id": "lensolleslensoisontbienchangdepuisle40demai",
+   "title": "Lens - OL : les Lensois ont bien changé depuis le 4-0 de mai",
+   "summary": "Le souvenir de mai reste forcément douloureux pour les Lyonnais. Lors de la dernière journée de championnat l'an dernier, l'OL avait sombré face à Lens (0-4). Quelques mois plus tard, les deux équipes vont se retrouver, mais les Lensois auront un tout autre visage.",
+   "url": "https://www.olympique-et-lyonnais.com/lens-ol-les-lensois-ont-bien-change-depuis-le-4-0-de-mai,409351.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260517__B34X79J__v1__HighRes__FblFraLigue1LyonLens-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-06T12:20:00+00:00"
+  },
+  {
+   "id": "oluncadredeladfenseforfaitpourledplacementlens",
+   "title": "OL : un cadre de la défense forfait pour le déplacement à Lens ?",
+   "summary": "Blessé avec le Sénégal, Moussa Niakhaté sera forfait vendredi à Lens.",
+   "url": "https://www.lyonfoot.com/article/14393/ol-moussa-niakhate-manquera-lens-et-reste-incertain-pour-crystal-palace",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac4d728f0e7a-niakhate-tagliafico-ol.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-06T12:00:00+00:00"
+  },
+  {
+   "id": "lensolhadaraincertainctlensois",
+   "title": "Lens - OL : Haïdara incertain côté lensois ?",
+   "summary": "Vendredi, le RC Lens accueille l'OL du côté du stade Bollaert. Pour cette rencontre de la 6e journée de Ligue 1, Yannick Cahuzac pourrait être privé d'Amadou Haïdara. Le milieu malien est sorti sur blessure en sélection.",
+   "url": "https://www.olympique-et-lyonnais.com/lens-ol-haidara-incertain-cote-lensois,409458.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20260517__B34X4QT__v1__HighRes__FblFraLigue1LyonLens-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-06T11:30:00+00:00"
+  },
+  {
+   "id": "enpleinemobilisationlyongrgorydoucetrencontreunevingtainedel",
+   "title": "En pleine mobilisation à Lyon, Grégory Doucet rencontre une vingtaine de lycéens",
+   "summary": "Alors qu’une nouvelle journée de mobilisation touche les établissements lyonnais ce mardi 6 octobre, Grégory Doucet a reçu dans la matinée une vingtaine de lycéennes et lycéens.",
+   "url": "https://www.lyonmag.com/article/154287/en-pleine-mobilisation-a-lyon-gregory-doucet-rencontre-une-vingtaine-de-lyceens",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac4d4dc46857-doucet-maire-1.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-06T11:00:00+00:00"
+  },
+  {
+   "id": "olmercatocoupdetonnerrepourlosopendaavantlerclens",
+   "title": "OL Mercato : coup de tonnerre pour Loïs Openda avant le RC Lens !",
+   "summary": "Une offre pourrait être formulée par l’OL pour conserver Loïs Openda (26 ans) à l’issue de son prêt en provenance de la Juventus Turin. Le pari Loïs Openda commence déjà à porter ses fruits.",
+   "url": "https://www.butfootballclub.fr/1703002-ol-mercato-coup-de-tonnerre-pour-lois-openda-avant-le-rc-lens/",
    "source": "But! Football Club",
    "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fec3a52cd-rc-lens-double-coup-dur-pour-cahuzac-avant-lol.jpg&w=800&output=webp&q=78",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F78019d46-ol-mercato-coup-de-tonnerre-pour-lois-openda-avant-le-rc-lens.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-06T11:00:00+00:00"
+  },
+  {
+   "id": "oldernirejournedetrveinternationalepourleslyonnais",
+   "title": "OL : dernière journée de trêve internationale pour les Lyonnais",
+   "summary": "Après deux semaines pleines de trêve internationale, avec un programme chargé, voici le dernier jour de match pour les internationaux de l'OL. À partir de mercredi, les regards seront tournés vers la Ligue 1.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-derniere-journee-de-treve-internationale-pour-les-lyonnais,409358.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAFP__20260618__wvolcov_czech_republic_south_africa_18062026_0091__v1__HighRes__FifaW-e1782108850565-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
-   "publishedAt": "2026-10-06T05:40:53+00:00"
+   "publishedAt": "2026-10-06T10:40:00+00:00"
+  },
+  {
+   "id": "boudacheoltouchparunvirusenslection",
+   "title": "Boudache (OL) touché par un virus en sélection ?",
+   "summary": "Sélectionné avec les U23 d’Algérie, Kaïl Boudache n’a disputé que quelques minutes durant ce rassemblement. N’étant même pas entré lors du deuxième match contre l’Afrique du Sud, l’ailier de l’OL aurait été touché par un virus.",
+   "url": "https://www.olympique-et-lyonnais.com/boudache-ol-touche-par-un-virus-en-selection,409446.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260730__DPPI_40827004_025__v1__HighRes__FootballFriendlyGameBetisVLyon-e1785519039454-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-06T09:50:00+00:00"
+  },
+  {
+   "id": "cherkiexoldcouvreunnouveaurleaveclesbleuslesvraisconnaisseur",
+   "title": "Cherki (ex-OL) découvre un nouveau rôle avec les Bleus : \"Les vrais connaisseurs de football le comprennent\"",
+   "summary": "Rayan Cherki a profité de cette trêve internationale pour découvrir un nouveau rôle en équipe de France. L'ancien Lyonnais a été utilisé plus bas dans le jeu par Zinédine Zidane. Un choix qui lui permet de participer davantage à la construction et de montrer une autre facette de son football.",
+   "url": "https://www.olympique-et-lyonnais.com/cherki-ex-ol-decouvre-un-nouveau-role-avec-les-bleus-les-vrais-connaisseurs-de-football-le-comprennent,409452.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F06%2FCherki-2-e1749447140628-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-06T09:00:00+00:00"
+  },
+  {
+   "id": "olpjanitressedeslouangesjuninho",
+   "title": "OL : Pjanić tresse des louanges à Juninho",
+   "summary": "À l'occasion du Festival du Sport en Italie, Miralem Pjanić a retracé le cours de sa carrière et notamment son arrivée à l'OL. L'ancien milieu est revenu sur l'accueil de Juninho, alors qu'il n'était qu'un jeune de 18 ans.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-pjanic-tresse-des-louanges-a-juninho,409453.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F04%2F000_DV680409-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-06T08:15:00+00:00"
   },
   {
    "id": "francebelgiqueolisecherkietsionavaitassistlanaissancedunduod",
@@ -42,17 +185,6 @@
    "publishedAt": "2026-10-06T05:32:36+00:00"
   },
   {
-   "id": "lolvadevoirsepasserdeniakhat",
-   "title": "L'OL va devoir se passer de Niakhaté",
-   "summary": "Touché durant la trêve internationale avec le Sénégal, Moussa Niakhaté va manquer le déplacement à Lens, vendredi. Le défenseur de l'OL est également incertain pour la venue de Crystal Palace, jeudi 15 octobre, en Ligue Europa...",
-   "url": "https://www.olympique-et-lyonnais.com/lol-va-devoir-se-passer-de-niakhate,409438.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FNiakhate-e1787823625615-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-06T05:31:01+00:00"
-  },
-  {
    "id": "enimagesfrancebelgiquedemblctdesespompesolisecherkietdoutail",
    "title": "EN IMAGES France - Belgique : Dembélé à côté de ses pompes, Olise, Cherki et Doué taille patron… Les notes des Bleus",
    "summary": "Longtemps menés d’un but face à la Belgique, lundi soir, au Stade de France, les Bleus ont renversé la table après les entrées en jeu de Doué, Olise et Cherki, pour finalement s’imposer quatre buts à un",
@@ -62,39 +194,6 @@
    "image": "https://images.weserv.nl/?url=img.20mn.fr%2F2JqljohRSKift-gHXoR5xSk%2F1444x920_ousmane-dembele-est-a-nouveau-passe-totalement-a-cote-de-son-match&w=800&output=webp&q=78",
    "topic": "Club",
    "publishedAt": "2026-10-05T21:06:11+00:00"
-  },
-  {
-   "id": "ollecouperetesttombavantlenspourmoussaniakhat",
-   "title": "OL : Le couperet est tombé avant Lens pour Moussa Niakhaté",
-   "summary": "L’OL sera privé de Moussa Niakhaté contre Lens vendredi, après sa blessure à l’ischio avec le Sénégal. Crystal Palace reste aussi incertain.",
-   "url": "https://www.butfootballclub.fr/1702921-ol-moussa-niakhate-forfait-lens-crystal-palace/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fdfa2e227-ol-moussa-niakhate-forfait-lens-crystal-palace-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-10-05T19:21:16+00:00"
-  },
-  {
-   "id": "oluneconditionmajeurepeuttoutchangerpouropenda",
-   "title": "OL : une condition majeure peut tout changer pour Openda",
-   "summary": "Loïs Openda peut rester à l’OL, mais une qualification en Ligue des Champions sera nécessaire pour convaincre la Juventus de le laisser à Lyon.",
-   "url": "https://www.butfootballclub.fr/1702917-ol-openda-condition-ligue-champions-juventus/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F3c4a5eda-ol-openda-condition-ligue-champions-juventus-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-05T17:31:21+00:00"
-  },
-  {
-   "id": "olpaulakouokouestbeletbienderetouraveclarserve",
-   "title": "OL : Paul Akouokou est bel et bien de retour avec la réserve",
-   "summary": "Mis à disposition de la réserve de l'OL depuis le début de la saison, Paul Akouokou commence à enchaîner les matchs avec le groupe de Gueïda Fofana. Le milieu ivoirien a été titularisé lors des deux dernières journées de championnat.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-paul-akouokou-est-bel-et-bien-de-retour-avec-la-reserve,409389.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F09%2FIMG_2649-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-05T16:20:00+00:00"
   },
   {
    "id": "francebelgiqueolisecherkietdouonttoutchanglesbleusfessentfin",
@@ -108,28 +207,6 @@
    "publishedAt": "2026-10-05T16:02:36+00:00"
   },
   {
-   "id": "olretourlentranementavecmerahhimbertetnuamah",
-   "title": "OL : retour à l'entraînement avec Merah, Himbert et Nuamah",
-   "summary": "Avant Lens, l'OL a repris l'entraînement ce lundi. De nouvelles têtes, Khalis Merah, Rémi Himbert et Ernest Nuamah, étaient de retour. Avec Lens dans le viseur. Les choses sérieuses reprennent bientôt pour l'OL.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-retour-a-lentrainement-avec-merah-himbert-et-nuamah,409419.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP__20260202__2258418227__v1__HighRes__OlympiqueLyonnaisVPaokFcUefaEuropaLeague2025-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-10-05T15:35:00+00:00"
-  },
-  {
-   "id": "olleparioffensifdauxerreadjchangdedimension",
-   "title": "OL : Le pari offensif d’Auxerre a déjà changé de dimension",
-   "summary": "Avec Cameron Archer, l’AJ Auxerre a trouvé un buteur déjà décisif. Trois buts en Ligue 1 et un prêt qui change le visage de l’attaque bourguignonne.",
-   "url": "https://www.butfootballclub.fr/1702907-auxerre-cameron-archer-pari-offensif/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F385283c2-auxerre-cameron-archer-pari-offensif-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-05T15:23:29+00:00"
-  },
-  {
    "id": "olcegardienquiveutbousculerlahirarchieetdevenirnumro1",
    "title": "OL : ce gardien qui veut bousculer la hiérarchie et devenir numéro 1",
    "summary": "Le gardien lyonnais se confie sur sa situation à l’OL. Avec un temps de jeu limité, il évoque la concurrence dans les cages et ses attentes pour la suite de son parcours.",
@@ -139,50 +216,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac39a63c7ff8-remy-descamps-ol.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-05T15:00:00+00:00"
-  },
-  {
-   "id": "ollyonnes19joueusesslectionnesvoicileurprogrammedurantlatrve",
-   "title": "OL Lyonnes : 19 joueuses sélectionnées, voici leur programme durant la trêve",
-   "summary": "19 des joueuses du groupe de Jonathan Giráldez sont parties pour leur sélection durant la trêve internationale. Voici leur programme, avec notamment des éliminatoires au Mondial 2027 et aux JO 2028.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-18-joueuses-selectionnees-voici-leur-programme-durant-la-treve,409406.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F07%2F000_32GP4QM-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-10-05T14:50:00+00:00"
-  },
-  {
-   "id": "rclensoldoublecoupdurendfenseavantlechoc",
-   "title": "RC Lens, OL : double coup dur en défense avant le choc",
-   "summary": "RC Lens devra faire sans Baidoo ni Nawrocki contre l’OL, tandis qu’Abdulhamid et Titraoui signent leur retour avant le choc à Bollaert.",
-   "url": "https://www.butfootballclub.fr/1702901-rc-lens-ol-double-coup-dur-defense-choc/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F38793d09-rc-lens-ol-double-coup-dur-defense-choc-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-05T14:23:26+00:00"
-  },
-  {
-   "id": "olmdiasretourdetantquilyauradesgoneslundi12octobre",
-   "title": "OL - Médias : retour de Tant qu'il y aura des Gones lundi 12 octobre",
-   "summary": "Sur pause durant la trêve internationale, Tant qu'il y aura des Gones revient dans une semaine. Rendez-vous le lundi 12 octobre avec Nicolas Puydebois et Baptiste Monveneur.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-medias-retour-de-tant-quil-y-aura-des-gones-lundi-12-octobre,409381.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FWhatsApp-Image-2026-08-17-at-16.51.27-e1789980863794-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-05T14:00:00+00:00"
-  },
-  {
-   "id": "olnakamuraetlejaponsoffrentlanouvellezlande",
-   "title": "OL : Nakamura et le Japon s'offrent la Nouvelle-Zélande",
-   "summary": "Le Japon a gagné la Kirin Cup contre la Nouvelle-Zélande ce lundi. Keito Nakamura et ses compatriotes ont battu leur adversaire 2 à 1. La Kirin Cup tombe dans l'escarcelle du Japon.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-nakamura-et-le-japon-soffrent-la-nouvelle-zelande,409363.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260615__pedersen-netherla260614_npIFe__v1__HighRes__NetherlandsVJapanGroupFFi-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-05T13:10:00+00:00"
   },
   {
    "id": "iltaguelemurduncimetireprsdelyonunsupporterdelolinterpellenf",
@@ -196,39 +229,6 @@
    "publishedAt": "2026-10-05T13:02:00+00:00"
   },
   {
-   "id": "ollyonnestabithachawingaderetouraveclemalawiaprslacanhroque",
-   "title": "OL Lyonnes : Tabitha Chawinga de retour avec le Malawi après la CAN héroïque",
-   "summary": "Objectif JO pour les Malawites. Après la formidable épopée de la CAN 2026 l'été dernier, le Malawi des sœurs Chawinga entame en octobre les qualifications pour les Jeux olympiques 2028.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-tabitha-chawinga-de-retour-avec-le-malawi-apres-la-can-heroique,409375.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHPUGHivXkAAJIfT-e1786352560237-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-10-05T12:20:00+00:00"
-  },
-  {
-   "id": "lensdeuxforfaitsetdeuxretoursductlensoisavantdaffronterlol",
-   "title": "Lens : deux forfaits et deux retours du côté lensois avant d'affronter l'OL",
-   "summary": "Lens a quelques soucis en défense avant de recevoir l'OL vendredi. Même s'ils ont du choix, les Sang et Or se passeront de deux centraux. En revanche, deux autres joueurs ont fait leur retour lors du match amical face au Standard de Liège.",
-   "url": "https://www.olympique-et-lyonnais.com/lens-deux-forfaits-et-deux-retours-du-cote-lensois-avant-daffronter-lol,409370.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FSaud-Abdulhamid-e1778134861700-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-05T11:30:00+00:00"
-  },
-  {
-   "id": "ollyonneslederbypourlesu19larservedominemarseille",
-   "title": "OL Lyonnes : le derby pour les U19, la réserve domine Marseille",
-   "summary": "Week-end parfait pour l'académie d'OL Lyonnes. Les U19 ont battu Saint-Étienne, tandis que la réserve a dominé Marseille. Tout va bien pour l'instant pour les Fenottes. Symboliquement, les matchs de dimanche étaient importants pour les Fenottes.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-le-derby-pour-les-u19-la-reserve-domine-marseille,409362.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FCapture-decran-2026-04-23-092902-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-10-05T10:40:00+00:00"
-  },
-  {
    "id": "unjoueurdeloldisputeunefinaleavecsaslectioncelundimidi",
    "title": "Un joueur de l’OL dispute une finale avec sa sélection ce lundi midi",
    "summary": "Un international lyonnais peut décrocher un trophée ce lundi. Deux autres joueurs de l’OL sont également attendus sur les terrains au fil de la journée.",
@@ -238,17 +238,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac36f5a084ae-finale-joueur-ol-selection.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-05T09:45:00+00:00"
-  },
-  {
-   "id": "equipedefranceencoreuneinventionrayancherkidmentunemsentente",
-   "title": "Equipe de France : « Encore une invention », Rayan Cherki dément une mésentente avec Michael Olise",
-   "summary": "Le milieu de Manchester City a commenté sur X le passage d’un article de « L’Equipe » assurant que son compère chez les Bleus n’appréciait pas toujours ses facéties",
-   "url": "https://www.20minutes.fr/sport/football/ligue-nations/4251388-20261005-equipe-france-encore-invention-rayan-cherki-dement-mesentente-michael-olise?at_medium=display&at_campaign=149",
-   "source": "20 Minutes",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FKYvUbFP3TFqNBhlPxPp0Pik%2F1444x920_credit-obligatoire-photo-de-david-winter-shutterstock-17182910im-michael-olise-de-france-est-felicite-par-le-francais-rayan-cherki-apres-avoir-donne-une-avance-de-1-0-a-son-equipe-lors-du-match-du-groupe-1-de-l-uefa-nations-league-entre-la-france-et-l-italie-stade-de-france-paris-france-le-2-octobre-2026-france-italie-match-du-groupe-1-de-l-uefa-nations-league-international-football-stade-de-france-paris-france-02-octobre-2026-shutterstock-editorial-france-v-italy-uefa-nations-l-17182910im-2610030428&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-05T08:16:42+00:00"
   },
   {
    "id": "lyon24tablissementstouchsparlamobilisation7interpellations",
