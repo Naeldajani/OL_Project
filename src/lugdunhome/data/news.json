@@ -1,13 +1,34 @@
 {
- "updatedAt": "2026-10-06T15:56:02+00:00",
+ "updatedAt": "2026-10-06T22:39:03+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
   "Lyon Mag",
-  "Olympique-et-Lyonnais",
-  "RMC Sport"
+  "Olympique-et-Lyonnais"
  ],
  "items": [
+  {
+   "id": "tagliaficoavantladerniredemessiilneserendpascomptedequiilest",
+   "title": "Tagliafico avant la dernière de Messi : \"Il ne se rend pas compte de qui il est\"",
+   "summary": "Dans la nuit de mardi à mercredi, le football argentin rendra hommage à Lionel Messi. L'octuple Ballon d'Or disputera son dernier match en sélection face au Bénin. Un rendez-vous important pour l'Albiceleste et auquel participera Nicolas Tagliafico.",
+   "url": "https://www.olympique-et-lyonnais.com/tagliafico-avant-la-derniere-de-messi-il-ne-se-rend-pas-compte-de-qui-il-est,409470.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F03%2F000_33BX7G3-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-06T16:20:00+00:00"
+  },
+  {
+   "id": "realmadridolastonvillarebatlescartesdansledossierendrick",
+   "title": "Real Madrid, OL : Aston Villa rebat les cartes dans le dossier Endrick !",
+   "summary": "Aston Villa prend de l'avance sur l'OL pour Endrick, avec la Ligue des champions en argument. Le Real Madrid n'a pas encore tranché.",
+   "url": "https://www.butfootballclub.fr/1703163-real-madrid-ol-aston-villa-endrick/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F36d7a031-real-madrid-ol-aston-villa-endrick-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-06T16:08:17+00:00"
+  },
   {
    "id": "mercatormydescampsalesidesclairessursonfuturelol",
    "title": "Mercato : Rémy Descamps a les idées claires sur son future à l'OL",
@@ -119,17 +140,6 @@
    "publishedAt": "2026-10-06T11:00:00+00:00"
   },
   {
-   "id": "olmercatocoupdetonnerrepourlosopendaavantlerclens",
-   "title": "OL Mercato : coup de tonnerre pour Loïs Openda avant le RC Lens !",
-   "summary": "Une offre pourrait être formulée par l’OL pour conserver Loïs Openda (26 ans) à l’issue de son prêt en provenance de la Juventus Turin. Le pari Loïs Openda commence déjà à porter ses fruits.",
-   "url": "https://www.butfootballclub.fr/1703002-ol-mercato-coup-de-tonnerre-pour-lois-openda-avant-le-rc-lens/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F78019d46-ol-mercato-coup-de-tonnerre-pour-lois-openda-avant-le-rc-lens.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-06T11:00:00+00:00"
-  },
-  {
    "id": "oldernirejournedetrveinternationalepourleslyonnais",
    "title": "OL : dernière journée de trêve internationale pour les Lyonnais",
    "summary": "Après deux semaines pleines de trêve internationale, avec un programme chargé, voici le dernier jour de match pour les internationaux de l'OL. À partir de mercredi, les regards seront tournés vers la Ligue 1.",
@@ -163,17 +173,6 @@
    "publishedAt": "2026-10-06T09:00:00+00:00"
   },
   {
-   "id": "olpjanitressedeslouangesjuninho",
-   "title": "OL : Pjanić tresse des louanges à Juninho",
-   "summary": "À l'occasion du Festival du Sport en Italie, Miralem Pjanić a retracé le cours de sa carrière et notamment son arrivée à l'OL. L'ancien milieu est revenu sur l'accueil de Juninho, alors qu'il n'était qu'un jeune de 18 ans.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-pjanic-tresse-des-louanges-a-juninho,409453.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F04%2F000_DV680409-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-06T08:15:00+00:00"
-  },
-  {
    "id": "francebelgiqueolisecherkietsionavaitassistlanaissancedunduod",
    "title": "France-Belgique : Olise-Cherki... Et si on avait assisté à la naissance d’un duo dévastateur en Bleu ?",
    "summary": "Entrés en jeu alors que les Bleus étaient menés d’un but et peinaient à envoyer du jeu, Michael Olise et Rayan Cherki, bien aidé aussi par Désiré Doué, ont illuminé le jeu de l’équipe de France lundi soir face à la Belgique",
@@ -194,17 +193,6 @@
    "image": "https://images.weserv.nl/?url=img.20mn.fr%2F2JqljohRSKift-gHXoR5xSk%2F1444x920_ousmane-dembele-est-a-nouveau-passe-totalement-a-cote-de-son-match&w=800&output=webp&q=78",
    "topic": "Club",
    "publishedAt": "2026-10-05T21:06:11+00:00"
-  },
-  {
-   "id": "francebelgiqueolisecherkietdouonttoutchanglesbleusfessentfin",
-   "title": "France - Belgique : Olise, Cherki et Doué ont tout changé... Les Bleus fessent finalement les Belges... Revivez le match avec nous...",
-   "summary": "L'équipe de France s'est imposée face à la Belgique (4-1) ce lundi soir, après un match où elle a longtemps été menée",
-   "url": "https://www.20minutes.fr/sport/football/ligue-nations/4251476-20261005-direct-france-belgique-victoire-face-belges-rien-mieux-finir-treve-internationale-non-suivez-match?at_medium=display&at_campaign=149",
-   "source": "20 Minutes",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FGzsgysbFQISK5sCRN6Ew7yk%2F1444x920_michael-olise-et-rayan-cherki-de-france-celebrent-leur-but-lors-du-match-de-phase-de-groupes-de-l-uefa-nations-league-2026-27-entre-la-france-et-l-italie-au-stade-de-france-le-2-octobre-2026-a-paris-en-france-photo-de-tnani-badreddine-defodi-images-649-20261002-0k6a4219-jpg-649-france-italie-ligue-des-nations-de-l-uefa-2026-27-groupe-a1-md3-defodi-images-649-20261002-0k6a4219-credit-tnani-badreddine-defodi-images-sipa-2610022218&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-05T16:02:36+00:00"
   },
   {
    "id": "olcegardienquiveutbousculerlahirarchieetdevenirnumro1",
@@ -271,17 +259,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac0cab37ddb1-55093711576-752d77e3e7-o.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-04T14:00:00+00:00"
-  },
-  {
-   "id": "nicelilletrsbonneoprationpourlesnioislillelaisselepodiumlole",
-   "title": "Nice-Lille: très bonne opération pour les Niçois, Lille laisse le podium à l'OL et au PFC",
-   "summary": "Grâce à Amoura, Nice s'offre Lille (2-1), lors de la cinquième journée de Ligue 1, et quitte sa place de lanterne rouge.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-nice-lille-suivez-en-live-le-match-de-la-5e-journee-de-ligue-1_LS-202609200248.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Ffjh_6mqQj31jO9KaGs320U6Ia_M%3D%2F0x46%3A2048x1198%2F800x0%2Fimages%2FMohamed-Amoura-fete-son-but-pour-l-OGC-Nice-20-septembre-2026-2351311.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-09-20T17:12:02+00:00"
   }
  ]
 }
