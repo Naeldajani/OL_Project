@@ -1,43 +1,188 @@
 {
- "updatedAt": "2026-10-09T01:13:03+00:00",
+ "updatedAt": "2026-10-09T10:31:10+00:00",
  "sources": [
+  "20 Minutes",
   "But! Football Club",
   "Lyon Mag",
-  "Olympique-et-Lyonnais"
+  "Olympique-et-Lyonnais",
+  "RMC Sport"
  ],
  "items": [
   {
-   "id": "rclensfinalementunebonnenouvellepourtodibomalgrsonabsencecon",
-   "title": "RC Lens : finalement une bonne nouvelle pour Todibo malgré son absence contre l’OL ?",
-   "summary": "Absent du groupe lensois pour la réception de l’OL, Jean-Clair Todibo poursuit sa remise en forme et pourrait profiter de ce choix pour préparer au mieux le rendez-vous face au Sporting en Ligue des champions.",
-   "url": "https://www.butfootballclub.fr/1703652-rc-lens-finalement-une-bonne-nouvelle-pour-todibo-malgre-son-absence-contre-lol/",
+   "id": "rclensolinquitudepourdeuxlyonnaisdernirebonnenouvellepourles",
+   "title": "RC Lens – OL : inquiétude pour deux Lyonnais, dernière bonne nouvelle pour les Sang et Or avant le choc !",
+   "summary": "Si deux joueurs de l’OL inquiètent avant le choc à Bollaert (20h45), le RC Lens a reçu une dernière nouvelle positive avant la rencontre. Le RC Lens retrouve Bollaert avec l’ambition de relancer sa saison.",
+   "url": "https://www.butfootballclub.fr/1703791-rc-lens-ol-inquietude-pour-deux-lyonnais-derniere-bonne-nouvelle-pour-les-sang-et-or-avant-le-choc/",
    "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F60ca9bf5-rc-lens-finalement-une-bonne-nouvelle-pour-todibo-malgre-son-absence-contre-lol.jpg&w=800&output=webp&q=78",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F202c652c-rc-lens-avant-lol-thauvin-montre-deja-les-muscles-a-cahuzac.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
-   "publishedAt": "2026-10-08T19:40:00+00:00"
+   "publishedAt": "2026-10-09T10:00:00+00:00"
   },
   {
-   "id": "rclenstroisretoursetdeuxcadrescartsparcahuzacfacelol",
-   "title": "RC Lens : trois retours et deux cadres écartés par Cahuzac face à l’OL",
-   "summary": "Le groupe du RC Lens pour affronter l’OL. Ce vendredi à 20h45, le RC Lens retrouve la Ligue 1 avec la réception de l’OL. Le groupe de Yannick Cahuzac vient tout juste d’être dévoilé, et Saud Abdulhamid, Samson Baidoo, ainsi que Yassine Titraoui font leur retour.",
-   "url": "https://www.butfootballclub.fr/1703569-rc-lens-trois-retours-et-deux-cadres-ecartes-par-cahuzac-face-a-lol/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F6ae4d36b-rc-lens-ol-preparations-opposees-confrontation-1024x683.jpg&w=800&output=webp&q=78",
+   "id": "ollyonneshegerbergengendumornayquellesinternationalesjouentc",
+   "title": "OL Lyonnes : Hegerberg, Engen, Dumornay... Quelles internationales jouent ce vendredi ?",
+   "summary": "Fin de la trêve internationale pour les hommes et début pour les femmes. Plusieurs joueuses d'OL Lyonnes vont retrouver leur sélection ce vendredi 9 octobre.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-hegerberg-engen-dumornay-quelles-internationales-jouent-ce-vendredi,409408.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F07%2FHegerberg-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-10-09T09:50:00+00:00"
+  },
+  {
+   "id": "lensolavantmatchhorairediffusiontv",
+   "title": "Lens - OL : avant-match, horaire, diffusion TV",
+   "summary": "Trois semaines plus tard, l'OL retrouve la Ligue 1 ce vendredi, avec un déplacement à Bollaert pour y affronter Lens. Voici toutes les informations pratiques de cette sixième journée de championnat.",
+   "url": "https://www.olympique-et-lyonnais.com/lens-ol-avant-match-horaire-diffusion-tv-3,409368.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260517__B34W9VW__v1__HighRes__FblFraLigue1LyonLens-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
-   "publishedAt": "2026-10-08T18:04:59+00:00"
+   "publishedAt": "2026-10-09T09:00:00+00:00"
   },
   {
-   "id": "olunehcatombeendfenserelanceunjeuneavantlens",
-   "title": "OL : une hécatombe en défense relance un jeune avant Lens",
-   "summary": "Privé de plusieurs défenseurs, l’OL rappelle Noham Kamara pour Lens et récupère Julien Duranville dans un groupe lyonnais très remanié.",
-   "url": "https://www.butfootballclub.fr/1703638-ol-hecatombe-defense-relance-kamara-lens/",
+   "id": "loldcrochenouveaulelabelordelalfppoursonoffrederestaurationa",
+   "title": "L'OL décroche à nouveau le label Or de la LFP pour son offre de restauration au Groupama Stadium",
+   "summary": "La Ligue a décerné pour la quatrième année consécutive ses labels de restauration.",
+   "url": "https://www.lyonfoot.com/article/14427/l-ol-decroche-a-nouveau-le-label-or-de-la-lfp-pour-son-offre-de-restauration",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac7ace347790-stade-groupama-stadium.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-09T09:00:00+00:00"
+  },
+  {
+   "id": "laligue1estderetourleprogrammecompletdelaj6etlesclassements",
+   "title": "La Ligue 1 est de retour ! Le programme complet de la J6 et les classements",
+   "summary": "La Ligue 1 retrouve ses droits, après une longue trêve internationale consacrée à la Ligue des Nations et aux rencontres internationales. Reprise ce vendredi avec Lens qui accueille l'Olympique Lyonnais.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-la-ligue-1-est-de-retour-apres-3-semaines-de-treve-le-programme-complet-de-la-j6-et-les-classements_VN-202610090367.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FwocX3NDb4zEofANtoa2GkTq-xBo%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FLa-Ligue-1-est-de-retour-Le-programme-complet-de-la-J6-et-les-classements-2362284.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-10-09T08:58:05+00:00"
+  },
+  {
+   "id": "lensolfonsecaseveutrassurantsursacharnirecentraleindite",
+   "title": "Lens - OL : Fonseca se veut rassurant sur sa charnière centrale inédite",
+   "summary": "Blessé lors de la trêve internationale, Moussa Niakhaté manquera le déplacement de l’OL à Lens ce vendredi, à l'occasion de la sixième journée de championnat. Paulo Fonseca devrait donc associer Felix et Ruben Kluivert en défense centrale.",
+   "url": "https://www.olympique-et-lyonnais.com/lens-ol-fonseca-se-veut-rassurant-sur-sa-charniere-centrale-inedite,409696.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260913__C86R2LY__v1__HighRes__FblFraLigue1ParisFcLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-09T08:15:00+00:00"
+  },
+  {
+   "id": "pronosticrclensol0910pronocotesetcompos",
+   "title": "Pronostic RC Lens – OL (09/10) : prono, cotes et compos",
+   "summary": "Voici l’analyse complète du match d’ouverture de la sixième journée de Ligue 1 entre le RC Lens et l’OL, ainsi que notre pronostic de la rencontre. La première trêve internationale de la saison est enfin terminée.",
+   "url": "https://www.butfootballclub.fr/1702889-pronostic-rc-lens-ol-09-10-prono-cotes-et-compos/",
    "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Ff880ef47-ol-hecatombe-defense-relance-kamara-lens-1024x683.jpg&w=800&output=webp&q=78",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F53399d18-lens-ol-3-684x1024.png&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-09T07:48:00+00:00"
+  },
+  {
+   "id": "lensloldevraitserapprocherdeson11type",
+   "title": "À Lens, l'OL devrait se rapprocher de son \"11-type\"",
+   "summary": "Hormis le forfait de Moussa Niakhaté, l'OL devrait aligner à Lens la même équipe qui a dominé Rennes avant la trêve (4-0). Les changements seront plus tard. Nous y sommes. L'OL s'attaque à un calendrier costaud sur la période automnale à venir.",
+   "url": "https://www.olympique-et-lyonnais.com/a-lens-lol-devrait-se-rapprocher-de-son-11-type,409748.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FHOauQjiWkAA2sKp-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-10-09T07:25:00+00:00"
+  },
+  {
+   "id": "directlenslyonsuivezlematchdouverturedela6ejournedeligue1enl",
+   "title": "DIRECT. Lens-Lyon: suivez le match d'ouverture de la 6e journée de Ligue 1 en live",
+   "summary": "Après une longue trêve internationale, la Ligue 1 reprend ses droits: la sixième journée du championnat de France s'ouvre ce vendredi soir avec le match entre le RC Lens et l'Olympique lyonnais.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-lens-lyon-suivez-le-match-d-ouverture-de-la-6e-journee-de-ligue-1-en-live_LS-202610090029.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Fh1Lm1vBOai4wOEJWSBYV2tqgqwY%3D%2F0x184%3A2048x1336%2F800x0%2Fimages%2FCorentin-Tolisso-milieu-de-terrain-et-capitaine-de-l-OL-29-aout-2026-2361768.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-09T06:58:00+00:00"
+  },
+  {
+   "id": "mobilisationlycenneettudiantelyonplusieursrassemblementsceve",
+   "title": "Mobilisation lycéenne et étudiante à Lyon : plusieurs rassemblements ce vendredi, des mortiers tirés sur un établissement à Villeurbanne",
+   "summary": "La mobilisation ne faiblit pas dans l'agglomération lyonnaise.",
+   "url": "https://www.lyonmag.com/article/154318/mobilisation-lyceenne-et-etudiante-a-lyon-plusieurs-rassemblements-ce-vendredi-des-mortiers-tires-sur-un-etablissement-a-villeurbanne",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac8983a9ab24-sans-titre.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
-   "publishedAt": "2026-10-08T17:55:16+00:00"
+   "publishedAt": "2026-10-09T06:43:00+00:00"
+  },
+  {
+   "id": "olernestnuamahlosopendaunduoquipeutfairedestincelles",
+   "title": "OL : Ernest Nuamah - Loïs Openda, un duo qui peut faire des étincelles",
+   "summary": "Aligné trois fois de suite en Ligue 1 sur le devant de l'attaque, le duo Ernest Nuamah - Loïs Openda est le dernier maillon du 4-4-2 de l'OL. Deux éléments offensifs qui donnent du travail aux défenses adverses.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-ernest-nuamah-lois-openda-un-duo-qui-peut-faire-des-etincelles,409687.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FOpenda-Nuamah-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-09T06:40:00+00:00"
+  },
+  {
+   "id": "nuamahollensilvafalloirresterunis",
+   "title": "Nuamah (OL) : \"À Lens, il va falloir rester unis\"",
+   "summary": "Actuellement meilleur buteur de l'OL, Ernest Nuamah sera un des maillons forts de la formation rhodanienne ce vendredi (20h45) à Lens. Comment jugez-vous ce début de saison de l'OL et à titre personnel ?",
+   "url": "https://www.olympique-et-lyonnais.com/nuamah-ol-a-lens-il-va-falloir-rester-unis,409682.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260912__C86C98A__v1__HighRes__FblFraLigue1ParisFcLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-09T06:00:00+00:00"
+  },
+  {
+   "id": "rclensolunesurprisesignemesloubdansleonzedecahuzac",
+   "title": "RC Lens – OL : une surprise signée Mesloub dans le onze de Cahuzac ?",
+   "summary": "Les compos probables du choc de la 6e journée de Ligue 1 entre le RC Lens et l’OL à Bollaert (20h45) sont connues. Le RC Lens doit rapidement repartir de l’avant.",
+   "url": "https://www.butfootballclub.fr/1703710-rc-lens-ol-une-surprise-signee-mesloub-dans-le-onze-de-cahuzac/",
+   "source": "But! Football Club",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F59f25187-rc-lens-ol-une-surprise-signee-mesloub-dans-le-onze-de-cahuzac.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-09T05:40:39+00:00"
+  },
+  {
+   "id": "lenslyonsurquellechanetvetquelleheurevoirlematchdela6ejourne",
+   "title": "Lens-Lyon : Sur quelle chaîne TV et à quelle heure voir le match de la 6e journée de Ligue 1 ?",
+   "summary": "Vendredi à 20h45, les Sang et Or, 15es et en quête de régularité, reçoivent des Gones invaincus et 2es",
+   "url": "https://www.20minutes.fr/sport/football/4252694-20261009-lens-lyon-chaine-tv-heure-voir-match-6e-journee-ligue-1?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FSwoOvKI3RYmW2_oFPcxdzCk%2F1444x920_avec-4-points-pris-en-5-journees-lens-inquiete&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-09T05:32:37+00:00"
+  },
+  {
+   "id": "josephollyonnesdoublebuteuseaveclafrance",
+   "title": "Joseph (OL Lyonnes) double buteuse avec la France",
+   "summary": "Pour cette première journée internationale, l'équipe de France féminine U23 a pris le meilleur sur ses homologues néerlandaises. Entrée à la pause, Liana Joseph a ouvert le score avant de faire le break.",
+   "url": "https://www.olympique-et-lyonnais.com/joseph-ol-lyonnes-double-buteuse-avec-la-france,409716.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F10%2FCapture-decran-2023-10-26-a-09.38.27-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-09T05:30:00+00:00"
+  },
+  {
+   "id": "lenslyonsurquellechaneetquelleheureregarderlematchdeligue1en",
+   "title": "Lens - Lyon : sur quelle chaîne et à quelle heure regarder le match de Ligue 1 en direct ?",
+   "summary": "Deux dynamiques opposées à Bollaert ! En difficulté depuis le début de la saison, le RC Lens accueille un Olympique Lyonnais en pleine forme au retour de la trêve internationale. Voici toutes les informations pour suivre ce match en direct.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/lens-lyon-sur-quelle-chaine-et-a-quelle-heure-regarder-le-match-de-ligue-1-en-direct_AN-202610090023.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FIsyUuAuvKNwef-0KUWRbAGmwJks%3D%2F0x0%3A1600x900%2F800x0%2Fimages%2FLens-Lyon-sur-quelle-chaine-et-a-quelle-heure-regarder-le-match-de-Ligue-1-en-direct-2361023.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-09T04:00:00+00:00"
   },
   {
    "id": "lensolduranvillederetourdanslegroupekamaraaussi",
@@ -49,17 +194,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260715__C2AR9E7__v1__HighRes__FblFraFriendlyLyonServette-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-10-08T17:04:33+00:00"
-  },
-  {
-   "id": "olnuamaheffaceenfinsonlongcauchemaretchangededimension",
-   "title": "OL : Nuamah efface enfin son long cauchemar et change de dimension",
-   "summary": "Ernest Nuamah a retrouvé toutes ses sensations avec l’OL après un an d’arrêt et assume un nouveau statut de meilleur buteur lyonnais.",
-   "url": "https://www.butfootballclub.fr/1703625-ol-nuamah-efface-cauchemar-change-dimension/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F0c880aae-ol-nuamah-efface-cauchemar-change-dimension-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-08T16:55:10+00:00"
   },
   {
    "id": "lacapitainedollyonneswendierenarddesterrainsdefootauxdfilsde",
@@ -95,39 +229,6 @@
    "publishedAt": "2026-10-08T15:00:00+00:00"
   },
   {
-   "id": "fonsecaoldifficiledeprvoircequeseralens",
-   "title": "Fonseca (OL) : \"Difficile de prévoir ce que sera Lens\"",
-   "summary": "Après trois semaines de coupure, l'OL retrouve le championnat vendredi soir (20h45) du côté de Lens. N'ayant eu que peu de temps pour préparer ce rendez-vous, Paulo Fonseca doit également faire avec un adversaire qui a changé d'entraîneur.",
-   "url": "https://www.olympique-et-lyonnais.com/fonseca-ol-difficile-de-prevoir-ce-que-sera-lens,409706.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260826__AA_26082026_2929173__v1__HighRes__OlympiqueLyonVFenerbahceUefaChampio-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-08T14:14:26+00:00"
-  },
-  {
-   "id": "deretourdeblessurenuamahsesentlibredanslatte",
-   "title": "De retour de blessure, Nuamah se \"sent libre dans la tête\"",
-   "summary": "De retour d'une longue blessure en fin de saison dernière, Ernest Nuamah est actuellement le meilleur buteur de l'OL. L'ailier estime avoir laissé ce mauvais souvenir derrière lui pour donner sa pleine mesure.",
-   "url": "https://www.olympique-et-lyonnais.com/de-retour-de-blessure-nuamah-se-sent-libre-dans-la-tete,409690.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FErnest-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-10-08T13:25:00+00:00"
-  },
-  {
-   "id": "tagliaficoabsentpourlensolniakhatversunforfaitcontrecrystalp",
-   "title": "Tagliafico absent pour Lens - OL, Niakhaté vers un forfait contre Crystal Palace",
-   "summary": "Devant rentrer à Lyon ce jeudi après-midi, Nicolás Tagliafico ne fera pas le déplacement à Lens, malgré la blessure de Mohamed Ouedraogo. Pour ce qui est de Moussa Niakhaté, Paulo Fonseca s'est montré pessimiste quant à une présence face à Crystal Palace, jeudi prochain.",
-   "url": "https://www.olympique-et-lyonnais.com/tagliafico-absent-pour-lens-ol-niakhate-vers-un-forfait-contre-crystal-palace,409681.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP__20260315__A3CP47K__v1__HighRes__FblFraLigue1LeHavreLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-08T12:30:00+00:00"
-  },
-  {
    "id": "graveblessurepourunjoueurdelolrecrutcettmohamedoudraogoforfa",
    "title": "Grave blessure pour un joueur de l'OL recruté cet été, Mohamed Ouédraogo forfait pour plusieurs mois",
    "summary": "Mohamed Ouédraogo ne pourra pas saisir sa chance dans les prochaines semaines.",
@@ -139,39 +240,6 @@
    "publishedAt": "2026-10-08T12:00:00+00:00"
   },
   {
-   "id": "olouedraogovictimeduneruptureduligamentcrois",
-   "title": "OL : Ouedraogo victime d'une rupture du ligament croisé",
-   "summary": "Resté à Lyon durant la trêve internationale, Mohamed Ouedraogo n'a pas pu profiter de cette période pour retrouver la forme. Le latéral s'est blessé à l'entraînement et va manquer plusieurs mois d'absence.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-ouedraogo-victime-dune-rupture-du-ligament-croise,409673.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FOuedraogo-e1787461591236-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-10-08T11:49:42+00:00"
-  },
-  {
-   "id": "clubformateurdemerahlusmeyzieuprolongesonpartenariataveclol",
-   "title": "Club formateur de Merah, l'US Meyzieu prolonge son partenariat avec l'OL",
-   "summary": "L'Olympique lyonnais poursuit son travail de collaboration avec les clubs de son territoire. Ce lundi, l'US Meyzieu a annoncé la prolongation de ce partenariat avec l'OL, une entente qui vise à accompagner le développement et la structuration du club.",
-   "url": "https://www.olympique-et-lyonnais.com/club-formateur-de-merah-lus-meyzieu-prolonge-son-partenariat-avec-lol,409448.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2F571215062_1317269080092730_1696830734441406083_n-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-08T11:10:00+00:00"
-  },
-  {
-   "id": "ollyonnesbenyahiajosephsangaretgrohslancentlatrveinternation",
-   "title": "OL Lyonnes : Benyahia, Joseph, Sangaré et Grohs lancent la trêve internationale",
-   "summary": "Les internationales d'OL Lyonnes commencent à entrer en piste ce jeudi 8 octobre. Inès Benyahia, Liana Joseph ainsi que Wassa Sangaré seront les premières Lyonnaises à retrouver les terrains avec leurs sélections.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-benyahia-joseph-sangare-et-grohs-lancent-la-treve-internationale,409502.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F06%2FCapture-decran-2025-06-16-063755-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-10-08T10:20:00+00:00"
-  },
-  {
    "id": "melchiedumornayollyonnesremportedjuntrophepourlemoisdeseptem",
    "title": "Melchie Dumornay (OL Lyonnes) remporte déjà un trophée pour le mois de septembre",
    "summary": "Melchie Dumornay a été distinguée pour son mois de septembre prolifique avec OL Lyonnes.",
@@ -181,17 +249,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac76d085d991-d1-16-9.jpg&w=800&output=webp&q=78",
    "topic": "Féminines",
    "publishedAt": "2026-10-08T10:12:00+00:00"
-  },
-  {
-   "id": "olulcnarteyetgreifderetourlentranementlescroisspourouedraogo",
-   "title": "OL : Šulc, Nartey et Greif de retour à l'entraînement, les croisés pour Ouedraogo ?",
-   "summary": "Ce jeudi, les derniers internationaux de l'OL ont fait leur retour à l'entraînement. Encore en sélection mardi, Pavel Šulc, Dominik Greif et Noah Nartey ont repris les séances collectives ce jeudi, à la veille du déplacement à Lens.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-sulc-nartey-et-greif-de-retour-a-lentrainement-tagliafico-encore-en-transit,409657.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FAFP__20260222__98KE9PH__v1__HighRes__FblFraLigue1StrasbourgLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-08T09:41:17+00:00"
   },
   {
    "id": "pourquoicegroupedesupporterslyonnaisatprivdaccsaugroupamasta",
@@ -225,28 +282,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac50449d2a32-6ac4f1c8a0426-32478984114-7ddd366ae6-o.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-06T14:30:00+00:00"
-  },
-  {
-   "id": "oluncadredeladfenseforfaitpourledplacementlens",
-   "title": "OL : un cadre de la défense forfait pour le déplacement à Lens ?",
-   "summary": "Blessé avec le Sénégal, Moussa Niakhaté sera forfait vendredi à Lens.",
-   "url": "https://www.lyonfoot.com/article/14393/ol-moussa-niakhate-manquera-lens-et-reste-incertain-pour-crystal-palace",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac4d728f0e7a-niakhate-tagliafico-ol.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-06T12:00:00+00:00"
-  },
-  {
-   "id": "enpleinemobilisationlyongrgorydoucetrencontreunevingtainedel",
-   "title": "En pleine mobilisation à Lyon, Grégory Doucet rencontre une vingtaine de lycéens",
-   "summary": "Alors qu’une nouvelle journée de mobilisation touche les établissements lyonnais ce mardi 6 octobre, Grégory Doucet a reçu dans la matinée une vingtaine de lycéennes et lycéens.",
-   "url": "https://www.lyonmag.com/article/154287/en-pleine-mobilisation-a-lyon-gregory-doucet-rencontre-une-vingtaine-de-lyceens",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac4d4dc46857-doucet-maire-1.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-06T11:00:00+00:00"
   }
  ]
 }
