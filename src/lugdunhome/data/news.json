@@ -1,11 +1,22 @@
 {
- "updatedAt": "2026-10-08T18:50:14+00:00",
+ "updatedAt": "2026-10-09T01:13:03+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais"
  ],
  "items": [
+  {
+   "id": "rclensfinalementunebonnenouvellepourtodibomalgrsonabsencecon",
+   "title": "RC Lens : finalement une bonne nouvelle pour Todibo malgré son absence contre l’OL ?",
+   "summary": "Absent du groupe lensois pour la réception de l’OL, Jean-Clair Todibo poursuit sa remise en forme et pourrait profiter de ce choix pour préparer au mieux le rendez-vous face au Sporting en Ligue des champions.",
+   "url": "https://www.butfootballclub.fr/1703652-rc-lens-finalement-une-bonne-nouvelle-pour-todibo-malgre-son-absence-contre-lol/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F60ca9bf5-rc-lens-finalement-une-bonne-nouvelle-pour-todibo-malgre-son-absence-contre-lol.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-08T19:40:00+00:00"
+  },
   {
    "id": "rclenstroisretoursetdeuxcadrescartsparcahuzacfacelol",
    "title": "RC Lens : trois retours et deux cadres écartés par Cahuzac face à l’OL",
@@ -82,17 +93,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FCapture-decran-2026-04-23-092902-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-08T15:00:00+00:00"
-  },
-  {
-   "id": "oltriplecoupdurpourpaulofonsecaavantlerclens",
-   "title": "OL : triple coup dur pour Paulo Fonseca avant le RC Lens",
-   "summary": "À la veille du déplacement de l’OL à Lens, Paulo Fonseca doit composer avec trois absences importantes. La trêve internationale n’a pas été totalement bénéfique à l’OL.",
-   "url": "https://www.butfootballclub.fr/1703578-ol-triple-coup-dur-pour-paulo-fonseca-avant-le-rc-lens/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F9c8bc6f7-rc-lens-ol-fonseca-prepare-un-enorme-coup-de-poker-a-bollaert.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-08T14:40:00+00:00"
   },
   {
    "id": "fonsecaoldifficiledeprvoircequeseralens",
