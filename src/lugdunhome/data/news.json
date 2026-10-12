@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-11T19:33:12+00:00",
+ "updatedAt": "2026-10-12T00:31:28+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "rennesauxerreaveclamanirelesbretonsserassurentetretrouventle",
+   "title": "Rennes-Auxerre : avec la manière, les Bretons se rassurent et retrouvent le podium",
+   "summary": "Au Roazhon Park, Rennes (3e) s'est bien remis de la claque infligée par l'OL. D'abord bousculés par un Auxerre (15e) combatif en première période, les Bretons ont surclassé leur adversaire au retour des vestiaires grâce à Adrien Thomasson et un doublé de Boulaye Dia.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-rennes-auxerre-suivez-la-suite-de-la-6e-journee-de-la-ligue-1_LS-202610110254.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Fn0PlA79FUX7uj6JQY7ZnZ5YeN_c%3D%2F0x106%3A2048x1258%2F800x0%2Fimages%2FLa-joie-des-joueurs-de-Rennes-lors-de-la-victoire-contre-Auxerre-le-11-octobre-2026-2363285.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-11T17:26:53+00:00"
+  },
   {
    "id": "olacadmielesderbiespourleslyonnaiscedimanche",
    "title": "OL académie : les derbies pour les Lyonnais ce dimanche",
@@ -185,39 +196,6 @@
    "publishedAt": "2026-10-10T05:46:59+00:00"
   },
   {
-   "id": "lens21olonadonn45minutesregrettefonseca",
-   "title": "Lens 2-1 OL : \"On a donné 45 minutes\" regrette Fonseca",
-   "summary": "Lyon a été battu 2-1, à Lens, ce vendredi en ouverture de la 6e journée de Ligue 1. Avec des Gones amorphes, le coach lyonnais regrette une première période ratée .",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-lens-2-1-ol-on-a-donne-45-minutes-regrette-fonseca_VN-202610090922.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Fu25qBGwS7vGPEzScV4JmdGhhj9o%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FLens-2-1-OL-On-a-donne-45-minutes-regrette-Fonseca-2362711.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-09T21:51:16+00:00"
-  },
-  {
-   "id": "lens21olpasunfinensoitemprecahuzac",
-   "title": "Lens 2-1 OL : \"Pas un fin en soi\" tempère Cahuzac",
-   "summary": "Le RC Lens a battu Lyon 2-1 ce vendredi soir lors de la 6e journée de Ligue 1. Premier match à Lens et première victoire pour le coach artésie Yannick Cahuzac qui sait qu'il lui reste encore du travail pour retrouver le haut du tableau.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-lens-2-1-ol-pas-un-fin-en-soi-tempere-cahuzac_VN-202610090918.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FHhCf_9DTw_GWrxpqjeIQmEpHpcM%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FLens-2-1-OL-Pas-un-fin-en-soi-tempere-Cahuzac-2362708.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-09T21:46:41+00:00"
-  },
-  {
-   "id": "lens21olafaisaitunpetitmomentquejenavaispasttitulaireserjoui",
-   "title": "Lens 2-1 OL : \"Ça faisait un petit moment que je n'avais pas été titulaire !\" se réjouit Sotoca après son but",
-   "summary": "Buteur pour l'ouverture du score lensois lors de la victoire face à l'Olympique Lyonnais dans la J6 de Ligue 1, Florian Sotoca s'est attardé sur son beau but en zone mixte. L'attaquant a rappelé son long passage de remplaçant en début de saison et sa joie de retrouver le 11 titulaire.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-lens-2-1-ol-ca-faisait-un-petit-moment-que-je-n-avais-pas-ete-titulaire-se-rejouit-sotoca-apres-son-but_VN-202610090906.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FyeM9tVp2ozsZtoZ27Ku2n2vKDq8%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FLens-2-1-OL-Ca-faisait-un-petit-moment-que-je-n-avais-pas-ete-titulaire-se-rejouit-Sotoca-apres-son-but-2362699.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-09T21:30:34+00:00"
-  },
-  {
    "id": "premiredfaitedelasaisonpourlolbattulens",
    "title": "Première défaite de la saison pour l'OL, battu à Lens",
    "summary": "Après trois semaines de trêve, les Lyonnais retrouvaient le championnat à Bollaert ce vendredi. Face à Lens, l'OL a chuté et encaissé sa première défaite de la saison.",
@@ -227,39 +205,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac9d25559c97-hunnjvqwsaavvj8.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-09T21:20:00+00:00"
-  },
-  {
-   "id": "lenslyonlessangetorstoppentlhmorragiepremierreverspourlol",
-   "title": "Lens-Lyon: les Sang et Or stoppent l'hémorragie, premier revers pour l'OL",
-   "summary": "Après une longue trêve internationale, le RC Lens avait à coeur de se relancer et a infligé un premier revers à l'OL cette saison en Ligue 1 (2-1). Une belle réaction des Sang et Or, qui remontent provisoirement à la 7e place.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-lens-lyon-suivez-le-match-d-ouverture-de-la-6e-journee-de-ligue-1-en-live_LS-202610090029.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FzCifMvKEbEhj-Q2ej-jtQ8vNBTE%3D%2F0x124%3A2048x1276%2F800x0%2Fimages%2FFlorian-Sotoca-buteur-pour-le-RC-Lens-9-octobre-2026-2362669.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-09T21:16:01+00:00"
-  },
-  {
-   "id": "lens21ollarsurrectionsangetorapplauditlafter",
-   "title": "Lens 2-1 OL : \"La résurrection sang-et-or\" applaudit L'After",
-   "summary": "Lens a battu Lyon 2-1, ce vendredi en ouverture de la 6e journée de Ligue 1. L'AFTER reconnaît le travail de Cahuzac a payé lors de la trêve internationale.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-lens-2-1-ol-la-resurrection-sang-et-or-applaudit-l-after_VN-202610090897.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FX6AuM4-EdSvepTHdRAuxKAGZlX0%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FLens-2-1-OL-La-resurrection-sang-et-or-applaudit-L-After-2362693.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-09T20:59:51+00:00"
-  },
-  {
-   "id": "lens21olleslensoisenflammentbollaertetdomptentleslyonnaiscom",
-   "title": "Lens 2-1 OL : Les Lensois enflamment Bollaert et domptent les Lyonnais ! (Comms RMC)",
-   "summary": "Après une longue trêve internationale, le RC Lens avait à coeur de se relancer et a infligé un premier revers à l'OL cette saison en Ligue 1 (2-1). Une belle réaction des Sang et Or, qui remontent provisoirement à la 7e place.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-lens-2-1-ol-les-lensois-enflamment-bollaert-et-domptent-les-lyonnais-comms-rmc_VN-202610090896.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FIkYcY5qdZp1AseH3PCJoQzeF2Sc%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FLens-2-1-OL-Les-Lensois-enflamment-Bollaert-et-domptent-les-Lyonnais-Comms-RMC-2362692.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-09T20:58:33+00:00"
   },
   {
    "id": "loldcrochenouveaulelabelordelalfppoursonoffrederestaurationa",
