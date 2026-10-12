@@ -1,13 +1,166 @@
 {
- "updatedAt": "2026-10-12T10:46:26+00:00",
+ "updatedAt": "2026-10-12T21:15:48+00:00",
  "sources": [
-  "20 Minutes",
   "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "rclenstitraouifaithsitercahuzaclessupportersonttranchsoncasa",
+   "title": "RC Lens : Titraoui fait hésiter Cahuzac, les supporters ont tranché son cas avant le Sporting !",
+   "summary": "Décevant contre l’OL, Yacine Titraoui (23 ans) garde la confiance des supporters du RC Lens avant le choc contre le Sporting mardi en Ligue des Champions (18h45). Le RC Lens a retrouvé le sourire en Ligue 1 en s’imposant face à l’OL (2-1), vendredi soir à Bollaert.",
+   "url": "https://www.butfootballclub.fr/1704168-rc-lens-titraoui-fait-hesiter-cahuzac-les-supporters-ont-tranche-son-cas-avant-le-sporting/",
+   "source": "But! Football Club",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F8ab57671-rc-lens-titraoui-fait-hesiter-cahuzac-les-supporters-ont-tranche-son-cas-avant-le-sporting.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-12T21:00:00+00:00"
+  },
+  {
+   "id": "olopendalegroscoupdursagecommeonseretrouve",
+   "title": "OL : Openda, le gros coup dur ! Sage, comme on se retrouve...",
+   "summary": "Ce lundi, l'équipe de \"Tant qu'il y aura des Gones\" était de retour. Pour ce nouveau numéro, notre chroniqueur Baptiste Monveneur accompagne Razik Brikh et Nicolas Puydebois pour parler de la blessure de Loïs Openda ou encore du retour de Pierre Sage au Parc OL.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-openda-le-gros-coup-dur-sage-comme-on-se-retrouve,409986.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FMiniature-12-10-2026-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-10-12T16:55:00+00:00"
+  },
+  {
+   "id": "alexandracollinausiffletduchocpsgollyonnes",
+   "title": "Alexandra Collin au sifflet du choc PSG - OL Lyonnes",
+   "summary": "OL Lyonnes se déplacera sur la pelouse du Paris Saint-Germain samedi à 21 h 00, pour la cinquième journée de Première Ligue. Pour cette affiche, la Fédération française de football a désigné Alexandra Collin comme arbitre principale de la rencontre.",
+   "url": "https://www.olympique-et-lyonnais.com/alexandra-collin-au-sifflet-du-choc-psg-ol-lyonnes,409968.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F10%2FFw0MAQgXsAITaKB-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-12T16:00:00+00:00"
+  },
+  {
+   "id": "mobilisationlycenneunenouvellemanifestationmardilyonavantune",
+   "title": "Mobilisation lycéenne : une nouvelle manifestation mardi à Lyon, avant une AG à Villeurbanne",
+   "summary": "La mobilisation lycéenne doit se poursuivre ce mardi 13 octobre dans l’agglomération lyonnaise. Un nouveau cortège est annoncé à 10h au départ de la place Guichard, avant une assemblée générale inter-lycées au CCVA de Villeurbanne.",
+   "url": "https://www.lyonmag.com/article/154354/mobilisation-lyceenne-une-nouvelle-manifestation-mardi-a-lyon-avant-une-ag-a-villeurbanne",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6accd904cd181-55573138607-477baac092-k.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-12T16:00:00+00:00"
+  },
+  {
+   "id": "gerlingeroletltanglillemontentaucrneaupourlaprotectiondesjou",
+   "title": "Gerlinger (OL) et Létang (Lille) montent au créneau pour la protection des joueurs",
+   "summary": "Entre la blessure de Loïs Openda côté lyonnais et celle de Tiago Santos côté lillois, Michael Gerlinger et Olivier Létang ont échangé ce lundi. Le directeur général de l'OL et le président de Lille appellent à une meilleure protection des joueurs par le corps arbitral.",
+   "url": "https://www.olympique-et-lyonnais.com/gerlinger-ol-et-letang-lille-montent-au-creneau-pour-la-protection-des-joueurs,409984.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F07%2FAFP__20250709__66BQ3U2__v1__HighRes__FblFraLyon-e1754120061568-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-10-12T15:00:00+00:00"
+  },
+  {
+   "id": "opendatouchaupronloldnonceletraitementsubiparsonattaquantcon",
+   "title": "Openda touché au péroné, l'OL dénonce \"le traitement subi par son attaquant\" contre Lens",
+   "summary": "L'attaquant belge de l'Olympique lyonnais, Loïs Openda, va être écarté des terrains pendant un bon mois.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/l-olympique-lyonnais-deplore-le-traitement-subi-par-son-attaquant-openda-victime-d-une-fissure-du-perone_AV-202610120600.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FahzSUsK9w6O2Gwds6JkAws_ika4%3D%2F0x106%3A2048x1258%2F800x0%2Fimages%2FLois-Openda-lors-du-match-entre-l-Olympique-lyonnais-et-le-RC-Lens-le-9-octobre-2026-2363817.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-12T14:34:30+00:00"
+  },
+  {
+   "id": "rclensollyonlivreleverdictpouropendaetchargeleslensoisetlarb",
+   "title": "RC Lens – OL : Lyon livre le verdict pour Openda et charge les Lensois et l’arbitrage",
+   "summary": "L’OL a donné des nouvelles de la blessure de Loïs Openda et poussé un coup de gueule contre le RC Lens et l’arbitrage.",
+   "url": "https://www.butfootballclub.fr/1704244-rc-lens-ol-lyon-livre-le-verdict-pour-openda-et-pousse-un-coup-de-gueule-contre-les-lensois-et-larbitrage/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F8b164919-rc-lens-ol-lyon-livre-le-verdict-pour-openda-et-pousse-un-coup-de-gueule-contre-les-lensois-et-larbitrage.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-10-12T14:09:45+00:00"
+  },
+  {
+   "id": "ollosopendavictimedunefissuredupronsonabsenceestimeunmoismin",
+   "title": "OL : Loïs Openda victime d'une fissure du péroné, son absence estimée à un mois minimum",
+   "summary": "L'OL va devoir se passer de Loïs Openda pour un mois au moins.",
+   "url": "https://www.lyonfoot.com/article/14464/ol-fissure-du-perone-pour-lois-openda-le-joueur-indisponible-au-moins-un-mois",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6acce79337e45-openda.png&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-12T14:00:00+00:00"
+  },
+  {
+   "id": "olopendaabsentpourdelonguessemaines",
+   "title": "OL : Openda absent pour de longues semaines",
+   "summary": "Sorti sur blessure vendredi dernier à Lens, Loïs Openda va manquer plusieurs matchs avec l'OL. Les examens réalisés ce lundi ont décelé une fissure du péroné de la jambe droite. Le Belge sera absent au moins jusqu'à la prochaine trêve internationale.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-openda-absent-pour-de-longues-semaines,409982.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FOpenda-e1791579676578-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-10-12T13:56:17+00:00"
+  },
+  {
+   "id": "olacadmielesu19fmininesdroulentlesu17masculinsaccrochentlele",
+   "title": "OL Académie : les U19 féminines déroulent, les U17 masculins accrochent le leader",
+   "summary": "Dans un week-end avec seulement trois matchs au sein de l'OL Académie, les U19 féminines sont les seules à être reparties avec les trois points. Du côté des garçons, les U17 lyonnais ont arraché un point face au leader sochalien (3-3).",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-les-u19-feminines-deroulent-les-u17-masculins-accrochent-le-leader,409978.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FIMG_3700-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-10-12T13:10:00+00:00"
+  },
+  {
+   "id": "olunseulcoachfaitmoinsbienquefonsecalextrieurdepuis25ans",
+   "title": "OL : un seul coach fait moins bien que Fonseca à l'extérieur depuis 25 ans",
+   "summary": "Avec seulement 37% de victoires à l'extérieur en Ligue 1 depuis son arrivée à l'OL, Paulo Fonseca figure parmi les entraîneurs lyonnais les moins efficaces dans cet exercice au XXIe siècle.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-un-seul-coach-fait-moins-bien-que-fonseca-a-lexterieur-depuis-25-ans,409964.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261009__D2TK8H3__v1__HighRes__FblFraLigue1LensLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-12T12:20:00+00:00"
+  },
+  {
+   "id": "olnicepaulseixasdonneralecoupdenvoifictifaugroupamastadium",
+   "title": "OL - Nice : Paul Seixas donnera le coup d'envoi fictif au Groupama Stadium",
+   "summary": "Tout juste vainqueur du Tour de Lombardie, le cycliste lyonnais Paul Seixas sera à l'honneur au Groupama Stadium dimanche prochain.",
+   "url": "https://www.lyonfoot.com/article/14457/ol-nice-paul-seixas-donnera-le-coup-d-envoi-fictif-au-groupama-stadium",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6acccc6e407e4-seixas.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-12T12:05:00+00:00"
+  },
+  {
+   "id": "olaprsmeyzieuetmilleryvourleslasbuersprolongesonpartenariat",
+   "title": "OL : après Meyzieu et Millery-Vourles, l'AS Buers prolonge son partenariat",
+   "summary": "L'OL continue de consolider son réseau de clubs partenaires dans la région lyonnaise.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-apres-meyzieu-et-millery-vourles-las-buers-prolonge-son-partenariat,409541.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FCapture-decran-2026-10-07-a-10.14.19-694x433.png&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-10-12T11:30:00+00:00"
+  },
+  {
+   "id": "pluielautomnelyonvaulxenvelinetvilleurbanneparmilesvillesles",
+   "title": "Pluie à l’automne : Lyon, Vaulx-en-Velin et Villeurbanne parmi les villes les plus arrosées de France",
+   "summary": "L’agglomération lyonnaise est particulièrement bien représentée dans un classement consacré aux villes françaises les plus pluvieuses entre octobre et décembre. Lyon, Vaulx-en-Velin et Villeurbanne occupent respectivement les 13e, 14e et 15e places.",
+   "url": "https://www.lyonmag.com/article/154349/pluie-a-l-automne-lyon-vaulx-en-velin-et-villeurbanne-parmi-les-villes-les-plus-arrosees-de-france",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6accbe67db1fb-26035959078-dc19218955-o.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-12T11:01:00+00:00"
+  },
   {
    "id": "ollyonnescinqinternationalesenpistecelundi",
    "title": "OL Lyonnes : cinq internationales en piste ce lundi",
@@ -64,83 +217,6 @@
    "publishedAt": "2026-10-12T08:29:00+00:00"
   },
   {
-   "id": "avantdaffronterlolcrystalpalacesimposeenpremierleague",
-   "title": "Avant d'affronter l'OL, Crystal Palace s'impose en Premier League",
-   "summary": "Quatre jours avant son retour au Parc OL, Pierre Sage a connu une deuxième victoire en Premier League. À domicile, Crystal Palace s'est imposé 3-1 face à Nottingham Forest et retrouve des couleurs.",
-   "url": "https://www.olympique-et-lyonnais.com/avant-daffronter-lol-crystal-palace-simpose-en-premier-league,409956.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fcdnx.premiumread.com_-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-12T08:15:00+00:00"
-  },
-  {
-   "id": "coupedefrancemerahetboudacheolsontallsencouragerlusmeyzieu",
-   "title": "Coupe de France : Merah et Boudache (OL) sont allés encourager l’US Meyzieu",
-   "summary": "Club formateur de Khalis Merah, l’US Meyzieu a pu compter sur le soutien de son ancien joueur lors de son 5e tour de Coupe de France. Malheureusement, cela n’a pas souri aux Majolans, battus par une équipe de R1.",
-   "url": "https://www.olympique-et-lyonnais.com/coupe-de-france-merah-et-boudache-ol-sont-alles-encourager-lus-meyzieu,409959.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F07%2FIMG_3478-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-12T07:30:00+00:00"
-  },
-  {
-   "id": "rclensnormecoupdurpourcahuzacavantlesporting",
-   "title": "RC Lens : énorme coup dur pour Cahuzac avant le Sporting !",
-   "summary": "Titulaire contre l’OL vendredi à Bollaert (2-1), Jonathan Gradit sera forfait pour le choc de Ligue des Champions entre le RC Lens et le Sporting (mardi, 18h45). Le RC Lens a retrouvé le sourire en championnat, mais la préparation du prochain rendez-vous européen s’annonce délicate.",
-   "url": "https://www.butfootballclub.fr/1704108-rc-lens-enorme-coup-dur-pour-cahuzac-avant-le-sporting/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fe00e5917-rc-lens-enorme-coup-dur-pour-cahuzac-avant-le-sporting.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-10-12T07:00:00+00:00"
-  },
-  {
-   "id": "aveccrystalpalaceetnicelolvadevoirserinventerpourreleverlatt",
-   "title": "Avec Crystal Palace et Nice, l'OL va devoir se réinventer pour relever la tête",
-   "summary": "Battu à Lens vendredi soir en sortie de trêve internationale, l'OL a fait une mauvaise opération comptable mais aussi dans le jeu. Avec une semaine à deux matchs qui s'ouvre, la formation lyonnaise ne va pas avoir le temps de tergiverser.",
-   "url": "https://www.olympique-et-lyonnais.com/avec-crystal-palace-et-nice-lol-va-devoir-se-reinventer-pour-relever-la-tete,409953.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__C4Y66TY__v1__HighRes__FblEurC1QualifyingFenerbahceLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-12T06:45:00+00:00"
-  },
-  {
-   "id": "ligue1lolsortdupodiumaprssadfaitelens",
-   "title": "Ligue 1 : l'OL sort du podium après sa défaite à Lens",
-   "summary": "Ayant la possibilité de mettre la pression sur Monaco vendredi soir, l'OL a mordu la poussière pour la première fois de la saison. Une défaite qui repousse le club lyonnais en dehors du podium à l'issue de la 6e journée de Ligue 1.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-1-lol-sort-du-podium-apres-sa-defaite-a-lens,409951.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261009__D2TK8G3__v1__HighRes__FblFraLigue1LensLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-12T06:00:00+00:00"
-  },
-  {
-   "id": "rclensstaderennaisilssontdanslquipetypedela6ejournedel1",
-   "title": "RC Lens, Stade Rennais : ils sont dans l’équipe type de la 6e journée de L1",
-   "summary": "Ce lundi matin, il est déjà l’heure de se pencher sur l’équipe type de la 6e journée de Ligue 1 disputée ce week-end. Le week-end a souri aux deux clubs. À Bollaert, le RC Lens a signé une victoire importante contre l’OL (2-1), de quoi relancer la dynamique après un début de saison compliqué.",
-   "url": "https://www.butfootballclub.fr/1704102-rc-lens-stade-rennais-ils-sont-dans-lequipe-type-de-la-6e-journee-de-l1/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fc1fe8af6-rc-lens-stade-rennais-ils-sont-dans-lequipe-type-de-la-6e-journee-de-l1.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-12T06:00:00+00:00"
-  },
-  {
-   "id": "olopendavapasserdesexamenscelundi",
-   "title": "OL : Openda va passer des examens ce lundi",
-   "summary": "Touché contre le RC Lens et obligé de quitter le stade en béquilles vendredi, Loïs Openda va connaître la gravité de sa blessure dans les prochaines heures. Les examens, qui auraient pu se passer durant le week-end, se passeront ce lundi.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-openda-va-passer-des-examens-ce-lundi,409949.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FOpenda-e1791579676578-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-10-12T05:30:00+00:00"
-  },
-  {
    "id": "ollosopendaoutpourdeuxrencontresimportantes",
    "title": "OL : Loïs Openda out pour deux rencontres importantes ?",
    "summary": "L'attaquant belge de l'OL, Loïs Openda, risque de ne pas pouvoir être aligné cette semaine. Blessé à Lens, il devrait manquer les deux prochaines rencontres.",
@@ -163,39 +239,6 @@
    "publishedAt": "2026-10-11T17:26:53+00:00"
   },
   {
-   "id": "olacadmielesderbiespourleslyonnaiscedimanche",
-   "title": "OL académie : les derbies pour les Lyonnais ce dimanche",
-   "summary": "Deux victoires ce dimanche pour les U14 et les U15. Et pas face à n'importe qui, puisque les Gones ont dominé leurs rivaux de l'AS Saint-Étienne. Pas de place aux surclassements ce dimanche pour les U14 et les U15 de l'OL.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-les-derbies-pour-les-lyonnais-ce-dimanche,409944.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FOL-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-11T16:20:00+00:00"
-  },
-  {
-   "id": "autermedunmatchrebondissementslolu19prendunpointtroyes33",
-   "title": "Au terme d'un match à rebondissements, l'OL U19 prend un point à Troyes (3-3)",
-   "summary": "Face au leader du championnat, l'OL U19 a livré un match à deux visages. Finalement, il glane un point et n'avance pas en championnat malgré beaucoup de volonté. Quelle première période ont livrée ce dimanche les U19 de Troyes et de l'OL !",
-   "url": "https://www.olympique-et-lyonnais.com/au-terme-dun-match-a-rebondissements-lol-u19-prend-un-point-a-troyes-3-3,409933.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F01%2FIMG_3272-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-11T15:35:00+00:00"
-  },
-  {
-   "id": "liverpoolmanchestercitydanslatourmentelescityzenshumilientle",
-   "title": "Liverpool - Manchester City : Dans la tourmente, les Cityzens humilient les Reds avec un nouveau bijou de Cherki… Revivez ce choc de PL avec nous",
-   "summary": "Seul leader de Premier League avec un impressionnant 6/6, Manchester City a réussi un gros test à Anfield ce dimanche (0-3). Alors que le club a été reconnu coupable d’infractions financières, Haaland, Doku et Cherki régalent sur le terrain",
-   "url": "https://www.20minutes.fr/sport/football/premier_league/4252875-20261011-direct-liverpool-manchester-city-cherki-cityzens-vraiment-perturbes-avenir-ultra-incertain-suivez-match-17-heures?at_medium=display&at_campaign=149",
-   "source": "20 Minutes",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2F5rqFVc-sSouv5sxN8G62yCk%2F1444x920_rayan-cherki-de-manchester-city-celebre-apres-avoir-marque-le-troisieme-but-de-son-equipe-lors-du-match-de-football-de-premier-league-anglaise-entre-liverpool-et-manchester-city-a-liverpool-en-angleterre-le-dimanche-11-octobre-2026-photo-ap-jon-super-xsg167-26284620244351-2610111915&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-11T13:02:36+00:00"
-  },
-  {
    "id": "fondationolprsde12000placesoffertesauxassociationsenunesaiso",
    "title": "Fondation OL : près de 12 000 places offertes aux associations en une saison",
    "summary": "Réunie cette semaine au Groupama Stadium, la Fondation OL a dressé son bilan 2025-2026. Accès aux matchs, soutien aux enfants hospitalisés et inclusion figurent parmi les actions mises en avant.",
@@ -205,28 +248,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac91ce18cd45-ol-fondation.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-10T13:00:00+00:00"
-  },
-  {
-   "id": "premiredfaitedelasaisonpourlolbattulens",
-   "title": "Première défaite de la saison pour l'OL, battu à Lens",
-   "summary": "Après trois semaines de trêve, les Lyonnais retrouvaient le championnat à Bollaert ce vendredi. Face à Lens, l'OL a chuté et encaissé sa première défaite de la saison.",
-   "url": "https://www.lyonfoot.com/article/14428/ol-premiere-defaite-de-la-saison-a-lens-malgre-le-but-de-merah",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac9d25559c97-hunnjvqwsaavvj8.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-09T21:20:00+00:00"
-  },
-  {
-   "id": "loldcrochenouveaulelabelordelalfppoursonoffrederestaurationa",
-   "title": "L'OL décroche à nouveau le label Or de la LFP pour son offre de restauration au Groupama Stadium",
-   "summary": "La Ligue a décerné pour la quatrième année consécutive ses labels de restauration.",
-   "url": "https://www.lyonfoot.com/article/14427/l-ol-decroche-a-nouveau-le-label-or-de-la-lfp-pour-son-offre-de-restauration",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac7ace347790-stade-groupama-stadium.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-09T09:00:00+00:00"
   }
  ]
 }
