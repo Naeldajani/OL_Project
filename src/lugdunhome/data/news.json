@@ -1,11 +1,155 @@
 {
- "updatedAt": "2026-10-13T10:33:06+00:00",
+ "updatedAt": "2026-10-13T19:15:57+00:00",
  "sources": [
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olleverdictesttombaprslefiascodelabilletterie",
+   "title": "OL : le verdict est tombé après le fiasco de la billetterie",
+   "summary": "Après le fiasco de la billetterie contre Rennes, l’OL a activé des solutions correctives avant Crystal Palace et Nice pour sécuriser l’accès au stade.",
+   "url": "https://www.butfootballclub.fr/1704604-ol-billetterie-fiasco-solutions-crystal-palace-nice/",
+   "source": "But! Football Club",
+   "author": "Wladimir DELCROS",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fffa0769d-ol-billetterie-fiasco-solutions-crystal-palace-nice-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-10-13T16:35:11+00:00"
+  },
+  {
+   "id": "oltantquilyauradesgonesdulundi12octobreenpodcastetenreplay",
+   "title": "OL : Tant qu'il y aura des Gones du lundi 12 octobre en podcast et en replay",
+   "summary": "Retrouvez votre émission hebdomadaire sur l'OL, Tant qu'il y aura des Gones, en podcast sur différentes plateformes. Après trois semaines de coupure en même temps que la trêve internationale, Tant qu'il y aura des Gones a fait son retour ce lundi 12 octobre.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-tant-quil-y-aura-des-gones-du-lundi-12-octobre-en-podcast-et-en-replay,410093.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FMiniature-12-10-2026.jpg-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-13T16:20:00+00:00"
+  },
+  {
+   "id": "ollyonneslemalawiettabithacraselezimbabwe07",
+   "title": "OL Lyonnes : le Malawi et Tabitha écrase le Zimbabwe (0-7)",
+   "summary": "Le rêve de Jeux olympiques se poursuit pour le Malawi de Tabitha Chawinag. Ce mardi, les Malawites ont dominé largement le Zimbabwe 7 à 0. Il n'y a pas eu match. Sur cette trêve internationale, le Malawi affrontait le Zimbabwe lors du 2e tour des éliminatoires aux Jeux olympiques 2028.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-le-malawi-et-tabitha-ecrase-le-zimbabwe-0-7,410105.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2F758553845_1484144703740478_1599726461577784990_n-e1785306858109-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-13T15:35:16+00:00"
+  },
+  {
+   "id": "olpluiedebonnesnouvellespourfonsecaavantcrystalpalace",
+   "title": "OL : pluie de bonnes nouvelles pour Fonseca avant Crystal Palace !",
+   "summary": "Avant la réception de Crystal Palace en Ligue Europa, le coach de l’OL, Paulo Fonseca, a reçu plusieurs bonnes nouvelles.",
+   "url": "https://www.butfootballclub.fr/1704554-ol-pluie-de-bonnes-nouvelles-pour-fonseca-avant-crystal-palace/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F67391ec5-ol-pluie-de-bonnes-nouvelles-pour-fonseca-avant-crystal-palace.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-13T15:30:00+00:00"
+  },
+  {
+   "id": "olcrystalpalacecestaussipaulofonsecafacepierresage",
+   "title": "OL - Crystal Palace, c'est aussi Paulo Fonseca face à Pierre Sage",
+   "summary": "La bataille des entraîneurs sera très intéressante à suivre jeudi lors d'OL - Crystal Palace. Avec une \"revanche\" à prendre pour Paulo Fonseca contre Pierre Sage.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-crystal-palace-cest-aussi-paulo-fonseca-face-a-pierre-sage,410094.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FSage-Fonseca-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-13T14:50:00+00:00"
+  },
+  {
+   "id": "aprslefiascodelabilletterielorsdolrennesdessolutionsapportes",
+   "title": "Après le fiasco de la billetterie lors d'OL - Rennes, des solutions apportées",
+   "summary": "Avant la trêve, la rencontre entre l'OL et Rennes avait été émaillée d'incidents avec la billetterie numérique. Le club assure avoir \"mis en place des actions correctives.\" Ces errements avaient causé d'énormes désagréments le soir d'OL - Rennes (4-0).",
+   "url": "https://www.olympique-et-lyonnais.com/apres-le-fiasco-de-la-billetterie-lors-dol-rennes-des-solutions-apportees,410084.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260919__C8T77MU__v2__HighRes__FblFraLigue1LyonRennes-e1790075620670-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-10-13T14:00:00+00:00"
+  },
+  {
+   "id": "aprslefiascofacerenneslolannoncedescorrectionssursabilletter",
+   "title": "Après le fiasco face à Rennes, l'OL annonce des corrections sur sa billetterie pour la réception de Crystal Palace",
+   "summary": "Près d'un mois après les dysfonctionnements rencontrés aux entrées du Groupama Stadium lors d'OL-Rennes, l'Olympique Lyonnais annonce avoir mis en place plusieurs mesures correctives.",
+   "url": "https://www.lyonfoot.com/article/14475/apres-le-fiasco-face-a-rennes-l-ol-annonce-des-corrections-sur-sa-billetterie-pour-la-reception-de-crystal-palace",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ace3587cd594-foule.jpeg&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-10-13T14:00:00+00:00"
+  },
+  {
+   "id": "rclenspierremnssestdfinitivementmislessupporterslensoisdos",
+   "title": "RC Lens : Pierre Ménès s’est définitivement mis les supporters lensois à dos",
+   "summary": "Depuis le début de saison, Pierre Ménès semble s’évertuer à piquer le RC Lens et ses supporters, qu’il ne tient plus en haute estime. Le RC Lens a retrouvé le sourire vendredi. En s’imposant face à l’OL (2-1), les hommes de Yannick Cahuzac ont signé un succès précieux devant leur public.",
+   "url": "https://www.butfootballclub.fr/1704422-rc-lens-pierre-menes-sest-definitivement-mis-les-supporters-lensois-a-dos/",
+   "source": "But! Football Club",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Faf58ee54-rc-lens-pierre-menes-verdict-prometteur-sang-or-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-13T13:50:00+00:00"
+  },
+  {
+   "id": "doviendraledangerpourlolcontrecrystalpalace",
+   "title": "D'où viendra le danger pour l'OL contre Crystal Palace ?",
+   "summary": "Qui faudra-t-il surveiller tout particulièrement pour l'OL jeudi face à Crystal Palace ? L'avant-centre Jørgen Strand Larsen est le meilleur buteur, mais la marque est assez bien répartie.",
+   "url": "https://www.olympique-et-lyonnais.com/dou-viendra-le-danger-pour-lol-contre-crystal-palace,410073.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FCapture-decran-2026-10-13-142340-770x433.png&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-13T13:10:00+00:00"
+  },
+  {
+   "id": "ollyonnesdernirejourneinternationalecemardi",
+   "title": "OL Lyonnes : dernière journée internationale ce mardi",
+   "summary": "La trêve internationale se conclut pour les internationales lyonnaises. Entre les barrages pour la Coupe du monde 2027, les qualifications olympiques et les matchs amicaux, dix Lyonnaises sont concernées par le programme du jour et de la nuit prochaine.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-quelles-internationales-jouent-ce-mardi,410029.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FWeir-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-13T12:20:00+00:00"
+  },
+  {
+   "id": "ligue1losopendaetlolpaspargnsencedbutdesaison",
+   "title": "Ligue 1 : Loïs Openda et l'OL pas épargnés en ce début de saison",
+   "summary": "Blessé pour un gros mois, Loïs Openda a eu droit à rude traitement face à Lens. Plus généralement, le Belge est très secoué par les défenseurs, subissant beaucoup de fautes. Cela fait partie du rapport de force entre un défenseur et un numéro 9.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-1-lois-openda-et-lol-pas-epargnes-en-ce-debut-de-saison,410053.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260912__C86A22X__v1__HighRes__FblFraLigue1ParisFcLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-13T11:30:00+00:00"
+  },
+  {
+   "id": "parkingeurexpofermjeudicommentsorganiserpourserendreaugroupa",
+   "title": "Parking Eurexpo fermé jeudi, comment s'organiser pour se rendre au Groupama Stadium ?",
+   "summary": "Le parking relais Eurexpo sera fermé jeudi pour la rencontre européenne au Groupama Stadium. Les supporters devront prévoir un autre itinéraire pour rejoindre le stade.",
+   "url": "https://www.lyonfoot.com/article/14468/ol-crystal-palace-parking-eurexpo-ferme-les-supporters-doivent-anticiper",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6acdffcc265d5-6acdee5a9f66e-24005097089-060efbe42c-o.jpg&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-10-13T11:00:00+00:00"
+  },
+  {
+   "id": "olcrystalpalaceunpeumoinsde3000anglaisattendusjeudidcines",
+   "title": "OL - Crystal Palace : un peu moins de 3 000 Anglais attendus jeudi à Décines",
+   "summary": "Le parcage des supporters de Crystal Palace affichera complet jeudi pour le match face à l'OL. Près de 3 000 Anglais feront le déplacement à Décines pour soutenir leur équipe. Le stade ne sonnera pas creux à l'occasion d'OL - Crystal Palace jeudi.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-crystal-palace-un-peu-moins-de-3-000-anglais-attendus-jeudi-a-decines,410046.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20200226__1208871511__v1__HighRes__OlympiqueLyonVJuventusUefaChampionsLeagueRou-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-13T10:41:00+00:00"
+  },
   {
    "id": "santmentalesamuelumtitiexollarencontredecollgienslyonnais",
    "title": "Santé mentale : Samuel Umtiti (ex-OL) à la rencontre de collégiens lyonnais",
@@ -29,83 +173,6 @@
    "publishedAt": "2026-10-13T09:00:00+00:00"
   },
   {
-   "id": "ollyonnespasdevictoirepourlesinternationaleslundi",
-   "title": "OL Lyonnes : pas de victoire pour les internationales lundi",
-   "summary": "Un lundi pas très fructueux pour les internationales lyonnaises. Ashley Lawrence a notamment perdu avec le Canada. L'OL Lyonnes ne reprendra la compétition que samedi, face au PSG. En attendant, les internationales sont sur le pont.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-pas-de-victoire-pour-les-internationales-lundi,410023.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20241015__2177483580__v3__HighRes__VflWolfsburgVFcBayernMunchenGooglePixelFraue-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-13T08:10:00+00:00"
-  },
-  {
-   "id": "olcrystalpalace35000billetscoulsdeuxjoursdumatch",
-   "title": "OL - Crystal Palace : 35 000 billets écoulés à deux jours du match",
-   "summary": "À deux jours de la rencontre entre l'OL et Crystal Palace, le club a vendu 35 000 billets. Ce sera le premier match des Lyonnais à Décines depuis presque un mois. Ferez-vous le doublé ?",
-   "url": "https://www.olympique-et-lyonnais.com/ol-crystal-palace-35-000-billets-ecoules-a-deux-jours-du-match,410014.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F05%2F000_34TY76G-e1716880506166-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-13T07:25:00+00:00"
-  },
-  {
-   "id": "unolprisonnierdesatactiquecommentsortirdececttropscolaire",
-   "title": "Un OL prisonnier de sa tactique : comment sortir de ce côté trop scolaire ?",
-   "summary": "Quand tout roule, l'OL récite idéalement sa partition. Mais lorsque l'adversaire le contre, à l'image de Lens, il semble sans solution. Très scolaire, il gagnerait à sortir davantage du cadre imposé.",
-   "url": "https://www.olympique-et-lyonnais.com/un-ol-prisonnier-de-sa-tactique-comment-sortir-de-ce-cote-trop-scolaire,409998.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FAFP__20260222__98KG43Q__v1__HighRes__FblFraLigue1StrasbourgLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-13T06:45:00+00:00"
-  },
-  {
-   "id": "unliendappartenanceindestructiblesageracontesonattachementlo",
-   "title": "\"Un lien d'appartenance indestructible\"... Sage raconte son attachement à l'OL",
-   "summary": "Même s'il réside aujourd'hui à Londres, Pierre Sage conserve un lien très proche avec Lyon et l'Olympique lyonnais. L'ancien entraîneur de l'OL raconte une anecdote émouvante vécue l'an dernier, qui témoigne de l'empreinte laissée par son passage au club.",
-   "url": "https://www.olympique-et-lyonnais.com/un-lien-dappartenance-indestructible-sage-raconte-son-attachement-a-lol,409962.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FCapture-decran-2026-06-15-a-22.45.56-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-13T06:00:00+00:00"
-  },
-  {
-   "id": "franoisletexierseralarbitredolnicedimanche",
-   "title": "François Letexier sera l'arbitre d'OL - Nice dimanche",
-   "summary": "L'OL aura besoin de gagner à domicile dimanche contre Nice (20h45). François Letexier sera aux commandes de cette rencontre de la 7e journée de Ligue 1. C'est ce qui s'appelle se mettre une petite pression.",
-   "url": "https://www.olympique-et-lyonnais.com/francois-letexier-sera-larbitre-dol-nice-dimanche,409995.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2022%2F11%2F000_32LZ3L6-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-13T05:29:00+00:00"
-  },
-  {
-   "id": "olopendalegroscoupdursagecommeonseretrouve",
-   "title": "OL : Openda, le gros coup dur ! Sage, comme on se retrouve...",
-   "summary": "Ce lundi, l'équipe de \"Tant qu'il y aura des Gones\" était de retour. Pour ce nouveau numéro, notre chroniqueur Baptiste Monveneur accompagne Razik Brikh et Nicolas Puydebois pour parler de la blessure de Loïs Openda ou encore du retour de Pierre Sage au Parc OL.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-openda-le-gros-coup-dur-sage-comme-on-se-retrouve,409986.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FMiniature-12-10-2026-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-10-12T16:55:00+00:00"
-  },
-  {
-   "id": "alexandracollinausiffletduchocpsgollyonnes",
-   "title": "Alexandra Collin au sifflet du choc PSG - OL Lyonnes",
-   "summary": "OL Lyonnes se déplacera sur la pelouse du Paris Saint-Germain samedi à 21 h 00, pour la cinquième journée de Première Ligue. Pour cette affiche, la Fédération française de football a désigné Alexandra Collin comme arbitre principale de la rencontre.",
-   "url": "https://www.olympique-et-lyonnais.com/alexandra-collin-au-sifflet-du-choc-psg-ol-lyonnes,409968.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F10%2FFw0MAQgXsAITaKB-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-12T16:00:00+00:00"
-  },
-  {
    "id": "mobilisationlycenneunenouvellemanifestationmardilyonavantune",
    "title": "Mobilisation lycéenne : une nouvelle manifestation mardi à Lyon, avant une AG à Villeurbanne",
    "summary": "La mobilisation lycéenne doit se poursuivre ce mardi 13 octobre dans l’agglomération lyonnaise. Un nouveau cortège est annoncé à 10h au départ de la place Guichard, avant une assemblée générale inter-lycées au CCVA de Villeurbanne.",
@@ -115,17 +182,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6accd904cd181-55573138607-477baac092-k.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-10-12T16:00:00+00:00"
-  },
-  {
-   "id": "gerlingeroletltanglillemontentaucrneaupourlaprotectiondesjou",
-   "title": "Gerlinger (OL) et Létang (Lille) montent au créneau pour la protection des joueurs",
-   "summary": "Entre la blessure de Loïs Openda côté lyonnais et celle de Tiago Santos côté lillois, Michael Gerlinger et Olivier Létang ont échangé ce lundi. Le directeur général de l'OL et le président de Lille appellent à une meilleure protection des joueurs par le corps arbitral.",
-   "url": "https://www.olympique-et-lyonnais.com/gerlinger-ol-et-letang-lille-montent-au-creneau-pour-la-protection-des-joueurs,409984.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F07%2FAFP__20250709__66BQ3U2__v1__HighRes__FblFraLyon-e1754120061568-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-10-12T15:00:00+00:00"
   },
   {
    "id": "opendatouchaupronloldnonceletraitementsubiparsonattaquantcon",
