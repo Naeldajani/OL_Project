@@ -1,22 +1,87 @@
 {
- "updatedAt": "2026-10-13T02:35:27+00:00",
+ "updatedAt": "2026-10-13T10:33:06+00:00",
  "sources": [
-  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
   {
-   "id": "rclenstitraouifaithsitercahuzaclessupportersonttranchsoncasa",
-   "title": "RC Lens : Titraoui fait hésiter Cahuzac, les supporters ont tranché son cas avant le Sporting !",
-   "summary": "Décevant contre l’OL, Yacine Titraoui (23 ans) garde la confiance des supporters du RC Lens avant le choc contre le Sporting mardi en Ligue des Champions (18h45). Le RC Lens a retrouvé le sourire en Ligue 1 en s’imposant face à l’OL (2-1), vendredi soir à Bollaert.",
-   "url": "https://www.butfootballclub.fr/1704168-rc-lens-titraoui-fait-hesiter-cahuzac-les-supporters-ont-tranche-son-cas-avant-le-sporting/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F8ab57671-rc-lens-titraoui-fait-hesiter-cahuzac-les-supporters-ont-tranche-son-cas-avant-le-sporting.jpg&w=800&output=webp&q=78",
+   "id": "santmentalesamuelumtitiexollarencontredecollgienslyonnais",
+   "title": "Santé mentale : Samuel Umtiti (ex-OL) à la rencontre de collégiens lyonnais",
+   "summary": "Il n'est pas rare que des footballeurs professionnels viennent évoquer leur parcours auprès des scolaires. En revanche, il l'est un peu plus que ces échanges tournent autour de la santé mentale.",
+   "url": "https://www.olympique-et-lyonnais.com/sante-mentale-samuel-umtiti-ex-ol-a-la-rencontre-de-collegiens-lyonnais,410037.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FIMG_3709-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
-   "publishedAt": "2026-10-12T21:00:00+00:00"
+   "publishedAt": "2026-10-13T09:50:00+00:00"
+  },
+  {
+   "id": "ligueeuropadesarbitresportugaispourolcrystalpalace",
+   "title": "Ligue Europa : des arbitres portugais pour OL - Crystal Palace",
+   "summary": "Jeudi, l'OL recevra Crystal Palace pour la deuxième journée de Ligue Europa. Ce duel sera dirigé par un arbitre portugais et plusieurs de ses confrères. Aurons-nous une belle version de l'OL jeudi ?",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-europa-des-arbitres-portugais-pour-ol-crystal-palace,410031.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FCapture-decran-2026-10-13-101950-770x433.png&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-13T09:00:00+00:00"
+  },
+  {
+   "id": "ollyonnespasdevictoirepourlesinternationaleslundi",
+   "title": "OL Lyonnes : pas de victoire pour les internationales lundi",
+   "summary": "Un lundi pas très fructueux pour les internationales lyonnaises. Ashley Lawrence a notamment perdu avec le Canada. L'OL Lyonnes ne reprendra la compétition que samedi, face au PSG. En attendant, les internationales sont sur le pont.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-pas-de-victoire-pour-les-internationales-lundi,410023.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20241015__2177483580__v3__HighRes__VflWolfsburgVFcBayernMunchenGooglePixelFraue-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-13T08:10:00+00:00"
+  },
+  {
+   "id": "olcrystalpalace35000billetscoulsdeuxjoursdumatch",
+   "title": "OL - Crystal Palace : 35 000 billets écoulés à deux jours du match",
+   "summary": "À deux jours de la rencontre entre l'OL et Crystal Palace, le club a vendu 35 000 billets. Ce sera le premier match des Lyonnais à Décines depuis presque un mois. Ferez-vous le doublé ?",
+   "url": "https://www.olympique-et-lyonnais.com/ol-crystal-palace-35-000-billets-ecoules-a-deux-jours-du-match,410014.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F05%2F000_34TY76G-e1716880506166-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-13T07:25:00+00:00"
+  },
+  {
+   "id": "unolprisonnierdesatactiquecommentsortirdececttropscolaire",
+   "title": "Un OL prisonnier de sa tactique : comment sortir de ce côté trop scolaire ?",
+   "summary": "Quand tout roule, l'OL récite idéalement sa partition. Mais lorsque l'adversaire le contre, à l'image de Lens, il semble sans solution. Très scolaire, il gagnerait à sortir davantage du cadre imposé.",
+   "url": "https://www.olympique-et-lyonnais.com/un-ol-prisonnier-de-sa-tactique-comment-sortir-de-ce-cote-trop-scolaire,409998.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FAFP__20260222__98KG43Q__v1__HighRes__FblFraLigue1StrasbourgLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-13T06:45:00+00:00"
+  },
+  {
+   "id": "unliendappartenanceindestructiblesageracontesonattachementlo",
+   "title": "\"Un lien d'appartenance indestructible\"... Sage raconte son attachement à l'OL",
+   "summary": "Même s'il réside aujourd'hui à Londres, Pierre Sage conserve un lien très proche avec Lyon et l'Olympique lyonnais. L'ancien entraîneur de l'OL raconte une anecdote émouvante vécue l'an dernier, qui témoigne de l'empreinte laissée par son passage au club.",
+   "url": "https://www.olympique-et-lyonnais.com/un-lien-dappartenance-indestructible-sage-raconte-son-attachement-a-lol,409962.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FCapture-decran-2026-06-15-a-22.45.56-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-13T06:00:00+00:00"
+  },
+  {
+   "id": "franoisletexierseralarbitredolnicedimanche",
+   "title": "François Letexier sera l'arbitre d'OL - Nice dimanche",
+   "summary": "L'OL aura besoin de gagner à domicile dimanche contre Nice (20h45). François Letexier sera aux commandes de cette rencontre de la 7e journée de Ligue 1. C'est ce qui s'appelle se mettre une petite pression.",
+   "url": "https://www.olympique-et-lyonnais.com/francois-letexier-sera-larbitre-dol-nice-dimanche,409995.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2022%2F11%2F000_32LZ3L6-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-13T05:29:00+00:00"
   },
   {
    "id": "olopendalegroscoupdursagecommeonseretrouve",
@@ -85,39 +150,6 @@
    "publishedAt": "2026-10-12T14:00:00+00:00"
   },
   {
-   "id": "olopendaabsentpourdelonguessemaines",
-   "title": "OL : Openda absent pour de longues semaines",
-   "summary": "Sorti sur blessure vendredi dernier à Lens, Loïs Openda va manquer plusieurs matchs avec l'OL. Les examens réalisés ce lundi ont décelé une fissure du péroné de la jambe droite. Le Belge sera absent au moins jusqu'à la prochaine trêve internationale.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-openda-absent-pour-de-longues-semaines,409982.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FOpenda-e1791579676578-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-10-12T13:56:17+00:00"
-  },
-  {
-   "id": "olacadmielesu19fmininesdroulentlesu17masculinsaccrochentlele",
-   "title": "OL Académie : les U19 féminines déroulent, les U17 masculins accrochent le leader",
-   "summary": "Dans un week-end avec seulement trois matchs au sein de l'OL Académie, les U19 féminines sont les seules à être reparties avec les trois points. Du côté des garçons, les U17 lyonnais ont arraché un point face au leader sochalien (3-3).",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-les-u19-feminines-deroulent-les-u17-masculins-accrochent-le-leader,409978.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FIMG_3700-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-10-12T13:10:00+00:00"
-  },
-  {
-   "id": "olunseulcoachfaitmoinsbienquefonsecalextrieurdepuis25ans",
-   "title": "OL : un seul coach fait moins bien que Fonseca à l'extérieur depuis 25 ans",
-   "summary": "Avec seulement 37% de victoires à l'extérieur en Ligue 1 depuis son arrivée à l'OL, Paulo Fonseca figure parmi les entraîneurs lyonnais les moins efficaces dans cet exercice au XXIe siècle.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-un-seul-coach-fait-moins-bien-que-fonseca-a-lexterieur-depuis-25-ans,409964.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261009__D2TK8H3__v1__HighRes__FblFraLigue1LensLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-12T12:20:00+00:00"
-  },
-  {
    "id": "olnicepaulseixasdonneralecoupdenvoifictifaugroupamastadium",
    "title": "OL - Nice : Paul Seixas donnera le coup d'envoi fictif au Groupama Stadium",
    "summary": "Tout juste vainqueur du Tour de Lombardie, le cycliste lyonnais Paul Seixas sera à l'honneur au Groupama Stadium dimanche prochain.",
@@ -127,17 +159,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6acccc6e407e4-seixas.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-12T12:05:00+00:00"
-  },
-  {
-   "id": "olaprsmeyzieuetmilleryvourleslasbuersprolongesonpartenariat",
-   "title": "OL : après Meyzieu et Millery-Vourles, l'AS Buers prolonge son partenariat",
-   "summary": "L'OL continue de consolider son réseau de clubs partenaires dans la région lyonnaise.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-apres-meyzieu-et-millery-vourles-las-buers-prolonge-son-partenariat,409541.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FCapture-decran-2026-10-07-a-10.14.19-694x433.png&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-10-12T11:30:00+00:00"
   },
   {
    "id": "pluielautomnelyonvaulxenvelinetvilleurbanneparmilesvillesles",
@@ -151,17 +172,6 @@
    "publishedAt": "2026-10-12T11:01:00+00:00"
   },
   {
-   "id": "ollyonnescinqinternationalesenpistecelundi",
-   "title": "OL Lyonnes : cinq internationales en piste ce lundi",
-   "summary": "La deuxième semaine de trêve internationale commence ce lundi et cinq joueuses d'OL Lyonnes sont convoquées avec leur sélection. Liana Joseph, Wassa Sangaré et Inès Benyahia retrouveront l'Italie, tandis que Mala Grohs affrontera la Suède U23.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-cinq-lyonnaises-en-piste-ce-lundi,409794.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP__20260324__A4KF3GH__v1__HighRes__FblEurC1WomenWolfsburgLyon-e1774379422353-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-12T10:40:00+00:00"
-  },
-  {
    "id": "rayancherkiexolsclateenpremierleague",
    "title": "Rayan Cherki (Ex-OL) s'éclate en Premier League",
    "summary": "Le Lyonnais Rayan Cherki a brillé dimanche à Anfield avec un but de grande classe. Une action qui a scellé la victoire de Manchester City face à Liverpool en Premier League (0-3).",
@@ -171,28 +181,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6accaa9c02582-53163094786-a8a56fb1fd-o.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-12T10:00:00+00:00"
-  },
-  {
-   "id": "olmdiastkydgderetourcelundiavecbaptistemonveneur",
-   "title": "OL - Médias : TKYDG de retour ce lundi avec Baptiste Monveneur",
-   "summary": "Après un coupure de deux semaines liée à la trêve internationale, votre émission \"Tant qu'il y aura des Gones\" est de retour ce lundi à partir de 19h.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-medias-tkydg-de-retour-ce-lundi-avec-baptiste-monveneur,409965.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FWhatsApp-Image-2026-08-17-at-16.51.27-e1789980863794-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-10-12T09:50:00+00:00"
-  },
-  {
-   "id": "mercatounretourenargentinepourtagliaficoaprslolnousensommese",
-   "title": "Mercato : un retour en Argentine pour Tagliafico après l'OL ? Nous en sommes encore loin",
-   "summary": "Quelle suite Nicolas Tagliafico donnera-t-il à sa carrière ? En fin de contrat avec l'OL à l'issue de la saison, le défenseur a évoqué un possible retour en Argentine. À 34 ans, Nicolas Tagliafico se rapproche de la fin de sa carrière.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-un-retour-en-argentine-pour-tagliafico-apres-lol-nous-en-sommes-encore-loin,409928.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2022%2F11%2F000_32Q66VG-scaled-e1671370417711-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-12T09:00:00+00:00"
   },
   {
    "id": "mobilisationslycenneslesluscommunistesetinsoumisdauvergnerhn",
@@ -226,17 +214,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Fn0PlA79FUX7uj6JQY7ZnZ5YeN_c%3D%2F0x106%3A2048x1258%2F800x0%2Fimages%2FLa-joie-des-joueurs-de-Rennes-lors-de-la-victoire-contre-Auxerre-le-11-octobre-2026-2363285.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-11T17:26:53+00:00"
-  },
-  {
-   "id": "fondationolprsde12000placesoffertesauxassociationsenunesaiso",
-   "title": "Fondation OL : près de 12 000 places offertes aux associations en une saison",
-   "summary": "Réunie cette semaine au Groupama Stadium, la Fondation OL a dressé son bilan 2025-2026. Accès aux matchs, soutien aux enfants hospitalisés et inclusion figurent parmi les actions mises en avant.",
-   "url": "https://www.lyonfoot.com/article/14440/fondation-ol-pres-de-12-000-places-offertes-aux-associations-en-une-saison",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ac91ce18cd45-ol-fondation.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-10T13:00:00+00:00"
   }
  ]
 }
