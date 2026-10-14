@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T19:15:57+00:00",
+ "updatedAt": "2026-10-14T00:16:58+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olrealmadridmercatonormecoupdethtrepourendrick",
+   "title": "OL, Real Madrid Mercato : énorme coup de théâtre pour Endrick !",
+   "summary": "Alors que l’OL envisagerait un nouveau prêt d’Endrick cet hiver, José Mourinho a refroidi les espoirs lyonnais en affichant sa volonté de conserver le Brésilien au Real Madrid.",
+   "url": "https://www.butfootballclub.fr/1704667-ol-real-madrid-mercato-enorme-coup-de-theatre-pour-endrick/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fde90292b-ol-real-madrid-mercato-enorme-coup-de-theatre-pour-endrick.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-13T20:14:27+00:00"
+  },
   {
    "id": "olleverdictesttombaprslefiascodelabilletterie",
    "title": "OL : le verdict est tombé après le fiasco de la billetterie",
@@ -41,17 +52,6 @@
    "publishedAt": "2026-10-13T15:35:16+00:00"
   },
   {
-   "id": "olpluiedebonnesnouvellespourfonsecaavantcrystalpalace",
-   "title": "OL : pluie de bonnes nouvelles pour Fonseca avant Crystal Palace !",
-   "summary": "Avant la réception de Crystal Palace en Ligue Europa, le coach de l’OL, Paulo Fonseca, a reçu plusieurs bonnes nouvelles.",
-   "url": "https://www.butfootballclub.fr/1704554-ol-pluie-de-bonnes-nouvelles-pour-fonseca-avant-crystal-palace/",
-   "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F67391ec5-ol-pluie-de-bonnes-nouvelles-pour-fonseca-avant-crystal-palace.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-13T15:30:00+00:00"
-  },
-  {
    "id": "olcrystalpalacecestaussipaulofonsecafacepierresage",
    "title": "OL - Crystal Palace, c'est aussi Paulo Fonseca face à Pierre Sage",
    "summary": "La bataille des entraîneurs sera très intéressante à suivre jeudi lors d'OL - Crystal Palace. Avec une \"revanche\" à prendre pour Paulo Fonseca contre Pierre Sage.",
@@ -83,17 +83,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ace3587cd594-foule.jpeg&w=800&output=webp&q=78",
    "topic": "Club",
    "publishedAt": "2026-10-13T14:00:00+00:00"
-  },
-  {
-   "id": "rclenspierremnssestdfinitivementmislessupporterslensoisdos",
-   "title": "RC Lens : Pierre Ménès s’est définitivement mis les supporters lensois à dos",
-   "summary": "Depuis le début de saison, Pierre Ménès semble s’évertuer à piquer le RC Lens et ses supporters, qu’il ne tient plus en haute estime. Le RC Lens a retrouvé le sourire vendredi. En s’imposant face à l’OL (2-1), les hommes de Yannick Cahuzac ont signé un succès précieux devant leur public.",
-   "url": "https://www.butfootballclub.fr/1704422-rc-lens-pierre-menes-sest-definitivement-mis-les-supporters-lensois-a-dos/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Faf58ee54-rc-lens-pierre-menes-verdict-prometteur-sang-or-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-13T13:50:00+00:00"
   },
   {
    "id": "doviendraledangerpourlolcontrecrystalpalace",
