@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T21:39:39+00:00",
+ "updatedAt": "2026-10-15T04:35:59+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olcrystalpalacedesretrouvaillesavecpierresageetuneractionatt",
+   "title": "OL-Crystal Palace : des retrouvailles avec Pierre Sage et une réaction attendue",
+   "summary": "L’OL reçoit Crystal Palace ce soir à 18h45 sur Canal+ Foot. Entre retrouvailles avec Pierre Sage et attaque remaniée, les Gones veulent réagir après leur défaite à Lens.",
+   "url": "https://www.lyonfoot.com/article/14488/ol-crystal-palace-retrouver-pierre-sage-sans-lui-faire-de-cadeau",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6acfb650a1783-6acfa7f76dfd5-avant-match-ol-crystal-palace.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-15T04:00:00+00:00"
+  },
   {
    "id": "pierresagejesuisunlyonnaisquientranecrystalpalace",
    "title": "Pierre Sage : \"Je suis un Lyonnais qui entraîne Crystal Palace\"",
