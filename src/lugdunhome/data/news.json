@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T16:37:16+00:00",
+ "updatedAt": "2026-10-16T21:05:59+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "psgollyonnesdamarisengenetdumornayderetour",
+   "title": "PSG - OL Lyonnes : Damaris, Engen et Dumornay de retour",
+   "summary": "Ce samedi, OL Lyonnes retrouve la compétition avec un déplacement au Parc des Princes pour affronter le PSG. Privé de Caroline Weir, Jonatan Giráldez peut malgré tout compter sur un groupe au complet.",
+   "url": "https://www.olympique-et-lyonnais.com/psg-ol-lyonnes-damaris-engen-et-dumornay-de-retour,410324.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FAFP__20251007__77ZW2LT__v1__HighRes__FblEurC1WomenArsenalLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-16T17:30:59+00:00"
+  },
   {
    "id": "olacadmieleprogrammeduweekend",
    "title": "OL Académie : le programme du week-end",
@@ -108,17 +119,6 @@
    "publishedAt": "2026-10-16T12:15:00+00:00"
   },
   {
-   "id": "olpierresagelcheunephraseforteaprssesretrouvaillesratesavecl",
-   "title": "OL : Pierre Sage lâche une phrase forte après ses retrouvailles ratées avec Lyon !",
-   "summary": "De retour au Groupama Stadium avec Crystal Palace, Pierre Sage espérait certainement vivre une autre soirée. Battu par son ancien club, l’Olympique Lyonnais (3-2), en Ligue Europa, le technicien français n’a pas caché ses regrets après la rencontre.",
-   "url": "https://www.butfootballclub.fr/1705265-ol-pierre-sage-lache-une-phrase-forte-apres-ses-retrouvailles-ratees-avec-lyon/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F829561c2-ol-pierre-sage-lache-une-phrase-forte-apres-ses-retrouvailles-ratees-avec-lyon.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-10-16T11:40:00+00:00"
-  },
-  {
    "id": "suitelassemblegnraleeaglefootballgrouperedevientolgroupe",
    "title": "Suite à l'assemblée générale, Eagle Football Groupe redevient OL Groupe",
    "summary": "Réunis en assemblée générale ce vendredi 16 octobre au Parc OL, les actionnaires du club ont voté le retour à la dénomination Olympique Lyonnais Groupe. Le nom Eagle Football Group, adopté le 11 décembre 2023, est ainsi appelé à disparaître, même si le changement ne prendra pas effet immédiatement.",
@@ -172,17 +172,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260912__C86C94T__v1__HighRes__FblFraLigue1ParisFcLyon-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-10-16T09:00:00+00:00"
-  },
-  {
-   "id": "ligueeuropalolparmilesdixclubsavoirfaitunsansfaute",
-   "title": "Ligue Europa : l'OL parmi les dix clubs à avoir fait un sans-faute",
-   "summary": "Après deux journées, l'OL affiche six points au compteur. Un début de campagne parfait au niveau comptable qui place le club à la huitième place, dix formations ayant pour le moment réalisé un deux sur deux.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-europa-lol-parmi-les-dix-clubs-a-avoir-fait-un-sans-faute,410285.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2Folympique_lyonnais_v_crystal_palace_fc_-_uefa_europa_league_2026_27_league_phase_md2-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-16T08:15:00+00:00"
   },
   {
    "id": "lessupporterslyonnaispourrontilsserendreauparcdesprincesle25",
