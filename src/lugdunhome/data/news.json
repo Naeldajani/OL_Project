@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T21:21:21+00:00",
+ "updatedAt": "2026-10-16T04:30:12+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "lyonseptsuspectsinterpellsaprslenlvementetlamortduchefprsumd",
+   "title": "Lyon : sept suspects interpellés après l'enlèvement et la mort du chef présumé de la Jefe Mafia",
+   "summary": "Sept mois après l'enlèvement spectaculaire de Jessim L. sur l'autoroute A7 et la découverte de son corps carbonisé, sept personnes ont été interpellées dans l'agglomération lyonnaise.",
+   "url": "https://www.lyonmag.com/article/154416/lyon-sept-suspects-interpelles-apres-l-enlevement-et-la-mort-du-chef-presume-de-la-jefe-mafia",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad196ea98def-1200x675-69cfb283d7731-jessim-paysage.png&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-16T03:15:00+00:00"
+  },
   {
    "id": "sageaprsolcrystalpalace32jaimerevenirlyonmaispaspourperdre",
    "title": "Sage après OL - Crystal Palace (3-2) : \"J'aime revenir à Lyon, mais pas pour perdre\"",
@@ -138,17 +149,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAmantino-Mancini-AFP-PHOTO-ANDREAS-SOLARO-700x433.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-10-15T14:00:00+00:00"
-  },
-  {
-   "id": "benzemaetbenarfaauraientddevenirlameilleurepairedelhistoirer",
-   "title": "\"Benzema et Ben Arfa auraient dû devenir la meilleure paire de l'histoire\" (Riolo Club)",
-   "summary": "Invité de Riolo Club, l'agent historique de Karim Benzema a vu éclore le Ballon d'Or à l'Olympique Lyonnais… ainsi qu'Hatem Ben Arfa, dont il s'est occupé à ses débuts. Les deux jeunes régnaient sur la Ligue 1, au point de taper dans l'œil de Sir Alex Ferguson.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-benzema-et-ben-arfa-auraient-du-devenir-la-meilleure-paire-de-l-histoire-riolo-club_VN-202610150830.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FMtJHHewxOoaFJWIZrO6B1zmPG9U%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FBenzema-et-Ben-Arfa-auraient-du-devenir-la-meilleure-paire-de-l-histoire-Riolo-Club-2366204.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-15T13:32:19+00:00"
   },
   {
    "id": "ollyonnesunentranementouvertaupublicavantlematchfacelom",
