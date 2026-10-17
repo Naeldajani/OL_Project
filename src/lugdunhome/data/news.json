@@ -1,13 +1,111 @@
 {
- "updatedAt": "2026-10-17T10:41:45+00:00",
+ "updatedAt": "2026-10-17T15:32:34+00:00",
  "sources": [
-  "20 Minutes",
   "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olfonsecadnonceunestratgienioiseavantlechoc",
+   "title": "OL : Fonseca dénonce une stratégie niçoise avant le choc",
+   "summary": "Paulo Fonseca critique la sortie niçoise avant OL-Nice et soupçonne une stratégie pour peser sur l’arbitrage de François Letexier.",
+   "url": "https://www.butfootballclub.fr/1705613-ol-fonseca-denonce-strategie-nicoise-choc/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F41864b8c-ol-fonseca-denonce-strategie-nicoise-choc-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-17T15:05:07+00:00"
+  },
+  {
+   "id": "olnicelessupportersnioisautorisssedplacer",
+   "title": "OL - Nice : les supporters niçois autorisés à se déplacer",
+   "summary": "Les supporters de l'OGC Nice pourront accompagner leur équipe à Décines ce dimanche à l'occasion de la rencontre face à l'OL. Leur déplacement sera toutefois encadré et devra se faire obligatoirement en bus.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-nice-les-supporters-nicois-autorises-a-se-deplacer,410223.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FAFP__20260215__97NE32K__v1__HighRes__FblFraLigue1LyonNice-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-17T14:50:00+00:00"
+  },
+  {
+   "id": "lelourugbycraquesurladernireactionpoursonentreenchallengecup",
+   "title": "Le LOU Rugby craque sur la dernière action pour son entrée en Challenge Cup face aux Sharks (33-40)",
+   "summary": "Revenus à égalité juste avant la sirène, les Lyonnais ont finalement été battus par les Sharks (33-40), ce samedi à Gerland, au terme d’une rencontre à rebondissements.",
+   "url": "https://www.lyonmag.com/article/154436/le-lou-rugby-craque-sur-la-derniere-action-pour-son-entree-en-challenge-cup-face-aux-sharks-33-40",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad38346e3b7b-capture-decran-2026-10-17-a-16.png&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-17T14:15:00+00:00"
+  },
+  {
+   "id": "ollyonnesadahegerbergmeilleurebuteusefaceaupsg",
+   "title": "OL Lyonnes : Ada Hegerberg, meilleure buteuse face au PSG",
+   "summary": "Avant le déplacement d'OL Lyonnes à Paris, ce samedi, Ada Hegerberg peut se targuer d'un bilan remarquable face au rival parisien. L’attaquante norvégienne a inscrit 14 buts contre le PSG, faisant d’elle la meilleure réalisatrice de ces confrontations.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-ada-hegerberg-meilleure-buteuse-face-au-psg,410229.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F09%2FAFP__20250921__doucelin-sainteti250920_npdXV__v1__HighRes__SaintEtienneVOlLyonArkema-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-17T14:00:00+00:00"
+  },
+  {
+   "id": "ollasortiedenicesurlarbitragelaissepaulofonsecaperplexe",
+   "title": "OL : la sortie de Nice sur l'arbitrage laisse Paulo Fonseca perplexe",
+   "summary": "Vendredi à Nice, il a notamment été question d'arbitrage au moment d'évoquer le duel à venir face à l'OL. Une sortie que ne comprend pas Paulo Fonseca. Avant même de donner le coup d'envoi de la partie, François Letexier est déjà au centre des discussions.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-la-sortie-de-nice-sur-larbitrage-laisse-paulo-fonseca-perplexe,410438.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260715__C2AV9GW__v1__HighRes__FblFraFriendlyLyonServette-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-17T13:00:00+00:00"
+  },
+  {
+   "id": "olnicenousdevonsavoirconfianceennosarbitressoulignefonseca",
+   "title": "OL-Nice : “Nous devons avoir confiance en nos arbitres”, souligne Fonseca",
+   "summary": "L’Olympique Lyonnais reçoit l’OGC Nice au Groupama Stadium, dimanche à 20h45, dans le cadre de la 7ème journée de Ligue 1. Paulo Fonseca est revenu sur le “contexte Letexier avec l’OL” en rappelant qu’il fallait faire confiance en l’arbitrage français.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-ol-nice-nous-devons-avoir-confiance-en-nos-arbitres-souligne-fonseca_VN-202610170209.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Fu3BYoR-gcJVjc3WJub7sDVtJJNc%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FOL-Nice-Nous-devons-avoir-confiance-en-nos-arbitres-souligne-Fonseca-2367139.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-17T12:22:00+00:00"
+  },
+  {
+   "id": "olcoupdurpourtolissoavantlogcnicelassedanslaboucle",
+   "title": "OL : coup dur pour Tolisso avant l’OGC Nice, l’ASSE dans la boucle !",
+   "summary": "Mauvaise nouvelle pour Corentin Tolisso avant le choc entre l’OL et l’OGC Nice (dimanche, 20h45). L’OL doit rapidement repartir de l’avant. Après sa première défaite de la saison en Ligue 1 sur la pelouse de Lens (1-2), Lyon reçoit Nice dimanche soir au Groupama Stadium (20h45).",
+   "url": "https://www.butfootballclub.fr/1705541-ol-coup-dur-pour-tolisso-avant-logc-nice-lasse-dans-la-boucle/",
+   "source": "But! Football Club",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F9ebb888b-ol-coup-dur-pour-tolisso-avant-logc-nice-lasse-dans-la-boucle.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-17T12:20:00+00:00"
+  },
+  {
+   "id": "olnicermydescampsseratitulairedimanche",
+   "title": "OL - Nice : Rémy Descamps sera titulaire dimanche",
+   "summary": "Paulo Fonseca fera un important roulement dimanche contre Nice. L'OL commencera avec Rémy Descamps dans les buts. Le choix est clair.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-nice-remy-descamps-sera-titulaire-dimanche,410432.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F08%2FIMG_3127-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-17T11:50:00+00:00"
+  },
+  {
+   "id": "ollyonnesgiovannawaksmanpourraitreprendrelacomptitionen2026",
+   "title": "OL Lyonnes : Giovanna Waksman pourrait reprendre la compétition en 2026",
+   "summary": "À 17 ans, Giovanna Waksman est vue comme une des joueuses d'avenir d'OL Lyonnes. Actuellement blessée, la milieu de terrain pourrait retrouver les terrains avant la fin de l'année. C'est une des curiosités de la saison du côté d'OL Lyonnes.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-giovanna-waksman-pourrait-reprendre-la-competition-en-2026,410403.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FCapture-decran-2026-03-09-110546-719x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-10-17T11:30:00+00:00"
+  },
   {
    "id": "olpasdebouleversementlentranementlesjeunesencorel",
    "title": "OL : pas de bouleversement à l'entraînement, les jeunes encore là",
@@ -53,17 +151,6 @@
    "publishedAt": "2026-10-17T08:10:00+00:00"
   },
   {
-   "id": "flashbackilyaunanquandloldisaitnonunretourmaisonunanplustard",
-   "title": "Flashback, il y a un an : Quand l’OL disait non à un retour maison : un an plus tard, l’histoire s’inverse-t-elle ?",
-   "summary": "Il y a un an, Maxwel Cornet rêvait d’un come-back à Lyon, mais Paulo Fonseca lui avait fermé la porte sans hésitation. Aujourd’hui, alors que le club vise le podium et fait face à d’autres défis en attaque, ce choix prend une saveur particulière.",
-   "url": "https://www.butfootballclub.fr/1705528-flashback-il-y-a-un-an-quand-lol-disait-non-a-un-retour-maison-un-an-plus-tard-lhistoire-sinverse-t-elle/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F8cda5979-flashback-il-y-a-un-an-quand-lol-disait-non-a-un-retour-maison-un-an-plus-tard-l-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-17T08:08:28+00:00"
-  },
-  {
    "id": "olniceolivierpantalonivientsurleterraindujeuetdelarbitrage",
    "title": "OL - Nice : Olivier Pantaloni vient sur le terrain du jeu... et de l'arbitrage",
    "summary": "Avant la réception de l'OGC Nice, ce dimanche à 20h45, l'Olympique lyonnais a été salué par Olivier Pantaloni. L'entraîneur niçois a aussi eu un mot sur l'arbitrage. Après Crystal Palace jeudi (3-2), l'OL s'apprête déjà à retrouver son stade de Décines pour affronter Nice.",
@@ -73,50 +160,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2Florient-s-french-head-coach-olivier-pantaloni-looks-on-from-the-technical-area-during-the-french-l1-1775631918_4f1b36f135d96232b36f135d9643b3v_-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-10-17T07:25:00+00:00"
-  },
-  {
-   "id": "olavecmoussaniakhatretourplusdesrnit",
-   "title": "OL : avec Moussa Niakhaté, retour à plus de sérénité ?",
-   "summary": "Le patron est de retour. Dimanche face à Nice, Moussa Niakhaté devrait reformer la charnière centrale avec Felix Bacher. Une présence qui pourrait apporter davantage de maîtrise défensive à une équipe qui a perdu quelques repères en son absence.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-avec-moussa-niakhate-retour-a-plus-de-serenite,410357.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260412__A7JZ42G__v1__HighRes__FblFraLigue1LyonLorient-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-10-17T06:40:00+00:00"
-  },
-  {
-   "id": "oltolissoatteintles12butsencoupedeurope",
-   "title": "OL : Tolisso atteint les 12 buts en Coupe d'Europe",
-   "summary": "Buteur face à Crystal Palace en Ligue Europa, Corentin Tolisso a inscrit sa 12e réalisation européenne avec l'OL. Le capitaine lyonnais rejoint ainsi Karim Benzema et Lisandro Lopez à la sixième place du classement des meilleurs buteurs de l'histoire du club en Coupe d'Europe.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-tolisso-atteint-les-12-buts-en-coupe-deurope,410292.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260811__C4F64JY__v1__HighRes__FblEurC1QualifyingLyonPrague-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-17T06:00:00+00:00"
-  },
-  {
-   "id": "ollyonnesunchocausommetfaceaupsgpourconserverlatte",
-   "title": "OL Lyonnes : un choc au sommet face au PSG pour conserver la tête",
-   "summary": "OL Lyonnes se déplace au Parc des Princes ce samedi pour affronter le Paris Saint-Germain à l'occasion de la cinquième journée de Première Ligue.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-un-choc-au-sommet-face-au-psg-pour-conserver-la-tete,410295.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FAFP__20250927__76Z76QR__v1__HighRes__FblFraPremiereLigueLyonPsg-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-17T05:30:00+00:00"
-  },
-  {
-   "id": "pronosticologcnice1810pronocotesetcompos",
-   "title": "Pronostic OL – OGC Nice (18/10) : prono, cotes et compos",
-   "summary": "Voici l’analyse complète du match de la septième journée de Ligue 1 entre l’OL et l’OGC Nice, ainsi que notre pronostic de la rencontre. L’Olympique Lyonnais clôturera cette septième journée de Ligue 1 avec la réception de l’OGC Nice ce dimanche (20h45).",
-   "url": "https://www.butfootballclub.fr/1705311-pronostic-ol-ogc-nice-18-10-prono-cotes-et-compos/",
-   "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F50c7da9a-ol-nice-684x1024.png&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-17T05:30:00+00:00"
   },
   {
    "id": "psgollyonnesunchocpourleretourdelatrveinternationale",
@@ -139,28 +182,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F1iLn8rgotW68v3WKXQdjIN5wgLo%3D%2F0x0%3A1600x900%2F800x0%2Fimages%2FTroyes-Lens-sur-quelle-chaine-et-a-quelle-heure-regarder-le-match-de-Ligue-1-en-direct-2365318.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-17T04:10:00+00:00"
-  },
-  {
-   "id": "psgollyonnesdamarisengenetdumornayderetour",
-   "title": "PSG - OL Lyonnes : Damaris, Engen et Dumornay de retour",
-   "summary": "Ce samedi, OL Lyonnes retrouve la compétition avec un déplacement au Parc des Princes pour affronter le PSG. Privé de Caroline Weir, Jonatan Giráldez peut malgré tout compter sur un groupe au complet.",
-   "url": "https://www.olympique-et-lyonnais.com/psg-ol-lyonnes-damaris-engen-et-dumornay-de-retour,410324.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FAFP__20251007__77ZW2LT__v1__HighRes__FblEurC1WomenArsenalLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-16T17:30:59+00:00"
-  },
-  {
-   "id": "olacadmieleprogrammeduweekend",
-   "title": "OL Académie : le programme du week-end",
-   "summary": "Après un week-end marqué par plusieurs rencontres de championnat, les équipes de l'académie enchaînent les matchs ce samedi 17 et dimanche 18 octobre. La réserve masculine ouvrira le bal à domicile, avant les rendez-vous des U17 et des U19.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-le-programme-du-week-end-108,410106.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2020%2F01%2FOLacad%C3%A9mie-650x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-16T15:40:00+00:00"
   },
   {
    "id": "leparcoursducombattantdessupportersdelolavantlematchfacecrys",
@@ -218,17 +239,6 @@
    "publishedAt": "2026-10-16T06:00:00+00:00"
   },
   {
-   "id": "olcrystalpalaceonsadaptedosortcelyonnouveauultraralistesansa",
-   "title": "OL - Crystal Palace : « On s’adapte »… D’où sort ce Lyon nouveau, ultra-réaliste sans attaquant de pointe ?",
-   "summary": "Bien que privé de son incontournable avant-centre Loïs Openda, l’Olympique Lyonnais est parvenu jeudi à inscrire trois buts au Crystal Palace de Pierre Sage. De quoi s’offrir un (prestigieux) deuxième succès de rang en Ligue Europa (3-2)",
-   "url": "https://www.20minutes.fr/sport/football/ligue_europa/4254777-20261016-ol-crystal-palace-adapte-sort-lyon-nouveau-ultra-realiste-attaquant-pointe?at_medium=display&at_campaign=149",
-   "source": "20 Minutes",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FbFdhVZCSR3aHuQfinAYLtCk%2F1444x920_le-lyonnais-keito-nakamura-a-droite-est-defie-par-oscar-mingueza-de-crystal-palace-lors-du-match-de-football-de-la-phase-d-ouverture-de-l-europa-league-entre-lyon-et-crystal-palace-a-lyon-en-france-le-jeudi-15-octobre-2026-photo-ap-laurent-cipriani-xpg122-26288644288902-2610151955&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-16T04:42:36+00:00"
-  },
-  {
    "id": "lyonseptsuspectsinterpellsaprslenlvementetlamortduchefprsumd",
    "title": "Lyon : sept suspects interpellés après l'enlèvement et la mort du chef présumé de la Jefe Mafia",
    "summary": "Sept mois après l'enlèvement spectaculaire de Jessim L. sur l'autoroute A7 et la découverte de son corps carbonisé, sept personnes ont été interpellées dans l'agglomération lyonnaise.",
@@ -282,17 +292,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad0c94b5cf29-flou.jpg&w=800&output=webp&q=78",
    "topic": "Club",
    "publishedAt": "2026-10-15T13:05:00+00:00"
-  },
-  {
-   "id": "ildevaitprendrelaprsidencedecasinosjoalaurentprudhommeexolqu",
-   "title": "Il devait prendre la présidence de casinos JOA, Laurent Prud'homme (ex-OL) quitte déjà l'entreprise",
-   "summary": "Un petit tour et puis s'en va. Arrivé comme directeur général du groupe casinos JOA à Lyon au printemps dernier, Laurent Prud'homme quitte finalement l'entreprise dont il devait prendre la présidence.",
-   "url": "https://www.lyonfoot.com/article/14490/apres-son-depart-de-l-ol-laurent-prud-homme-quitte-deja-la-direction-du-groupe-joa-a-lyon",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad08b6476778-53989807346-44e0010937-o.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-10-15T08:14:00+00:00"
   },
   {
    "id": "olcrystalpalacepierresageretrouvelegroupamastadiumunplaisird",
