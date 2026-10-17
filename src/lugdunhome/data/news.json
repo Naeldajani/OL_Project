@@ -1,13 +1,23 @@
 {
- "updatedAt": "2026-10-16T23:34:20+00:00",
+ "updatedAt": "2026-10-17T04:23:08+00:00",
  "sources": [
   "20 Minutes",
-  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "troyeslenssurquellechaneetquelleheureregarderlematchdeligue1",
+   "title": "Troyes - Lens : sur quelle chaîne et à quelle heure regarder le match de Ligue 1 en direct ?",
+   "summary": "En difficulté dans ce début de championnat, les Troyens accueillent une équipe lensoise revigorée par sa victoire face à Lyon. Voici toutes les informations pour suivre ce match en direct.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/troyes-lens-sur-quelle-chaine-et-a-quelle-heure-regarder-le-match-de-ligue-1-en-direct_AN-202610170023.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F1iLn8rgotW68v3WKXQdjIN5wgLo%3D%2F0x0%3A1600x900%2F800x0%2Fimages%2FTroyes-Lens-sur-quelle-chaine-et-a-quelle-heure-regarder-le-match-de-Ligue-1-en-direct-2365318.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-17T04:10:00+00:00"
+  },
   {
    "id": "psgollyonnesdamarisengenetdumornayderetour",
    "title": "PSG - OL Lyonnes : Damaris, Engen et Dumornay de retour",
@@ -29,17 +39,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2020%2F01%2FOLacad%C3%A9mie-650x433.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-16T15:40:00+00:00"
-  },
-  {
-   "id": "pronostictroyesrclens1710pronocotesetcompos",
-   "title": "Pronostic Troyes – RC Lens (17/10) : prono, cotes et compos",
-   "summary": "Voici l’analyse complète du match de la septième journée de Ligue 1 entre Troyes et le RC Lens, ainsi que notre pronostic de la rencontre.",
-   "url": "https://www.butfootballclub.fr/1705256-pronostic-troyes-rc-lens-17-10-prono-cotes-et-compos/",
-   "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fc48e5a39-troyes-lens-684x1024.png&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-16T15:30:00+00:00"
   },
   {
    "id": "leparcoursducombattantdessupportersdelolavantlematchfacecrys",
