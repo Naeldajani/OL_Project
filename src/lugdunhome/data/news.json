@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-17T15:32:34+00:00",
+ "updatedAt": "2026-10-17T20:35:08+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,28 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "psgollyonnesretourdu4231wassasangartitulaire",
+   "title": "PSG - OL Lyonnes : retour du 4-2-3-1, Wassa Sangaré titulaire",
+   "summary": "OL Lyonnes se présentera avec une défense à quatre face au PSG ce samedi (21h05). Wassa Sangaré démarre aux côtés de Wendie Renard. Elle n'a pas vraiment besoin de ça tant la domination d'OL Lyonnes sur le championnat est énorme.",
+   "url": "https://www.olympique-et-lyonnais.com/psg-ol-lyonnes-retour-du-4-2-3-1-wassa-sangare-titulaire,410461.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FZJ106300-975x633-1-770x433.webp&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-10-17T18:15:21+00:00"
+  },
+  {
+   "id": "olnicelegroupelyonnaisavecniakhatduranvilleethimbert",
+   "title": "OL - Nice : le groupe lyonnais avec Niakhaté, Duranville et Himbert",
+   "summary": "Les déclarations de Paulo Fonseca samedi ne laissaient pas de place au suspense pour le groupe face à Nice. L'OL fera avec ses cadres, et une rotation importante dans le 11.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-nice-le-groupe-lyonnais-avec-niakhate-duranville-et-himbert,410451.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FDuranville-2-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-17T17:04:56+00:00"
+  },
   {
    "id": "olfonsecadnonceunestratgienioiseavantlechoc",
    "title": "OL : Fonseca dénonce une stratégie niçoise avant le choc",
@@ -140,28 +162,6 @@
    "publishedAt": "2026-10-17T09:00:00+00:00"
   },
   {
-   "id": "ollesu13sinitientlaluttepourmieuxapprhenderlesduels",
-   "title": "OL : les U13 s'initient à la lutte pour mieux appréhender les duels",
-   "summary": "L'OL innove sur la formation de ses jeunes joueurs. Pour accompagner le développement de ses U13, le club a mis en place des séances consacrées à la lutte, en collaboration avec le club Lyon Saint-Priest.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-les-u13-sinitient-a-la-lutte-pour-mieux-apprehender-les-duels,410147.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FCapture-decran-2026-10-14-a-10.27.34-770x433.png&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-17T08:10:00+00:00"
-  },
-  {
-   "id": "olniceolivierpantalonivientsurleterraindujeuetdelarbitrage",
-   "title": "OL - Nice : Olivier Pantaloni vient sur le terrain du jeu... et de l'arbitrage",
-   "summary": "Avant la réception de l'OGC Nice, ce dimanche à 20h45, l'Olympique lyonnais a été salué par Olivier Pantaloni. L'entraîneur niçois a aussi eu un mot sur l'arbitrage. Après Crystal Palace jeudi (3-2), l'OL s'apprête déjà à retrouver son stade de Décines pour affronter Nice.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-nice-olivier-pantaloni-vient-sur-le-terrain-du-jeu-et-de-larbitrage,410316.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2Florient-s-french-head-coach-olivier-pantaloni-looks-on-from-the-technical-area-during-the-french-l1-1775631918_4f1b36f135d96232b36f135d9643b3v_-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-17T07:25:00+00:00"
-  },
-  {
    "id": "psgollyonnesunchocpourleretourdelatrveinternationale",
    "title": "PSG-OL Lyonnes : un choc pour le retour de la trêve internationale",
    "summary": "À peine la trêve internationale terminée, OL Lyonnes se prépare à un véritable choc.",
@@ -281,39 +281,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FMtJHHewxOoaFJWIZrO6B1zmPG9U%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FBenzema-et-Ben-Arfa-auraient-du-devenir-la-meilleure-paire-de-l-histoire-Riolo-Club-2366204.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-15T13:32:19+00:00"
-  },
-  {
-   "id": "olnicepourquoilesnomsdesjoueursserontfloussurlesmaillots",
-   "title": "OL-Nice : pourquoi les noms des joueurs seront flous sur les maillots ?",
-   "summary": "À l'occasion de la réception de l'OGC Nice, ce dimanche, l'Olympique Lyonnais participera à une campagne de sensibilisation à la santé visuelle.",
-   "url": "https://www.lyonfoot.com/article/14498/ol-nice-pourquoi-les-noms-des-joueurs-seront-flous-sur-les-maillots",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad0c94b5cf29-flou.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-10-15T13:05:00+00:00"
-  },
-  {
-   "id": "olcrystalpalacepierresageretrouvelegroupamastadiumunplaisird",
-   "title": "OL - Crystal Palace : Pierre Sage retrouve le Groupama Stadium, \"un plaisir de jouer contre lui\" confie Fonseca",
-   "summary": "Alors que l'Olympique Lyonnais recevra Crystal Palace pour la 2e journée de phase de ligue de Ligue Europa, Pierre Sage, coach du club anglais fera son retour à Lyon, club qui l'aura fait exploser aux yeux du grand public en Ligue 1.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-ol-crystal-palace-pierre-sage-retrouve-le-groupama-stadium-un-plaisir-de-jouer-contre-lui-confie-fonseca_VN-202610140501.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FaPxomgFuQGqFZjxD7_yFmEA3gIs%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FOL-Crystal-Palace-Pierre-Sage-retrouve-le-Groupama-Stadium-un-plaisir-de-jouer-contre-lui-confie-Fonseca-2365235.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-14T12:28:21+00:00"
-  },
-  {
-   "id": "opendatouchaupronloldnonceletraitementsubiparsonattaquantcon",
-   "title": "Openda touché au péroné, l'OL dénonce \"le traitement subi par son attaquant\" contre Lens",
-   "summary": "L'attaquant belge de l'Olympique lyonnais, Loïs Openda, va être écarté des terrains pendant un bon mois.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/l-olympique-lyonnais-deplore-le-traitement-subi-par-son-attaquant-openda-victime-d-une-fissure-du-perone_AV-202610120600.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FahzSUsK9w6O2Gwds6JkAws_ika4%3D%2F0x106%3A2048x1258%2F800x0%2Fimages%2FLois-Openda-lors-du-match-entre-l-Olympique-lyonnais-et-le-RC-Lens-le-9-octobre-2026-2363817.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-12T14:34:30+00:00"
   }
  ]
 }
