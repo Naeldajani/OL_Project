@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-17T23:07:06+00:00",
+ "updatedAt": "2026-10-18T04:30:03+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olnicelesgonespeuventilsprolongerleurenvolcesoir",
+   "title": "OL-Nice : les Gones peuvent-ils prolonger leur envol ce soir ?",
+   "summary": "Vainqueur de Crystal Palace jeudi, L'OL reçoit Nice ce soir à 20h45. Face à des Aiglons relancés, les Gones veulent retrouver la victoire en Ligue 1 devant leur public.",
+   "url": "https://www.lyonfoot.com/article/14509/ol-nice-couper-les-ailes-aux-aiglons-et-garder-la-confiance",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad21f6f1cc28-816987565-18630039895012707-3178533874169027788-n.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-18T04:00:00+00:00"
+  },
   {
    "id": "imperturbableollyonnesdomineencoreunefoislepsg04",
    "title": "Imperturbable, OL Lyonnes domine encore une fois le PSG (0-4)",
@@ -281,28 +292,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FMtJHHewxOoaFJWIZrO6B1zmPG9U%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FBenzema-et-Ben-Arfa-auraient-du-devenir-la-meilleure-paire-de-l-histoire-Riolo-Club-2366204.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-15T13:32:19+00:00"
-  },
-  {
-   "id": "olcrystalpalacepierresageretrouvelegroupamastadiumunplaisird",
-   "title": "OL - Crystal Palace : Pierre Sage retrouve le Groupama Stadium, \"un plaisir de jouer contre lui\" confie Fonseca",
-   "summary": "Alors que l'Olympique Lyonnais recevra Crystal Palace pour la 2e journée de phase de ligue de Ligue Europa, Pierre Sage, coach du club anglais fera son retour à Lyon, club qui l'aura fait exploser aux yeux du grand public en Ligue 1.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-ol-crystal-palace-pierre-sage-retrouve-le-groupama-stadium-un-plaisir-de-jouer-contre-lui-confie-fonseca_VN-202610140501.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FaPxomgFuQGqFZjxD7_yFmEA3gIs%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FOL-Crystal-Palace-Pierre-Sage-retrouve-le-Groupama-Stadium-un-plaisir-de-jouer-contre-lui-confie-Fonseca-2365235.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-14T12:28:21+00:00"
-  },
-  {
-   "id": "opendatouchaupronloldnonceletraitementsubiparsonattaquantcon",
-   "title": "Openda touché au péroné, l'OL dénonce \"le traitement subi par son attaquant\" contre Lens",
-   "summary": "L'attaquant belge de l'Olympique lyonnais, Loïs Openda, va être écarté des terrains pendant un bon mois.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/l-olympique-lyonnais-deplore-le-traitement-subi-par-son-attaquant-openda-victime-d-une-fissure-du-perone_AV-202610120600.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FahzSUsK9w6O2Gwds6JkAws_ika4%3D%2F0x106%3A2048x1258%2F800x0%2Fimages%2FLois-Openda-lors-du-match-entre-l-Olympique-lyonnais-et-le-RC-Lens-le-9-octobre-2026-2363817.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-12T14:34:30+00:00"
   }
  ]
 }
