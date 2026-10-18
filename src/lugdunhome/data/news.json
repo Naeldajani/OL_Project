@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18T11:02:02+00:00",
+ "updatedAt": "2026-10-18T15:50:43+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -9,6 +9,94 @@
  ],
  "items": [
   {
+   "id": "directlyonnicesuivezlederniermatchdela7ejournedeligue1",
+   "title": "DIRECT. Lyon-Nice: suivez le dernier match de la 7e journée de Ligue 1",
+   "summary": "Après sa victoire en Ligue Europa face à Crystal Palace, l'OL veut reprendre sa marche en avant en Ligue 1 avec la réception de Nice ce dimanche au Groupama Stadium en clôture de la 7e journée.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-lyon-nice-suivez-le-dernier-match-de-la-7e-journee-de-ligue-1_LS-202610180037.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FYH1pux-gntqknPk7bi4i7JAXSVs%3D%2F0x212%3A2048x1364%2F800x0%2Fimages%2FC-Tolisso-2367190.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-18T15:04:00+00:00"
+  },
+  {
+   "id": "ligue1lepsgvadevoirfairesansnunomendescontrelol",
+   "title": "Ligue 1 : le PSG va devoir faire sans Nuno Mendes contre l'OL",
+   "summary": "Dans une semaine, l'OL se déplacera au Parc des Princes pour affronter le PSG. Pour ce choc de la huitième journée de Ligue 1, le club parisien ne pourra pas compter sur Nuno Mendes, touché contre Strasbourg et qui va manquer plusieurs semaines de compétition.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-1-le-psg-va-devoir-faire-sans-nuno-mendes-contre-lol,410496.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F04%2F000_34LR8NL-e1713694733527-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-18T14:46:42+00:00"
+  },
+  {
+   "id": "violencesdu17octobrelyoncurlyonnaisproposeunfondsdesolidarit",
+   "title": "Violences du 17 octobre à Lyon : Cœur Lyonnais propose un fonds de solidarité pour les commerçants touchés",
+   "summary": "Au lendemain des violences et des pillages qui ont frappé le centre de Lyon, les élus du groupe Cœur Lyonnais, réunis autour de Jean-Michel Aulas, ont rencontré des représentants de la CCI et des commerçants sinistrés.",
+   "url": "https://www.lyonmag.com/article/154458/violences-du-17-octobre-a-lyon-coeur-lyonnais-propose-un-fonds-de-solidarite-pour-les-commercants-touches",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad4d8c446988-54980101690-c823131682-o.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-18T14:45:00+00:00"
+  },
+  {
+   "id": "olniceunhistoriquercentfavorableauxlyonnais",
+   "title": "OL - Nice : un historique récent favorable aux Lyonnais",
+   "summary": "En ce jour de réception de l'OGC Nice au Parc OL, l'Olympique lyonnais peut s'appuyer sur un bilan plutôt positif face aux Aiglons. Sur les dix dernières confrontations entre les deux équipes, les Rhodaniens se sont imposés à cinq reprises, pour deux nuls et trois défaites.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-nice-un-historique-recent-favorable-aux-lyonnais,409804.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F03%2FAFP__20250309__36ZK74Y__v1__HighRes__FblFraLigue1NiceLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-18T14:00:00+00:00"
+  },
+  {
+   "id": "violencesdu17octobrelyonunrassemblementannoncplacebellecoura",
+   "title": "Violences du 17 octobre à Lyon : un rassemblement annoncé place Bellecour après les pillages",
+   "summary": "Les scènes de violences et de pillages ont marqué les Lyonnais. Ce lundi soir, un rassemblement de soutien aux commerçants et aux forces de l'ordre sera organisé place Bellecour.",
+   "url": "https://www.lyonmag.com/article/154453/violences-du-17-octobre-a-lyon-un-rassemblement-annonce-place-bellecour-apres-les-pillages",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad4cc4491396-55595430317-bb7813b15e-k.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-18T13:39:00+00:00"
+  },
+  {
+   "id": "ollyonnesquatrejoueusesappelesaveclesu17franaises",
+   "title": "OL Lyonnes : quatre joueuses appelées avec les U17 françaises",
+   "summary": "Quatre Lyonnaises ont été retenues par Peggy Provost pour participer au premier tour des éliminatoires de l'Euro U17. Aurélia Wyart, Juliane Guillot, Aïnhoa Sagna et Yasmine Benseba rejoindront les Bleuettes pour un rassemblement en Suède du 18 au 28 octobre.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-quatre-joueuses-appelees-avec-les-u17-francaises,410219.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2018%2F11%2F000_18T6PD-768x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-10-18T13:00:00+00:00"
+  },
+  {
+   "id": "staderennaisuncoquipierdelepaulaffolelemercatololetlomdansla",
+   "title": "Stade Rennais : un coéquipier de Lepaul affole le mercato, l’OL et l’OM dans la boucle !",
+   "summary": "En pleine progression au Stade Rennais, Mahamadou Nagida (21 ans) intéresse de plus en plus de beau monde au mercato. Le Stade Rennais tient une belle promesse pour le marché des transferts.",
+   "url": "https://www.butfootballclub.fr/1705702-stade-rennais-un-coequipier-de-lepaul-affole-le-mercato-lol-et-lom-dans-la-boucle/",
+   "source": "But! Football Club",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F310d998b-stade-rennais-un-coequipier-de-lepaul-affole-le-mercato-lol-et-lom-dans-la-boucle.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-18T12:20:00+00:00"
+  },
+  {
+   "id": "olnicekalboudachevaretrouvernicesonclubformateur",
+   "title": "OL - Nice : Kaïl Boudache va retrouver Nice, son club formateur",
+   "summary": "Ce dimanche à 20h45, l'Olympique lyonnais recevra l'OGC Nice au Parc OL. Pour Kaïl Boudache, cette affiche aura une saveur particulière. Arrivé cet été à l'OL, l'ailier a passé quatre années sur la Côte d'Azur, où il a découvert le monde professionnel et participé au maintien des Aiglons en Ligue 1.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-nice-kail-boudache-va-retrouver-nice-son-club-formateur,409789.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAFP__20260305__DPPI_40026021_055__v1__HighRes__FootballFrenchChampParisFcVNice-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-18T12:00:08+00:00"
+  },
+  {
    "id": "olniceelyewahiunemenacequichercheencoresonrythme",
    "title": "OL - Nice : Elye Wahi, une menace qui cherche encore son rythme",
    "summary": "L'Olympique lyonnais devra garder un œil sur Elye Wahi, dimanche soir au Parc OL. Si l'attaquant de l'OGC Nice n'a toujours pas retrouvé ses sensations de l'an dernier, son potentiel reste une grande menace pour la défense rhodanienne.",
@@ -17,6 +105,17 @@
    "author": "Enzo Catolino",
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FCapture-decran-2026-10-17-110509-770x433.png&w=800&output=webp&q=78",
    "topic": "Actu",
+   "publishedAt": "2026-10-18T11:00:00+00:00"
+  },
+  {
+   "id": "entrainementouvertaupublicetsancesdeddicacesollyonneslarenco",
+   "title": "Entrainement ouvert au public et séances de dédicaces : OL Lyonnes à la rencontre de ses supporters",
+   "summary": "Les joueuses d'OL Lyonnes vont profiter des vacances scolaires pour aller à la rencontre de leurs supporters.",
+   "url": "https://www.lyonfoot.com/article/14516/ol-lyonnes-un-entrainement-ouvert-au-public-et-des-seances-de-dedicaces-pendant-les-vacances-scolaires",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad257b258124-tarciane-ol-lyonnes.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
    "publishedAt": "2026-10-18T11:00:00+00:00"
   },
   {
@@ -51,17 +150,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FTest_visuel_floot_maillots_2_8d3d801776-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-18T09:00:00+00:00"
-  },
-  {
-   "id": "ologcnicepluiedesurprisesdansleonzedefonseca",
-   "title": "OL – OGC Nice : pluie de surprises dans le onze de Fonseca",
-   "summary": "En clôture de la 7e journée de Ligue 1, le choc entre l’OL et l’OGC Nice (20h45) ruisselle de changements dans le onze lyonnais. L’OL n’a pas le temps de souffler.",
-   "url": "https://www.butfootballclub.fr/1705734-ol-ogc-nice-pluie-de-surprises-dans-le-onze-de-fonseca/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F9ebb888b-ol-coup-dur-pour-tolisso-avant-logc-nice-lasse-dans-la-boucle.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-18T08:40:00+00:00"
   },
   {
    "id": "cestvousquiavezorganisaaveclfigrgorydoucetconspuplacebelleco",
@@ -108,28 +196,6 @@
    "publishedAt": "2026-10-18T06:45:00+00:00"
   },
   {
-   "id": "olniceavecdescampscombiendautresremplaantshabituelstitulaire",
-   "title": "OL - Nice : avec Descamps, combien d'autres remplaçants habituels titulaires ?",
-   "summary": "Pour ce troisième match en dix jours, Paulo Fonseca va effectuer de nombreux changements, comme il l'a avoué. En plus de Rémy Descamps, l'OL va connaître un vrai renouvellement face à Nice.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-nice-avec-descamps-combien-dautres-remplacants-habituels-titulaires,410485.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2Fsoccer_el_rsc_anderlecht_vs_olympique_lyon-2-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-18T06:00:00+00:00"
-  },
-  {
-   "id": "danslemarathonautomnaldelolfonsecasedoitdtredanslagestiondes",
-   "title": "Dans le marathon automnal de l'OL, Fonseca se doit d'être dans la gestion de son groupe",
-   "summary": "Lancé dans une série de huit matchs en un mois depuis le déplacement à Lens, l'OL se doit d'être performant, tout en gérant des physiques déjà mis à rude épreuve. Dans ce marathon, les remplaçants habituels doivent se mettre en évidence pour offrir des solutions variées à Paulo Fonseca.",
-   "url": "https://www.olympique-et-lyonnais.com/dans-le-marathon-automnal-de-lol-fonseca-se-doit-detre-dans-la-gestion-de-son-groupe,410287.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FAFP__20251127__86EW6JG__v1__HighRes__FblEurC3MaccabiLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-18T05:30:00+00:00"
-  },
-  {
    "id": "olnicelesgonespeuventilsprolongerleurenvolcesoir",
    "title": "OL-Nice : les Gones peuvent-ils prolonger leur envol ce soir ?",
    "summary": "Vainqueur de Crystal Palace jeudi, L'OL reçoit Nice ce soir à 20h45. Face à des Aiglons relancés, les Gones veulent retrouver la victoire en Ligue 1 devant leur public.",
@@ -141,26 +207,15 @@
    "publishedAt": "2026-10-18T04:00:00+00:00"
   },
   {
-   "id": "imperturbableollyonnesdomineencoreunefoislepsg04",
-   "title": "Imperturbable, OL Lyonnes domine encore une fois le PSG (0-4)",
-   "summary": "OL Lyonnes a bien maîtrisé le PSG, surtout en seconde période, ce samedi. Une victoire 4 à 0 qui confirme encore un peu plus sa domination sur le championnat. Après dix confrontations perdues consécutivement, le PSG voulait se prouver qu'il pouvait rivaliser, au moins sur 90 minutes, avec OL…",
-   "url": "https://www.olympique-et-lyonnais.com/imperturbable-ol-lyonnes-domine-encore-une-fois-le-psg-0-4,410466.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fd51257fe2bfec889ccfe5324cd115401-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-17T21:02:43+00:00"
-  },
-  {
-   "id": "psgollyonnesretourdu4231wassasangartitulaire",
-   "title": "PSG - OL Lyonnes : retour du 4-2-3-1, Wassa Sangaré titulaire",
-   "summary": "OL Lyonnes se présentera avec une défense à quatre face au PSG ce samedi (21h05). Wassa Sangaré démarre aux côtés de Wendie Renard. Elle n'a pas vraiment besoin de ça tant la domination d'OL Lyonnes sur le championnat est énorme.",
-   "url": "https://www.olympique-et-lyonnais.com/psg-ol-lyonnes-retour-du-4-2-3-1-wassa-sangare-titulaire,410461.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FZJ106300-975x633-1-770x433.webp&w=800&output=webp&q=78",
+   "id": "psgollyonneslesfenottesenpatronnesparis",
+   "title": "PSG-OL Lyonnes : les Fenottes en patronnes à Paris",
+   "summary": "OL Lyonnes n'a fait qu'une bouchée du PSG à Paris ce samedi. Les Fenottes sont désormais seules en tête du championnat.",
+   "url": "https://www.lyonfoot.com/article/14508/ol-lyonnes-les-fenottes-ecrasent-le-psg-4-0-et-prennent-seules-la-tete-du-championnat",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad4abc80b935-854537200-28435318629500348-6522817583935201338-n.jpg&w=800&output=webp&q=78",
    "topic": "Féminines",
-   "publishedAt": "2026-10-17T18:15:21+00:00"
+   "publishedAt": "2026-10-17T21:30:00+00:00"
   },
   {
    "id": "lelourugbycraquesurladernireactionpoursonentreenchallengecup",
@@ -185,17 +240,6 @@
    "publishedAt": "2026-10-17T12:22:00+00:00"
   },
   {
-   "id": "psgollyonnesunchocpourleretourdelatrveinternationale",
-   "title": "PSG-OL Lyonnes : un choc pour le retour de la trêve internationale",
-   "summary": "À peine la trêve internationale terminée, OL Lyonnes se prépare à un véritable choc.",
-   "url": "https://www.lyonfoot.com/article/14508/ol-lyonnes-defie-le-psg-au-retour-de-la-treve-internationale",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad21d532752b-jonatan-giraldez-ol-lyonnes.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-10-17T04:30:00+00:00"
-  },
-  {
    "id": "troyeslenssurquellechaneetquelleheureregarderlematchdeligue1",
    "title": "Troyes - Lens : sur quelle chaîne et à quelle heure regarder le match de Ligue 1 en direct ?",
    "summary": "En difficulté dans ce début de championnat, les Troyens accueillent une équipe lensoise revigorée par sa victoire face à Lyon. Voici toutes les informations pour suivre ce match en direct.",
@@ -205,39 +249,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F1iLn8rgotW68v3WKXQdjIN5wgLo%3D%2F0x0%3A1600x900%2F800x0%2Fimages%2FTroyes-Lens-sur-quelle-chaine-et-a-quelle-heure-regarder-le-match-de-Ligue-1-en-direct-2365318.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-17T04:10:00+00:00"
-  },
-  {
-   "id": "leparcoursducombattantdessupportersdelolavantlematchfacecrys",
-   "title": "Le parcours du combattant des supporters de l'OL avant le match face à Crystal Palace",
-   "summary": "Entre routes saturées et transports perturbés, rejoindre le Groupama Stadium a viré au casse-tête jeudi. Certains supporters sont arrivés alors que le match avait commencé.",
-   "url": "https://www.lyonfoot.com/article/14503/bouchons-attente-retards-les-supporters-de-l-ol-ont-galere-a-rejoindre-le-stade-ce-jeudi",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad22c6f0d4af-52762185998-8dffeb2685-o.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-16T15:20:00+00:00"
-  },
-  {
-   "id": "lyonpolitiqueslycenssarsellidoucetetsaintfons161026",
-   "title": "Lyon Politiques : lycéens, Sarselli/Doucet et Saint-Fons - 16/10/26",
-   "summary": "L'émission Lyon Politiques et ses intervenants décryptent pour vous les évènements marquants de la semaine dans l'agglomération lyonnaise.",
-   "url": "https://www.lyonmag.com/article/154421/lyon-politiques-lyceens-sarselli-doucet-et-saint-fons-16-10-26",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad21407f40de-sans-titre.png&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-16T14:30:00+00:00"
-  },
-  {
-   "id": "undputlfidemandedtudierunepossibledissolutiondungroupedesupp",
-   "title": "Un député LFI demande d'étudier une possible dissolution d'un groupe de supporters de l'OL",
-   "summary": "Le député de La France insoumise Thomas Portes a saisi le ministre de l'Intérieur pour demander un examen des agissements des Bad Gones.",
-   "url": "https://www.lyonfoot.com/article/14506/ol-un-depute-lfi-demande-d-etudier-une-eventuelle-dissolution-des-bad-gones",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad2153394ff9-supporters-ol-fuck.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-16T12:15:00+00:00"
   }
  ]
 }
