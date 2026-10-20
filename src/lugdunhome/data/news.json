@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T14:17:44+00:00",
+ "updatedAt": "2026-10-20T19:14:59+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,83 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "avecdeuxjoursdercuprationsupplmentaireslepsgatilunavantagesu",
+   "title": "Avec deux jours de récupération supplémentaires, le PSG a-t-il un avantage sur l'OL ?",
+   "summary": "Ce mardi, le PSG affronte le FC Barcelone en Ligue des champions. De son côté, l'OL jouera son match de Ligue Europa à Hoffenheim jeudi. Deux jours de récupération en moins pour les Lyonnais, mais est-ce vraiment préjudiciable ?",
+   "url": "https://www.olympique-et-lyonnais.com/avec-deux-jours-de-recuperation-supplementaires-le-psg-a-t-il-un-avantage-sur-lol,410656.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260419__A8CF82K__v1__HighRes__FblFraLigue1PsgLyon-e1776634636515-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-20T16:30:00+00:00"
+  },
+  {
+   "id": "olleparigagnantdunjeuneattaquantprtenligue2",
+   "title": "OL : le pari gagnant d’un jeune attaquant prêté en Ligue 2",
+   "summary": "Daryll Benlahlou, prêté par l'OL à Montpellier, signe son premier but en Ligue 2 et confirme sa montée en puissance chez les professionnels.",
+   "url": "https://www.butfootballclub.fr/1706438-ol-pari-gagnant-jeune-attaquant-prete-ligue-2/",
+   "source": "But! Football Club",
+   "author": "Wladimir DELCROS",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F367b445f-ol-pari-gagnant-jeune-attaquant-prete-ligue-2-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-20T16:04:16+00:00"
+  },
+  {
+   "id": "prtparlolbenlahloumarquesonpremierbutenpro",
+   "title": "Prêté par l'OL, Benlahlou marque son premier but en pro",
+   "summary": "Ayant choisi de partir en prêt pour connaître ses premiers pas en pros, Daryll Benlahlou s'est fait une place dans la rotation de Montpellier. Une nouvelle fois entré en jeu lundi contre Rodez, le joueur offensif a inscrit son premier but en Ligue 2 et en pro tout simplement.",
+   "url": "https://www.olympique-et-lyonnais.com/prete-par-lol-benlahlou-marque-son-premier-but-en-pro,410666.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FHVEORUWWQAAFXPh-e1792502370688-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-20T15:40:00+00:00"
+  },
+  {
+   "id": "prsdelyonunmagasinboulangercambriolenpleinenuitdimportantsdg",
+   "title": "Près de Lyon : un magasin Boulanger cambriolé en pleine nuit, d'importants dégâts constatés",
+   "summary": "Un nouveau commerce pris pour cible dans l'agglomération lyonnaise.",
+   "url": "https://www.lyonmag.com/article/154496/pres-de-lyon-un-magasin-boulanger-cambriole-en-pleine-nuit-d-importants-degats-constates",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad78946d6142-600x450.png&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-20T15:27:00+00:00"
+  },
+  {
+   "id": "olfonsecatiresurlacordeavecsarecruesuisse",
+   "title": "OL : Fonseca tire sur la corde avec sa recrue suisse",
+   "summary": "À l’OL, Paulo Fonseca use Zachary Athekame à droite faute de solution fiable. Le Suisse enchaîne les matchs, mais la fatigue monte.",
+   "url": "https://www.butfootballclub.fr/1706432-ol-fonseca-athekame-recrue-suisse/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F8620be64-ol-fonseca-athekame-recrue-suisse-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-20T15:03:25+00:00"
+  },
+  {
+   "id": "olathekamesurutilisfonsecaestimequekangonestpasprt",
+   "title": "OL : Athekame sur-utilisé ? Fonseca estime que Kango n’est \"pas prêt\"",
+   "summary": "Ayant joué toutes les minutes en Ligue 1 depuis le début de la saison, Zachary Athekame n’a pas pu souffler contre Nice. La faute à un manque de solutions à l’OL d’après Paulo Fonseca.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-athekame-sur-utilise-fonseca-estime-que-kango-nest-pas-pret,410648.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FKango-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-20T14:50:00+00:00"
+  },
+  {
+   "id": "lolannonceunnouveaupartenariatavecunemarquedeboissonnergisan",
+   "title": "L’OL annonce un nouveau partenariat avec une marque de boisson énergisante",
+   "summary": "Un nouveau partenaire américain rejoint l’OL pour deux saisons. De quoi promettre des animations au stade, mais aussi une touche de couleur qui pourrait faire tiquer les supporters.",
+   "url": "https://www.lyonfoot.com/article/14549/monster-energy-devient-partenaire-officiel-de-l-ol-jusqu-en-2028",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad7787574e30-1200x675-6ad767b204171-capture-decran-2026-10-20-a-15.png&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-10-20T14:25:00+00:00"
+  },
   {
    "id": "ligueeuropalolsentraineradcinesavantderejoindrehoffenheim",
    "title": "Ligue Europa : l’OL s’entrainera à Décines avant de rejoindre Hoffenheim",
@@ -97,28 +174,6 @@
    "publishedAt": "2026-10-20T09:00:00+00:00"
   },
   {
-   "id": "olmercatofonsecadpouilldesonmeilleurjoueurenjanvier",
-   "title": "OL Mercato : Fonseca dépouillé de son meilleur joueur en janvier ?",
-   "summary": "Privé par l’AC Milan à l’OL, Zachary Athekame (21 ans) pourrait ne pas faire de vieux os à Lyon cette saison. L’OL tient peut-être une excellente recrue… mais seulement pour quelques mois.",
-   "url": "https://www.butfootballclub.fr/1706321-ol-mercato-fonseca-depouille-de-son-meilleur-joueur-en-janvier/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F2d1cbeae-ol-mercato-fonseca-prive-de-son-meilleur-joueur-a-partir-de-janvier.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-20T08:20:00+00:00"
-  },
-  {
-   "id": "oltessmannunbutetunheureuxvnementfter",
-   "title": "OL : Tessmann, un but et un heureux événement à fêter",
-   "summary": "Buteur contre l'OGC Nice dimanche, Tanner Tessmann a ouvert son compteur but avec l'OL cette saison. L'Américain en a également profité pour annoncer un futur heureux événement au moment de sa célébration.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-tessmann-un-but-et-un-heureux-evenement-a-feter,410632.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261018__D3NN6ZQ__v1__HighRes__FblFraLigue1LyonNice-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-20T08:15:00+00:00"
-  },
-  {
    "id": "lollancelejeurtrosupercocolesvertsnontqubiensetenir",
    "title": "L’OL lance le jeu rétro \"Super Coco\", les Verts n’ont qu’à bien se tenir",
    "summary": "Un visage bien connu des supporters lyonnais passe en mode arcade. Dans ce nouveau défi, les réflexes seront précieux pour échapper à des adversaires aux couleurs familières.",
@@ -128,28 +183,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad64c15a5f64-capture-decran-2026-10-19-a-18.png&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-20T08:00:00+00:00"
-  },
-  {
-   "id": "lolleaderdelaligue1aprsseptjournesunepremiredepuislongtemps",
-   "title": "L'OL, leader de la Ligue 1 après sept journées ? Une première depuis longtemps",
-   "summary": "Vainqueur de Nice dimanche soir, l'OL a pris la tête de la Ligue 1. Une situation que le club a vécue la saison passée à la troisième journée. Mais à ce stade de la compétition, il faut remonter à 2021...",
-   "url": "https://www.olympique-et-lyonnais.com/lol-leader-de-la-ligue-1-apres-sept-journees-une-premiere-depuis-longtemps,410614.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261015__2300388843__v1__HighRes__OlympiqueLyonnaisVCrystalPalaceFcUefaEuropaL-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-20T07:30:00+00:00"
-  },
-  {
-   "id": "ligue1psgolarbitrparjrmebrisarddimanche",
-   "title": "Ligue 1 : PSG - OL arbitré par Jérôme Brisard dimanche",
-   "summary": "Après les rendez-vous européens du milieu de semaine, le PSG et l'OL s'affronteront dimanche en clôture de la 8e journée de Ligue 1. Ce choc au Parc des Princes sera arbitré par Jérôme Brisard.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-1-psg-ol-arbitre-par-jerome-brisard-dimanche,410627.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP__20260301__99HA4AF__v1__HighRes__FblFraLigue1MarseilleLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-20T06:45:00+00:00"
   },
   {
    "id": "unjoueurdelolvadevenirpapaunesecondefois",
@@ -282,17 +315,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F4XtR_Ck8Pkf4fjUS-uNERVwEZlg%3D%2F0x140%3A2048x1292%2F800x0%2Fimages%2FPavel-Sulc-buteur-pour-l-OL-face-a-l-OGCN-18-octobre-2026-2367650.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-18T20:56:11+00:00"
-  },
-  {
-   "id": "olnicelyonprendlestroispointsetlattedelaligue1",
-   "title": "OL-Nice : Lyon prend les trois points et la tête de la Ligue 1",
-   "summary": "Lyon enchaîne. Après sa victoire en Europa League, l'OL a battu Nice ce dimanche soir en clôture de la 7e journée de Ligue 1 pour s'emparer de la première place du championnat.",
-   "url": "https://www.lyonfoot.com/article/14509/ol-nice-lyon-vire-en-tete-de-la-ligue-1-2-1",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad52d1085a68-hu7-rwxwaaeqcui-14238.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-18T20:41:00+00:00"
   }
  ]
 }
