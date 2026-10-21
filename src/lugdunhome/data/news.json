@@ -1,7 +1,6 @@
 {
- "updatedAt": "2026-10-21T04:43:44+00:00",
+ "updatedAt": "2026-10-21T11:46:12+00:00",
  "sources": [
-  "20 Minutes",
   "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
@@ -9,15 +8,136 @@
  ],
  "items": [
   {
-   "id": "pronostichoffenheimol2210pronocotesetcompos",
-   "title": "Pronostic Hoffenheim – OL (22/10) : prono, cotes et compos",
-   "summary": "Voici l’analyse complète du match de la troisième journée de phase de ligue de la Ligue Europa entre Hoffenheim et l’OL, ainsi que notre pronostic de la rencontre. L’Olympique Lyonnais connaît un début de saison rêvé.",
-   "url": "https://www.butfootballclub.fr/1706370-pronostic-hoffenheim-ol-22-10-prono-cotes-et-compos/",
+   "id": "olungantamricainasignlyonjusquen2028",
+   "title": "OL : un géant américain a signé à Lyon jusqu’en 2028",
+   "summary": "Avant de croiser le fer avec le PSG (dimanche, 20h45), l’OL a officialisé un partenariat stratégique avec le géant américain Monster Energy pour 2 saisons, soit jusqu’en juin 2028 !",
+   "url": "https://www.butfootballclub.fr/1706558-ol-un-geant-americain-a-signe-a-lyon-jusquen-2028/",
    "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fe20f952c-hoffenheim-ol-684x1024.png&w=800&output=webp&q=78",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F1862f714-om-lol-saborde-la-piste-saoudienne.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-21T11:40:00+00:00"
+  },
+  {
+   "id": "olnicolastagliaficoserapprochedunretour",
+   "title": "OL : Nicolas Tagliafico se rapproche d'un retour",
+   "summary": "Absent depuis plusieurs semaines avec l'OL, Nicolas Tagliafico pourrait prochainement retrouver le groupe. Il s'est entraîné à part ce mercredi. C'est une des grandes questions de ce début de saison à l'OL.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-nicolas-tagliafico-se-rapproche-dun-retour,410744.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FAFP__20251102__82T98B7__v1__HighRes__FblFraLigue1BrestLyon-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
-   "publishedAt": "2026-10-21T04:40:00+00:00"
+   "publishedAt": "2026-10-21T11:30:00+00:00"
+  },
+  {
+   "id": "lolavecson11typehoffenheimnicolaspuydeboisdfendcetteide",
+   "title": "L'OL avec son 11 type à Hoffenheim ? Nicolas Puydebois défend cette idée",
+   "summary": "Avant d'affronter Hoffenheim en Ligue Europa puis le Paris Saint-Germain en championnat, la question de la rotation se pose à l'OL. Dans l'émission Tant qu'il y aura des Gones, Nicolas Puydebois a défendu l'idée de conserver une ossature \"type\" pour ces deux rendez-vous.",
+   "url": "https://www.olympique-et-lyonnais.com/lol-avec-son-11-type-a-hoffenheim-nicolas-puydebois-defend-cette-idee,410655.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FIMG-20260518-WA0106-e1781096076576-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-21T10:40:00+00:00"
+  },
+  {
+   "id": "unancienprsidentexcutifdelolracontecommentunefteentrevoisins",
+   "title": "Un ancien président exécutif de l’OL raconte comment une fête entre voisins l’a propulsé à la tête du club",
+   "summary": "Une soirée entre voisins en Californie a ouvert à Santiago Cucci les portes de l’OL. L’ancien président exécutif raconte les coulisses de sa nomination à la tête du club en 2023.",
+   "url": "https://www.lyonfoot.com/article/14552/ol-santiago-cucci-raconte-comment-une-fete-entre-voisins-l-a-conduit-a-la-tete-du-club",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad88cdc3b68f-53169603347-a35270864d-o.jpg&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-10-21T10:00:00+00:00"
+  },
+  {
+   "id": "olmercatounretourdezacharyathekamelacmilancethivernestpasdac",
+   "title": "OL - Mercato : un retour de Zachary Athekame à l'AC Milan cet hiver n'est pas d'actualité",
+   "summary": "Ces derniers jours, la presse italienne a révélé que l'AC Milan voulait reprendre Zachary Athekame dès cet hiver. Selon nos informations, ce n'est pas d'actualité. Est-ce que l'AC Milan n'est pas en train de regretter le prêt de Zachary Athekame à l'OL ?",
+   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-un-retour-de-zachary-athekame-a-lac-milan-cet-hiver-nest-pas-dactualite,410738.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260829__C6TV2GD__v1__HighRes__FblFraLigue1LyonLeHavre-e1788250100378-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-21T09:40:00+00:00"
+  },
+  {
+   "id": "loletlessaintpriestsontdsormaispartenaires",
+   "title": "L'OL et l'ES Saint-Priest sont désormais partenaires",
+   "summary": "Mardi, l'ES Saint-Priest a officialisé un tout nouveau partenariat avec l'OL. Une annonce dans la lignée des dernières avancées au sujet des liens entre l'Olympique lyonnais et les clubs amateurs de la région.",
+   "url": "https://www.olympique-et-lyonnais.com/lol-et-les-saint-priest-sont-desormais-partenaires,410715.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FEntente-Saint-Priest-e1792569125591-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-10-21T09:00:00+00:00"
+  },
+  {
+   "id": "audreygerbelausiffletdollyonnesmarseille",
+   "title": "Audrey Gerbel au sifflet d'OL Lyonnes - Marseille",
+   "summary": "OL Lyonnes connaît le corps arbitral qui dirigera son prochain match face à Marseille. Audrey Gerbel sera arbitre centrale, dans une affiche qui n'est pas inconnue pour elle. Elle avait notamment officié pour le quart de finale de Coupe LFFP entre les deux équipes en février.",
+   "url": "https://www.olympique-et-lyonnais.com/audrey-gerbel-au-sifflet-dol-lyonnes-marseille,410599.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F09%2Fc9452a3223a3a184e115df25e4e03db8-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-21T08:10:00+00:00"
+  },
+  {
+   "id": "demblkvaratskheliamarquinhoslepsgperddesplumesavantlechocfac",
+   "title": "Dembélé, Kvaratskhelia, Marquinhos... le PSG perd des plumes avant le choc face à l'OL !",
+   "summary": "Après Ousmane Dembélé, le PSG a également enregistré les blessures de Khvicha Kvaratskhelia et Marquinhos en seconde période face au Barça ce mardi.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-dembele-kvaratskhelia-marquinhos-le-psg-perd-des-plumes-avant-le-choc-face-a-l-ol_VN-202610210336.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FvQuLmaInuZon4ugvVfUPNxlsmTo%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FDembele-Kvaratskhelia-Marquinhos-le-PSG-perd-des-plumes-avant-le-choc-face-a-l-OL-2369354.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-10-21T08:04:18+00:00"
+  },
+  {
+   "id": "lepsgdominelebaramaisperdtroisjoueursavantlol",
+   "title": "Le PSG domine le Barça, mais perd trois joueurs avant l'OL",
+   "summary": "Opposé à son rival barcelonais, le PSG a de nouveau prouvé qu'il était la meilleure équipe d'Europe. Mais son succès 4-2 est entaché par les sorties précoces d'Ousmane Dembélé, Marquinhos et Khvicha Kvaratskhelia.",
+   "url": "https://www.olympique-et-lyonnais.com/le-psg-domine-le-barca-mais-perd-trois-joueurs-avant-lol,410699.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FCapture-decran-2026-10-21-084859-e1792565412554-770x433.png&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-21T07:25:00+00:00"
+  },
+  {
+   "id": "unolplushomognepourtenirsurladure",
+   "title": "Un OL plus homogène pour tenir sur la durée ?",
+   "summary": "La semaine que vient de vivre l'OL a démontré qu'il avait des solutions derrière les cadres et les titulaires. Cette homogénéité peut-elle lui permettre de ne pas s'écrouler au printemps ?",
+   "url": "https://www.olympique-et-lyonnais.com/un-ol-plus-homogene-pour-tenir-sur-la-duree,410686.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261017__2300019454__v1__HighRes__OlympiqueLyonnaisVCrystalPalaceFcUefaEuropaL-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-21T06:40:00+00:00"
+  },
+  {
+   "id": "ollyonnesdeuxsancesdeddicacesprvuesmercredi21octobre",
+   "title": "OL Lyonnes : deux séances de dédicaces prévues mercredi 21 octobre",
+   "summary": "Les supporters d'OL Lyonnes auront l'occasion de rencontrer plusieurs joueuses de l'effectif ce mercredi 21 octobre. Deux séances de dédicaces sont organisées à Lyon, de 16 h 30 à 17 h 30, avec six joueuses au programme.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-deux-seances-de-dedicaces-prevues-mercredi-21-octobre,410333.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20251015__2241230054__v4__HighRes__OlLyonnesVSknStPoltenUefaWomenSChampionsLeag-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-10-21T06:00:00+00:00"
+  },
+  {
+   "id": "mercatomourinhofermelaporteundpartdendrickexol",
+   "title": "Mercato : Mourinho ferme la porte à un départ d'Endrick (ex-OL)",
+   "summary": "Alors que l'OL pourrait suivre de près la situation d'Endrick en vue du mercato hivernal, José Mourinho a été clair au sujet de l'avenir de son attaquant. Son premier but de la saison avec le Real Madrid, inscrit contre la Roma, pourrait lui permettre de gagner du crédit auprès de son entraîneur.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-mourinho-ferme-la-porte-a-un-depart-dendrick-ex-ol,410225.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FAFP__20260204__967M2LY__v1__HighRes__FblFraCupLyonLaval-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-21T05:30:00+00:00"
   },
   {
    "id": "avecdeuxjoursdercuprationsupplmentaireslepsgatilunavantagesu",
@@ -31,28 +151,6 @@
    "publishedAt": "2026-10-20T16:30:00+00:00"
   },
   {
-   "id": "olleparigagnantdunjeuneattaquantprtenligue2",
-   "title": "OL : le pari gagnant d’un jeune attaquant prêté en Ligue 2",
-   "summary": "Daryll Benlahlou, prêté par l'OL à Montpellier, signe son premier but en Ligue 2 et confirme sa montée en puissance chez les professionnels.",
-   "url": "https://www.butfootballclub.fr/1706438-ol-pari-gagnant-jeune-attaquant-prete-ligue-2/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F367b445f-ol-pari-gagnant-jeune-attaquant-prete-ligue-2-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-20T16:04:16+00:00"
-  },
-  {
-   "id": "prtparlolbenlahloumarquesonpremierbutenpro",
-   "title": "Prêté par l'OL, Benlahlou marque son premier but en pro",
-   "summary": "Ayant choisi de partir en prêt pour connaître ses premiers pas en pros, Daryll Benlahlou s'est fait une place dans la rotation de Montpellier. Une nouvelle fois entré en jeu lundi contre Rodez, le joueur offensif a inscrit son premier but en Ligue 2 et en pro tout simplement.",
-   "url": "https://www.olympique-et-lyonnais.com/prete-par-lol-benlahlou-marque-son-premier-but-en-pro,410666.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FHVEORUWWQAAFXPh-e1792502370688-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-20T15:40:00+00:00"
-  },
-  {
    "id": "prsdelyonunmagasinboulangercambriolenpleinenuitdimportantsdg",
    "title": "Près de Lyon : un magasin Boulanger cambriolé en pleine nuit, d'importants dégâts constatés",
    "summary": "Un nouveau commerce pris pour cible dans l'agglomération lyonnaise.",
@@ -62,28 +160,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad78946d6142-600x450.png&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-20T15:27:00+00:00"
-  },
-  {
-   "id": "olfonsecatiresurlacordeavecsarecruesuisse",
-   "title": "OL : Fonseca tire sur la corde avec sa recrue suisse",
-   "summary": "À l’OL, Paulo Fonseca use Zachary Athekame à droite faute de solution fiable. Le Suisse enchaîne les matchs, mais la fatigue monte.",
-   "url": "https://www.butfootballclub.fr/1706432-ol-fonseca-athekame-recrue-suisse/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F8620be64-ol-fonseca-athekame-recrue-suisse-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-20T15:03:25+00:00"
-  },
-  {
-   "id": "olathekamesurutilisfonsecaestimequekangonestpasprt",
-   "title": "OL : Athekame sur-utilisé ? Fonseca estime que Kango n’est \"pas prêt\"",
-   "summary": "Ayant joué toutes les minutes en Ligue 1 depuis le début de la saison, Zachary Athekame n’a pas pu souffler contre Nice. La faute à un manque de solutions à l’OL d’après Paulo Fonseca.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-athekame-sur-utilise-fonseca-estime-que-kango-nest-pas-pret,410648.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FKango-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-20T14:50:00+00:00"
   },
   {
    "id": "lolannonceunnouveaupartenariatavecunemarquedeboissonnergisan",
@@ -97,17 +173,6 @@
    "publishedAt": "2026-10-20T14:25:00+00:00"
   },
   {
-   "id": "ligueeuropalolsentraineradcinesavantderejoindrehoffenheim",
-   "title": "Ligue Europa : l’OL s’entrainera à Décines avant de rejoindre Hoffenheim",
-   "summary": "Comme il en a l’habitude depuis l’arrivée de Paulo Fonseca, l’OL s’entrainera au GOLTC mercredi en fin de matinée. Les Lyonnais s’envoleront en fin d’après-midi vers l’Allemagne pour disputer leur troisième rencontre de Ligue Europa.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-europa-lol-sentrainera-a-decines-avant-de-rejoindre-hoffenheim,410646.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FAFP__20250707__662N726__v5__HighRes__FblFraLigue1LyonTraining-e1766472569904-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-20T14:00:00+00:00"
-  },
-  {
    "id": "lyonlecouvrefeurenouvelmardisoirsurunepartiedelapresqule",
    "title": "Lyon : le couvre-feu renouvelé mardi soir sur une partie de la Presqu’île",
    "summary": "Après une nuit sans trouble à l’ordre public, le préfet du Rhône a décidé de reconduire le couvre-feu dans une partie de la Presqu’île lyonnaise. Les rassemblements revendicatifs seront interdits dès 16h ce mardi 20 octobre, avant un couvre-feu de 21h jusqu'à 6h mercredi matin.",
@@ -117,72 +182,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad76d7f4f225-52311786836-7070d7239f-o.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-20T13:35:00+00:00"
-  },
-  {
-   "id": "psgolunarrtministrielinterditaussilessupporterslyonnaisaupar",
-   "title": "PSG - OL : un arrêté ministériel interdit aussi les supporters lyonnais au Parc des Princes",
-   "summary": "Une semaine après un arrêté préfectoral, le ministère de l'Intérieur a également interdit la venue des supporters de l'OL au Parc des Princes. Une décision qui s'inscrit dans un climat national encore un peu plus tendu.",
-   "url": "https://www.olympique-et-lyonnais.com/psg-ol-un-arrete-ministeriel-interdit-aussi-les-supporters-lyonnais-au-parc-des-princes,410663.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F04%2FAFP__20250413__428Q6T3__v1__HighRes__FblFraLigue1AuxerreLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-20T13:10:00+00:00"
-  },
-  {
-   "id": "lolconnattoutsonprogrammeenligue1enjanvier2027",
-   "title": "L'OL connaît tout son programme en Ligue 1 en janvier 2027",
-   "summary": "En plus de connaître sa fin d'année en Ligue 1, l'OL a découvert son calendrier pour lancer l'année 2027. Les Lyonnais débuteront par un déplacement au Mans (3 janvier) et finiront avec la réception du LOSC (31 janvier).",
-   "url": "https://www.olympique-et-lyonnais.com/lol-connait-tout-son-programme-en-ligue-1-en-janvier-2027,410652.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FAFP__20260222__98KG9JV__v1__HighRes__FblFraLigue1StrasbourgLyon-e1771797755357-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-20T12:20:00+00:00"
-  },
-  {
-   "id": "lollyonnesconnattoutsonprogrammeded1ennovembre",
-   "title": "L'OL Lyonnes connaît tout son programme de D1 en novembre",
-   "summary": "La Ligue féminine de football professionnel a communiqué vendredi 16 octobre la programmation TV des 9e et 10e journées de D1. OL Lyonnes recevra l'US Saint-Malo le 14 novembre, puis le RC Strasbourg, le 22 novembre.",
-   "url": "https://www.olympique-et-lyonnais.com/lol-lyonnes-connait-tout-son-programme-de-d1-en-novembre,410327.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20260930__2297951718__v1__HighRes__OlLyonnesVChelseaFcUefaWomenSChampionsLeague-e1790937687906-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-20T11:30:00+00:00"
-  },
-  {
-   "id": "ligueeuropaunquatuorarbitralturcpourhoffenheimol",
-   "title": "Ligue Europa : un quatuor arbitral turc pour Hoffenheim- OL",
-   "summary": "Ce jeudi (21h), l'OL se déplace en Allemagne pour affronter Hoffenheim lors de la troisième journée de Ligue Europa. Pour ce rendez-vous, Umut Meler sera l'arbitre de la rencontre. La Ligue Europa avant de penser au choc contre le PSG.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-europa-un-quatuor-arbitral-turc-pour-hoffenheim-ol,410641.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2F34508029-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-20T10:40:00+00:00"
-  },
-  {
-   "id": "ligue1loliratroyesle6dcembreetrecevralomle13",
-   "title": "Ligue 1 : l’OL ira à Troyes le 6 décembre et recevra l’OM le 13",
-   "summary": "Dans son optique de programmer un maximum à l'avance les matchs de Ligue 1, la LFP a communiqué la programmation des deux dernières journées de l'année 2026 avec notamment le choc des Olympiques contre l'OM le dimanche 13 décembre au Parc OL.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-1-lol-ira-a-troyes-le-6-decembre-et-recevra-lom-le-13,410644.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F08%2FAFP__20250831__DPPI_40025069_002__v1__HighRes__FootballFrenchChampLyonVMarseille-e1756676313396-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-20T09:50:00+00:00"
-  },
-  {
-   "id": "mercatolouisjeanrevientsurlecasbenzemalol",
-   "title": "Mercato : Louis-Jean revient sur le cas Benzema à l’OL",
-   "summary": "Dans les rumeurs mercato durant l’été, le retour de Karim Benzema à l’OL a largement fait parler. Matthieu Louis-Jean a une nouvelle fois concédé que ce n'étaient que des bruits de couloir.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-louis-jean-revient-sur-le-cas-benzema-a-lol,410638.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F01%2F000_33V44BL-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-20T09:00:00+00:00"
   },
   {
    "id": "lollancelejeurtrosupercocolesvertsnontqubiensetenir",
@@ -238,39 +237,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad61a6a60965-54538749437-88c5fdd030-o.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-19T14:15:00+00:00"
-  },
-  {
-   "id": "cettebanderoledesbadgonesquifaitchoauxviolencescesamedilyon",
-   "title": "Cette banderole des Bad Gones qui fait écho aux violences ce samedi à Lyon",
-   "summary": "Avant OL-Nice dimanche soir, les Bad Gones ont affiché un message dans les tribunes du Groupama Stadium, en écho aux violences qui ont frappé Lyon la veille.",
-   "url": "https://www.lyonfoot.com/article/14522/soutien-a-ceux-qui-font-vivre-lyon-la-banderole-des-bad-gones-apres-les-violences-du-17-octobre-a-lyon",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad607b9bf9a7-6ad515cc9ba13-whatsapp-image-2026-10-18-at-20-43-44.jpeg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-19T12:30:00+00:00"
-  },
-  {
-   "id": "lolprendlattedelal1maisfonsecanesenflammepascenestpasleplusi",
-   "title": "L’OL prend la tête de la L1 mais Fonseca ne s’enflamme pas, « ce n’est pas le plus important actuellement »",
-   "summary": "Les Lyonnais ont récupéré la première place du championnat en battant Nice (2-1) malgré 20 dernières minutes jouées à 10 contre 11. Mais Paulo Fonseca reste lucide",
-   "url": "https://www.20minutes.fr/sport/football/ligue-1/4255569-20261019-ol-prend-tete-l1-fonseca-enflamme-plus-important-actuellement?at_medium=display&at_campaign=149",
-   "source": "20 Minutes",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FAtJh7rnzTfOw79TgzaWWdSk%2F1444x920_le-lyonnais-pavel-sulc-celebre-le-but-de-corentin-tolisso-lors-du-match-de-l-uefa-europa-league-entre-l-olympique-lyonnais-et-crystal-palace-au-groupama-stadium-le-15-octobre-2026-a-lyon-en-france-alli-limourad-mourad2044-credit-mourad-allili-sipa-2610160540&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-19T06:51:29+00:00"
-  },
-  {
-   "id": "violenceslyongrgorydoucetappelleleshabitantsserassemblercelu",
-   "title": "Violences à Lyon : Grégory Doucet appelle les habitants à se rassembler ce lundi devant les neuf mairies d'arrondissement",
-   "summary": "Suite aux violences et des pillages qui ont frappé le centre-ville de Lyon samedi 17 octobre, Grégory Doucet lance un appel au rassemblement.",
-   "url": "https://www.lyonmag.com/article/154467/violences-a-lyon-gregory-doucet-appelle-les-habitants-a-se-rassembler-ce-lundi-devant-les-neuf-mairies-d-arrondissement",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad5a0af34689-52028785088-8def2facc4-o.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-19T04:44:00+00:00"
   },
   {
    "id": "lyon21nicelolleaderledbriefcompletdelafter",
