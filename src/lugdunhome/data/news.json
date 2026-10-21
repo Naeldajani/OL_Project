@@ -1,12 +1,79 @@
 {
- "updatedAt": "2026-10-21T17:10:43+00:00",
+ "updatedAt": "2026-10-21T21:41:24+00:00",
  "sources": [
+  "20 Minutes",
   "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "psgomolrclensstaderennaistoutela8ejournedeligue1reporte",
+   "title": "PSG, OM, OL, RC Lens, Stade Rennais : toute la 8e journée de Ligue 1 reportée ?",
+   "summary": "Alors que le choc entre le PSG et l’OL pourrait être reporté, c’est désormais l’ensemble de la huitième journée de Ligue 1 qui serait menacé. La huitième journée de Ligue 1 pourrait connaître un véritable bouleversement !",
+   "url": "https://www.butfootballclub.fr/1706786-psg-om-ol-rc-lens-stade-rennais-toute-la-8e-journee-de-ligue-1-reportee/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Ffeaa7388-psg-om-ol-rc-lens-stade-rennais-toute-la-8e-journee-de-ligue-1-reportee.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-21T20:19:25+00:00"
+  },
+  {
+   "id": "disciplineunemauvaisenouvellepourlolunebonnepourlepsg",
+   "title": "Discipline : une mauvaise nouvelle pour l’OL, une bonne pour le PSG",
+   "summary": "Voici les décisions prises ce mercredi par la commission de discipline de la LFP.",
+   "url": "https://www.butfootballclub.fr/1706783-discipline-une-mauvaise-nouvelle-pour-lol-une-bonne-pour-le-psg/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F587bbfd7-discipline-une-mauvaise-nouvelle-pour-lol-une-bonne-pour-le-psg.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-21T20:06:34+00:00"
+  },
+  {
+   "id": "hoffenheimolsteevekangoetangelgarcialheureaurendezvous",
+   "title": "Hoffenheim - OL : Steeve Kango et Angel Garcia à l'heure au rendez-vous ?",
+   "summary": "Verra-t-on de jeunes latéraux en action jeudi à Hoffenheim ? Paulo Fonseca a emmené avec lui Steve Kango et Angel Garcia, qui \"pourraient avoir du temps de jeu.\" À force de tirer sur les organismes, Zachary Athekame et Abner vont-ils finir par défaillir ?",
+   "url": "https://www.olympique-et-lyonnais.com/hoffenheim-ol-steeve-kango-et-angel-garcia-a-lheure-au-rendez-vous,410848.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FKango-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-21T18:35:00+00:00"
+  },
+  {
+   "id": "hoffenheimolhimberttitulaireulctouchaugenou",
+   "title": "Hoffenheim - OL : Himbert titulaire, Šulc touché au genou",
+   "summary": "Très attendu, Rémi Himbert sera titulaire jeudi face à Hoffenheim, a annoncé Paulo Fonseca. Il \"profite\" du forfait de Pavel Šulc, touché au genou. Cette apparition était réclamée par plusieurs supporters et observateurs.",
+   "url": "https://www.olympique-et-lyonnais.com/hoffenheim-ol-himbert-titulaire-sulc-touche-au-genou,410841.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260715__C2AM78D__v2__HighRes__FblFraFriendlyLyonServette-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-10-21T18:15:00+00:00"
+  },
+  {
+   "id": "psgolpourraittredcallundilacrmonieduballondorestellemaudite",
+   "title": "PSG - OL pourrait être décalé à lundi, la cérémonie du Ballon d’Or est-elle maudite ?",
+   "summary": "Comme en 2025, le PSG pourrait jouer le jour de la remise du Ballon d’Or. Selon RMC et « L’Équipe », le Paris-OL prévu dimanche devrait être décalé à lundi sur demande Préfecture de police de Paris",
+   "url": "https://www.20minutes.fr/sport/football/ligue-1/4256427-20261021-psg-ol-pourrait-etre-decale-lundi-ceremonie-ballon-or-maudite?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FhfbGSpUlRwmGVlJSzM3JYSk%2F1444x920_le-milieu-de-terrain-portugais-du-psg-vitinha-controle-le-ballon-devant-le-lyonnais-khalis-merah-l-lors-du-match-de-football-de-l1-francaise-entre-le-paris-saint-germain-psg-et-l-olympique-lyonnais-ol-au-stade-du-parc-des-princes-a-paris-france-19-04-2026-jee-ps-glyon-20-credit-j-e-e-sipa-2604210122&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-21T17:27:47+00:00"
+  },
+  {
+   "id": "ollegroupedefonsecapourhoffenheimavecuneabsencesurprise",
+   "title": "OL : le groupe de Fonseca pour Hoffenheim avec une absence surprise !",
+   "summary": "L’OL vient de dévoiler le groupe retenu par Paulo Fonseca pour le match de Ligue Europa contre Hoffenheim. L’Olympique Lyonnais se déplace ce jeudi (21h) sur la pelouse d’Hoffenheim, à l’occasion de la troisième journée de la phase de ligue de la Ligue Europa.",
+   "url": "https://www.butfootballclub.fr/1706420-ol-le-groupe-de-fonseca-pour-hoffenheim-est-tombe/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F0f4328a1-fjf.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-21T17:19:14+00:00"
+  },
   {
    "id": "lematchpsgolreportcausedesmanifestations",
    "title": "Le match PSG-OL reporté à cause des manifestations ?",
@@ -96,17 +163,6 @@
    "publishedAt": "2026-10-21T14:50:00+00:00"
   },
   {
-   "id": "asselenouveauchambragedelolenverslesverts",
-   "title": "ASSE : le nouveau chambrage de l’OL envers les Verts !",
-   "summary": "L’Olympique Lyonnais a trouvé une nouvelle manière de chambrer son rival historique, l’AS Saint-Étienne, à travers un jeu vidéo. Même lorsque les deux clubs n’évoluent pas dans la même division, la rivalité entre l’AS Saint-Étienne et l’Olympique Lyonnais reste toujours aussi présente.",
-   "url": "https://www.butfootballclub.fr/1706670-asse-le-nouveau-chambrage-de-lol-envers-les-verts/",
-   "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F22b59584-asse-le-nouveau-chambrage-de-lol-envers-les-verts.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-21T14:20:00+00:00"
-  },
-  {
    "id": "lepsgprivdetroiscadresavantderecevoirloldimanche",
    "title": "Le PSG privé de trois cadres avant de recevoir l’OL dimanche",
    "summary": "La victoire contre Barcelone a laissé des traces à Paris. Khvicha Kvaratskhelia, Ousmane Dembélé et Marquinhos seront absents dimanche pour la réception de l’Olympique lyonnais.",
@@ -140,17 +196,6 @@
    "publishedAt": "2026-10-21T14:00:00+00:00"
   },
   {
-   "id": "psgomolrclensstaderennaiscestconfirmpourlenouveaudiffuseurde",
-   "title": "PSG, OM, OL, RC Lens, Stade Rennais : c’est confirmé pour le nouveau diffuseur de la Ligue 1 !",
-   "summary": "La LFP a officiellement acté le lancement d’un nouvel appel d’offres pour les droits TV de la Ligue 1 à partir de 2027. De quoi rebattre les cartes pour le ou les nouveaux diffuseurs.",
-   "url": "https://www.butfootballclub.fr/1706654-psg-om-ol-rc-lens-stade-rennais-cest-confirme-pour-le-nouveau-diffuseur-de-la-ligue-1/",
-   "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F47bef6cd-pronostic-psg-fc-barcelone-20-10-prono-cotes-et-compos.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-21T13:40:00+00:00"
-  },
-  {
    "id": "ollepsgconfirmelesforfaitsdemarquinhosdembletkvaratskhelia",
    "title": "OL : le PSG confirme les forfaits de Marquinhos, Dembélé et Kvaratskhelia",
    "summary": "En plus de Nuno Mendes, le PSG fera sans trois autres titulaires habituels dimanche face à l'OL. Marquinhos, Ousmane Dembélé et Khvicha Kvaratskhelia sont forfaits. On ne s'inquiète pas pour le PSG, qui a largement les moyens, au moins en Ligue 1, de combler ses grosses tuiles.",
@@ -171,17 +216,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260916__C8J393Y__v1__HighRes__FblEurC3AnderlechtLyon-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-21T12:20:00+00:00"
-  },
-  {
-   "id": "olungantamricainasignlyonjusquen2028",
-   "title": "OL : un géant américain a signé à Lyon jusqu’en 2028",
-   "summary": "Avant de croiser le fer avec le PSG (dimanche, 20h45), l’OL a officialisé un partenariat stratégique avec le géant américain Monster Energy pour 2 saisons, soit jusqu’en juin 2028 !",
-   "url": "https://www.butfootballclub.fr/1706558-ol-un-geant-americain-a-signe-a-lyon-jusquen-2028/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F1862f714-om-lol-saborde-la-piste-saoudienne.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-21T11:40:00+00:00"
   },
   {
    "id": "olnicolastagliaficoserapprochedunretour",
@@ -215,28 +249,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad88cdc3b68f-53169603347-a35270864d-o.jpg&w=800&output=webp&q=78",
    "topic": "Club",
    "publishedAt": "2026-10-21T10:00:00+00:00"
-  },
-  {
-   "id": "olmercatounretourdezacharyathekamelacmilancethivernestpasdac",
-   "title": "OL - Mercato : un retour de Zachary Athekame à l'AC Milan cet hiver n'est pas d'actualité",
-   "summary": "Ces derniers jours, la presse italienne a révélé que l'AC Milan voulait reprendre Zachary Athekame dès cet hiver. Selon nos informations, ce n'est pas d'actualité. Est-ce que l'AC Milan n'est pas en train de regretter le prêt de Zachary Athekame à l'OL ?",
-   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-un-retour-de-zachary-athekame-a-lac-milan-cet-hiver-nest-pas-dactualite,410738.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260829__C6TV2GD__v1__HighRes__FblFraLigue1LyonLeHavre-e1788250100378-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-21T09:40:00+00:00"
-  },
-  {
-   "id": "loletlessaintpriestsontdsormaispartenaires",
-   "title": "L'OL et l'ES Saint-Priest sont désormais partenaires",
-   "summary": "Mardi, l'ES Saint-Priest a officialisé un tout nouveau partenariat avec l'OL. Une annonce dans la lignée des dernières avancées au sujet des liens entre l'Olympique lyonnais et les clubs amateurs de la région.",
-   "url": "https://www.olympique-et-lyonnais.com/lol-et-les-saint-priest-sont-desormais-partenaires,410715.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FEntente-Saint-Priest-e1792569125591-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-10-21T09:00:00+00:00"
   },
   {
    "id": "demblkvaratskheliamarquinhoslepsgperddesplumesavantlechocfac",
