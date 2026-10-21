@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T11:46:12+00:00",
+ "updatedAt": "2026-10-21T17:10:43+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,171 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "lematchpsgolreportcausedesmanifestations",
+   "title": "Le match PSG-OL reporté à cause des manifestations ?",
+   "summary": "Initialement programmée dimanche soir, la rencontre entre le PSG et l'OL pourrait finalement se disputer lundi.",
+   "url": "https://www.lyonfoot.com/article/14571/psg-ol-le-choc-de-ligue-1-pourrait-il-etre-reporte",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad8f15cc5d60-ligue1-mc-donald.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-21T17:08:00+00:00"
+  },
+  {
+   "id": "psgolleverdictestdjtombpourlereportdumatch",
+   "title": "PSG – OL : le verdict est déjà tombé pour le report du match !",
+   "summary": "Initialement prévu ce dimanche, le choc entre le PSG et l’OL devrait finalement être reporté au lundi, en pleine cérémonie du Ballon d’Or 2026.",
+   "url": "https://www.butfootballclub.fr/1706731-psg-ol-le-verdict-est-deja-tombe-pour-le-report-du-match/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F3bede15b-psg-ol-le-verdict-est-deja-tombe-pour-le-report-du-match.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-21T17:00:04+00:00"
+  },
+  {
+   "id": "psgollechocpourraittrereport",
+   "title": "PSG - OL : le choc pourrait être reporté",
+   "summary": "En raison des manifestations attendues samedi, et d'un match de NFL le dimanche après-midi, le duel entre le PSG et l'OL pourrait être repoussé. Des discussions sont en cours avec la préfecture de police de Paris.",
+   "url": "https://www.olympique-et-lyonnais.com/psg-ol-le-choc-pourrait-etre-reporte,410828.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FAFP__20251109__83JQ6TK__v2__HighRes__FblFraLigue1LyonPsg-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-21T16:35:00+00:00"
+  },
+  {
+   "id": "psgolcoupdethtrelechocreport",
+   "title": "PSG – OL : coup de théâtre, le choc reporté ?",
+   "summary": "Prévu ce dimanche au Parc des Princes, le choc entre le PSG et l’OL pourrait finalement être reporté pour des raisons de sécurité.",
+   "url": "https://www.butfootballclub.fr/1706715-psg-ol-coup-de-theatre-le-choc-reporte/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F42a81169-psg-ol-coup-de-theatre-le-choc-reporte.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-21T16:30:00+00:00"
+  },
+  {
+   "id": "olunebonnenouvelleesttombepourfonsecaavanthoffenheimetlepsg",
+   "title": "OL : une bonne nouvelle est tombée pour Fonseca avant Hoffenheim et le PSG !",
+   "summary": "À la veille du déplacement à Hoffenheim en Ligue Europa, l’OL a enregistré une bonne nouvelle concernant Nicolas Tagliafico, blessé depuis son retour de sélection.",
+   "url": "https://www.butfootballclub.fr/1706701-ol-une-bonne-nouvelle-est-tombee-pour-fonseca-avant-hoffenheim-et-le-psg/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fd9883c69-ol-une-bonne-nouvelle-est-tombee-pour-fonseca-avant-hoffenheim-et-le-psg.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-21T16:10:00+00:00"
+  },
+  {
+   "id": "olpavelulcnapasfaitlevoyagehoffenheim",
+   "title": "OL : Pavel Šulc n'a pas fait le voyage à Hoffenheim",
+   "summary": "Buteur ce week-end face à Nice, Pavel Šulc est forfait pour le déplacement à Hoffenheim jeudi. L'OL devra trouver un autre attaquant. Paulo Fonseca en dira sans doute davantage ce mercredi à 19h30 pendant sa conférence de presse.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-pavel-sulc-na-pas-fait-le-voyage-a-hoffenheim,410816.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F12%2FAFP__20251207__87DL4XE__v1__HighRes__FblFraLigue1LorientLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-21T16:04:42+00:00"
+  },
+  {
+   "id": "informcsportpourquoilesautoritsenvisagentunreportdelarencont",
+   "title": "INFO RMC SPORT. Pourquoi les autorités envisagent un report de la rencontre PSG-OL",
+   "summary": "Initialement prévue ce dimanche à 20h45 au Parc des Princes, la rencontre de la 8e journée de Ligue 1 entre le PSG et l'OL, pourrait être décalée sur décision de la préfecture de police de Paris.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/info-rmc-sport-pourquoi-les-autorites-envisagent-un-report-de-la-rencontre-psg-ol_AV-202610210739.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F_2OMfRzEHp2a3MFTTyS8pvLbOI4%3D%2F174x300%3A1870x1254%2F800x0%2Fimages%2FLes-joueurs-du-PSG-contre-le-FC-Barcelone-en-Ligue-des-champions-le-20-octobre-2026-2369077.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-21T16:04:29+00:00"
+  },
+  {
+   "id": "hoffenheimoltroisabsentsctallemand",
+   "title": "Hoffenheim - OL : trois absents côté allemand",
+   "summary": "Pour recevoir l'Olympique lyonnais jeudi en Ligue Europa, Hoffenheim devra composer sans trois joueurs. L'entraîneur allemand a notamment confirmé l'opération de Nathan De Cat, qui sera éloigné des terrains pendant une longue période.",
+   "url": "https://www.olympique-et-lyonnais.com/hoffenheim-ol-trois-absents-cote-allemand,410795.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FNathan-De-Cat-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-21T14:50:00+00:00"
+  },
+  {
+   "id": "asselenouveauchambragedelolenverslesverts",
+   "title": "ASSE : le nouveau chambrage de l’OL envers les Verts !",
+   "summary": "L’Olympique Lyonnais a trouvé une nouvelle manière de chambrer son rival historique, l’AS Saint-Étienne, à travers un jeu vidéo. Même lorsque les deux clubs n’évoluent pas dans la même division, la rivalité entre l’AS Saint-Étienne et l’Olympique Lyonnais reste toujours aussi présente.",
+   "url": "https://www.butfootballclub.fr/1706670-asse-le-nouveau-chambrage-de-lol-envers-les-verts/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F22b59584-asse-le-nouveau-chambrage-de-lol-envers-les-verts.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-21T14:20:00+00:00"
+  },
+  {
+   "id": "lepsgprivdetroiscadresavantderecevoirloldimanche",
+   "title": "Le PSG privé de trois cadres avant de recevoir l’OL dimanche",
+   "summary": "La victoire contre Barcelone a laissé des traces à Paris. Khvicha Kvaratskhelia, Ousmane Dembélé et Marquinhos seront absents dimanche pour la réception de l’Olympique lyonnais.",
+   "url": "https://www.lyonfoot.com/article/14556/trois-forfaits-majeurs-au-psg-avant-le-choc-contre-l-ol",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad8c604dcdf5-dembele.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-21T14:05:00+00:00"
+  },
+  {
+   "id": "olilnerentrepasdanslesplansquentinvieirasinterrogesurlecasrm",
+   "title": "OL : \"Il ne rentre pas dans les plans\", Quentin Vieira s’interroge sur le cas Rémi Himbert",
+   "summary": "Dans Tant qu'il y aura des Gones lundi, Quentin Vieira a regretté le manque de temps de jeu de Rémi Himbert. Le chroniqueur a insisté sur les qualités du jeune attaquant et sur sa capacité à apporter à l'équipe première.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-il-ne-rentre-pas-dans-les-plans-quentin-vieira-sinterroge-sur-le-cas-remi-himbert,410670.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP__20260202__2258418227__v1__HighRes__OlympiqueLyonnaisVPaokFcUefaEuropaLeague2025-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-21T14:00:00+00:00"
+  },
+  {
+   "id": "xvdefranceunjoueurdulourugbyretenupourlechampionnatdesnation",
+   "title": "XV de France : un joueur du LOU Rugby retenu pour le Championnat des nations",
+   "summary": "Mickaël Guillard sera le seul représentant du LOU Rugby dans le groupe de 42 joueurs retenus pour les rencontres internationales de novembre. Le deuxième ligne lyonnais aura notamment l'occasion d'évoluer devant son public, à Lyon, face aux Fidji.",
+   "url": "https://www.lyonmag.com/article/154509/xv-de-france-un-joueur-du-lou-rugby-retenu-pour-le-championnat-des-nations",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad8c569904ad-1200x675-68f8d8b6ba604-mickael-guillard-lou.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-21T14:00:00+00:00"
+  },
+  {
+   "id": "psgomolrclensstaderennaiscestconfirmpourlenouveaudiffuseurde",
+   "title": "PSG, OM, OL, RC Lens, Stade Rennais : c’est confirmé pour le nouveau diffuseur de la Ligue 1 !",
+   "summary": "La LFP a officiellement acté le lancement d’un nouvel appel d’offres pour les droits TV de la Ligue 1 à partir de 2027. De quoi rebattre les cartes pour le ou les nouveaux diffuseurs.",
+   "url": "https://www.butfootballclub.fr/1706654-psg-om-ol-rc-lens-stade-rennais-cest-confirme-pour-le-nouveau-diffuseur-de-la-ligue-1/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F47bef6cd-pronostic-psg-fc-barcelone-20-10-prono-cotes-et-compos.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-21T13:40:00+00:00"
+  },
+  {
+   "id": "ollepsgconfirmelesforfaitsdemarquinhosdembletkvaratskhelia",
+   "title": "OL : le PSG confirme les forfaits de Marquinhos, Dembélé et Kvaratskhelia",
+   "summary": "En plus de Nuno Mendes, le PSG fera sans trois autres titulaires habituels dimanche face à l'OL. Marquinhos, Ousmane Dembélé et Khvicha Kvaratskhelia sont forfaits. On ne s'inquiète pas pour le PSG, qui a largement les moyens, au moins en Ligue 1, de combler ses grosses tuiles.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-le-psg-confirme-les-forfaits-de-marquinhos-dembele-et-kvaratskhelia,410747.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F04%2F000_34NT4MT-e1713702591552-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-10-21T13:10:00+00:00"
+  },
+  {
+   "id": "olnice21pasderreursurlexclusiondekeitonakamura",
+   "title": "OL - Nice (2-1) : pas d'erreur sur l'exclusion de Keito Nakamura",
+   "summary": "Son cas passera ce mercredi devant la commission de discipline. En attendant, la Direction de l'arbitrage a confirmé que l'expulsion de Keito Nakamura contre Nice dimanche était justifiée.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-nice-2-1-pas-derreur-sur-lexclusion-de-keito-nakamura,410787.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260916__C8J393Y__v1__HighRes__FblEurC3AnderlechtLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-21T12:20:00+00:00"
+  },
   {
    "id": "olungantamricainasignlyonjusquen2028",
    "title": "OL : un géant américain a signé à Lyon jusqu’en 2028",
@@ -74,17 +239,6 @@
    "publishedAt": "2026-10-21T09:00:00+00:00"
   },
   {
-   "id": "audreygerbelausiffletdollyonnesmarseille",
-   "title": "Audrey Gerbel au sifflet d'OL Lyonnes - Marseille",
-   "summary": "OL Lyonnes connaît le corps arbitral qui dirigera son prochain match face à Marseille. Audrey Gerbel sera arbitre centrale, dans une affiche qui n'est pas inconnue pour elle. Elle avait notamment officié pour le quart de finale de Coupe LFFP entre les deux équipes en février.",
-   "url": "https://www.olympique-et-lyonnais.com/audrey-gerbel-au-sifflet-dol-lyonnes-marseille,410599.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F09%2Fc9452a3223a3a184e115df25e4e03db8-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-21T08:10:00+00:00"
-  },
-  {
    "id": "demblkvaratskheliamarquinhoslepsgperddesplumesavantlechocfac",
    "title": "Dembélé, Kvaratskhelia, Marquinhos... le PSG perd des plumes avant le choc face à l'OL !",
    "summary": "Après Ousmane Dembélé, le PSG a également enregistré les blessures de Khvicha Kvaratskhelia et Marquinhos en seconde période face au Barça ce mardi.",
@@ -94,61 +248,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FvQuLmaInuZon4ugvVfUPNxlsmTo%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FDembele-Kvaratskhelia-Marquinhos-le-PSG-perd-des-plumes-avant-le-choc-face-a-l-OL-2369354.jpg&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-10-21T08:04:18+00:00"
-  },
-  {
-   "id": "lepsgdominelebaramaisperdtroisjoueursavantlol",
-   "title": "Le PSG domine le Barça, mais perd trois joueurs avant l'OL",
-   "summary": "Opposé à son rival barcelonais, le PSG a de nouveau prouvé qu'il était la meilleure équipe d'Europe. Mais son succès 4-2 est entaché par les sorties précoces d'Ousmane Dembélé, Marquinhos et Khvicha Kvaratskhelia.",
-   "url": "https://www.olympique-et-lyonnais.com/le-psg-domine-le-barca-mais-perd-trois-joueurs-avant-lol,410699.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FCapture-decran-2026-10-21-084859-e1792565412554-770x433.png&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-21T07:25:00+00:00"
-  },
-  {
-   "id": "unolplushomognepourtenirsurladure",
-   "title": "Un OL plus homogène pour tenir sur la durée ?",
-   "summary": "La semaine que vient de vivre l'OL a démontré qu'il avait des solutions derrière les cadres et les titulaires. Cette homogénéité peut-elle lui permettre de ne pas s'écrouler au printemps ?",
-   "url": "https://www.olympique-et-lyonnais.com/un-ol-plus-homogene-pour-tenir-sur-la-duree,410686.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261017__2300019454__v1__HighRes__OlympiqueLyonnaisVCrystalPalaceFcUefaEuropaL-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-21T06:40:00+00:00"
-  },
-  {
-   "id": "ollyonnesdeuxsancesdeddicacesprvuesmercredi21octobre",
-   "title": "OL Lyonnes : deux séances de dédicaces prévues mercredi 21 octobre",
-   "summary": "Les supporters d'OL Lyonnes auront l'occasion de rencontrer plusieurs joueuses de l'effectif ce mercredi 21 octobre. Deux séances de dédicaces sont organisées à Lyon, de 16 h 30 à 17 h 30, avec six joueuses au programme.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-deux-seances-de-dedicaces-prevues-mercredi-21-octobre,410333.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20251015__2241230054__v4__HighRes__OlLyonnesVSknStPoltenUefaWomenSChampionsLeag-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-10-21T06:00:00+00:00"
-  },
-  {
-   "id": "mercatomourinhofermelaporteundpartdendrickexol",
-   "title": "Mercato : Mourinho ferme la porte à un départ d'Endrick (ex-OL)",
-   "summary": "Alors que l'OL pourrait suivre de près la situation d'Endrick en vue du mercato hivernal, José Mourinho a été clair au sujet de l'avenir de son attaquant. Son premier but de la saison avec le Real Madrid, inscrit contre la Roma, pourrait lui permettre de gagner du crédit auprès de son entraîneur.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-mourinho-ferme-la-porte-a-un-depart-dendrick-ex-ol,410225.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FAFP__20260204__967M2LY__v1__HighRes__FblFraCupLyonLaval-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-21T05:30:00+00:00"
-  },
-  {
-   "id": "avecdeuxjoursdercuprationsupplmentaireslepsgatilunavantagesu",
-   "title": "Avec deux jours de récupération supplémentaires, le PSG a-t-il un avantage sur l'OL ?",
-   "summary": "Ce mardi, le PSG affronte le FC Barcelone en Ligue des champions. De son côté, l'OL jouera son match de Ligue Europa à Hoffenheim jeudi. Deux jours de récupération en moins pour les Lyonnais, mais est-ce vraiment préjudiciable ?",
-   "url": "https://www.olympique-et-lyonnais.com/avec-deux-jours-de-recuperation-supplementaires-le-psg-a-t-il-un-avantage-sur-lol,410656.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260419__A8CF82K__v1__HighRes__FblFraLigue1PsgLyon-e1776634636515-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-20T16:30:00+00:00"
   },
   {
    "id": "prsdelyonunmagasinboulangercambriolenpleinenuitdimportantsdg",
@@ -204,39 +303,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad6414cac0ea-801396614-1689235619233372-870111533769083803-n.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-19T17:15:00+00:00"
-  },
-  {
-   "id": "aprslespillageslyonlasituationdgnrevaulxenvelincelundi",
-   "title": "Après les pillages à Lyon, la situation dégénère à Vaulx-en-Velin ce lundi",
-   "summary": "Le retour au calme semble encore fragile dans l'agglomération lyonnaise.",
-   "url": "https://www.lyonmag.com/article/154482/apres-les-pillages-a-lyon-la-situation-degenere-a-vaulx-en-velin-ce-lundi",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad645f49dde3-557628411-1218838723616278-8432247453889856663-n.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-19T16:30:00+00:00"
-  },
-  {
-   "id": "unhommevispardestirsenpleineruevilleurbannedeuxsuspectsenfui",
-   "title": "Un homme visé par des tirs en pleine rue à Villeurbanne : deux suspects en fuite",
-   "summary": "Une nouvelle scène de violence armée particulièrement préoccupante dans l'agglomération lyonnaise.",
-   "url": "https://www.lyonmag.com/article/154478/un-homme-vise-par-des-tirs-en-pleine-rue-a-villeurbanne-deux-suspects-en-fuite",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad632a86a8cc-54857427567-cf31b84e3b-o.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-19T15:30:00+00:00"
-  },
-  {
-   "id": "lolnavaitplusconnuadepuisaot2025",
-   "title": "L’OL n’avait plus connu ça depuis août 2025",
-   "summary": "En battant Nice, l’OL a retrouvé une place qu’il n’avait plus occupée depuis plus d’un an. Un retour symbolique qui récompense le début de saison des Lyonnais.",
-   "url": "https://www.lyonfoot.com/article/14531/l-ol-retrouve-la-tete-une-premiere-depuis-plus-d-un-an",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad61a6a60965-54538749437-88c5fdd030-o.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-19T14:15:00+00:00"
   },
   {
    "id": "lyon21nicelolleaderledbriefcompletdelafter",
