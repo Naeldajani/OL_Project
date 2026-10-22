@@ -1,12 +1,68 @@
 {
- "updatedAt": "2026-10-22T17:08:57+00:00",
+ "updatedAt": "2026-10-22T21:34:01+00:00",
  "sources": [
   "20 Minutes",
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "hoffenheimol30lebaromtredumatchcequilfautretenir",
+   "title": "Hoffenheim - OL (3-0) : le baromètre du match, ce qu'il faut retenir",
+   "summary": "Incapable de s'opposer au défi physique et athlétique proposé par Hoffenheim, l'OL a plié et livré une piètre copie (3-0). Retrouvez le baromètre de ce match de Ligue Europa.",
+   "url": "https://www.olympique-et-lyonnais.com/hoffenheim-ol-3-0-le-barometre-du-match-ce-quil-faut-retenir,410975.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FKango-e1792703045298-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-22T21:20:00+00:00"
+  },
+  {
+   "id": "assefcnantesunamoureuxdelolpartipourgcherlaftedanslechaudron",
+   "title": "ASSE – FC Nantes : un amoureux de l’OL parti pour gâcher la fête dans le Chaudron ?",
+   "summary": "Avant d’affronter l’ASSE sous le maillot du FC Nantes, Thomas Robinet a affiché sa préférence pour l’OL. À quelques jours du choc entre le FC Nantes et l’ASSE, une séquence captée par le créateur de contenu Le Ji Hess sur TikTok pourrait faire sourire les supporters lyonnais…",
+   "url": "https://www.butfootballclub.fr/1707008-asse-fc-nantes-un-amoureux-de-lol-va-vouloir-gacher-la-fete-dans-le-chaudron/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fb16850c7-fc-nantes-thomas-robinet-premier-test-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-22T21:00:00+00:00"
+  },
+  {
+   "id": "bousculpuisimpuissantloljamaisdanslecouphoffenheim30",
+   "title": "Bousculé puis impuissant, l'OL jamais dans le coup à Hoffenheim (3-0)",
+   "summary": "Une déroute. L'OL a complètement déjoué ce jeudi à Hoffenheim. Pour ce 3e match de Ligue Europa, il repart d'Allemagne avec une grosse défaite 3 à 0. On s’attendait à des duels, de l’agressivité, du pressing et du contre-pressing.",
+   "url": "https://www.olympique-et-lyonnais.com/bouscule-puis-impuissant-lol-jamais-dans-le-coup-a-hoffenheim-3-0,410970.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261022__D46F6QK__v1__HighRes__FblEurC3HoffenheimLyon-e1792701841840-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-22T20:58:07+00:00"
+  },
+  {
+   "id": "asselesvertssinvitentdansunesaleaffairepourlol",
+   "title": "ASSE : les Verts s’invitent dans une sale affaire pour l’OL",
+   "summary": "En visant leur rival stéphanois lors du match de Ligue Europa contre Crystal Palace, les supporters lyonnais ont provoqué une nouvelle sanction de l’UEFA qui pourrait coûter cher à l’OL.",
+   "url": "https://www.butfootballclub.fr/1706923-asse-les-verts-sinvitent-dans-une-sale-affaire-pour-lol/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F9d6a8604-asse-les-verts-sinvitent-dans-une-sale-affaire-pour-lol.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-22T19:20:00+00:00"
+  },
+  {
+   "id": "hoffenheimolsteevekangorelancdanslegrandbain",
+   "title": "Hoffenheim - OL : Steeve Kango (re)lancé dans le grand bain",
+   "summary": "En plus de Rémi Himbert devant, Paulo Fonseca a choisi de faire confiance à Steeve Kango à Hoffenheim ce jeudi (21 heures). Le jeune latéral est titulaire. C'est la surprise de la soirée pour l'OL.",
+   "url": "https://www.olympique-et-lyonnais.com/hoffenheim-ol-steeve-kango-relance-dans-le-grand-bain,410956.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FCapture-decran-2026-03-12-a-18.43.42-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-22T17:53:09+00:00"
+  },
   {
    "id": "johntextorintenteencoreuneactionenjusticecontrelol",
    "title": "John Textor intente encore une action en justice contre l'OL",
@@ -129,28 +185,6 @@
    "publishedAt": "2026-10-22T10:40:00+00:00"
   },
   {
-   "id": "ollentraneurdhoffenheimsemfiedelatactiquelyonnaise",
-   "title": "OL : l'entraîneur d'Hoffenheim se méfie de la tactique lyonnaise",
-   "summary": "Avant d'affronter l'OL en Ligue Europa, l'entraîneur d'Hoffenheim a salué le travail de Paulo Fonseca et les qualités de son équipe. Il s'attend à une rencontre exigeante face à des Lyonnais capables de faire la différence grâce à leur vitesse et à leur maîtrise du ballon.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lentraineur-dhoffenheim-se-mefie-de-la-tactique-lyonnaise,410793.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FCapture-decran-2026-10-21-165739-770x433.png&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-22T09:50:00+00:00"
-  },
-  {
-   "id": "ligueeuropahoffenheimdjdosaumuravantderecevoirlol",
-   "title": "Ligue Europa : Hoffenheim déjà dos au mur avant de recevoir l'OL",
-   "summary": "Après deux journées de Ligue Europa, Hoffenheim n'a toujours pas inscrit le moindre point. Le club allemand accueille l'OL jeudi avec l'objectif de lancer enfin sa campagne européenne.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-europa-hoffenheim-deja-dos-au-mur-avant-de-recevoir-lol,410634.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FCapture-decran-2026-10-21-134649-e1792583287353-770x433.png&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-22T09:00:00+00:00"
-  },
-  {
    "id": "sixansaprsunancienmilieudelolaretrouvlaliguedeschampions",
    "title": "Six ans après, un ancien milieu de l'OL a retrouvé la Ligue des Champions",
    "summary": "Le milieu de Côme a participé à la victoire contre Manchester United (4-1), mercredi soir. Sa dernière apparition dans la compétition remontait à août 2020 avec L'OL.",
@@ -160,17 +194,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad9c71c078ed-52916755086-a68d156be7-o.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-22T08:22:00+00:00"
-  },
-  {
-   "id": "olundficitimportanten20252026maisnettementrduitenunan",
-   "title": "OL : un déficit important en 2025-2026, mais nettement réduit en un an",
-   "summary": "Sur l'exercice 2025-2026, l'OL a perdu 87,3 millions d'euros. C'est beaucoup évidemment, mais c'est 57% de moins que lors de la période 2024-2025. Voilà le premier bilan annuel de l'ère Michele Kang.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-un-deficit-important-mais-nettement-reduit-en-un-an,410883.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FKang-et-Gerlinger-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-22T08:10:00+00:00"
   },
   {
    "id": "hoffenheimollyonviseunetroisimevictoireconscutiveenligueeuro",
