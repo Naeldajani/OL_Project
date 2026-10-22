@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22T11:49:28+00:00",
+ "updatedAt": "2026-10-22T17:08:57+00:00",
  "sources": [
   "20 Minutes",
   "Lyon Mag",
@@ -7,6 +7,105 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "johntextorintenteencoreuneactionenjusticecontrelol",
+   "title": "John Textor intente encore une action en justice contre l'OL",
+   "summary": "Il n'est plus dans le paysage mais cherche à retomber sur ses pattes. Mi-octobre, à New York, John Textor a intenté une nouvelle procédure à l'encontre de Botafogo et d'OL SASU, filiale de la Société.",
+   "url": "https://www.olympique-et-lyonnais.com/john-textor-intente-encore-une-action-contre-lol,410923.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F11%2FAFP__20240711__AGIF635382__v1__HighRes__Brazilian2024VitoriaXBotafogo-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-22T15:35:00+00:00"
+  },
+  {
+   "id": "lolgalementleaderdelaligue1dansunautredomaine",
+   "title": "L'OL également leader de la Ligue 1 dans un autre domaine",
+   "summary": "Avec dix buteurs différents en Ligue 1, l’Olympique lyonnais devance tous ses concurrents. Paulo Fonseca peut compter sur chaque ligne pour faire la différence.",
+   "url": "https://www.lyonfoot.com/article/14579/l-ol-surclasse-la-ligue-1-par-la-diversite-de-ses-buteurs",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ada022dad8b5-ol.jpeg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-22T15:30:00+00:00"
+  },
+  {
+   "id": "ligueeuropaluefasanctionnelolaprsleschantshomophobesdesessup",
+   "title": "Ligue Europa : L’UEFA sanctionne l’OL après les chants homophobes de ses supporters contre l’ennemi stéphanois",
+   "summary": "Certains supporters lyonnais ont entonné des chants homophobes contre ceux de l’AS Saint-Etienne à la 42e minute du match de Ligue Europa contre Crystal Palace, jeudi dernier",
+   "url": "https://www.20minutes.fr/sport/football/ligue_europa/4256720-20261022-ligue-europa-uefa-sanctionne-ol-apres-chants-homophobes-supporters-contre-ennemi-stephanois?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FTnKo2kQ8RnWBXWDOwTQc-Sk%2F1444x920_supporters-de-lyon-lors-du-match-de-football-de-l1-francaise-entre-l-olympique-lyonnais-ol-et-le-stade-brestois-29-brest-au-groupama-stadium-de-decines-charpieu-lyon-france-le-2-mars-2025-allilimourad-sipa5203-credit-mourad-allili-sipa-2503031016&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-22T14:56:30+00:00"
+  },
+  {
+   "id": "hoffenheimolendeuxansleffectiflyonnaisabienchang",
+   "title": "Hoffenheim - OL : en deux ans, l'effectif lyonnais a bien changé",
+   "summary": "À l'occasion de son déplacement en Allemagne, ce jeudi, l'OL retrouve Hoffenheim deux ans après son dernier passage. Depuis cette rencontre de Ligue Europa conclue sur un nul, l'effectif lyonnais a connu de nombreux changements.",
+   "url": "https://www.olympique-et-lyonnais.com/hoffenheim-ol-en-deux-ans-leffectif-lyonnais-a-bien-change,410672.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F11%2FAFP__20241107__36LT632__v1__HighRes__FblEurC3HoffenheimLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-22T14:50:00+00:00"
+  },
+  {
+   "id": "ollyonnesdesfortunesdiversespourlesu17aveclesbleuettes",
+   "title": "OL Lyonnes : des fortunes diverses pour les U17 avec les Bleuettes",
+   "summary": "Les jeunes joueuses d'OL Lyonnes ont connu des fortunes diverses mercredi avec les équipes de France U17. Engagées dans deux compétitions différentes, les Lyonnaises ont vécu une journée bien contrastée.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-des-fortunes-diverses-pour-les-u17-avec-les-bleuettes,410889.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2Fd45254a73b8b2ad9a7b92bc3a6b71caa-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-22T14:00:00+00:00"
+  },
+  {
+   "id": "luefasanctionneloletleviragenordsuitedeschantshomophobesaprs",
+   "title": "L'UEFA sanctionne l'OL et le Virage Nord suite à des \"chants homophobes\" après OL-Crystal Palace",
+   "summary": "Après les chants homophobes contre Crystal Palace, l’OL est sanctionné par l’UEFA. Trois secteurs du Virage Nord sont menacés de fermeture, avec un sursis de deux ans.",
+   "url": "https://www.lyonfoot.com/article/14580/l-uefa-sanctionne-l-ol-apres-des-chants-discriminatoires-face-a-crystal-palace",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ada0d99041f0-54050060884-da8ec7c679-o.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-22T13:23:00+00:00"
+  },
+  {
+   "id": "olmadsbidstrupchercheamliorersonpositionnement",
+   "title": "OL : Mads Bidstrup cherche à \"améliorer son positionnement\"",
+   "summary": "Jeudi, Mads Bidstrup est passé devant les médias à l'occasion d'une conférence. L'occasion de faire un point sur son intégration et les axes de progression travaillés par le Danois.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-mads-bidstrup-cherche-a-ameliorer-son-positionnement,410835.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260715__C2AQ3TU__v2__HighRes__FblFraFriendlyLyonServette-e1784264181738-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-22T13:10:00+00:00"
+  },
+  {
+   "id": "hoffenheimolunhistoriquemarquparlesmatchsnuls",
+   "title": "Hoffenheim - OL : un historique marqué par les matchs nuls",
+   "summary": "L'OL se déplace sur la pelouse d'Hoffenheim ce jeudi 22 octobre, pour la troisième journée de la phase de ligue de la Ligue Europa. Les Lyonnais auront l'occasion de presque s'assurer une place en barrages face à une équipe qu'ils n'ont jamais battue.",
+   "url": "https://www.olympique-et-lyonnais.com/hoffenheim-ol-un-historique-marque-par-les-matchs-nuls,410603.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F11%2FCapture-decran-2024-11-07-221809-712x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-22T12:20:00+00:00"
+  },
+  {
+   "id": "lolapublisonbilanfinancierdelasaison20252026",
+   "title": "L'OL a publié son bilan financier de la saison 2025/2026",
+   "summary": "Le groupe lyonnais affiche une perte de 87,3 millions d’euros sur l’exercice 2025-2026. Malgré une forte réduction des dépenses, sa situation financière reste fragile.",
+   "url": "https://www.lyonfoot.com/article/14575/les-finances-de-l-ol-respirent-mais-le-deficit-reste-lourd",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad9fe212466e-6ad9ce0856be7-54538749437-88c5fdd030-o.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-22T12:20:00+00:00"
+  },
   {
    "id": "brestlatribunequimperfermepourlarceptiondelol",
    "title": "Brest : la tribune Quimper fermée pour la réception de l'OL",
@@ -74,50 +173,6 @@
    "publishedAt": "2026-10-22T08:10:00+00:00"
   },
   {
-   "id": "hoffenheimolavantmatchhorairediffusiontv",
-   "title": "Hoffenheim - OL : avant-match, horaire, diffusion TV",
-   "summary": "Après deux victoires en Ligue Europa, l'OL se déplace en Allemagne pour affronter Hoffenheim ce jeudi lors de la troisième journée de la phase de ligue. Les Lyonnais tenteront de poursuivre leur sans-faute face à une équipe en difficulté.",
-   "url": "https://www.olympique-et-lyonnais.com/hoffenheim-ol-avant-match-horaire-diffusion-tv-2,410620.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F11%2FCapture-decran-2024-11-07-234902-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-22T07:25:00+00:00"
-  },
-  {
-   "id": "hoffenheimlolchercheratenirlechoc",
-   "title": "À Hoffenheim, l'OL cherchera à tenir le choc",
-   "summary": "L'OL sera opposé à une équipe réputée très agressive ce jeudi lors de son déplacement à Hoffenheim. Une caractéristique qui ne sied pas vraiment aux qualités des Lyonnais, même si ces derniers voudront nous faire mentir.",
-   "url": "https://www.olympique-et-lyonnais.com/a-hoffenheim-lol-cherchera-a-tenir-le-choc,410867.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2Ffbl-eur-c3-anderlecht-lyon-e1792647535340-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-22T06:40:00+00:00"
-  },
-  {
-   "id": "hoffenheimoltolissoetleslatrauxprservs",
-   "title": "Hoffenheim - OL : Tolisso et les latéraux préservés ?",
-   "summary": "Paulo Fonseca devrait procéder encore une fois à quelques rotations ce jeudi contre Hoffenheim (21 heures). Corentin Tolisso et les latéraux pourraient souffler. Avec deux ou trois jours de récupération ?",
-   "url": "https://www.olympique-et-lyonnais.com/hoffenheim-ol-tolisso-et-les-lateraux-preserves,410856.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP__20260301__99HC23V__v1__HighRes__FblFraLigue1MarseilleLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-22T06:00:00+00:00"
-  },
-  {
-   "id": "olkeitonakamurasuspenduunmatchfermeaprssonexpulsionfacenice",
-   "title": "OL : Keito Nakamura suspendu un match ferme après son expulsion face à Nice",
-   "summary": "Expulsé dimanche lors de la victoire de l'Olympique lyonnais face à l'OGC Nice (2-1), Keito Nakamura sera de retour face à Angers. Le Japonais a été puni d'un match de suspension. L'OL a terminé son match face à l'OGC Nice dimanche à dix contre onze après l'expulsion de Keito Nakamura.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-keito-nakamura-suspendu-un-match-ferme-apres-son-expulsion-face-a-nice,410745.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261009__D2TP6C4__v1__HighRes__FblFraLigue1LensLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-22T05:30:00+00:00"
-  },
-  {
    "id": "hoffenheimollyonviseunetroisimevictoireconscutiveenligueeuro",
    "title": "Hoffenheim-OL : Lyon vise une troisième victoire consécutive en Ligue Europa ce jeudi soir",
    "summary": "L'Olympique Lyonnais se déplace en Allemagne ce jeudi 22 octobre pour affronter Hoffenheim, à 21h, lors de la troisième journée de Ligue Europa.",
@@ -138,17 +193,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FGF5T92_qFBYzTo7Ob5NH3XcBSuY%3D%2F0x131%3A2048x1283%2F800x0%2Fimages%2FDesire-DOUE-et-Ruben-KLUIVERT-2369828.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-21T21:11:31+00:00"
-  },
-  {
-   "id": "hoffenheimolsteevekangoetangelgarcialheureaurendezvous",
-   "title": "Hoffenheim - OL : Steeve Kango et Angel Garcia à l'heure au rendez-vous ?",
-   "summary": "Verra-t-on de jeunes latéraux en action jeudi à Hoffenheim ? Paulo Fonseca a emmené avec lui Steve Kango et Angel Garcia, qui \"pourraient avoir du temps de jeu.\" À force de tirer sur les organismes, Zachary Athekame et Abner vont-ils finir par défaillir ?",
-   "url": "https://www.olympique-et-lyonnais.com/hoffenheim-ol-steeve-kango-et-angel-garcia-a-lheure-au-rendez-vous,410848.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FKango-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-21T18:35:00+00:00"
   },
   {
    "id": "psgolpourraittredcallundilacrmonieduballondorestellemaudite",
@@ -226,28 +270,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FvQuLmaInuZon4ugvVfUPNxlsmTo%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FDembele-Kvaratskhelia-Marquinhos-le-PSG-perd-des-plumes-avant-le-choc-face-a-l-OL-2369354.jpg&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-10-21T08:04:18+00:00"
-  },
-  {
-   "id": "prsdelyonunmagasinboulangercambriolenpleinenuitdimportantsdg",
-   "title": "Près de Lyon : un magasin Boulanger cambriolé en pleine nuit, d'importants dégâts constatés",
-   "summary": "Un nouveau commerce pris pour cible dans l'agglomération lyonnaise.",
-   "url": "https://www.lyonmag.com/article/154496/pres-de-lyon-un-magasin-boulanger-cambriole-en-pleine-nuit-d-importants-degats-constates",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad78946d6142-600x450.png&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-20T15:27:00+00:00"
-  },
-  {
-   "id": "lolannonceunnouveaupartenariatavecunemarquedeboissonnergisan",
-   "title": "L’OL annonce un nouveau partenariat avec une marque de boisson énergisante",
-   "summary": "Un nouveau partenaire américain rejoint l’OL pour deux saisons. De quoi promettre des animations au stade, mais aussi une touche de couleur qui pourrait faire tiquer les supporters.",
-   "url": "https://www.lyonfoot.com/article/14549/monster-energy-devient-partenaire-officiel-de-l-ol-jusqu-en-2028",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad7787574e30-1200x675-6ad767b204171-capture-decran-2026-10-20-a-15.png&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-10-20T14:25:00+00:00"
   },
   {
    "id": "lyon21nicelolleaderledbriefcompletdelafter",
