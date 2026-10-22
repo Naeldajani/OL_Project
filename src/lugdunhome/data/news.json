@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T21:41:24+00:00",
+ "updatedAt": "2026-10-22T04:41:50+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,28 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "hoffenheimollyonviseunetroisimevictoireconscutiveenligueeuro",
+   "title": "Hoffenheim-OL : Lyon vise une troisième victoire consécutive en Ligue Europa ce jeudi soir",
+   "summary": "L'Olympique Lyonnais se déplace en Allemagne ce jeudi 22 octobre pour affronter Hoffenheim, à 21h, lors de la troisième journée de Ligue Europa.",
+   "url": "https://www.lyonfoot.com/article/14567/hoffenheim-ol-les-gones-veulent-tripler-la-mise-en-ligue-europa",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad97c504d3e4-hvfc2ioxmaamvhr.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-22T04:00:00+00:00"
+  },
+  {
+   "id": "ligue1psgolreportounonladcisionfinalenormalementdcidecejeudi",
+   "title": "Ligue 1: PSG-OL reporté ou non? La décision finale normalement décidée ce jeudi",
+   "summary": "Prévue ce dimanche à 20h45, la rencontre de la 8e journée de Ligue 1 entre le PSG et l'OL pourrait être reportée sur décision de la préfecture de police de Paris. La décision devrait tomber ce jeudi.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/ligue-1-psg-ol-reporte-ou-non-la-decision-finale-normalement-decidee-ce-jeudi_AV-202610210958.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FGF5T92_qFBYzTo7Ob5NH3XcBSuY%3D%2F0x131%3A2048x1283%2F800x0%2Fimages%2FDesire-DOUE-et-Ruben-KLUIVERT-2369828.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-21T21:11:31+00:00"
+  },
   {
    "id": "psgomolrclensstaderennaistoutela8ejournedeligue1reporte",
    "title": "PSG, OM, OL, RC Lens, Stade Rennais : toute la 8e journée de Ligue 1 reportée ?",
@@ -117,17 +139,6 @@
    "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F42a81169-psg-ol-coup-de-theatre-le-choc-reporte.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-21T16:30:00+00:00"
-  },
-  {
-   "id": "olunebonnenouvelleesttombepourfonsecaavanthoffenheimetlepsg",
-   "title": "OL : une bonne nouvelle est tombée pour Fonseca avant Hoffenheim et le PSG !",
-   "summary": "À la veille du déplacement à Hoffenheim en Ligue Europa, l’OL a enregistré une bonne nouvelle concernant Nicolas Tagliafico, blessé depuis son retour de sélection.",
-   "url": "https://www.butfootballclub.fr/1706701-ol-une-bonne-nouvelle-est-tombee-pour-fonseca-avant-hoffenheim-et-le-psg/",
-   "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fd9883c69-ol-une-bonne-nouvelle-est-tombee-pour-fonseca-avant-hoffenheim-et-le-psg.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-21T16:10:00+00:00"
   },
   {
    "id": "olpavelulcnapasfaitlevoyagehoffenheim",
@@ -304,17 +315,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad64c15a5f64-capture-decran-2026-10-19-a-18.png&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-20T08:00:00+00:00"
-  },
-  {
-   "id": "unjoueurdelolvadevenirpapaunesecondefois",
-   "title": "Un joueur de l'OL va devenir papa une seconde fois",
-   "summary": "Un Lyonnais a une autre raison de sourire après la victoire contre Nice dimanche. Le club a partagé une heureuse nouvelle le concernant sur ses réseaux sociaux.",
-   "url": "https://www.lyonfoot.com/article/14536/tanner-tessmann-va-devenir-papa-pour-la-deuxieme-fois",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad6414cac0ea-801396614-1689235619233372-870111533769083803-n.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-19T17:15:00+00:00"
   },
   {
    "id": "lyon21nicelolleaderledbriefcompletdelafter",
