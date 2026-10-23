@@ -1,13 +1,34 @@
 {
- "updatedAt": "2026-10-22T21:34:01+00:00",
+ "updatedAt": "2026-10-23T04:46:53+00:00",
  "sources": [
   "20 Minutes",
-  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "aprslaclaquehoffenheim30clintonmatadploreunnormemanquedagres",
+   "title": "Après la claque à Hoffenheim (3-0), Clinton Mata déplore un \"énorme manque d'agressivité\"",
+   "summary": "Les vestiaires ont tremblé comme le veut l'expression consacrée. Balayé par un Hoffenheim agressif, l'OL et Clinton Mata n'ont jamais trouvé la parade pour inverser le sens de ce match.",
+   "url": "https://www.olympique-et-lyonnais.com/apres-la-claque-a-hoffenheim-3-0-clinton-mata-confirme-un-enorme-manque-dagressivite,410989.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FMata-e1792704371118-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-22T21:45:00+00:00"
+  },
+  {
+   "id": "ligueeuropalollourdementbattuhoffenheimaprsleschoixderotatio",
+   "title": "Ligue Europa : l’OL lourdement battu à Hoffenheim après les choix de rotation de Fonseca",
+   "summary": "Ce jeudi 22 octobre, les Lyonnais ont été dominés par Hoffenheim (3-0), au terme d'une rencontre durant laquelle ils n'ont jamais réellement réussi à imposer leur jeu.",
+   "url": "https://www.lyonfoot.com/article/14567/hoffenheim-ol-lyon-prend-une-claque-en-allemagne-3-0-avant-le-choc-face-au-psg",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6adacd3d36fbf-hvqqgfqxeaaq6cf.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-22T21:30:00+00:00"
+  },
   {
    "id": "hoffenheimol30lebaromtredumatchcequilfautretenir",
    "title": "Hoffenheim - OL (3-0) : le baromètre du match, ce qu'il faut retenir",
@@ -18,17 +39,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FKango-e1792703045298-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-22T21:20:00+00:00"
-  },
-  {
-   "id": "assefcnantesunamoureuxdelolpartipourgcherlaftedanslechaudron",
-   "title": "ASSE – FC Nantes : un amoureux de l’OL parti pour gâcher la fête dans le Chaudron ?",
-   "summary": "Avant d’affronter l’ASSE sous le maillot du FC Nantes, Thomas Robinet a affiché sa préférence pour l’OL. À quelques jours du choc entre le FC Nantes et l’ASSE, une séquence captée par le créateur de contenu Le Ji Hess sur TikTok pourrait faire sourire les supporters lyonnais…",
-   "url": "https://www.butfootballclub.fr/1707008-asse-fc-nantes-un-amoureux-de-lol-va-vouloir-gacher-la-fete-dans-le-chaudron/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fb16850c7-fc-nantes-thomas-robinet-premier-test-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-22T21:00:00+00:00"
   },
   {
    "id": "bousculpuisimpuissantloljamaisdanslecouphoffenheim30",
@@ -42,15 +52,26 @@
    "publishedAt": "2026-10-22T20:58:07+00:00"
   },
   {
-   "id": "asselesvertssinvitentdansunesaleaffairepourlol",
-   "title": "ASSE : les Verts s’invitent dans une sale affaire pour l’OL",
-   "summary": "En visant leur rival stéphanois lors du match de Ligue Europa contre Crystal Palace, les supporters lyonnais ont provoqué une nouvelle sanction de l’UEFA qui pourrait coûter cher à l’OL.",
-   "url": "https://www.butfootballclub.fr/1706923-asse-les-verts-sinvitent-dans-une-sale-affaire-pour-lol/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F9d6a8604-asse-les-verts-sinvitent-dans-une-sale-affaire-pour-lol.jpg&w=800&output=webp&q=78",
+   "id": "quelmatchlaplacedepsgolencasdereportlometlehavreonttsondsmai",
+   "title": "Quel match à la place de PSG-OL en cas de report? L'OM et Le Havre ont été sondés mais....",
+   "summary": "Alors que le match de clôture de la 8e journée de Ligue 1, PSG-Lyon, prévu dimanche soir (20h45) pourrait être reporté en raison de la forte mobilisation policière durant le week-end, Ligue 1+ pense à déplacer une rencontre à place du choc entre Parisiens et Lyonnais.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/quel-match-a-la-place-de-psg-ol-en-cas-de-report-l-om-et-le-havre-ont-ete-sondes-mais_AV-202610220930.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FImWU2Qgsym36RXKAx-G8HuAN0j4%3D%2F0x106%3A2048x1258%2F800x0%2Fimages%2FAmine-Gouiri-lors-d-OM-Paris-FC-le-6-septembre-2026-en-Ligue-1-2343331.jpg&w=800&output=webp&q=78",
    "topic": "Match",
-   "publishedAt": "2026-10-22T19:20:00+00:00"
+   "publishedAt": "2026-10-22T19:42:37+00:00"
+  },
+  {
+   "id": "ligue1lalfprefuseunreportdepsgolladcisionentrelesmainsdelapr",
+   "title": "Ligue 1: la LFP refuse un report de PSG-OL, la décision entre les mains de la Préfecture de police",
+   "summary": "La Ligue de football professionnel (LFP) ne souhaite pas reporter le choc de Ligue 1 entre le PSG et l'OL, dimanche soir (20h45). Mais elle respectera la décision de la Préfecture de police si cette dernière souhaite décaler le match en raison de la forte mobilisation des forces de l'ordre.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/ligue-1-la-lfp-refuse-un-report-de-psg-ol-la-decision-entre-les-mains-de-la-prefecture-de-police_AV-202610220889.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FCO1lL4VIqdw7LdAeBEEgiyDvN28%3D%2F0x212%3A2048x1364%2F800x0%2Fimages%2FLe-Parc-des-Princes-en-mai-2024-2362449.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-22T18:33:14+00:00"
   },
   {
    "id": "hoffenheimolsteevekangorelancdanslegrandbain",
@@ -174,17 +195,6 @@
    "publishedAt": "2026-10-22T11:30:00+00:00"
   },
   {
-   "id": "ollyonnesmarseillelematchseradiffusgratuitement",
-   "title": "OL Lyonnes - Marseille : le match sera diffusé gratuitement",
-   "summary": "OL Lyonnes reçoit Marseille ce samedi 24 octobre à 21 heures à Décines pour la sixième journée de Première Ligue. La rencontre sera accessible gratuitement sur Sport+ pour les non-abonnés.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-marseille-le-match-sera-diffuse-gratuitement,410675.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FIMG_3819-e1792595332219-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-22T10:40:00+00:00"
-  },
-  {
    "id": "sixansaprsunancienmilieudelolaretrouvlaliguedeschampions",
    "title": "Six ans après, un ancien milieu de l'OL a retrouvé la Ligue des Champions",
    "summary": "Le milieu de Côme a participé à la victoire contre Manchester United (4-1), mercredi soir. Sa dernière apparition dans la compétition remontait à août 2020 avec L'OL.",
@@ -194,17 +204,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad9c71c078ed-52916755086-a68d156be7-o.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-22T08:22:00+00:00"
-  },
-  {
-   "id": "hoffenheimollyonviseunetroisimevictoireconscutiveenligueeuro",
-   "title": "Hoffenheim-OL : Lyon vise une troisième victoire consécutive en Ligue Europa ce jeudi soir",
-   "summary": "L'Olympique Lyonnais se déplace en Allemagne ce jeudi 22 octobre pour affronter Hoffenheim, à 21h, lors de la troisième journée de Ligue Europa.",
-   "url": "https://www.lyonfoot.com/article/14567/hoffenheim-ol-les-gones-veulent-tripler-la-mise-en-ligue-europa",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad97c504d3e4-hvfc2ioxmaamvhr.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-22T04:00:00+00:00"
   },
   {
    "id": "ligue1psgolreportounonladcisionfinalenormalementdcidecejeudi",
@@ -271,17 +270,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad8c569904ad-1200x675-68f8d8b6ba604-mickael-guillard-lou.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-21T14:00:00+00:00"
-  },
-  {
-   "id": "unancienprsidentexcutifdelolracontecommentunefteentrevoisins",
-   "title": "Un ancien président exécutif de l’OL raconte comment une fête entre voisins l’a propulsé à la tête du club",
-   "summary": "Une soirée entre voisins en Californie a ouvert à Santiago Cucci les portes de l’OL. L’ancien président exécutif raconte les coulisses de sa nomination à la tête du club en 2023.",
-   "url": "https://www.lyonfoot.com/article/14552/ol-santiago-cucci-raconte-comment-une-fete-entre-voisins-l-a-conduit-a-la-tete-du-club",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad88cdc3b68f-53169603347-a35270864d-o.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-10-21T10:00:00+00:00"
   },
   {
    "id": "demblkvaratskheliamarquinhoslepsgperddesplumesavantlechocfac",
