@@ -1,12 +1,167 @@
 {
- "updatedAt": "2026-10-23T04:46:53+00:00",
+ "updatedAt": "2026-10-23T11:36:13+00:00",
  "sources": [
   "20 Minutes",
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ilzeraprshoffenheimol30onamontrquontaitlesplusdominants",
+   "title": "Ilzer après Hoffenheim - OL (3-0) : \"On a montré qu’on était les plus dominants\"",
+   "summary": "Sur deux défaites en Ligue Europa, Hoffenheim a signé son premier succès contre l’OL jeudi soir (3-0). Une victoire méritée pour Christian Ilzer, le coach de la formation allemande.",
+   "url": "https://www.olympique-et-lyonnais.com/ilzer-apres-hoffenheim-ol-3-0-on-a-montre-quon-etait-les-plus-dominants,411037.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FCapture-decran-2026-10-21-165739-770x433.png&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-23T11:30:00+00:00"
+  },
+  {
+   "id": "ligueeuropalolcopeduneamendeaprsdeschantslencontredelasse",
+   "title": "Ligue Europa : l'OL écope d'une amende après des chants à l'encontre de l'ASSE",
+   "summary": "L'UEFA a sanctionné l'OL après des chants à caractère homophobe entendus lors de la réception de Crystal Palace (3-2), en Ligue Europa. Le club écope notamment d'une amende de 20 000 euros.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-europa-lol-ecope-dune-amende-apres-des-chants-a-lencontre-de-lasse,410938.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260425__A8Y622N__v1__HighRes__FblFraLigue1LyonAuxerre-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-23T10:40:00+00:00"
+  },
+  {
+   "id": "omlehavreleverdictesttombpourunreportdumatch",
+   "title": "OM – Le Havre : le verdict est tombé pour un report du match",
+   "summary": "Alors qu’un changement d’horaire avait été envisagé pour compenser un éventuel report de PSG-OL, la rencontre entre l’OM et Le Havre se disputera bien à l’heure initialement prévue.",
+   "url": "https://www.butfootballclub.fr/1707187-om-le-havre-le-verdict-est-tombe-le-match-ne-sera-pas-reporte/",
+   "source": "But! Football Club",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Ff26e3c38-om-genesio-annonce-une-bonne-nouvelle-et-une-surprise-avant-sturm-graz.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-23T10:29:11+00:00"
+  },
+  {
+   "id": "ligueeuropaavecsonlourdrevershoffenheimlolretombela12eplace",
+   "title": "Ligue Europa : avec son lourd revers à Hoffenheim, l'OL retombe à la 12e place",
+   "summary": "Sèchement battu sans vraiment combattre, l'OL a manqué une belle occasion de poursuivre son sans-faute en Ligue Europa. Avec sa lourde défaite à Hoffenheim, le club lyonnais retombe à la 12e place, avec une différence de buts négative désormais.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-europa-avec-son-lourd-revers-a-hoffenheim-lol-retombe-a-la-12e-place,411014.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__C4Y66TY__v1__HighRes__FblEurC1QualifyingFenerbahceLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-23T09:50:00+00:00"
+  },
+  {
+   "id": "ollepsgadjfaitdgoupillerleslyonnais",
+   "title": "OL : le PSG a déjà fait dégoupiller les Lyonnais !",
+   "summary": "L’humiliation vécue par l’OL à Hoffeinheim jeudi en Ligue Europa (0-3) doit beaucoup au PSG, prochain adversaire des Gones en Ligue 1. Paulo Fonseca avait décidé de remanier le onze de l’OL à Hoffenheim, avec un objectif en tête : préserver certains joueurs avant le choc contre le PSG en Ligue 1.",
+   "url": "https://www.butfootballclub.fr/1707085-ol-le-psg-a-deja-fait-degoupiller-les-lyonnais/",
+   "source": "But! Football Club",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F23d63dd9-ol-le-psg-a-deja-fait-degoupiller-les-lyonnais.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-23T09:40:00+00:00"
+  },
+  {
+   "id": "letraitementscandaleuxdessupportersdelolenallemagne",
+   "title": "Le traitement scandaleux des supporters de l'OL en Allemagne",
+   "summary": "Empêchés de rejoindre Hoffenheim jeudi soir, des supporters de l’OL ont manqué le rendez-vous européen. Le club dénonce leur traitement et demande que les circonstances soient éclaircies.",
+   "url": "https://www.lyonfoot.com/article/14585/l-ol-denonce-le-traitement-de-ses-supporters-en-allemagne",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6adb252f44d7d-54050179085-66c74791fe-o.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-23T09:30:00+00:00"
+  },
+  {
+   "id": "hoffenheimgreifolaeulimpressionderevivrelens",
+   "title": "À Hoffenheim, Greif (OL) a eu l'impression de revivre Lens",
+   "summary": "Peut-être le Lyonnais le plus à son niveau sans être transcendant, Dominik Greif a fait le même constat que tous ceux qui ont vu cette défaite de l'OL à Hoffenheim. La formation lyonnaise n'a pas été au rendez-vous dans tous les compartiments du jeu.",
+   "url": "https://www.olympique-et-lyonnais.com/a-hoffenheim-greif-ol-a-eu-limpression-de-revivre-lens,411011.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FGreif-e1791581490482-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-23T09:00:00+00:00"
+  },
+  {
+   "id": "omlehavrelematchdcalcausedepsgol",
+   "title": "OM – Le Havre : le match décalé à cause de PSG – OL ?",
+   "summary": "En cas de report du choc entre le PSG et l’OL, la LFP songe à décaler le match entre l’OM et Le Havre programmé ce dimanche à 17h15. Le calendrier de la Ligue 1 pourrait connaître un changement de dernière minute.",
+   "url": "https://www.butfootballclub.fr/1707089-om-le-havre-le-match-decale-a-cause-de-psg-ol/",
+   "source": "But! Football Club",
+   "author": "Bastien Aubert",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F3e1166c9-om-le-havre-le-match-decale-a-cause-de-psg-ol.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-23T08:20:00+00:00"
+  },
+  {
+   "id": "hoffenheimol30dessupporterslyonnaisretenuslafrontireleclubdp",
+   "title": "Hoffenheim - OL (3-0) : des supporters lyonnais retenus à la frontière, le club \"déplore\" la situation",
+   "summary": "Jeudi soir, le parcage visiteurs de la Rhein-Neckar-Arena était encore moins rempli qu'attendu. La faute à des contrôles à la frontière franco-allemande qui ont empêché certains supporters de l'OL de rejoindre Hoffenheim.",
+   "url": "https://www.olympique-et-lyonnais.com/hoffenheim-ol-3-0-des-supporters-lyonnais-retenus-a-la-frontiere-le-club-deplore-la-situation,411018.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261022__dpa-pa_261022-99-34796_dpai__v1__HighRes__1899HoffenheimVsOlympiqueLy-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-23T08:15:00+00:00"
+  },
+  {
+   "id": "hoffenheimol30kangoenprotocolecommotionvabien",
+   "title": "Hoffenheim - OL (3-0) : Kango, en protocole commotion, \"va bien\"",
+   "summary": "Sorti dès la demi-heure de jeu suite à une chute spectaculaire, Steeve Kango a été transporté à l'hôpital dans la foulée. Le défenseur de l'OL est entré dans un protocole commotion, mais Paulo Fonseca a assuré qu'il allait bien, après les radios passées.",
+   "url": "https://www.olympique-et-lyonnais.com/hoffenheim-ol-3-0-kango-en-protocole-commotion-va-bien,411007.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261022__D46E38V__v1__HighRes__FblEurC3HoffenheimLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-23T07:30:00+00:00"
+  },
+  {
+   "id": "fonsecaaprshoffenheimol30unvraimanquedagressivit",
+   "title": "Fonseca après Hoffenheim - OL (3-0) : \"Un vrai manque d'agressivité\"",
+   "summary": "Battu (3-0) par Hoffenheim jeudi soir, l'OL a connu sa première déconvenue en Ligue Europa. La faute à une imprécision technique mais aussi à un manque de répondant physique. Un cocktail qui ne laissait guère de place à autre chose qu'une défaite.",
+   "url": "https://www.olympique-et-lyonnais.com/fonseca-apres-hoffenheim-ol-3-0-un-vrai-manque-dagressivite,411005.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2FAFP__20260122__93PU7KV__v1__HighRes__FblEurC3YoungBoysLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-23T06:45:00+00:00"
+  },
+  {
+   "id": "coupesdeuropeaprslesdfaitesdelometdelollecoefficientuefapren",
+   "title": "Coupes d’Europe : Après les défaites de l’OM et de l’OL, le coefficient UEFA prend un nouveau coup dans les lampions",
+   "summary": "Alors que la France avait l’occasion de creuser l’écart avec le Portugal dans la bataille à l’indice UEFA cette semaine, les quatre défaites de Lens, Lille, Marseille et Lyon ont tout plombé",
+   "url": "https://www.20minutes.fr/sport/football/ligue_des_champions/4256843-20261023-coupes-europe-apres-defaites-om-ol-coefficient-uefa-prend-nouveau-coup-lampions?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FL8WZLc03T6KtXD3Yl0WxVSk%2F1444x920_le-marseillais-geoffrey-kondogbia-a-droite-lutte-pour-le-ballon-avec-luca-weinhandl-de-sturm-au-centre-lors-d-un-match-de-football-de-la-phase-d-ouverture-de-l-europe-league-entre-le-sturm-graz-et-marseille-a-graz-en-autriche-le-jeudi-22-octobre-2026-photo-ap-heinz-peter-bader-xac104-26295610081149-2610221858&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-23T06:43:10+00:00"
+  },
+  {
+   "id": "avecautantdedchetdifficiledesprermieuxpourlol",
+   "title": "Avec autant de déchet, difficile d'espérer mieux pour l'OL",
+   "summary": "Battu dans l'intensité physique mise par Hoffenheim, l'OL a surtout pêché techniquement dans son troisième match de Ligue Europa. Face à autant d'imprécision, difficile de livrer une prestation plus compliquée que celle observée jeudi soir en Allemagne (3-0).",
+   "url": "https://www.olympique-et-lyonnais.com/avec-autant-de-dechet-difficile-desperer-mieux-pour-lol,410978.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261022__D46L6L7__v1__HighRes__FblEurC3HoffenheimLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-23T06:00:00+00:00"
+  },
+  {
+   "id": "ligue1lalfpsopposeunreportdepsgolmais",
+   "title": "Ligue 1 : la LFP s'oppose à un report de PSG - OL mais...",
+   "summary": "À deux jours du choc entre le PSG et l'OL, les deux clubs ne savent toujours pas quand se jouera la rencontre. La Préfecture de police a écrit à la LFP pour savoir si elle était prête à reporter le match.",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-1-la-lfp-soppose-a-un-report-de-psg-ol-mais,411000.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FAFP__20251109__83JN9QP__v1__HighRes__FblFraLigue1LyonPsg-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-23T05:30:00+00:00"
+  },
   {
    "id": "aprslaclaquehoffenheim30clintonmatadploreunnormemanquedagres",
    "title": "Après la claque à Hoffenheim (3-0), Clinton Mata déplore un \"énorme manque d'agressivité\"",
@@ -28,28 +183,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6adacd3d36fbf-hvqqgfqxeaaq6cf.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-22T21:30:00+00:00"
-  },
-  {
-   "id": "hoffenheimol30lebaromtredumatchcequilfautretenir",
-   "title": "Hoffenheim - OL (3-0) : le baromètre du match, ce qu'il faut retenir",
-   "summary": "Incapable de s'opposer au défi physique et athlétique proposé par Hoffenheim, l'OL a plié et livré une piètre copie (3-0). Retrouvez le baromètre de ce match de Ligue Europa.",
-   "url": "https://www.olympique-et-lyonnais.com/hoffenheim-ol-3-0-le-barometre-du-match-ce-quil-faut-retenir,410975.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FKango-e1792703045298-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-22T21:20:00+00:00"
-  },
-  {
-   "id": "bousculpuisimpuissantloljamaisdanslecouphoffenheim30",
-   "title": "Bousculé puis impuissant, l'OL jamais dans le coup à Hoffenheim (3-0)",
-   "summary": "Une déroute. L'OL a complètement déjoué ce jeudi à Hoffenheim. Pour ce 3e match de Ligue Europa, il repart d'Allemagne avec une grosse défaite 3 à 0. On s’attendait à des duels, de l’agressivité, du pressing et du contre-pressing.",
-   "url": "https://www.olympique-et-lyonnais.com/bouscule-puis-impuissant-lol-jamais-dans-le-coup-a-hoffenheim-3-0,410970.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261022__D46F6QK__v1__HighRes__FblEurC3HoffenheimLyon-e1792701841840-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-22T20:58:07+00:00"
   },
   {
    "id": "quelmatchlaplacedepsgolencasdereportlometlehavreonttsondsmai",
@@ -74,28 +207,6 @@
    "publishedAt": "2026-10-22T18:33:14+00:00"
   },
   {
-   "id": "hoffenheimolsteevekangorelancdanslegrandbain",
-   "title": "Hoffenheim - OL : Steeve Kango (re)lancé dans le grand bain",
-   "summary": "En plus de Rémi Himbert devant, Paulo Fonseca a choisi de faire confiance à Steeve Kango à Hoffenheim ce jeudi (21 heures). Le jeune latéral est titulaire. C'est la surprise de la soirée pour l'OL.",
-   "url": "https://www.olympique-et-lyonnais.com/hoffenheim-ol-steeve-kango-relance-dans-le-grand-bain,410956.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FCapture-decran-2026-03-12-a-18.43.42-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-22T17:53:09+00:00"
-  },
-  {
-   "id": "johntextorintenteencoreuneactionenjusticecontrelol",
-   "title": "John Textor intente encore une action en justice contre l'OL",
-   "summary": "Il n'est plus dans le paysage mais cherche à retomber sur ses pattes. Mi-octobre, à New York, John Textor a intenté une nouvelle procédure à l'encontre de Botafogo et d'OL SASU, filiale de la Société.",
-   "url": "https://www.olympique-et-lyonnais.com/john-textor-intente-encore-une-action-contre-lol,410923.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F11%2FAFP__20240711__AGIF635382__v1__HighRes__Brazilian2024VitoriaXBotafogo-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-22T15:35:00+00:00"
-  },
-  {
    "id": "lolgalementleaderdelaligue1dansunautredomaine",
    "title": "L'OL également leader de la Ligue 1 dans un autre domaine",
    "summary": "Avec dix buteurs différents en Ligue 1, l’Olympique lyonnais devance tous ses concurrents. Paulo Fonseca peut compter sur chaque ligne pour faire la différence.",
@@ -118,28 +229,6 @@
    "publishedAt": "2026-10-22T14:56:30+00:00"
   },
   {
-   "id": "hoffenheimolendeuxansleffectiflyonnaisabienchang",
-   "title": "Hoffenheim - OL : en deux ans, l'effectif lyonnais a bien changé",
-   "summary": "À l'occasion de son déplacement en Allemagne, ce jeudi, l'OL retrouve Hoffenheim deux ans après son dernier passage. Depuis cette rencontre de Ligue Europa conclue sur un nul, l'effectif lyonnais a connu de nombreux changements.",
-   "url": "https://www.olympique-et-lyonnais.com/hoffenheim-ol-en-deux-ans-leffectif-lyonnais-a-bien-change,410672.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F11%2FAFP__20241107__36LT632__v1__HighRes__FblEurC3HoffenheimLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-22T14:50:00+00:00"
-  },
-  {
-   "id": "ollyonnesdesfortunesdiversespourlesu17aveclesbleuettes",
-   "title": "OL Lyonnes : des fortunes diverses pour les U17 avec les Bleuettes",
-   "summary": "Les jeunes joueuses d'OL Lyonnes ont connu des fortunes diverses mercredi avec les équipes de France U17. Engagées dans deux compétitions différentes, les Lyonnaises ont vécu une journée bien contrastée.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-des-fortunes-diverses-pour-les-u17-avec-les-bleuettes,410889.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2Fd45254a73b8b2ad9a7b92bc3a6b71caa-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-22T14:00:00+00:00"
-  },
-  {
    "id": "luefasanctionneloletleviragenordsuitedeschantshomophobesaprs",
    "title": "L'UEFA sanctionne l'OL et le Virage Nord suite à des \"chants homophobes\" après OL-Crystal Palace",
    "summary": "Après les chants homophobes contre Crystal Palace, l’OL est sanctionné par l’UEFA. Trois secteurs du Virage Nord sont menacés de fermeture, avec un sursis de deux ans.",
@@ -151,28 +240,6 @@
    "publishedAt": "2026-10-22T13:23:00+00:00"
   },
   {
-   "id": "olmadsbidstrupchercheamliorersonpositionnement",
-   "title": "OL : Mads Bidstrup cherche à \"améliorer son positionnement\"",
-   "summary": "Jeudi, Mads Bidstrup est passé devant les médias à l'occasion d'une conférence. L'occasion de faire un point sur son intégration et les axes de progression travaillés par le Danois.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-mads-bidstrup-cherche-a-ameliorer-son-positionnement,410835.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260715__C2AQ3TU__v2__HighRes__FblFraFriendlyLyonServette-e1784264181738-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-22T13:10:00+00:00"
-  },
-  {
-   "id": "hoffenheimolunhistoriquemarquparlesmatchsnuls",
-   "title": "Hoffenheim - OL : un historique marqué par les matchs nuls",
-   "summary": "L'OL se déplace sur la pelouse d'Hoffenheim ce jeudi 22 octobre, pour la troisième journée de la phase de ligue de la Ligue Europa. Les Lyonnais auront l'occasion de presque s'assurer une place en barrages face à une équipe qu'ils n'ont jamais battue.",
-   "url": "https://www.olympique-et-lyonnais.com/hoffenheim-ol-un-historique-marque-par-les-matchs-nuls,410603.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F11%2FCapture-decran-2024-11-07-221809-712x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-22T12:20:00+00:00"
-  },
-  {
    "id": "lolapublisonbilanfinancierdelasaison20252026",
    "title": "L'OL a publié son bilan financier de la saison 2025/2026",
    "summary": "Le groupe lyonnais affiche une perte de 87,3 millions d’euros sur l’exercice 2025-2026. Malgré une forte réduction des dépenses, sa situation financière reste fragile.",
@@ -182,17 +249,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad9fe212466e-6ad9ce0856be7-54538749437-88c5fdd030-o.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-22T12:20:00+00:00"
-  },
-  {
-   "id": "brestlatribunequimperfermepourlarceptiondelol",
-   "title": "Brest : la tribune Quimper fermée pour la réception de l'OL",
-   "summary": "La commission de discipline de la LFP a sanctionné Brest après le comportement de ses supporters lors du match face à Angers le 10 octobre dernier. La tribune Quimper du stade Francis-Le Blé sera fermée pour la venue de l'OL.",
-   "url": "https://www.olympique-et-lyonnais.com/brest-la-tribune-quimper-fermee-pour-la-reception-de-lol,410884.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F04%2F000_34N42GF-e1713250299693-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-22T11:30:00+00:00"
   },
   {
    "id": "sixansaprsunancienmilieudelolaretrouvlaliguedeschampions",
@@ -228,17 +284,6 @@
    "publishedAt": "2026-10-21T17:27:47+00:00"
   },
   {
-   "id": "lematchpsgolreportcausedesmanifestations",
-   "title": "Le match PSG-OL reporté à cause des manifestations ?",
-   "summary": "Initialement programmée dimanche soir, la rencontre entre le PSG et l'OL pourrait finalement se disputer lundi.",
-   "url": "https://www.lyonfoot.com/article/14571/psg-ol-le-choc-de-ligue-1-pourrait-il-etre-reporte",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad8f15cc5d60-ligue1-mc-donald.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-21T17:08:00+00:00"
-  },
-  {
    "id": "informcsportpourquoilesautoritsenvisagentunreportdelarencont",
    "title": "INFO RMC SPORT. Pourquoi les autorités envisagent un report de la rencontre PSG-OL",
    "summary": "Initialement prévue ce dimanche à 20h45 au Parc des Princes, la rencontre de la 8e journée de Ligue 1 entre le PSG et l'OL, pourrait être décalée sur décision de la préfecture de police de Paris.",
@@ -248,28 +293,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F_2OMfRzEHp2a3MFTTyS8pvLbOI4%3D%2F174x300%3A1870x1254%2F800x0%2Fimages%2FLes-joueurs-du-PSG-contre-le-FC-Barcelone-en-Ligue-des-champions-le-20-octobre-2026-2369077.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-21T16:04:29+00:00"
-  },
-  {
-   "id": "lepsgprivdetroiscadresavantderecevoirloldimanche",
-   "title": "Le PSG privé de trois cadres avant de recevoir l’OL dimanche",
-   "summary": "La victoire contre Barcelone a laissé des traces à Paris. Khvicha Kvaratskhelia, Ousmane Dembélé et Marquinhos seront absents dimanche pour la réception de l’Olympique lyonnais.",
-   "url": "https://www.lyonfoot.com/article/14556/trois-forfaits-majeurs-au-psg-avant-le-choc-contre-l-ol",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad8c604dcdf5-dembele.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-21T14:05:00+00:00"
-  },
-  {
-   "id": "xvdefranceunjoueurdulourugbyretenupourlechampionnatdesnation",
-   "title": "XV de France : un joueur du LOU Rugby retenu pour le Championnat des nations",
-   "summary": "Mickaël Guillard sera le seul représentant du LOU Rugby dans le groupe de 42 joueurs retenus pour les rencontres internationales de novembre. Le deuxième ligne lyonnais aura notamment l'occasion d'évoluer devant son public, à Lyon, face aux Fidji.",
-   "url": "https://www.lyonmag.com/article/154509/xv-de-france-un-joueur-du-lou-rugby-retenu-pour-le-championnat-des-nations",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ad8c569904ad-1200x675-68f8d8b6ba604-mickael-guillard-lou.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-21T14:00:00+00:00"
   },
   {
    "id": "demblkvaratskheliamarquinhoslepsgperddesplumesavantlechocfac",
