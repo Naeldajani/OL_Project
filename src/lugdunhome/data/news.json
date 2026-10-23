@@ -1,12 +1,35 @@
 {
- "updatedAt": "2026-10-23T17:04:52+00:00",
+ "updatedAt": "2026-10-23T21:22:59+00:00",
  "sources": [
   "20 Minutes",
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olmercatoendrickderetourenligue1dscethiver",
+   "title": "OL Mercato : Endrick de retour en Ligue 1 dès cet hiver ?",
+   "summary": "Prêté à l’OL lors de la deuxième partie de la saison 2025-2026, Endrick pourrait déjà retrouver le championnat de France… mais pas à Lyon. Les supporters de l’OL pourraient bien revoir Endrick en Ligue 1, mais pas forcément sous le maillot de l’Olympique Lyonnais.",
+   "url": "https://www.butfootballclub.fr/1707437-ol-mercato-endrick-de-retour-en-ligue-1-des-cet-hiver/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fdd4fe8b9-ol-mercato-endrick-de-retour-en-ligue-1-cet-hiver.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-23T19:00:00+00:00"
+  },
+  {
+   "id": "volracketlesbadgonesexpliquentleurdemitouravanthoffenheimol",
+   "title": "Vol, racket... Les Bad Gones expliquent leur demi-tour avant Hoffenheim - OL",
+   "summary": "Au lendemain de la défaite de l'OL à Hoffenheim (3-0), le Kop Virage Nord a publié un communiqué pour revenir sur le déplacement de ses supporters. Selon le groupe, deux bus transportant environ 130 personnes ont fait demi-tour après un contrôle de la police allemande à la frontière.",
+   "url": "https://www.olympique-et-lyonnais.com/vol-racket-les-bad-gones-expliquent-leur-demi-tour-avant-hoffenheim-ol,411044.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260811__C4F34Y8__v1__HighRes__FblEurC1QualifyingLyonPrague-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-23T16:20:00+00:00"
+  },
   {
    "id": "ligue1pourquoidesclubsontrefusdedcalerleursmatchslaplacedeps",
    "title": "Ligue 1: pourquoi des clubs ont refusé de décaler leurs matchs à la place de PSG-OL",
@@ -184,17 +207,6 @@
    "publishedAt": "2026-10-23T09:00:00+00:00"
   },
   {
-   "id": "hoffenheimol30dessupporterslyonnaisretenuslafrontireleclubdp",
-   "title": "Hoffenheim - OL (3-0) : des supporters lyonnais retenus à la frontière, le club \"déplore\" la situation",
-   "summary": "Jeudi soir, le parcage visiteurs de la Rhein-Neckar-Arena était encore moins rempli qu'attendu. La faute à des contrôles à la frontière franco-allemande qui ont empêché certains supporters de l'OL de rejoindre Hoffenheim.",
-   "url": "https://www.olympique-et-lyonnais.com/hoffenheim-ol-3-0-des-supporters-lyonnais-retenus-a-la-frontiere-le-club-deplore-la-situation,411018.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261022__dpa-pa_261022-99-34796_dpai__v1__HighRes__1899HoffenheimVsOlympiqueLy-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-23T08:15:00+00:00"
-  },
-  {
    "id": "coupesdeuropeaprslesdfaitesdelometdelollecoefficientuefapren",
    "title": "Coupes d’Europe : Après les défaites de l’OM et de l’OL, le coefficient UEFA prend un nouveau coup dans les lampions",
    "summary": "Alors que la France avait l’occasion de creuser l’écart avec le Portugal dans la bataille à l’indice UEFA cette semaine, les quatre défaites de Lens, Lille, Marseille et Lyon ont tout plombé",
@@ -369,6 +381,17 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F2MEJicsRe83NyuirZfiEwEsqHdY%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FLyon-2-1-Nice-Un-esprit-d-equipe-magnifique-Fonseca-impressionne-par-ses-joueurs-2367691.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-18T22:00:29+00:00"
+  },
+  {
+   "id": "lyon21niceleslyonnaislemportentetsontleadersdel1commsrmc",
+   "title": "Lyon 2-1 Nice : Les Lyonnais l'emportent et sont leaders de L1 (Comms RMC)",
+   "summary": "Que cette seconde mi-temps fut longue pour les Lyonnais, finalement la victoire est au bout. Les joueurs de Paulo Fonseca sont leaders de Ligue 1 au soir de la 7e journée. Revivez la rencontre avec les commentaires de RMC.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-lyon-2-1-nice-les-lyonnais-l-emportent-et-sont-leaders-de-ligue-1-comms-rmc_VN-202610180391.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FlCHF62FwcOEovxHoVZRkmgUm-n4%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FLyon-2-1-Nice-Les-Lyonnais-l-emportent-et-sont-leaders-de-Ligue-1-Comms-RMC-2367678.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-18T21:10:29+00:00"
   }
  ]
 }
