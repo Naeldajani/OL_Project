@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-24T15:55:24+00:00",
+ "updatedAt": "2026-10-24T20:47:01+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,39 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ollyonnesmarseillegiraldezfaitseptchangements",
+   "title": "OL Lyonnes - Marseille : Giraldez fait sept changements",
+   "summary": "Ce samedi, OL Lyonnes vise une sixième victoire de suite en championnat face à Marseille. Comme à son habitude, Jonatan Giraldez prône le turnover avant la Ligue des champions. Dans l'atmosphère pesante qui peut régner en France, le foot comme échappatoire ?",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-marseille-giraldez-fait-sept-changements,411107.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260425__A8XM3R7__v1__HighRes__FblEurC1WomenLyonTraining-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-24T18:11:07+00:00"
+  },
+  {
+   "id": "top14exploitduloubayonne3127leslyonnaisrenouentaveclavictoir",
+   "title": "Top 14 : exploit du LOU à Bayonne (31-27), les Lyonnais renouent avec la victoire au terme d'un match fou",
+   "summary": "Le LOU Rugby a signé une victoire précieuse ce samedi sur la pelouse de Bayonne (31-27). Menés de douze points en seconde période, les Lyonnais ont renversé la rencontre grâce à cinq essais, dont celui de Masi à quatre minutes de la fin.",
+   "url": "https://www.lyonmag.com/article/154528/top-14-exploit-du-lou-a-bayonne-31-27-les-lyonnais-renouent-avec-la-victoire-au-terme-d-un-match-fou",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6adceced2a7e4-859222072-1144995571392970-6121210448474796434-n.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-24T17:35:00+00:00"
+  },
+  {
+   "id": "24octobrelyonlaprfecturegalisedanssonmatchaveclescasseurs",
+   "title": "24 octobre à Lyon : la préfecture égalise dans son match avec les casseurs",
+   "summary": "Ce samedi 24 octobre n'a rien eu à voir avec le week-end précédent à Lyon. La préfecture du Rhône a enfin pris la mesure de l'évènement et a systématiquement annihilé les ambitions belliqueuses des manifestants.",
+   "url": "https://www.lyonmag.com/article/154563/24-octobre-a-lyon-la-prefecture-egalise-dans-son-match-avec-les-casseurs",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6adce0dfe261f-dsc-1289.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-24T17:00:00+00:00"
+  },
   {
    "id": "psgolluisenriquetranchesurlereportetleballondor",
    "title": "PSG, OL : Luis Enrique tranche sur le report et le Ballon d’Or",
@@ -108,17 +141,6 @@
    "publishedAt": "2026-10-24T11:30:00+00:00"
   },
   {
-   "id": "psgluisenriqueannoncesikvaratskheliaseraremplacaumercato",
-   "title": "PSG : Luis Enrique annonce si Kvaratskhelia sera remplacé au Mercato",
-   "summary": "L’entraîneur du PSG, Luis Enrique, faisait face ce samedi midi aux médias à deux jours du choc contre l’OL. Le Paris Saint-Germain reçoit ce lundi (20h30) l’Olympique Lyonnais, en clôture de la huitième journée de Ligue 1.",
-   "url": "https://www.butfootballclub.fr/1707585-psg-luis-enrique-annonce-si-kvaratskhelia-sera-remplace-au-mercato/",
-   "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F060532af-psg-luis-enrique.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-24T11:17:56+00:00"
-  },
-  {
    "id": "psgollereportoffreunjourdeprparationsupplmentaire",
    "title": "PSG - OL : le report offre un jour de préparation supplémentaire",
    "summary": "Initialement programmé dimanche soir, le choc entre le Paris Saint-Germain et l'Olympique lyonnais se jouera finalement ce lundi 26 octobre à 20 h 30. Ce décalage permet aux hommes de Paulo Fonseca de bénéficier d'un jour supplémentaire pour récupérer et préparer ce choc de Ligue 1.",
@@ -174,17 +196,6 @@
    "publishedAt": "2026-10-24T08:15:00+00:00"
   },
   {
-   "id": "olcommentvenirboutdupsg",
-   "title": "OL : comment venir à bout du PSG ?",
-   "summary": "À deux jours du déplacement au Parc des Princes, notre chroniqueur Quentin Vieira et notre consultant Nicolas Puydebois ont donné leurs clés dans \"Tant qu'il y aura des Gones\" pour battre le Paris Saint-Germain.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-comment-venir-a-bout-du-psg,410660.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260419__A8CF27L__v1__HighRes__FblFraLigue1PsgLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-24T07:30:00+00:00"
-  },
-  {
    "id": "ollyonnesompassedesixetsoirefunklaclpourlesfenottes",
    "title": "OL Lyonnes-OM : passe de six et soirée funk à la clé pour les Fenottes",
    "summary": "Les Lyonnaises accueillent l’OM samedi à 21h au Groupama Stadium pour prolonger leur sans-faute en championnat. Une Roller Funky Party ouvrira la soirée dès 18h30.",
@@ -194,17 +205,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6adb8907a95cd-ol-lyonnes.png&w=800&output=webp&q=78",
    "topic": "Féminines",
    "publishedAt": "2026-10-24T05:30:00+00:00"
-  },
-  {
-   "id": "aprsquatredfaitesconscutiveslelourugbyveutseretrouverbayonne",
-   "title": "Après quatre défaites consécutives, le LOU Rugby veut se retrouver à Bayonne pour “passer cette période”",
-   "summary": "Les rugbymens Lyonnais se déplacent à Bayonne samedi avec une priorité : retrouver une solidité collective pour sortir de leur mauvaise série.",
-   "url": "https://www.lyonmag.com/article/154528/apres-quatre-defaites-consecutives-le-lou-rugby-veut-se-retrouver-a-bayonne-pour-passer-cette-periode",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ada00f015f59-capture-decran-2026-10-22-a-14.png&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-24T05:00:00+00:00"
   },
   {
    "id": "ligue1pourquoidesclubsontrefusdedcalerleursmatchslaplacedeps",
@@ -295,17 +295,6 @@
    "publishedAt": "2026-10-23T06:43:10+00:00"
   },
   {
-   "id": "ligueeuropalollourdementbattuhoffenheimaprsleschoixderotatio",
-   "title": "Ligue Europa : l’OL lourdement battu à Hoffenheim après les choix de rotation de Fonseca",
-   "summary": "Ce jeudi 22 octobre, les Lyonnais ont été dominés par Hoffenheim (3-0), au terme d'une rencontre durant laquelle ils n'ont jamais réellement réussi à imposer leur jeu.",
-   "url": "https://www.lyonfoot.com/article/14567/hoffenheim-ol-lyon-prend-une-claque-en-allemagne-3-0-avant-le-choc-face-au-psg",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6adacd3d36fbf-hvqqgfqxeaaq6cf.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-22T21:30:00+00:00"
-  },
-  {
    "id": "quelmatchlaplacedepsgolencasdereportlometlehavreonttsondsmai",
    "title": "Quel match à la place de PSG-OL en cas de report? L'OM et Le Havre ont été sondés mais....",
    "summary": "Alors que le match de clôture de la 8e journée de Ligue 1, PSG-Lyon, prévu dimanche soir (20h45) pourrait être reporté en raison de la forte mobilisation policière durant le week-end, Ligue 1+ pense à déplacer une rencontre à place du choc entre Parisiens et Lyonnais.",
@@ -326,17 +315,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FCO1lL4VIqdw7LdAeBEEgiyDvN28%3D%2F0x212%3A2048x1364%2F800x0%2Fimages%2FLe-Parc-des-Princes-en-mai-2024-2362449.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-22T18:33:14+00:00"
-  },
-  {
-   "id": "lolgalementleaderdelaligue1dansunautredomaine",
-   "title": "L'OL également leader de la Ligue 1 dans un autre domaine",
-   "summary": "Avec dix buteurs différents en Ligue 1, l’Olympique lyonnais devance tous ses concurrents. Paulo Fonseca peut compter sur chaque ligne pour faire la différence.",
-   "url": "https://www.lyonfoot.com/article/14579/l-ol-surclasse-la-ligue-1-par-la-diversite-de-ses-buteurs",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ada022dad8b5-ol.jpeg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-22T15:30:00+00:00"
   },
   {
    "id": "ligueeuropaluefasanctionnelolaprsleschantshomophobesdesessup",
