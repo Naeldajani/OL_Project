@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-24T20:47:01+00:00",
+ "updatedAt": "2026-10-24T23:12:26+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "sanssurpriseollyonnesfaitleboulotcontremarseille50",
+   "title": "Sans surprise, OL Lyonnes fait le boulot contre Marseille (5-0)",
+   "summary": "À quatre jours d'un troisième match de Ligue des champions contre l'Inter Milan, OL Lyonnes n'a pas eu à forcer pour se défaire de Marseille. Une victoire 5-0 avec des doublés de Melchie Dumornay et Ada Hegerberg.",
+   "url": "https://www.olympique-et-lyonnais.com/sans-surprise-ol-lyonnes-fait-le-boulot-contre-marseille-5-0,411112.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260529__B4G44LG__v1__HighRes__FblEurC1WomenLyonParisFc-e1780139483318-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-24T20:56:19+00:00"
+  },
   {
    "id": "ollyonnesmarseillegiraldezfaitseptchangements",
    "title": "OL Lyonnes - Marseille : Giraldez fait sept changements",
@@ -183,17 +194,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FIMG_3819-e1792595332219-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-24T09:00:00+00:00"
-  },
-  {
-   "id": "oltroissemainesdarrtpourkangoencasdecommotion",
-   "title": "OL : trois semaines d'arrêt pour Kango en cas de commotion ?",
-   "summary": "Sorti sur blessure et surtout sur civière lors d'Hoffenheim - OL jeudi, Steeve Kango a reçu des nouvelles rassurantes en Allemagne. Néanmoins, le jeune latéral va passer des examens complémentaires ce samedi pour connaître la gravité de son choc.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-trois-semaines-darret-pour-kango-en-cas-de-commotion,411086.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FKango-e1792703045298-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-10-24T08:15:00+00:00"
   },
   {
    "id": "ollyonnesompassedesixetsoirefunklaclpourlesfenottes",
