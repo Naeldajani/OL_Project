@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T16:15:38+00:00",
+ "updatedAt": "2026-10-25T20:49:09+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,39 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "delmedelapersonnalitlarecettederennesnouveauleaderduclasseme",
+   "title": "\"De l'âme, de la personnalité\": la recette de Rennes, nouveau leader du classement de Ligue 1",
+   "summary": "Grâce à sa large victoire face à Strasbourg ce dimanche (3-0), dans le cadre de la huitième journée de Ligue 1, le Stade Rennais s'est emparé de la première place du classement en attendant le choc entre le PSG et l'OL.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/de-l-ame-de-la-personnalite-la-recette-de-rennes-nouveau-leader-du-classement-de-ligue-1_AV-202610250383.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Fexya7iMukGsOnoN7tOWKCUw9zy0%3D%2F0x112%3A2048x1264%2F800x0%2Fimages%2FFranck-Haise-entraineur-du-Stade-Rennais-25-octobre-2026-2371966.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-25T20:11:00+00:00"
+  },
+  {
+   "id": "oladilhamdanidanslegroupefaceaupsg",
+   "title": "OL : Adil Hamdani dans le groupe face au PSG",
+   "summary": "21 Lyonnais feront le déplacement au Parc des Princes pour défier le PSG lundi (20h30), dont Adil Hamdani. Il faudra jongler avec les nombreux absents. Face à la pénurie d'attaquants - Loïs Openda et Pavel Sulc sont blessés, Keito Nakamura est suspendu - Paulo Fonseca a pioché dans la réserve.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-adil-hamdani-dans-le-groupe-face-au-psg,411228.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3765-e1784449699478-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-25T18:08:07+00:00"
+  },
+  {
+   "id": "ollyonneslecalendrierdelacoupenikefminineu18dvoil",
+   "title": "OL Lyonnes : le calendrier de la Coupe Nike Féminine U18 dévoilé",
+   "summary": "La Fédération française de football a validé le calendrier de la deuxième édition de la Coupe Nike Féminine U18. Demi-finalistes la saison passée, les jeunes joueuses d'OL Lyonnes feront leur entrée dans la compétition le 13 décembre.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-le-calendrier-de-la-coupe-nike-feminine-u18-devoile,411034.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F05%2F1920x1080_LOGO-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-10-25T16:35:00+00:00"
+  },
   {
    "id": "olpaulofonsecaneveutpasseulementsebasersurladernirevictoirec",
    "title": "OL : Paulo Fonseca ne veut pas seulement \"se baser\" sur la dernière victoire contre le PSG",
@@ -97,17 +130,6 @@
    "publishedAt": "2026-10-25T12:43:00+00:00"
   },
   {
-   "id": "olleverdictesttombpourpavelulcavantlepsg",
-   "title": "OL : le verdict est tombé pour Pavel Šulc avant le PSG !",
-   "summary": "Pavel Sulc souffre d’une lésion du ménisque et va être opéré. L’OL perd son milieu offensif avant le PSG pour environ quatre mois.",
-   "url": "https://www.butfootballclub.fr/1707711-ol-pavel-sulc-blessure-psg/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F5234c58d-ol-pavel-sulc-blessure-psg-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-25T12:25:57+00:00"
-  },
-  {
    "id": "olunnouvelattaquantsurleflancpavelsulcindisponiblejusquen202",
    "title": "OL : un nouvel attaquant sur le flanc, Pavel Sulc indisponible jusqu'en 2027",
    "summary": "L’Olympique Lyonnais devra se passer de Pavel Sulc pendant plusieurs mois. Le club a annoncé ce dimanche que le milieu de terrain international tchèque s’était blessé au genou.",
@@ -150,50 +172,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FOL-entrainement-e1792924294231-770x433.jpeg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-25T10:50:00+00:00"
-  },
-  {
-   "id": "olleparadoxepaulofonseca",
-   "title": "OL : le paradoxe Paulo Fonseca",
-   "summary": "Avec 23 défaites en 81 rencontres officielles à la tête de l'Olympique lyonnais, Paulo Fonseca a perdu 28% de ses matchs avec le club rhodanien. Un ratio qui le place derrière Laurent Blanc et Hubert Fournier parmi les entraîneurs lyonnais les plus souvent battus au XXIe siècle.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-le-paradoxe-paulo-fonseca,411027.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260912__C86E4GN__v1__HighRes__FblFraLigue1ParisFcLyon-e1789280616884-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-25T10:00:00+00:00"
-  },
-  {
-   "id": "ollyonnesmarseille50jonatangirldezaaimlapremirepriodemoinsla",
-   "title": "OL Lyonnes - Marseille (5-0) : Jonatan Giráldez a aimé la première période, moins la seconde",
-   "summary": "OL Lyonnes poursuit sa marche en avant en Première Ligue. Samedi, il a encore gagné 5 à 0 face à Marseille, maintenant son rythme offensif effréné du début de saison. Mais Jonatan Giráldez aurait aimé que l'équipe appuie encore après la pause.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-marseille-5-0-jonatan-giraldez-a-aime-la-premiere-periode-moins-la-seconde,411136.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F08%2FIMG_3519-e1754919503202-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-25T09:10:00+00:00"
-  },
-  {
-   "id": "flashbackilyaunanolloscunanaprsleduel10mlemercatonapluslamme",
-   "title": "Flashback, il y a un an : OL–LOSC : un an après le duel à 10 M€, le mercato n’a plus la même saveur à Lyon",
-   "summary": "Il y a douze mois, Lyon rêvait de frappes ambitieuses sur le marché, prêt à débourser 10 M€ pour un jeune talent de L1. Aujourd’hui, l’OL vise le sommet, mais la réalité du club a bien changé, loin des promesses du mercato clinquant.",
-   "url": "https://www.butfootballclub.fr/1707693-flashback-il-y-a-un-an-ol-losc-un-an-apres-le-duel-a-10-me-le-mercato-na-plus-la-meme-saveur-a-lyon/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Ff7ce8a17-flashback-il-y-a-un-an-ollosc-un-an-apres-le-duel-a-10-m-le-mercato-na-plus-la-m-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-25T09:08:20+00:00"
-  },
-  {
-   "id": "olunnouveaupartenairevamusclerlexprienceauparcol",
-   "title": "OL : un nouveau partenaire va muscler l’expérience au Parc OL",
-   "summary": "L’OL s’associe à Monster Energy jusqu’en 2028 pour enrichir l’expérience au Parc OL avec de futures animations autour des matchs à domicile.",
-   "url": "https://www.butfootballclub.fr/1707688-ol-monster-energy-parc-ol-partenariat/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F8d16d4ae-ol-monster-energy-parc-ol-partenariat-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-10-25T07:04:52+00:00"
   },
   {
    "id": "ollyonnesompassedesixetsoirefunklaclpourlesfenottes",
@@ -284,17 +262,6 @@
    "publishedAt": "2026-10-23T14:30:00+00:00"
   },
   {
-   "id": "ligue1leprogrammedelaj8avecpsgoldcalaulundisoir",
-   "title": "Ligue 1 : Le programme de la J8 avec PSG - OL décalé... au lundi soir",
-   "summary": "Neuf rencontres au programme à suivre du 23 au 26 octobre. Avec Brest - Nice en ouverture. Une seule rencontre au programme samedi, entre Lens et le Paris FC. Dimanche, Monaco accueille Lille et Rennes reçoit Strasbourg.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-ligue-1-le-programme-de-la-j8-avec-psg-ol-decale-au-lundi-soir_VN-202610230584.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FMhKfZa6t4T5cB43Da5Yc38isTOM%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FLigue-1-Le-programme-de-la-J8-avec-PSG-OL-decale-au-lundi-soir-2371043.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-23T13:39:52+00:00"
-  },
-  {
    "id": "psgolladcisionsurlereportdumatchesttombe",
    "title": "PSG-OL : la décision sur le report du match est tombée",
    "summary": "Le choc entre Paris et Lyon se disputera finalement lundi 26 octobre à 20h30. La préfecture de police a interdit sa tenue dimanche soir, obligeant la LFP à revoir le calendrier.",
@@ -306,17 +273,6 @@
    "publishedAt": "2026-10-23T12:17:00+00:00"
   },
   {
-   "id": "ligue1lematchpsgolreportenraisondesnouvellesmanifestationspr",
-   "title": "Ligue 1: le match PSG-OL reporté en raison des nouvelles manifestations prévues à Paris",
-   "summary": "Alors qu’un nouveau week-end de manifestations est annoncé dans toute la France, la préfecture de police de Paris a décidé de reporter le match de la 8e journée de Ligue 1 entre le PSG et l’OL, prévu ce dimanche 25 octobre au Parc des Princes.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/ligue-1-le-match-psg-ol-reporte-en-raison-des-nouvelles-manifestations-prevues-a-paris_AV-202610230523.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Fg-UYXcNdlw6NZe7U4Xpbf9rgDNw%3D%2F0x108%3A2048x1260%2F800x0%2Fimages%2FLe-Parc-des-Princes-a-Paris-en-septembre-2025-2164607.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-23T12:06:31+00:00"
-  },
-  {
    "id": "coupesdeuropeaprslesdfaitesdelometdelollecoefficientuefapren",
    "title": "Coupes d’Europe : Après les défaites de l’OM et de l’OL, le coefficient UEFA prend un nouveau coup dans les lampions",
    "summary": "Alors que la France avait l’occasion de creuser l’écart avec le Portugal dans la bataille à l’indice UEFA cette semaine, les quatre défaites de Lens, Lille, Marseille et Lyon ont tout plombé",
@@ -326,28 +282,6 @@
    "image": "https://images.weserv.nl/?url=img.20mn.fr%2FL8WZLc03T6KtXD3Yl0WxVSk%2F1444x920_le-marseillais-geoffrey-kondogbia-a-droite-lutte-pour-le-ballon-avec-luca-weinhandl-de-sturm-au-centre-lors-d-un-match-de-football-de-la-phase-d-ouverture-de-l-europe-league-entre-le-sturm-graz-et-marseille-a-graz-en-autriche-le-jeudi-22-octobre-2026-photo-ap-heinz-peter-bader-xac104-26295610081149-2610221858&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-23T06:43:10+00:00"
-  },
-  {
-   "id": "quelmatchlaplacedepsgolencasdereportlometlehavreonttsondsmai",
-   "title": "Quel match à la place de PSG-OL en cas de report? L'OM et Le Havre ont été sondés mais....",
-   "summary": "Alors que le match de clôture de la 8e journée de Ligue 1, PSG-Lyon, prévu dimanche soir (20h45) pourrait être reporté en raison de la forte mobilisation policière durant le week-end, Ligue 1+ pense à déplacer une rencontre à place du choc entre Parisiens et Lyonnais.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/quel-match-a-la-place-de-psg-ol-en-cas-de-report-l-om-et-le-havre-ont-ete-sondes-mais_AV-202610220930.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FImWU2Qgsym36RXKAx-G8HuAN0j4%3D%2F0x106%3A2048x1258%2F800x0%2Fimages%2FAmine-Gouiri-lors-d-OM-Paris-FC-le-6-septembre-2026-en-Ligue-1-2343331.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-22T19:42:37+00:00"
-  },
-  {
-   "id": "ligueeuropaluefasanctionnelolaprsleschantshomophobesdesessup",
-   "title": "Ligue Europa : L’UEFA sanctionne l’OL après les chants homophobes de ses supporters contre l’ennemi stéphanois",
-   "summary": "Certains supporters lyonnais ont entonné des chants homophobes contre ceux de l’AS Saint-Etienne à la 42e minute du match de Ligue Europa contre Crystal Palace, jeudi dernier",
-   "url": "https://www.20minutes.fr/sport/football/ligue_europa/4256720-20261022-ligue-europa-uefa-sanctionne-ol-apres-chants-homophobes-supporters-contre-ennemi-stephanois?at_medium=display&at_campaign=149",
-   "source": "20 Minutes",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FTnKo2kQ8RnWBXWDOwTQc-Sk%2F1444x920_supporters-de-lyon-lors-du-match-de-football-de-l1-francaise-entre-l-olympique-lyonnais-ol-et-le-stade-brestois-29-brest-au-groupama-stadium-de-decines-charpieu-lyon-france-le-2-mars-2025-allilimourad-sipa5203-credit-mourad-allili-sipa-2503031016&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-22T14:56:30+00:00"
   }
  ]
 }
