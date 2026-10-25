@@ -1,24 +1,12 @@
 {
- "updatedAt": "2026-10-25T20:49:09+00:00",
+ "updatedAt": "2026-10-25T23:15:22+00:00",
  "sources": [
   "20 Minutes",
-  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
-  {
-   "id": "delmedelapersonnalitlarecettederennesnouveauleaderduclasseme",
-   "title": "\"De l'âme, de la personnalité\": la recette de Rennes, nouveau leader du classement de Ligue 1",
-   "summary": "Grâce à sa large victoire face à Strasbourg ce dimanche (3-0), dans le cadre de la huitième journée de Ligue 1, le Stade Rennais s'est emparé de la première place du classement en attendant le choc entre le PSG et l'OL.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/de-l-ame-de-la-personnalite-la-recette-de-rennes-nouveau-leader-du-classement-de-ligue-1_AV-202610250383.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Fexya7iMukGsOnoN7tOWKCUw9zy0%3D%2F0x112%3A2048x1264%2F800x0%2Fimages%2FFranck-Haise-entraineur-du-Stade-Rennais-25-octobre-2026-2371966.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-25T20:11:00+00:00"
-  },
   {
    "id": "oladilhamdanidanslegroupefaceaupsg",
    "title": "OL : Adil Hamdani dans le groupe face au PSG",
@@ -51,17 +39,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FAFP__20260222__98KF9VA__v2__HighRes__FblFraLigue1StrasbourgLyon-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-25T15:50:00+00:00"
-  },
-  {
-   "id": "olmercatouneopportunitenorseprsentepourleretourdendrick",
-   "title": "OL Mercato : une opportunité en or se présente pour le retour d’Endrick !",
-   "summary": "Avec Pavel Sulc et Loïs Openda sur le flanc, l’Olympique Lyonnais pourrait relancer la piste Endrick cet hiver pour renforcer une attaque décimée par les blessures. L’Olympique Lyonnais va-t-il profiter du prochain mercato hivernal pour rapatrier Endrick ?",
-   "url": "https://www.butfootballclub.fr/1707718-ol-mercato-une-opportunite-en-or-se-presente-pour-le-retour-dendrick/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fdd4fe8b9-ol-mercato-endrick-de-retour-en-ligue-1-cet-hiver.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-25T15:40:00+00:00"
   },
   {
    "id": "ollyonneslesfenottesdcisivesenquipedefrance",
@@ -260,6 +237,17 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6adb37784f0f8-sans-titre-1.png&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-23T14:30:00+00:00"
+  },
+  {
+   "id": "ligue1leprogrammedelaj8avecpsgoldcalaulundisoir",
+   "title": "Ligue 1 : Le programme de la J8 avec PSG - OL décalé... au lundi soir",
+   "summary": "Neuf rencontres au programme à suivre du 23 au 26 octobre. Avec Brest - Nice en ouverture. Une seule rencontre au programme samedi, entre Lens et le Paris FC. Dimanche, Monaco accueille Lille et Rennes reçoit Strasbourg.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-ligue-1-le-programme-de-la-j8-avec-psg-ol-decale-au-lundi-soir_VN-202610230584.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FMhKfZa6t4T5cB43Da5Yc38isTOM%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FLigue-1-Le-programme-de-la-J8-avec-PSG-OL-decale-au-lundi-soir-2371043.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-23T13:39:52+00:00"
   },
   {
    "id": "psgolladcisionsurlereportdumatchesttombe",
