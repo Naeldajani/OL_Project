@@ -1,12 +1,79 @@
 {
- "updatedAt": "2026-10-26T20:28:29+00:00",
+ "updatedAt": "2026-10-27T00:25:00+00:00",
  "sources": [
+  "20 Minutes",
   "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ballondordumornayfinitlaquatrimeplace",
+   "title": "Ballon d'Or : Dumornay finit à la quatrième place",
+   "summary": "Parmi les favorites au sacre, Melchie Dumornay ne rejoindra pas Ada Hegerberg au palmarès du Ballon d'Or. La meneuse d'OL Lyonnes termine au pied du podium dominé par Alexia Putellas.",
+   "url": "https://www.olympique-et-lyonnais.com/ballon-dor-dumornay-finit-a-la-quatrieme-place,411304.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260930__C9V277W__v1__HighRes__FblEurC1WomenLyonChelsea-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-10-26T22:41:28+00:00"
+  },
+  {
+   "id": "ligue1202627leclassementaprsla8ejourne",
+   "title": "Ligue 1 2026/27 : Le classement après la 8e journée",
+   "summary": "Consultez les résultats de PSG-OL, Monaco-Lille, Angers-Lorient, Auxerre-Le Mans, OM-Le Havre, Rennes-Strasbourg, TFC-Troyes et Lens-PFC",
+   "url": "https://www.20minutes.fr/sport/football/4257825-20261026-ligue-1-2026-27-classement-apres-8e-journee?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FZYa_KMtZRVColJsqIwqEwyk%2F1444x920_les-joueurs-du-paris-saint-germain-celebrent-leur-victoire-contre-lyon-dimanche-soir-au-parc-des-princes-2-0&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-26T22:19:23+00:00"
+  },
+  {
+   "id": "psgolparisdominelyonetreprendsontrnelesnotesdumatch",
+   "title": "PSG – OL : Paris domine Lyon et reprend son trône, les notes du match",
+   "summary": "Le PSG a battu ce lundi soir l’OL (2-0), en match de clôture de la huitième journée de Ligue 1. Le Paris Saint-Germain retrouve son trône !",
+   "url": "https://www.butfootballclub.fr/1707912-psg-ol-paris-domine-lyon-et-reprend-son-trone-les-notes-du-match/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F15fa42f2-psg-ol-paris-domine-lyon-et-reprend-son-trone-les-notes-du-match.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-26T21:30:13+00:00"
+  },
+  {
+   "id": "tkydgunedfaitelogiquedelolcontrelepsg",
+   "title": "TKYDG : une défaite logique de l'OL contre le PSG ?",
+   "summary": "Ce lundi après la défaite de l'OL contre le PSG, l'équipe de \"Tant qu'il y aura des Gones\" a fait un debrief. Un revers logique ?",
+   "url": "https://www.olympique-et-lyonnais.com/psg-ol-le-debrief-de-tkydg-en-direct,411313.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261026__D4HB7LH__v1__HighRes__FblFraLigue1PsgLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-26T21:29:53+00:00"
+  },
+  {
+   "id": "aprsavoirtenulolcraquepresquelogiquementcontrelepsg",
+   "title": "Après avoir tenu, l'OL craque presque logiquement contre le PSG",
+   "summary": "Dans le choc reporté de la Ligue 1, l'OL a tenu tête au PSG pendant une heure de jeu. Avec une philosophie forcément défensive avec l'absence de vrai numéro 9, les Lyonnais ont cherché à exploiter la moindre opportunité avant de craquer (2-0).",
+   "url": "https://www.olympique-et-lyonnais.com/apres-avoir-tenu-lol-craque-presque-logiquement-contre-le-psg,411310.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261026__D4HB7LL__v1__HighRes__FblFraLigue1PsgLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-26T21:22:13+00:00"
+  },
+  {
+   "id": "psgollyoncraquedanslesvingtderniresminutesetchutedela1rela5e",
+   "title": "PSG-OL : Lyon craque dans les vingt dernières minutes et chute de la 1re à la 5e place",
+   "summary": "Pour ce choc des Lumières entre le PSG et l'OL lundi soir, Lyon a longtemps résisté avant de craquer en seconde période. Une défaite qui fait mal au classement.",
+   "url": "https://www.lyonfoot.com/article/14591/ligue-1-l-ol-craque-en-fin-de-match-face-au-psg-2-0-et-chute-a-la-5e-place-du-classement",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6adfc413827be-hvlukibweaave5.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-26T20:22:00+00:00"
+  },
   {
    "id": "psgollescomposdeluisenriqueetfonsecasonttombes",
    "title": "PSG – OL : les compos de Luis Enrique et Fonseca sont tombées !",
@@ -28,17 +95,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2FAFP__20260129__94H823C__v1__HighRes__FblEurC3LyonPaok-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-26T18:32:11+00:00"
-  },
-  {
-   "id": "directpsgolsuivezlechocdela8ejournedeligue1enlive",
-   "title": "DIRECT. PSG-OL: suivez le choc de la 8e journée de Ligue 1 en live",
-   "summary": "Reporté à cause des mobilisations des forces de l'ordre ce week-end en France, le choc de la 8e journée de Ligue 1 entre le Paris Saint-Germain et Lyon se déroule ce lundi (20h30), jour de la cérémonie du Ballon d’Or.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-psg-ol-suivez-le-choc-de-la-8e-journee-de-ligue-1-en-live_LS-202610260364.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F-u_5V7QTYNwuBxxXeFKW5O0R5Sk%3D%2F0x212%3A2048x1364%2F800x0%2Fimages%2FDesire-Doue-lors-de-la-victoire-du-PSG-face-a-Barcelone-le-20-octobre-2026-2372243.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-26T18:31:45+00:00"
   },
   {
    "id": "attentatracistedetrappeslyongrgorydoucetappellenepasbanalise",
@@ -96,17 +152,6 @@
    "publishedAt": "2026-10-26T15:00:00+00:00"
   },
   {
-   "id": "olleverdictesttombpourleretouranticipdathekame",
-   "title": "OL : le verdict est tombé pour le retour anticipé d’Athekame",
-   "summary": "Paulo Fonseca a tranché : Zachary Athekame ne quittera pas l’OL cet hiver, malgré l’intérêt de l’AC Milan pour un retour anticipé dès janvier.",
-   "url": "https://www.butfootballclub.fr/1707890-ol-verdict-retour-anticipe-athekame/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fcc44a6af-ol-verdict-retour-anticipe-athekame-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-26T14:35:24+00:00"
-  },
-  {
    "id": "lourugbynouveaucoupdurpourlyonsamsimmondsdoitsefaireoprerets",
    "title": "LOU Rugby : nouveau coup dur pour Lyon, Sam Simmonds doit se faire opérer et sera absent plusieurs mois",
    "summary": "L'infirmerie du LOU Rugby continue de se remplir. Après la grave blessure de Thomas Gallo, le club lyonnais va également devoir se passer de Sam Simmonds pendant deux à trois mois. Le troisième ligne anglais, touché au bras gauche depuis septembre, doit finalement subir une intervention…",
@@ -151,39 +196,6 @@
    "publishedAt": "2026-10-26T12:30:00+00:00"
   },
   {
-   "id": "oldixbuteursdiffrentsenligue1ledangervientdepartout",
-   "title": "OL : dix buteurs différents en Ligue 1, le danger vient de partout",
-   "summary": "L'Olympique lyonnais est le club de Ligue 1 qui compte le plus de buteurs différents depuis le début de la saison. Avec dix joueurs décisifs, les hommes de Paulo Fonseca devancent Lens et le Paris Saint-Germain, qui en comptent neuf chacun.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-dix-buteurs-differents-en-ligue-1-le-danger-vient-de-partout,410918.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261018__D3NM6JT__v1__HighRes__FblFraLigue1LyonNice-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-26T11:40:00+00:00"
-  },
-  {
-   "id": "menlextrieurlolnarrivetoujourspasgagner",
-   "title": "Mené à l'extérieur, l'OL n'arrive toujours pas à gagner",
-   "summary": "Battu par Hoffenheim (3-0) jeudi en Ligue Europa, l'Olympique lyonnais n'arrive toujours pas à inverser la tendance à l'extérieur lorsqu'il est mené au score. Sous Paulo Fonseca, les Lyonnais n'ont remporté aucun des 16 matchs dans cette situation.",
-   "url": "https://www.olympique-et-lyonnais.com/mene-a-lexterieur-lol-narrive-toujours-pas-a-gagner,411010.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261022__D46L6L7__v1__HighRes__FblEurC3HoffenheimLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-26T10:50:00+00:00"
-  },
-  {
-   "id": "psgollepremierpoteaudesafonovunesolutionexploiter",
-   "title": "PSG - OL : le premier poteau de Safonov, une solution à exploiter ?",
-   "summary": "Matveï Safonov a de nouveau montré des signes de fébrilité au premier poteau face au FC Barcelone (4-2). Une faiblesse que l'Olympique lyonnais avait déjà exploitée la saison dernière et qui interroge sur les difficultés du gardien parisien dans cette zone.",
-   "url": "https://www.olympique-et-lyonnais.com/psg-ol-le-premier-poteau-de-safonov-une-solution-a-exploiter,410723.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260419__A8CF26K__v1__HighRes__FblFraLigue1PsgLyon-e1776632985475-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-26T10:00:00+00:00"
-  },
-  {
    "id": "psglyonsurquellechaneetquelleheureregarderlematchdeligue1end",
    "title": "PSG - Lyon : sur quelle chaîne et à quelle heure regarder le match de Ligue 1 en direct ce dimanche ?",
    "summary": "Ce lundi, le Parc des Princes accueille l’une des affiches les plus attendues de Ligue 1. Si le PSG doit composer avec une infirmerie bien remplie, l’OL compte bien profiter de la situation pour l’emporter.",
@@ -204,17 +216,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FsScYH98lRbHHPui7KgHWkCbzFR4%3D%2F0x0%3A1920x1080%2F800x0%2Fimages%2FPSG-OL-le-match-de-Ligue-1-le-plus-attendu-de-la-semaine-est-a-suivre-en-direct-et-en-streaming-sur-cette-plateforme-2371055.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-26T05:10:00+00:00"
-  },
-  {
-   "id": "psgollesgonesdoiventreleverlatteaprslagiflehoffenheim",
-   "title": "PSG-OL : les Gones doivent relever la tête après la gifle à Hoffenheim",
-   "summary": "Les Lyonnais retrouvent Paris ce soir à 20h30 au Parc des Princes. Après leur déroute européenne à Hoffenheim, ils visent un rebond et la première place du championnat.",
-   "url": "https://www.lyonfoot.com/article/14591/psg-ol-choc-au-sommet-pour-les-gones",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6adb57f4110d8-bacher-ol.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-26T04:00:00+00:00"
   },
   {
    "id": "delmedelapersonnalitlarecettederennesnouveauleaderduclasseme",
