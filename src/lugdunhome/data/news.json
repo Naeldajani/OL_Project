@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T22:12:14+00:00",
+ "updatedAt": "2026-10-28T05:39:41+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ollyonnesveutretrouverlavictoireliguedeschampionsfacelinterm",
+   "title": "OL Lyonnes veut retrouver la victoire Ligue des Champions face à l'Inter Milan",
+   "summary": "Ce mercredi soir, OL Lyonnes reçoit l'Inter Milan pour une troisième rencontre de Ligue des Champions. Face à leur public du Groupama Stadium, les Fenottes tenteront de renouer avec la victoire pour viser la qualification.",
+   "url": "https://www.lyonfoot.com/article/14622/ligue-des-champions-l-ol-lyonnes-recoit-l-inter-milan-avec-une-qualification-directe-en-quarts-de-finale-dans-le-viseur",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae17f90ccce3-hvd3lvhwoaa4tae.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-28T03:52:00+00:00"
+  },
   {
    "id": "psgleballondorrelanceledbataprslavictoiresurlol",
    "title": "PSG : le Ballon d’Or relance le débat après la victoire sur l’OL",
@@ -328,17 +339,6 @@
    "publishedAt": "2026-10-25T20:11:00+00:00"
   },
   {
-   "id": "olfonsecanexclutpaslerecrutementdunattaquantcethiver",
-   "title": "OL : Fonseca n'exclut pas le recrutement d'un attaquant cet hiver",
-   "summary": "Alors que l'OL, déjà privé de Lois Openda, va devoir également se passer de Pavel Sulc pendant 4 mois. Une blessure qui pourrait pousser les Gones à recruter un attaquant cet hiver.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-ol-fonseca-n-exclut-pas-le-recrutement-d-un-attaquant-cet-hiver_VN-202610250211.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FviPhPy-N7zNC2V5jEYNG0rxmxzM%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FOL-Fonseca-n-exclut-pas-le-recrutement-d-un-attaquant-cet-hiver-2371808.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-10-25T12:54:40+00:00"
-  },
-  {
    "id": "lyonvnissieuxvaulxenvelindesrassemblementsannoncsaprslattent",
    "title": "Lyon, Vénissieux, Vaulx-en-Velin… Des rassemblements annoncés après l'attentat raciste de Trappes",
    "summary": "Plusieurs maires de l'agglomération lyonnaise appellent leurs administrés à se réunir lundi à 18h en hommage aux victimes de l'attentat raciste de Trappes. Lyon, Vénissieux, Villeurbanne et Vaulx-en-Velin notamment relaient l'appel.",
@@ -370,17 +370,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6add959598349-hva47n3w0aaclue.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-25T04:30:00+00:00"
-  },
-  {
-   "id": "top14exploitduloubayonne3127leslyonnaisrenouentaveclavictoir",
-   "title": "Top 14 : exploit du LOU à Bayonne (31-27), les Lyonnais renouent avec la victoire au terme d'un match fou",
-   "summary": "Le LOU Rugby a signé une victoire précieuse ce samedi sur la pelouse de Bayonne (31-27). Menés de douze points en seconde période, les Lyonnais ont renversé la rencontre grâce à cinq essais, dont celui de Masi à quatre minutes de la fin.",
-   "url": "https://www.lyonmag.com/article/154528/top-14-exploit-du-lou-a-bayonne-31-27-les-lyonnais-renouent-avec-la-victoire-au-terme-d-un-match-fou",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6adceced2a7e4-859222072-1144995571392970-6121210448474796434-n.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-24T17:35:00+00:00"
   }
  ]
 }
