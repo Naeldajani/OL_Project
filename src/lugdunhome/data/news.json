@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T00:54:02+00:00",
+ "updatedAt": "2026-10-29T09:56:14+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,83 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ollyonnesintermilan60yohannesavaittoutvu",
+   "title": "OL Lyonnes - Inter Milan (6-0) : Yohannes avait tout vu",
+   "summary": "Un peu plus d'un an après un lob déjà spectaculaire contre Sankt Pölten, Lily Yohannes a remis ça contre l'Inter Milan. Un but de 40 mètres qui ne doit rien au hasard d'après la principale intéressée mais aussi Jonatan Giráldez.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-inter-milan-6-0-yohannes-avait-tout-vu,411545.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fol_lyonnes_v_fc_internazionale_milano_-_uefa_women_s_champions_league_2026_27_league_phase_md3-3-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-29T09:15:00+00:00"
+  },
+  {
+   "id": "olacadmiepremierentranementaveclesprospourwalidnechab",
+   "title": "OL Académie : premier entraînement avec les pros pour Walid Nechab",
+   "summary": "Walid Nechab a participé mercredi à son premier entraînement avec les professionnels de l'OL. Né en 2009, le jeune Lyonnais a été appelé pour compléter le groupe de Paulo Fonseca à quelques jours de la réception d'Angers.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-premier-entrainement-avec-les-pros-pour-walid-nechab,411505.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F06%2FGtl6YymWoAAZ3iB-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-10-29T08:30:00+00:00"
+  },
+  {
+   "id": "mercatosofiabekhaledollyonnesprtelogcnice",
+   "title": "Mercato : Sofia Bekhaled (OL Lyonnes) prêtée à l’OGC Nice",
+   "summary": "OL Lyonnes a officialisé le prêt de Sofia Bekhaled à l'OGC Nice Féminines pour la saison 2026-2027. À 20 ans l'attaquante lyonnaise va poursuivre sa progression en Seconde Ligue. Elle a récemment décroché une médaille de bronze historique avec l'Algérie à la CAN féminine 2026.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-sofia-bekhaled-ol-lyonnes-pretee-a-logc-nice,411502.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FCapture-decran-2026-02-06-a-17.42.50-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-29T07:45:00+00:00"
+  },
+  {
+   "id": "mercatoouilolvabiendevoirvendreenjanvier",
+   "title": "Mercato : oui, l'OL va bien devoir vendre en janvier",
+   "summary": "Dans son rapport annuel, OL Groupe prévient que le club devra poursuivre les ventes de joueurs lors du mercato hivernal et jusqu'au 30 juin 2027 pour mener à bien son plan financier.",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-oui-lol-va-bien-devoir-vendre-en-janvier,411491.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FKang-et-Gerlinger-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-29T07:00:00+00:00"
+  },
+  {
+   "id": "ollyonnesintermilan60giraldeznapasaimledchettechnique",
+   "title": "OL Lyonnes - Inter Milan (6-0) : Giraldez n'a pas aimé le déchet technique",
+   "summary": "Forcément satisfait de la victoire et du score large contre l'Inter Milan, Jonatan Giráldez a malgré tout regretté le déchet technique notamment observé pendant la première mi-temps.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-inter-milan-6-0-giraldez-na-pas-aime-le-dechet-technique,411539.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261017__D3LM7MX__v5__HighRes__FblFraDivision1WomenPsgLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-29T06:30:00+00:00"
+  },
+  {
+   "id": "prsdelyon54kilosdecocaneet60000eurosdcouvertsdanssaplanqueun",
+   "title": "Près de Lyon : 54 kilos de cocaïne et 60 000 euros découverts dans sa planque, un homme condamné à six ans de prison",
+   "summary": "En cavale depuis près de dix ans, un homme de 47 ans a été condamné vendredi 23 octobre à six ans de prison ferme par la justice lyonnaise.",
+   "url": "https://www.lyonmag.com/article/154617/pres-de-lyon-54-kilos-de-cocaine-et-60-000-euros-decouverts-dans-sa-planque-un-homme-condamne-a-six-ans-de-prison",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae2e37a83508-53438093719-608402665d-o-1.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-29T05:11:00+00:00"
+  },
+  {
+   "id": "liguedeschampionsollyonnesatomiselintermilanetprendprovisoir",
+   "title": "Ligue des champions : OL Lyonnes atomise l’Inter Milan et prend provisoirement la tête",
+   "summary": "Une véritable promenade de santé pour OL Lyonnes. Après le match nul concédé face à Chelsea (0-0), les joueuses de Jonatan Giraldez ont retrouvé leur efficacité offensive ce mercredi 28 octobre face à l'Inter Milan (6-0).",
+   "url": "https://www.lyonfoot.com/article/14622/ligue-des-champions-ol-lyonnes-ecrase-l-inter-milan-6-0-un-triple-de-vicki-becho-et-la-premiere-place-au-classement",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae2c462d65b3-868159447-1505612321394384-7861386658342196849-n.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-29T03:00:00+00:00"
+  },
   {
    "id": "mercatoathekameexpliquepourquoiilachoisilolpluttquelom",
    "title": "Mercato : Athekame explique pourquoi il a choisi l’OL plutôt que l’OM",
@@ -40,17 +117,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261018__D3M42NE__v1__HighRes__FblFraDivision1WomenPsgLyon-e1792777168586-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-28T18:52:42+00:00"
-  },
-  {
-   "id": "olenfindeuxbonnesnouvellespourfonsecaavantangers",
-   "title": "OL : enfin deux bonnes nouvelles pour Fonseca avant Angers !",
-   "summary": "Alors que les blessures s’accumulent à l’OL, Paulo Fonseca a reçu deux excellentes nouvelles avant la réception d’Angers.",
-   "url": "https://www.butfootballclub.fr/1708448-ol-enfin-deux-bonnes-nouvelles-pour-fonseca-avant-angers/",
-   "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fd836e637-ol-deux-bonnes-nouvelles-pour-fonseca-avant-angers.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-10-28T18:00:00+00:00"
   },
   {
    "id": "oldeuxbonnesnouvelleslentranementcemercredi",
@@ -108,39 +174,6 @@
    "publishedAt": "2026-10-28T14:10:00+00:00"
   },
   {
-   "id": "olattaquemuettemaisdfensepluspermissive",
-   "title": "OL : attaque muette, mais défense plus permissive",
-   "summary": "L'OL traverse une période plus délicate sur le plan défensif. Sur ses cinq derniers matchs officiels, le club rhodanien a encaissé dix buts, contre seulement trois lors des cinq rencontres précédentes.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-attaque-muette-mais-defense-plus-permissive,411382.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261022__D46F6QK__v1__HighRes__FblEurC3HoffenheimLyon-e1792701841840-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-28T13:20:00+00:00"
-  },
-  {
-   "id": "ollyonnesintermilanuneconfrontationindite",
-   "title": "OL Lyonnes - Inter Milan : une confrontation inédite",
-   "summary": "Pour la première fois de son histoire, OL Lyonnes affrontera l'Inter Milan, ce mercredi 28 octobre à 21h, au Parc OL.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-inter-milan-une-confrontation-inedite,411256.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20260930__2297951718__v1__HighRes__OlLyonnesVChelseaFcUefaWomenSChampionsLeague-e1790937687906-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-28T12:30:00+00:00"
-  },
-  {
-   "id": "lesinternationalesfranaisesu17dollyonnesfinissentparunelourd",
-   "title": "Les internationales françaises U17 d'OL Lyonnes finissent par une lourde défaite",
-   "summary": "Après deux victoires pour lancer leur campagne de qualification à l'Euro 2027, les U17 féminines de l'équipe de France ont terminé le premier tour par une lourde défaite face aux Pays-Bas (5-0).",
-   "url": "https://www.olympique-et-lyonnais.com/les-internationales-francaises-u17-dol-lyonnes-finissent-par-une-lourde-defaite,411486.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2018%2F11%2F000_18T6PD-768x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-28T11:40:00+00:00"
-  },
-  {
    "id": "lyonentreprisesstartupsetchercheursrunisauh7pourimaginerdess",
    "title": "Lyon : entreprises, startups et chercheurs réunis au H7 pour imaginer des solutions face aux crises",
    "summary": "Entreprises, startups, chercheurs et institutions lyonnaises se retrouveront mercredi 4 novembre au H7 pour JIMPACTE 2026.",
@@ -152,17 +185,6 @@
    "publishedAt": "2026-10-28T11:00:00+00:00"
   },
   {
-   "id": "olangerspourquoicematchestdjuntournantpourleslyonnais",
-   "title": "OL - Angers : pourquoi ce match est déjà un tournant pour les Lyonnais",
-   "summary": "Après deux défaites contre Hoffenheim (3-0) et le Paris Saint-Germain (2-0), l'Olympique lyonnais doit retrouver la victoire face à Angers.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-angers-pourquoi-ce-match-est-deja-un-tournant-pour-lol,411352.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260405__A6TL2C3__v1__HighRes__FblFraLigue1AngersLyon-e1775564859685-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-28T10:50:00+00:00"
-  },
-  {
    "id": "unedettededroguede7000eurosonzelyonnaisjugspouravoirenlevtro",
    "title": "Une dette de drogue de 7000 euros : onze Lyonnais jugés pour avoir enlevé trois adolescents transportés dans des coffres de voiture",
    "summary": "Onze hommes originaires de la région lyonnaise comparaissent depuis mardi 27 octobre devant le tribunal correctionnel de Bourges. Ils sont soupçonnés d'avoir enlevé et séquestré trois mineurs en mars 2023, sur fond de trafic de stupéfiants.",
@@ -172,17 +194,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae1d64315e97-man-sitting-car-night.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-10-28T10:02:00+00:00"
-  },
-  {
-   "id": "ollyonnesinterlabarredes7000spectateursfranchie",
-   "title": "OL Lyonnes - Inter : la barre des 7 000 spectateurs franchie",
-   "summary": "Pour la réception de l'Inter Milan en Ligue des champions, OL Lyonnes a dépassé la barre des 7 000 billets vendus. Les joueuses de Jonatan Giráldez pourront compter sur un public déjà au rendez-vous pour cette affiche européenne au Parc OL.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-inter-la-barre-des-7-000-spectateurs-franchie,411301.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20251218__2251888437__v2__HighRes__OlLyonnesVClubAtleticoDeMadridUefaWomenSCham-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-10-28T10:00:00+00:00"
   },
   {
    "id": "ollyonnesintermilanfsurquellechanetvetquelleheurevoirlematch",
@@ -205,17 +216,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae1981dd2a30-484688470-1068093032030454-4445799416451849863-n.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-28T05:37:00+00:00"
-  },
-  {
-   "id": "ollyonnesveutretrouverlavictoireliguedeschampionsfacelinterm",
-   "title": "OL Lyonnes veut retrouver la victoire Ligue des Champions face à l'Inter Milan",
-   "summary": "Ce mercredi soir, OL Lyonnes reçoit l'Inter Milan pour une troisième rencontre de Ligue des Champions. Face à leur public du Groupama Stadium, les Fenottes tenteront de renouer avec la victoire pour viser la qualification.",
-   "url": "https://www.lyonfoot.com/article/14622/ligue-des-champions-l-ol-lyonnes-recoit-l-inter-milan-avec-une-qualification-directe-en-quarts-de-finale-dans-le-viseur",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae17f90ccce3-hvd3lvhwoaa4tae.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-28T03:52:00+00:00"
   },
   {
    "id": "ligue1encoreunmatchreportceweekendolangersdcaldunejourne",
@@ -304,39 +304,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FHHrcWusW_yaAd1VkK2g6HK_TqU4%3D%2F0x165%3A2048x1317%2F800x0%2Fimages%2FSenny-Mayulu-buteur-pour-le-PSG-26-octobre-2026-2372658.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-26T21:27:25+00:00"
-  },
-  {
-   "id": "psgollyoncraquedanslesvingtderniresminutesetchutedela1rela5e",
-   "title": "PSG-OL : Lyon craque dans les vingt dernières minutes et chute de la 1re à la 5e place",
-   "summary": "Pour ce choc des Lumières entre le PSG et l'OL lundi soir, Lyon a longtemps résisté avant de craquer en seconde période. Une défaite qui fait mal au classement.",
-   "url": "https://www.lyonfoot.com/article/14591/ligue-1-l-ol-craque-en-fin-de-match-face-au-psg-2-0-et-chute-a-la-5e-place-du-classement",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6adfc413827be-hvlukibweaave5.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-26T20:22:00+00:00"
-  },
-  {
-   "id": "attentatracistedetrappeslyongrgorydoucetappellenepasbanalise",
-   "title": "Attentat raciste de Trappes : à Lyon, Grégory Doucet appelle à ne pas banaliser la haine",
-   "summary": "Ce lundi 26 octobre, près de 1500 personnes se sont rassemblées devant l’Hôtel de Ville de Lyon en hommage aux victimes de l’attentat raciste de Trappes et de La Verrière. Une mobilisation réunissant principalement des élus de gauche, mais également quelques représentants de la droite lyonnaise.",
-   "url": "https://www.lyonmag.com/article/154586/attentat-raciste-de-trappes-a-lyon-gregory-doucet-appelle-a-ne-pas-banaliser-la-haine",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6adfa8e375795-whatsapp-image-2026-10-26-at-18-38-25.jpeg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-26T18:23:00+00:00"
-  },
-  {
-   "id": "lourugbynouveaucoupdurpourlyonsamsimmondsdoitsefaireoprerets",
-   "title": "LOU Rugby : nouveau coup dur pour Lyon, Sam Simmonds doit se faire opérer et sera absent plusieurs mois",
-   "summary": "L'infirmerie du LOU Rugby continue de se remplir. Après la grave blessure de Thomas Gallo, le club lyonnais va également devoir se passer de Sam Simmonds pendant deux à trois mois. Le troisième ligne anglais, touché au bras gauche depuis septembre, doit finalement subir une intervention…",
-   "url": "https://www.lyonmag.com/article/154583/lou-rugby-nouveau-coup-dur-pour-lyon-sam-simmonds-doit-se-faire-operer-et-sera-absent-plusieurs-mois",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6adf6d9b18a0b-simmonds.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-10-26T14:11:00+00:00"
   },
   {
    "id": "psglyonsurquellechaneetquelleheureregarderlematchdeligue1end",
