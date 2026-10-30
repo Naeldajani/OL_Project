@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T09:58:45+00:00",
+ "updatedAt": "2026-10-30T17:59:28+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -8,26 +8,158 @@
  ],
  "items": [
   {
-   "id": "mercatoathekameexpliquepourquoiilachoisiloletpaslom",
-   "title": "Mercato : Athekame explique pourquoi il a choisi l'OL et pas l'OM",
-   "summary": "Prêté par l'AC Milan à l'Olympique lyonnais cette saison, Zachary Athekame aurait également pu rejoindre Marseille lors du dernier mercato estival. Dans une vidéo publiée sur les réseaux sociaux, le latéral droit suisse a expliqué pourquoi il a finalement privilégié l'OL.",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-athekame-explique-pourquoi-il-a-choisi-lol-et-pas-lom,411555.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAthekame-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-30T09:15:00+00:00"
+   "id": "ollenouveaurledelappitelyonnaisechangetout",
+   "title": "OL : le nouveau rôle de la pépite lyonnaise change tout",
+   "summary": "Khalis Merah change de dimension à l'OL dans un rôle plus offensif. Après sa blessure, le jeune Lyonnais vise désormais le but face à Angers.",
+   "url": "https://www.butfootballclub.fr/1709000-ol-khalis-merah-nouveau-role-pepite/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F9a1f4a31-ol-khalis-merah-nouveau-role-pepite-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-10-30T17:43:58+00:00"
   },
   {
-   "id": "ollerseaudesclubspartenairesreprendsesactivits",
-   "title": "OL : le réseau des clubs partenaires reprend ses activités",
-   "summary": "L'académie de l'OL relance son réseau de clubs partenaires pour la saison 2026-2027. Entre renouvellements, nouvelles arrivées et séances délocalisées, le programme a repris en septembre avant le retour des entraînements sur les terrains en octobre.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-le-reseau-des-clubs-partenaires-reprend-ses-activites,411371.html",
+   "id": "montpellierollyonnesparalluelovasouffler",
+   "title": "Montpellier - OL Lyonnes : Paralluelo va souffler",
+   "summary": "Avec seulement deux jours d'entraînement, OL Lyonnes n'a pas connu la meilleure des préparations pour se rendre à Montpellier. Jonatan Giráldez a donc choisi de faire quelques choix pour ce troisième matchs en une semaine.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-montpellier-paralluelo-va-souffler,411663.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260930__2297937714__v1__HighRes__OlLyonnesVChelseaFcUefaWomenSChampionsLeague-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-10-30T17:35:41+00:00"
+  },
+  {
+   "id": "merahavantolangersonadescadresquisaventparleraugroupe",
+   "title": "Merah avant OL - Angers : \"On a des cadres qui savent parler au groupe\"",
+   "summary": "Ayant tenu le choc contre le PSG pendant une heure, l'OL a craqué et est reparti du Parc des Princes avec quelques regrets. Khalis Merah estime malgré tout que la confiance n'a pas été altérée, notamment avec l'appui des cadres.",
+   "url": "https://www.olympique-et-lyonnais.com/merah-avant-ol-angers-on-a-des-cadres-qui-savent-parler-au-groupe,411643.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261026__D4H98QW__v1__HighRes__FblFraLigue1PsgLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-30T16:20:00+00:00"
+  },
+  {
+   "id": "olfonsecarefusedecderaudouteavantangers",
+   "title": "OL : Fonseca refuse de céder au doute avant Angers",
+   "summary": "Avant OL-Angers, Paulo Fonseca refuse de céder au doute malgré les deux défaites, les absences de Morton et la blessure de Pavel Sulc.",
+   "url": "https://www.butfootballclub.fr/1708989-ol-fonseca-refuse-doute-angers/",
+   "source": "But! Football Club",
+   "author": "Wladimir DELCROS",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F116176b4-ol-fonseca-refuse-doute-angers-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-30T16:01:24+00:00"
+  },
+  {
+   "id": "mondialu17lafranceliminemotykaollyonnesratesontiraubut",
+   "title": "Mondial U17 : la France éliminée, Motyka (OL Lyonnes) rate son tir au but",
+   "summary": "La Coupe du monde s'arrête dès les huitièmes de finale pour l'équipe de France féminine U17. Opposées à la Chine jeudi au Maroc, les Bleuettes ont été éliminées à l'issue de la séance de tirs au but (0-0, 3-4 tab).",
+   "url": "https://www.olympique-et-lyonnais.com/mondial-u17-la-france-eliminee-motyka-ol-lyonnes-rate-son-tir-au-but,411595.html",
    "source": "Olympique-et-Lyonnais",
    "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FCapture-decran-2026-10-27-a-11.29.04-770x433.png&w=800&output=webp&q=78",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2Fd45254a73b8b2ad9a7b92bc3a6b71caa-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-10-30T15:30:00+00:00"
+  },
+  {
+   "id": "ollyonnesnelhageetlawrenceontfaitleurretourlentranement",
+   "title": "OL Lyonnes : Nelhage et Lawrence ont fait leur retour à l'entraînement",
+   "summary": "Pour le déplacement à Montpellier samedi (18h), OL Lyonnes pourrait bien compter sur les retours d'Elma Juntilla Nelhage et Ashley Lawrence. Les deux défenseuses ont repris l'entraînement collectif, au contraire de Caroline Weir.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-nelhage-et-lawrence-ont-fait-leur-retour-a-lentrainement,411637.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260426__2273223430__v1__HighRes__ArsenalFcVOlLyonnesUefaWomenSChampionsLeague-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-30T14:40:00+00:00"
+  },
+  {
+   "id": "lyonpolitiquescommercesraphalarnaultetmtropoledelyon301026",
+   "title": "Lyon Politiques : commerces, Raphaël Arnault et Métropole de Lyon - 30/10/26",
+   "summary": "L'émission Lyon Politiques et ses intervenants décryptent pour vous les évènements marquants de la semaine dans l'agglomération lyonnaise.",
+   "url": "https://www.lyonmag.com/article/154642/lyon-politiques-commerces-raphael-arnault-et-metropole-de-lyon-30-10-26",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae4a44c3e031-sans-titre-3.png&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-30T14:30:00+00:00"
+  },
+  {
+   "id": "fonsecaavantolangersonrestetroispointsduleader",
+   "title": "Fonseca avant OL - Angers : \"On reste à trois points du leader\"",
+   "summary": "Battu par le PSG lundi dernier, l'OL s'avance face à Angers avec une série de deux défaites de suite. Néanmoins, Paulo Fonseca assure que la confiance de son groupe est toujours là.",
+   "url": "https://www.olympique-et-lyonnais.com/fonseca-avant-ol-angers-on-reste-a-trois-points-du-leader,411632.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260517__B34V8FH__v1__HighRes__FblFraLigue1LyonLens-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-30T13:50:00+00:00"
+  },
+  {
+   "id": "olangersnicolastagliaficovasignersonretourdanslegroupe",
+   "title": "OL - Angers : Nicolas Tagliafico va signer son retour dans le groupe",
+   "summary": "Absent depuis quinze jours suite à son retour de sélection, Nicolás Tagliafico va réintégrer le groupe de l'OL pour la venue d'Angers. Paulo Fonseca a confirmé que l'Argentin était prêt, après avoir repris avec le groupe depuis le début de la semaine.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-angers-nicolas-tagliafico-va-signer-son-retour-dans-le-groupe,411628.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP__20260315__A3CP47K__v1__HighRes__FblFraLigue1LeHavreLyon-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
-   "publishedAt": "2026-10-30T08:30:00+00:00"
+   "publishedAt": "2026-10-30T13:00:00+00:00"
+  },
+  {
+   "id": "olmortonforfaitcontreangersetversunelongueabsence",
+   "title": "OL : Morton forfait contre Angers et vers une longue absence ?",
+   "summary": "Absent dimanche contre Angers pour la 9e journée de Ligue 1, Tyler Morton pourrait manquer plusieurs semaines. Le milieu doit voir un spécialiste concernant sa pubalgie et une opération chirurgicale n'est pas à exclure, d'après Paulo Fonseca.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-morton-forfait-contre-angers-et-vers-une-longue-absence,411626.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F12%2FAFP__20251214__883P89Q__v1__HighRes__FblFraLigue1LyonLeHavre-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-30T12:26:15+00:00"
+  },
+  {
+   "id": "angersprivdelouazzanicontrelol",
+   "title": "Angers privé d'El Ouazzani contre l'OL ?",
+   "summary": "Trois jours avant la réception d'Angers au Parc OL, l'Olympique lyonnais connaît un peu mieux l'état de forme de son prochain adversaire. Si Bané Diatta a retrouvé l'entraînement collectif, Amine El Ouazzani reste à l'écart et ne devrait pas être du déplacement.",
+   "url": "https://www.olympique-et-lyonnais.com/angers-prive-del-ouazzani-contre-lol,411614.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261025__D4DN9G3__v1__HighRes__FblFraLigue1AngersLorient-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-30T12:00:00+00:00"
+  },
+  {
+   "id": "ollesjoueursrunisautourdunrepasavantangers",
+   "title": "OL : les joueurs réunis autour d'un repas avant Angers",
+   "summary": "Avant la réception d'Angers, les joueurs de l'Olympique lyonnais ont partagé un moment de convivialité mercredi soir. L'équipe lyonnaise s'est retrouvé au restaurant Tutti Italia, situé à Vaulx-en-Velin.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-les-joueurs-reunis-autour-dun-repas-avant-angers,411607.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FIMG_1584-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-30T11:10:00+00:00"
+  },
+  {
+   "id": "deuxjoursdolangerstylermortontoujoursabsentdelentranement",
+   "title": "À deux jours d'OL - Angers, Tyler Morton toujours absent de l'entraînement",
+   "summary": "Pour le compte de la neuvième journée de Ligue 1, l'OL reçoit le SCO Angers du côté du Parc OL dimanche (17h15). Pour ce rendez-vous, Paulo Fonseca devra très certainement faire sans Tyler Morton, toujours absent de l'entraînement collectif ce vendredi.",
+   "url": "https://www.olympique-et-lyonnais.com/a-deux-jours-dol-angers-tyler-morton-toujours-absent-de-lentrainement,411608.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260730__DPPI_40827004_029__v1__HighRes__FootballFriendlyGameBetisVLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-30T10:45:15+00:00"
+  },
+  {
+   "id": "ldlclegroupelyonnaislimitelacassemaisrestedanslerouge",
+   "title": "LDLC : le groupe lyonnais limite la casse, mais reste dans le rouge",
+   "summary": "La tendance s'améliore pour LDLC, même si les difficultés persistent.",
+   "url": "https://www.lyonmag.com/article/154637/ldlc-le-groupe-lyonnais-limite-la-casse-mais-reste-dans-le-rouge",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae4782217019-1200x675-6903a600d1269-515035247-30463445649936140-4099494550254438889-n.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-10-30T09:55:00+00:00"
   },
   {
    "id": "prsdelyonungardiensquestrpendantuncambriolagelavoitureblierd",
@@ -39,39 +171,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae460926db15-54858539118-a0a9ceaeba-o.jpg&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-10-30T08:13:00+00:00"
-  },
-  {
-   "id": "montpellierollyonnesclmencegonalvesausifflet",
-   "title": "Montpellier - OL Lyonnes : Clémence Gonçalves au sifflet",
-   "summary": "OL Lyonnes connaît le corps arbitral qui dirigera son prochain match face à Montpellier. Clémence Gonçalves sera l'arbitre centrale de cette rencontre de la 7e journée de Première Ligue.",
-   "url": "https://www.olympique-et-lyonnais.com/montpellier-ol-lyonnes-clemence-goncalves-au-sifflet,411261.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260529__B4G44LQ__v1__HighRes__FblEurC1WomenLyonParisFc-e1780117584367-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-30T07:45:00+00:00"
-  },
-  {
-   "id": "dunmatchdetransitionunmatchdepossessionlolvadevoirtrouverdes",
-   "title": "D'un match de transition à un match de possession, l'OL va devoir trouver des solutions",
-   "summary": "Attentiste lundi soir face au PSG, l'OL aurait pu faire mal au club parisien avec un peu plus de maîtrise dans ses transitions. Ce dimanche (17h15), les hommes de Paulo Fonseca retrouveront la possession.",
-   "url": "https://www.olympique-et-lyonnais.com/dun-match-de-transition-a-un-match-de-possession-lol-va-devoir-trouver-des-solutions,411591.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2Frsc_anderlecht_v_olympique_lyonnais_-_uefa_europa_league_2026_27_league_phase_md1-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-30T07:00:00+00:00"
-  },
-  {
-   "id": "olnakamuraunretourprcieuxdansuneattaquedcime",
-   "title": "OL : Nakamura, un retour précieux dans une attaque décimée",
-   "summary": "Suspendu lors du déplacement au Paris Saint-Germain, Keito Nakamura va retrouver le groupe lyonnais pour la réception d'Angers. Dans une attaque touchée par de nombreuses absences, le retour de l'international japonais n'est pas de refus pour Paulo Fonseca.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-nakamura-un-retour-precieux-dans-une-attaque-decimee,411581.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2Frsc_anderlecht_v_olympique_lyonnais_-_uefa_europa_league_2026_27_league_phase_md1-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-30T06:30:00+00:00"
   },
   {
    "id": "pillageslyonilsvolentdessacsdeluxeplacedesjacobinsettententd",
@@ -96,17 +195,6 @@
    "publishedAt": "2026-10-30T04:36:00+00:00"
   },
   {
-   "id": "psgmercatoaseprcisepourcherkimanchestercityafixunprixxxl",
-   "title": "PSG Mercato : ça se précise pour Cherki, Manchester City a fixé un prix XXL !",
-   "summary": "Le PSG suivrait de près Rayan Cherki, dont Manchester City aurait fixé le prix à 90 millions d’euros, alors que le Real Madrid serait également intéressé par le milieu offensif français.",
-   "url": "https://www.butfootballclub.fr/1708786-psg-mercato-ca-se-precise-pour-cherki-manchester-city-a-fixe-un-prix-xxl/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F947eaa78-psg-mercato-cest-confirme-pour-rayan-cherki.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-29T18:40:00+00:00"
-  },
-  {
    "id": "lomloletlillejejoueyounsbelhandapersuaddavoirencoreleniveaup",
    "title": "\"À l'OM, l'OL et Lille, je joue\": Younès Belhanda persuadé d'avoir encore le niveau pour la Ligue 1",
    "summary": "Invité du nouvel épisode du Riolo Club, Younès Belhanda s'est exprimé sur l'hypothèse d'un retour en Ligue 1. À 36 ans et alors qu'il évolue au Qatar, l'ancien Montpelliérain estime qu'il \"joue tous les jours\" dans un club de l'élite.",
@@ -116,17 +204,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FbF9xNtYUCpMrTGMgemBZkPeVmIc%3D%2F0x0%3A1200x675%2F800x0%2Fimages%2FYounes-Belhanda-en-2023-avec-l-Adana-Demirspor-2374620.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-29T18:30:35+00:00"
-  },
-  {
-   "id": "malickfofanaexolenfinbuteuravecsunderland",
-   "title": "Malick Fofana (ex-OL) enfin buteur avec Sunderland",
-   "summary": "Après des débuts compliqués en Premier League, Malick Fofana a inscrit son premier but avec Sunderland mercredi soir. L'ancien ailier de l'OL a participé à la victoire contre Brentford (3-2), en Coupe de la Ligue anglaise.",
-   "url": "https://www.olympique-et-lyonnais.com/malick-fofana-ex-ol-enfin-buteur-avec-sunderland,411573.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260905__2293666969__v1__HighRes__BrentfordVSunderlandPremierLeague202627-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-29T17:30:00+00:00"
   },
   {
    "id": "bhvmaraisplusde120millionsdeurosdedettes",
@@ -140,28 +217,6 @@
    "publishedAt": "2026-10-29T17:00:00+00:00"
   },
   {
-   "id": "ollyonneskatotoredoutabledefficacitenliguedeschampions",
-   "title": "OL Lyonnes : Katoto redoutable d'efficacité en Ligue des champions",
-   "summary": "Avec cinq buts inscrits en trois rencontres de Ligue des champions, Marie-Antoinette Katoto réalise un début de campagne européenne particulièrement efficace avec OL Lyonnes. L'attaquante française a encore frappé mercredi soir face à l'Inter Milan, avec un doublé lors de la victoire lyonnaise…",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-katoto-redoutable-defficacite-en-ligue-des-champions,411566.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fx_20261028204252-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-29T16:40:00+00:00"
-  },
-  {
-   "id": "olmalgrsessoucisdadducteurstolissobienprsentlentranement",
-   "title": "OL : malgré ses soucis d'adducteurs, Tolisso bien présent à l'entraînement",
-   "summary": "Après les inquiétudes liées suite à la défaite au PSG et les différents pépins physiques, le ciel est moins assombri ces dernières heures. Après Mads Bidstrup de retour à l'entraînement collectif, Corentin Tolisso est lui aussi bien en crampons pour préparer la venue d'Angers.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-malgre-ses-soucis-dadducteurs-tolisso-bien-present-a-lentrainement,411585.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F03%2FAFP__20260312__A32Y8NV__v1__HighRes__FblEurC3CeltaVigoLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-29T15:50:00+00:00"
-  },
-  {
    "id": "marseillevenusacheterdeladroguetroisjeuneslyonnaisbraqusetdp",
    "title": "Marseille : venus acheter de la drogue, trois jeunes Lyonnais braqués et dépouillés",
    "summary": "Ils s'étaient rendus dans une cité des quartiers Nord pour acheter des stupéfiants.",
@@ -171,28 +226,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae3787a3ac75-capture-decran-2026-10-29-a-17.png&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-29T15:20:00+00:00"
-  },
-  {
-   "id": "ballondoryohannespasduedesonclassementchezlesjeunes",
-   "title": "Ballon d'Or : Yohannes \"pas déçue\" de son classement chez les jeunes",
-   "summary": "En lice pour remporter le titre de meilleure jeune joueuse lors de la cérémonie du Ballon d'Or, Lily Yohannes a finalement vu Vicki Lopez s'imposer à nouveau. Pire, la joueuse d'OL Lyonnes n'a même pas fini sur le podium.",
-   "url": "https://www.olympique-et-lyonnais.com/ballon-dor-yohannes-pas-decue-de-son-classement-chez-les-jeunes,411568.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260402__A6LW83J__v1__HighRes__FblEurC1WomenLyonWolfsburg-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-10-29T15:00:00+00:00"
-  },
-  {
-   "id": "lafffcandidateaufinalfourdeliguedesnationsleparcoldanslecoup",
-   "title": "La FFF candidate au Final Four de Ligue des Nations, le Parc OL dans le coup ?",
-   "summary": "Dans une interview accordée à nos confrères d'Ouest-France, Philippe Diallo a confirmé que la France se portera candidate à l'organisation du Final Four de Ligue des Nations en cas de qualification des Bleus.",
-   "url": "https://www.olympique-et-lyonnais.com/la-fff-candidate-au-final-four-de-ligue-des-nations-le-parc-ol-dans-le-coup,411580.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAFP__20251113__2246565290__v1__HighRes__FranceVUkraineFifaWorldCup2026Qualifier-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-29T14:10:00+00:00"
   },
   {
    "id": "prsdelyon54kilosdecocaneet60000eurosdcouvertsdanssaplanqueun",
@@ -215,50 +248,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae2c462d65b3-868159447-1505612321394384-7861386658342196849-n.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-29T03:00:00+00:00"
-  },
-  {
-   "id": "arkanelyon217emploismenacsmicrosoftaccordeunmoissupplmentair",
-   "title": "Arkane Lyon : 217 emplois menacés, Microsoft accorde un mois supplémentaire pour éviter la fermeture du studio",
-   "summary": "Le studio lyonnais Arkane, connu pour les jeux vidéo Dishonored et actuellement chargé du développement de Marvel's Blade, bénéficie d'un sursis. Microsoft a confirmé prolonger d'un mois la période de consultation concernant son avenir.",
-   "url": "https://www.lyonmag.com/article/154612/arkane-lyon-217-emplois-menaces-microsoft-accorde-un-mois-supplementaire-pour-eviter-la-fermeture-du-studio",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae221a02e7c2-arkane-blade.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-28T15:22:00+00:00"
-  },
-  {
-   "id": "ungantfranaisdelexpertisecomptablerachteuncabinetlyonnais",
-   "title": "Un géant français de l'expertise comptable rachète un cabinet lyonnais",
-   "summary": "C'est une nouvelle opération de croissance externe dans le paysage économique lyonnais.",
-   "url": "https://www.lyonmag.com/article/154610/un-geant-francais-de-l-expertise-comptable-rachete-un-cabinet-lyonnais",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae21d49059ca-capture-decran-2026-10-28-a-17.png&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-28T15:02:00+00:00"
-  },
-  {
-   "id": "lyonentreprisesstartupsetchercheursrunisauh7pourimaginerdess",
-   "title": "Lyon : entreprises, startups et chercheurs réunis au H7 pour imaginer des solutions face aux crises",
-   "summary": "Entreprises, startups, chercheurs et institutions lyonnaises se retrouveront mercredi 4 novembre au H7 pour JIMPACTE 2026.",
-   "url": "https://www.lyonmag.com/article/154599/lyon-entreprises-startups-et-chercheurs-reunis-au-h7-pour-imaginer-des-solutions-face-aux-crises",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae182b46686b-selective-focus-shot-person-holding-book.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-10-28T11:00:00+00:00"
-  },
-  {
-   "id": "unedettededroguede7000eurosonzelyonnaisjugspouravoirenlevtro",
-   "title": "Une dette de drogue de 7000 euros : onze Lyonnais jugés pour avoir enlevé trois adolescents transportés dans des coffres de voiture",
-   "summary": "Onze hommes originaires de la région lyonnaise comparaissent depuis mardi 27 octobre devant le tribunal correctionnel de Bourges. Ils sont soupçonnés d'avoir enlevé et séquestré trois mineurs en mars 2023, sur fond de trafic de stupéfiants.",
-   "url": "https://www.lyonmag.com/article/154608/une-dette-de-drogue-de-7000-euros-onze-lyonnais-juges-pour-avoir-enleve-trois-adolescents-transportes-dans-des-coffres-de-voiture",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae1d64315e97-man-sitting-car-night.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-28T10:02:00+00:00"
   },
   {
    "id": "ligue1encoreunmatchreportceweekendolangersdcaldunejourne",
