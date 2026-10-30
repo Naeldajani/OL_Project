@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T18:27:08+00:00",
+ "updatedAt": "2026-10-30T00:58:09+00:00",
  "sources": [
   "But! Football Club",
   "Lyon Mag",
@@ -7,6 +7,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "psgmercatoaseprcisepourcherkimanchestercityafixunprixxxl",
+   "title": "PSG Mercato : ça se précise pour Cherki, Manchester City a fixé un prix XXL !",
+   "summary": "Le PSG suivrait de près Rayan Cherki, dont Manchester City aurait fixé le prix à 90 millions d’euros, alors que le Real Madrid serait également intéressé par le milieu offensif français.",
+   "url": "https://www.butfootballclub.fr/1708786-psg-mercato-ca-se-precise-pour-cherki-manchester-city-a-fixe-un-prix-xxl/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F947eaa78-psg-mercato-cest-confirme-pour-rayan-cherki.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-10-29T18:40:00+00:00"
+  },
   {
    "id": "malickfofanaexolenfinbuteuravecsunderland",
    "title": "Malick Fofana (ex-OL) enfin buteur avec Sunderland",
@@ -94,17 +105,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAFP__20260609__B6JC3KN__v4__HighRes__FblWc2027WomenQualifiersFraIrl-e1781067363909-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Féminines",
    "publishedAt": "2026-10-29T13:20:00+00:00"
-  },
-  {
-   "id": "staderennaisloscolterrierenvoyenquipedefrance",
-   "title": "Stade Rennais, LOSC, OL : Terrier envoyé en équipe de France !",
-   "summary": "Ancien coéquipier de Martin Terrier au Stade Rennais, Flavien Tait estime qu’il aurait été appelé en Équipe de France avec Zinédine Zidane à son prime. Martin Terrier (29 ans) a marqué les esprits lors de son passage au Stade Rennais.",
-   "url": "https://www.butfootballclub.fr/1708693-stade-rennais-losc-ol-terrier-envoye-en-equipe-de-france/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F9dc195d1-oddd.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-10-29T13:00:00+00:00"
   },
   {
    "id": "corentintolissoparmilesjoueurslesplusfidlesdelol",
@@ -336,6 +336,17 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FsScYH98lRbHHPui7KgHWkCbzFR4%3D%2F0x0%3A1920x1080%2F800x0%2Fimages%2FPSG-OL-le-match-de-Ligue-1-le-plus-attendu-de-la-semaine-est-a-suivre-en-direct-et-en-streaming-sur-cette-plateforme-2371055.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-10-26T05:10:00+00:00"
+  },
+  {
+   "id": "delmedelapersonnalitlarecettederennesnouveauleaderduclasseme",
+   "title": "\"De l'âme, de la personnalité\": la recette de Rennes, nouveau leader du classement de Ligue 1",
+   "summary": "Grâce à sa large victoire face à Strasbourg ce dimanche (3-0), dans le cadre de la huitième journée de Ligue 1, le Stade Rennais s'est emparé de la première place du classement en attendant le choc entre le PSG et l'OL.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/de-l-ame-de-la-personnalite-la-recette-de-rennes-nouveau-leader-du-classement-de-ligue-1_AV-202610250383.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2Fexya7iMukGsOnoN7tOWKCUw9zy0%3D%2F0x112%3A2048x1264%2F800x0%2Fimages%2FFranck-Haise-entraineur-du-Stade-Rennais-25-octobre-2026-2371966.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-10-25T20:11:00+00:00"
   }
  ]
 }
