@@ -1,12 +1,156 @@
 {
- "updatedAt": "2026-11-01T05:59:39+00:00",
+ "updatedAt": "2026-11-01T13:20:05+00:00",
  "sources": [
+  "20 Minutes",
   "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "angersjosephkalululautreretourdunexol",
+   "title": "Angers : Joseph Kalulu, l'autre retour d'un ex-OL",
+   "summary": "En plus d'Anthony Lopes, un autre ancien de la formation lyonnaise revient à Décines ce dimanche. Joseph Kalulu, le petit dernier de la famille, retrouvera son premier club avec Angers.",
+   "url": "https://www.olympique-et-lyonnais.com/angers-joseph-kalulu-lautre-retour-dun-ex-ol,411715.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F03%2FCapture-decran-2025-03-04-174229-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-01T12:30:00+00:00"
+  },
+  {
+   "id": "olangersunhistoriquelargementfavorableauxlyonnais",
+   "title": "OL - Angers : un historique largement favorable aux Lyonnais",
+   "summary": "Avant la réception d'Angers, ce samedi 31 octobre, l'OL peut s'appuyer sur un bilan positif face au SCO. Sur les dix dernières confrontations entre les deux équipes en Ligue 1, les Lyonnais ont remporté huit rencontres.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-angers-un-historique-largement-favorable-aux-lyonnais,411362.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F09%2FAFP__20250919__766Y34X__v1__HighRes__FblFraLigue1LyonAngers-e1758360677500-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-01T11:40:00+00:00"
+  },
+  {
+   "id": "olacadmielarserveserelancedijon",
+   "title": "OL Académie : la réserve se relance à Dijon",
+   "summary": "Après avoir perdu il y a deux semaines contre la réserve de Dijon, l'OL s'est rattrapé face à son voisin dijonnais de l'ASPTT. Une victoire 3-0 qui permet à la réserve lyonnaise de remonter sur le podium.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-la-reserve-se-relance-a-dijon,411755.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3757-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-01T10:50:00+00:00"
+  },
+  {
+   "id": "enraisondunmouvementdegrveunretoursurlyonanticiperaprsolange",
+   "title": "En raison d'un mouvement de grève, un retour sur Lyon à anticiper après OL - Angers",
+   "summary": "Ce dimanche (17h15), le Parc OL sera encore loin de faire le plein face à Angers. D’autant plus que les spectateurs utilisant les transports en commun pour revenir sur Lyon vont devoir anticiper, en raison \"d’un mouvement social\" sur les lignes de métro et funiculaires à partir de 20h.",
+   "url": "https://www.olympique-et-lyonnais.com/en-raison-dun-mouvement-de-greve-un-retour-sur-lyon-a-anticiper-apres-ol-angers,411757.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F06%2FAFP__20250620__DPPI_50025025_047__v1__HighRes__RugbyFrenchChamp12ToulouseVBayonne-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-01T10:00:00+00:00"
+  },
+  {
+   "id": "olangerslopesdcinesunretourtoujoursparticulier",
+   "title": "OL - Angers : Lopes à Décines, un retour toujours particulier",
+   "summary": "Anthony Lopes retrouvera une nouvelle fois le Parc OL, ce dimanche, à l'occasion de la réception d'Angers par l'Olympique lyonnais. Cette fois-ci, l'ancien gardien de l'OL revient avec le maillot du SCO.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-angers-lopes-a-decines-un-retour-toujours-particulier,411298.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FHK3eD5KWAAAZw9j-e1781603923738-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-11-01T09:15:00+00:00"
+  },
+  {
+   "id": "olcinqcandidatssedgagentdjpourremplacerpaulofonseca",
+   "title": "OL : cinq candidats se dégagent déjà pour remplacer Paulo Fonseca",
+   "summary": "L’OL anticipe un possible départ de Paulo Fonseca vers le Sporting CP et étudie déjà cinq profils, dont Thiago Motta, Pierre Sage et Tudor.",
+   "url": "https://www.butfootballclub.fr/1709369-ol-cinq-candidats-remplacer-paulo-fonseca/",
+   "source": "But! Football Club",
+   "author": "Wladimir DELCROS",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F4d13289f-ol-cinq-candidats-remplacer-paulo-fonseca-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-01T09:13:27+00:00"
+  },
+  {
+   "id": "olilmabeaucoupaidmerahvoquelerledesonpre",
+   "title": "OL : \"Il m'a beaucoup aidé\", Merah évoque le rôle de son père",
+   "summary": "Dans son apprentissage du haut niveau à l'OL, Khalis Merah peut compter sur un soutien précieux en dehors du terrain. Ancien gardien de but et entraîneur, son père l'accompagne depuis ses débuts dans le football et continue de lui donner de nombreux conseils.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-il-ma-beaucoup-aide-merah-evoque-le-role-de-son-pere,411650.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261009__D2TP6CG__v1__HighRes__FblFraLigue1LensLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-01T08:25:00+00:00"
+  },
+  {
+   "id": "olunanciendelajuveetdupsgpourremplacerpaulofonseca",
+   "title": "OL : un ancien de la Juve et du PSG pour remplacer Paulo Fonseca ?",
+   "summary": "Avec le départ programmé de Paulo Fonseca, potentiellement cet hiver, l'OL ne manquera pas de courtisans pour devenir son nouvel entraîneur. Thiago Motta aurait ainsi fait acte de candidature en se renseignant.",
+   "url": "https://www.lyonfoot.com/article/14644/le-depart-de-paulo-fonseca-se-precise-thiago-motta-pour-reprendre-le-banc-de-l-ol",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae6ffaae2b5c-motta.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-01T07:59:00+00:00"
+  },
+  {
+   "id": "olangersscoavantmatchhorairediffusiontv",
+   "title": "OL - Angers SCO : avant-match, horaire, diffusion TV",
+   "summary": "L'Olympique lyonnais retrouve le Parc OL ce dimanche pour la réception d'Angers, à l'occasion de la 9e journée de Ligue 1. Après un mois d'octobre très chargé, les hommes de Paulo Fonseca voudront terminer sur une bonne note.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-angers-sco-avant-match-horaire-diffusion-tv,411290.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F09%2FAFP__20250919__766X8ET__v2__HighRes__FblFraLigue1LyonAngers-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-01T07:45:00+00:00"
+  },
+  {
+   "id": "olangersetsinuamahsoffraitunnouveaurle",
+   "title": "OL - Angers : et si Nuamah s'offrait un nouveau rôle ?",
+   "summary": "Meilleur buteur de l'OL depuis le début de la saison, Ernest Nuamah pourrait bien ajouter une corde de plus à son arc. Ce dimanche (17h15), le Ghanéen devrait occuper le poste de numéro 9, quand bien même la formation lyonnaise peut multiplier les options avec notamment Keito Nakamura.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-angers-et-si-nuamah-soffrait-un-nouveau-role,411747.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260829__C6TV2H6__v1__HighRes__FblFraLigue1LyonLeHavre-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-01T07:00:00+00:00"
+  },
+  {
+   "id": "olunpremiercandidatsepositionnedjpourlaprsfonseca",
+   "title": "OL : un premier candidat se positionne déjà pour l’après-Fonseca !",
+   "summary": "Paulo Fonseca discute avec le Sporting Portugal, et l’OL a déjà pris contact avec Thiago Motta, libre, pour préparer la suite à Lyon.",
+   "url": "https://www.butfootballclub.fr/1709360-ol-fonseca-candidat-apres-thiago-motta/",
+   "source": "But! Football Club",
+   "author": "Wladimir DELCROS",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fa1bbd9bd-ol-fonseca-candidat-apres-thiago-motta-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-01T06:39:05+00:00"
+  },
+  {
+   "id": "lyonangerssurquellechanetvetquelleheurevoirlematchdeligue1",
+   "title": "Lyon-Angers : Sur quelle chaîne TV et à quelle heure voir le match de Ligue 1 ?",
+   "summary": "Dimanche à 17h15, les Gones, 5es, reçoivent le SCO Angers, 14es",
+   "url": "https://www.20minutes.fr/sport/football/4259160-20261101-lyon-angers-chaine-tv-heure-voir-match-ligue-1?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2F2pcjffiVTbKt1bhVChkGnSk%2F1444x920_corentin-tolisso-et-l-ol-doivent-prendre-les-3-points-pour-rester-dans-le-wagon-de-tete&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-01T06:32:36+00:00"
+  },
+  {
+   "id": "olfonsecapasencorepartiunsuccesseursedclaredj",
+   "title": "OL : Fonseca pas encore parti, un successeur se déclare déjà",
+   "summary": "Comme avancé ces dernières heures, Paulo Fonseca serait dans le viseur du Sporting Portugal. Si des discussions semblent entamées, l'entraîneur peut-il vivre son dernier match à Décines, ce dimanche contre Angers ?",
+   "url": "https://www.olympique-et-lyonnais.com/ol-fonseca-pas-encore-parti-un-successeur-se-declare-deja,411751.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__C4Y66LR__v1__HighRes__FblEurC1QualifyingFenerbahceLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-01T06:30:00+00:00"
+  },
   {
    "id": "lyonangerssurquellechanetvetquelleheureregarderlematchdeligu",
    "title": "Lyon - Angers : sur quelle chaîne TV et à quelle heure regarder le match de Ligue 1 en direct ?",
@@ -17,6 +161,17 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FoV2DiTWR5reGcWv3RWbwJPpWKx4%3D%2F0x0%3A1600x900%2F800x0%2Fimages%2FLyon-Angers-sur-quelle-chaine-TV-et-a-quelle-heure-regarder-le-match-de-Ligue-1-en-direct-2373844.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-11-01T05:15:00+00:00"
+  },
+  {
+   "id": "olangersunsursautobligatoirepourleslyonnais",
+   "title": "OL-Angers : un sursaut obligatoire pour les Lyonnais",
+   "summary": "Il est temps pour l'Olympique Lyonnais de mettre octobre et son lot de défaites et blessures derrière soi. Ce dimanche, la réception d'Angers doit rimer avec succès.",
+   "url": "https://www.lyonfoot.com/article/14641/ol-angers-lyon-sous-pression-face-a-un-adversaire-fragilise",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae59f6713be9-865795624-1933145277658923-2917482547450739091-n.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-01T05:00:00+00:00"
   },
   {
    "id": "olfonsecaverslesportingquelaveudimpuissancelafterstupfait",
@@ -74,17 +229,6 @@
    "publishedAt": "2026-10-31T18:31:00+00:00"
   },
   {
-   "id": "olangerslasurprisecluversambimbungudanslegroupe",
-   "title": "OL - Angers : la surprise Cluver Sambi Mbungu dans le groupe",
-   "summary": "Face à Angers ce dimanche (17h15), l'OL a besoin des trois points. Privé de plusieurs éléments blessés, Paulo Fonseca a convoqué le jeune Cluver Sambi Mbungu pour la première fois. La liste des blessés ne rétrécit pas à l'OL.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-angers-la-surprise-cluver-sambi-mbungu-dans-le-groupe,411737.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FCluver-Sambi-Mbungu-a-sa-signature-a-lOL-avec-Matthieu-Louis-Jean-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-10-31T18:04:35+00:00"
-  },
-  {
    "id": "mobilisationlyonsolidairesrevendique20000manifestantsetappel",
    "title": "Mobilisation à Lyon : Solidaires revendique 20 000 manifestants et appelle à la grève le 5 novembre",
    "summary": "Suite à la manifestation lyonnaise contre la vie chère, Solidaires Rhône revendique la présence d'au moins 20 000 personnes entre la Manufacture des Tabacs et la place Jean-Macé. Le syndicat appelle désormais à poursuivre la mobilisation par une journée de grève et de manifestation le 5 novembre.",
@@ -105,94 +249,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae627209d7eb-862544110-2197276824545795-6946319793708559191-n.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-31T16:34:00+00:00"
-  },
-  {
-   "id": "hegerbergetjosephtitulairesrevivezmontpellierollyonnes",
-   "title": "Hegerberg et Joseph titulaires... Revivez Montpellier - OL Lyonnes",
-   "summary": "Trois jours après la victoire contre l'Inter Milan en Ligue des champions, OL Lyonnes retrouve le championnat avec un déplacement sur la pelouse de Montpellier. Face à une équipe en deçà dans ce début de championnat, les Fenottes se doivent de poursuivre leur sans-faute.",
-   "url": "https://www.olympique-et-lyonnais.com/hegerberg-et-joseph-titulaires-suivez-montpellier-ol-lyonnes-en-direct,411439.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2023%2F08%2FIMG_2494-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-31T16:10:00+00:00"
-  },
-  {
-   "id": "ollarserveenmodecohsionaulasergame",
-   "title": "OL : la réserve en mode cohésion au laser game",
-   "summary": "Entre les entraînements, la réserve de l'Olympique lyonnais a profité d'un moment de détente pour resserrer les liens. Les joueurs et le staff se sont retrouvés au Laser Game pour une activité collective organisée sous la forme d'un tournoi.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-la-reserve-en-mode-cohesion-au-laser-game,411666.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FCapture-decran-2026-10-30-a-16.24.40-770x433.png&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-10-31T15:50:00+00:00"
-  },
-  {
-   "id": "olangersunretourlamaisonsalvateurpourleslyonnais",
-   "title": "OL - Angers : un retour à la maison salvateur pour les Lyonnais ?",
-   "summary": "Beaucoup plus souverain à domicile, l'OL accueille Angers dimanche (17h15). L'occasion de repartir sur de bonnes bases ? A priori, l'OL n'aura pas beaucoup de plus belles occasions de repartir de l'avant.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-angers-un-retour-a-la-maison-salvateur-pour-les-lyonnais,411701.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261015__2300388843__v1__HighRes__OlympiqueLyonnaisVCrystalPalaceFcUefaEuropaL-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-31T15:00:00+00:00"
-  },
-  {
-   "id": "ollyonneslecapdes100butsenphasedegroupesdec1",
-   "title": "OL Lyonnes : le cap des 100 buts en phase de groupes de C1",
-   "summary": "Grâce à son large succès contre l'Inter Milan (6-0), mercredi soir, OL Lyonnes a dépassé la barre symbolique des 100 buts inscrits en phase de groupes de Ligue des champions. Un nouveau cap pour le club lyonnais sur la scène européenne.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-le-cap-des-100-buts-en-phase-de-groupes-de-c1,411562.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fol_lyonnes_v_fc_internazionale_milano_-_uefa_women_s_champions_league_2026_27_league_phase_md3-3-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-10-31T14:10:00+00:00"
-  },
-  {
-   "id": "ligue1lappeldoffresdesdroitstvseralancle3novembre",
-   "title": "Ligue 1 : l'appel d'offres des droits TV sera lancé le 3 novembre",
-   "summary": "La Ligue de football professionnel (LFP) s'apprête à ouvrir un nouveau chapitre dans la commercialisation des droits télévisés de la Ligue 1. Selon les informations de L'Équipe, l'appel d'offres pour la période 2027-2032 sera officiellement lancé le 3 novembre, avec une formule inédite.",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-1-lappel-doffres-des-droits-tv-sera-lance-le-3-novembre,411602.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F02%2F86fb2dc052aabf1a9acc56c3b93014a8.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-31T13:20:00+00:00"
-  },
-  {
-   "id": "olangerslesangvinspluslaiselextrieur",
-   "title": "OL - Angers : les Angévins plus à l'aise à l'extérieur ?",
-   "summary": "Avant de recevoir Angers ce dimanche 1er novembre à 17 h 15, l'Olympique lyonnais devra se méfier d'une équipe angevine plutôt en réussite à l'extérieur, puisqu'elle a obtenu la moitié de ses points en déplacement, le tout en trois matchs.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-angers-les-angevins-plus-a-laise-a-lexterieur,411549.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260405__A6TL2C3__v1__HighRes__FblFraLigue1AngersLyon-e1775564859685-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-31T12:30:00+00:00"
-  },
-  {
-   "id": "ollyonneslamuerussiedejulebrand",
-   "title": "OL Lyonnes : la mue réussie de Jule Brand",
-   "summary": "Arrivée à l'été 2025 à Lyon, Jule Brand a connu des premiers mois d'adaptation compliqués avant de prendre une nouvelle dimension avec OL Lyonnes. Grâce à un repositionnement imaginé par Jonatan Giráldez, l’internationale allemande est devenue un atout important du collectif rhodanien.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-la-mue-reussie-de-jule-brand,411512.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260502__A9M36EH__v3__HighRes__FblEurC1WomenLyonnesArsenal-e1779288782294-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-31T11:40:00+00:00"
-  },
-  {
-   "id": "stphanegilliangerssaitquoisattendrefacelol",
-   "title": "Stéphane Gilli (Angers) \"sait à quoi s'attendre\" face à l'OL",
-   "summary": "Angers s'est un peu rassuré face à Lorient la semaine dernière (0-0). Dimanche, il se déplace sur le terrain de l'OL, un adversaire que Stéphane Gilli a décortiqué. Dix buts encaissés et deux énormes revers.",
-   "url": "https://www.olympique-et-lyonnais.com/stephane-gilli-angers-sait-a-quoi-sattendre-face-a-lol,411698.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FStephane-Gilli-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-31T10:50:00+00:00"
   },
   {
    "id": "pasderepreneurlhorizondecitrefermeseslibrairiesdelyonpartdie",
@@ -248,28 +304,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae460926db15-54858539118-a0a9ceaeba-o.jpg&w=800&output=webp&q=78",
    "topic": "Effectif",
    "publishedAt": "2026-10-30T08:13:00+00:00"
-  },
-  {
-   "id": "pillageslyonilsvolentdessacsdeluxeplacedesjacobinsettententd",
-   "title": "Pillages à Lyon : ils volent des sacs de luxe place des Jacobins et tentent de les revendre, deux jeunes condamnés",
-   "summary": "Deux jeunes hommes de 21 et 19 ans ont été condamnés lundi 26 octobre par le tribunal de Villefranche-sur-Saône après le pillage d'une maroquinerie lyonnaise.",
-   "url": "https://www.lyonmag.com/article/154635/pillages-a-lyon-ils-volent-des-sacs-de-luxe-place-des-jacobins-et-tentent-de-les-revendre-deux-jeunes-condamnes",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae43611caac5-1200x675-6ad46c3d9ffb6-pillages.png&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-30T05:14:00+00:00"
-  },
-  {
-   "id": "ollesportingpensepaulofonsecaundiffrendfinancierentrelesdeux",
-   "title": "OL : le Sporting pense à Paulo Fonseca, un différend financier entre les deux clubs en toile de fond",
-   "summary": "Et si l'OL perdait Paulo Fonseca ? Le Sporting convoite l'entraîneur portugais, d'autant qu'un différend financier subsiste entre les deux clubs sur fond de transfert d'Afonso Moreira.",
-   "url": "https://www.lyonfoot.com/article/14633/ol-paulo-fonseca-dans-le-viseur-du-sporting-portugal-une-dette-de-6-4-millions-d-euros-pourrait-peser-dans-le-dossier",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae42d1455477-55589166323-17862fe1fa-o.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-30T04:36:00+00:00"
   },
   {
    "id": "lomloletlillejejoueyounsbelhandapersuaddavoirencoreleniveaup",
