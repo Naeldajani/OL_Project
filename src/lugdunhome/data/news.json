@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T13:20:05+00:00",
+ "updatedAt": "2026-11-01T19:38:41+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,204 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "fonsecaresteroupartirdelolonvavoirdanslesprochainsjours",
+   "title": "Fonseca : \"Rester ou partir de l'OL ? On va voir dans les prochains jours\"",
+   "summary": "Particulièrement ému au moment du deuxième but de Corentin Tolisso, Paulo Fonseca a cherché à noyer le poisson concernant son avenir à l'OL. Mais son incapacité à dire s’il sera sur le banc contre la Real Sociedad laisse clairement planer un départ dans les prochains jours.",
+   "url": "https://www.olympique-et-lyonnais.com/fonseca-rester-ou-partir-de-lol-on-va-voir-dans-les-prochains-jours,411773.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAFP__20261101__D63X4J4__v1__HighRes__FblFraLigue1LyonAngers-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-01T19:26:57+00:00"
+  },
+  {
+   "id": "olpaulofonsecasortdusilencesursonaveniraprsangers",
+   "title": "OL : Paulo Fonseca sort du silence sur son avenir après Angers !",
+   "summary": "Après la rencontre face à Angers, Paulo Fonseca a laissé planer le doute sur son avenir à l’Olympique Lyonnais, sans écarter l’hypothèse d’un départ. L’avenir de Paulo Fonseca était déjà au cœur de l’actualité avant cette réception d’Angers.",
+   "url": "https://www.butfootballclub.fr/1709476-ol-paulo-fonseca-sort-du-silence-sur-son-avenir-apres-angers/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F8cf00652-ol-paulo-fonseca-sort-du-silence-sur-son-avenir-apres-angers.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-01T19:20:00+00:00"
+  },
+  {
+   "id": "lyon20angersaprsdifficilededirefonsecacoachdelolaumoinsjusqu",
+   "title": "Lyon 2-0 Angers : \"Après, difficile de dire\" Fonseca coach de l'OL au moins jusqu'à lundi matin",
+   "summary": "L'OL s'est imposé 2-0 contre Angers 2-0 ce dimanche pour la 9e journée de Ligue 1. Au moment où des rumeurs envoient le coach des Gones Paulo Fonseca au Sporting, le technicien portugais semble aussi dans le flou.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-lyon-2-0-angers-apres-difficile-de-dire-fonseca-coach-de-l-ol-au-moins-jusqu-a-lundi-matin_VN-202611010391.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FMVzyX3Ds6PfdjTbIOh22YV_Ys7A%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FLyon-2-0-Angers-Apres-difficile-de-dire-Fonseca-coach-de-l-OL-au-moins-jusqu-a-lundi-matin-2375901.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-01T19:18:41+00:00"
+  },
+  {
+   "id": "lyonangerslolretrouvelavictoiregrceungrandtolissosurfondderu",
+   "title": "Lyon-Angers: l'OL retrouve la victoire grâce à un grand Tolisso sur fond de rumeurs autour de Fonseca",
+   "summary": "Après deux défaites de rang sans marquer toutes compétitions confondues, l'OL retrouve le sourire face à Angers. Les Gones ont maîtrisé le SCO et montent sur le podium grâce à ce succès, peut-être le dernier de l'ère Paulo Fonseca, annoncé du côté du Sporting Portugal.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-lyon-angers-suivez-le-match-de-la-9e-journee-de-ligue-1-en-live_LS-202611010315.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FVWbEUhCLp1nZRSm0tRSrv_7Yv7k%3D%2F0x212%3A2048x1364%2F800x0%2Fimages%2FPaulo-Fonseca-coach-de-l-OL-tres-emu-au-moment-du-but-de-son-equipe-1er-novembre-2026-2375882.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-01T18:53:15+00:00"
+  },
+  {
+   "id": "lyon20angersjaienviequefonsecarestelemessageclairdetolisso",
+   "title": "Lyon 2-0 Angers : \"J'ai envie que Fonseca reste\" le message clair de Tolisso",
+   "summary": "L'OL a battu Angers 2-0 ce dimanche pour la 9e journée de Ligue 1. Alors que des rumeurs font état de contacts entre le Sporting du Portugal et le coach lyonnais Paulo Fonseca, le capitaine des Gones a envoyé un message clair à son club.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-lyon-2-0-angers-j-ai-envie-que-fonseca-reste-le-message-clair-de-tolisso_VN-202611010385.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F7mNmV0vieqv4FdgxnbBLvPkkWZo%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FLyon-2-0-Angers-J-ai-envie-que-Fonseca-reste-le-message-clair-de-Tolisso-2375895.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-01T18:52:42+00:00"
+  },
+  {
+   "id": "olangerslesimagesmarquantesdelnormemotiondepaulofonsecaannon",
+   "title": "OL-Angers: les images marquantes de l’énorme émotion de Paulo Fonseca, annoncé en discussions avec le Sporting",
+   "summary": "Paulo Fonseca est apparu très ému lors de la victoire de l’OL face à Angers, ce dimanche, durant la 9e journée de Ligue 1 (2-0). Le coach portugais, qui est annoncé proche du Sporting, a fondu en larmes à la fin de la rencontre au Groupama Stadium.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/ol-angers-les-images-marquantes-de-l-enorme-emotion-de-paulo-fonseca-annonce-en-discussions-avec-le-sporting_AV-202611010380.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FhQdwHhp9b4ndg4jGq3apH2R-c6E%3D%2F0x175%3A2048x1327%2F800x0%2Fimages%2FPaulo-Fonseca-et-les-joueurs-de-l-OL-contre-Angers-le-1er-novembre-2026-en-Ligue-1-2375891.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-01T18:43:39+00:00"
+  },
+  {
+   "id": "olangersleslarmesdefonsecaannonciatricesdesondpartimminentde",
+   "title": "OL - Angers : Les larmes de Fonseca annonciatrices de son départ imminent de Lyon ?",
+   "summary": "Annoncé sur le départ au beau milieu de la saison pour rejoindre le Sporting Portugal, Paulo Fonseca est apparu très ému après la victoire de l’OL contre Angers (2-0), dimanche, au Groupama Stadium",
+   "url": "https://www.20minutes.fr/sport/football/mercato/4259362-20261101-ol-angers-larmes-fonseca-annonciatrices-depart-imminent-lyon?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FB-uBGlfdT4yHEGfEIfteNik%2F1444x920_paulo-fonseca-tres-emu-apres-le-deuxieme-but-de-l-ol-contre-angers&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-01T18:35:44+00:00"
+  },
+  {
+   "id": "olangers20lebaromtredumatchcequilfautretenir",
+   "title": "OL - Angers (2-0) : le baromètre du match, ce qu’il faut retenir",
+   "summary": "Dominateur sans réussir à totalement se mettre à l’abri, l’OL a réussi le principal face à Angers (2-0). Retrouvez le baromètre du match. On a aimé Nakamura, Monsieur Propre Il n’est pas celui qui fait le plus de bruit, étant presque dans l’ombre.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-angers-2-0-le-barometre-du-match-ce-quil-faut-retenir,411769.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAFP__20261101__D63Q4ZR__v1__HighRes__FblFraLigue1LyonAngers-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-01T18:20:00+00:00"
+  },
+  {
+   "id": "parisfcmonacoportparundoubldesinayokolepfcsimposeetgrimpela4",
+   "title": "Paris FC-Monaco: porté par un doublé de Sinayoko, le PFC s'impose et grimpe à la 4e place de Ligue 1",
+   "summary": "Le Paris FC a signé une belle victoire face à l'AS Monaco (3-1), ce dimanche à Jean-Bouin, lors de la 9e journée de Ligue 1. Portés par un doublé de Sinayoko et un but de Pagis, les Parisiens ont longtemps maîtrisé les débats malgré la réduction du score de Balogun.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-paris-fc-monaco-suivez-le-match-de-la-9e-journee-de-ligue-1-en-live_LS-202611010318.html",
+   "source": "RMC Sport",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FI6FUmuk0TWE5eHkSkbfKbJIpOKI%3D%2F0x212%3A2048x1364%2F800x0%2Fimages%2FLassine-Sinayoko-auteur-d-un-double-pour-le-Paris-FC-1er-novembre-2026-2375862.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-01T18:14:22+00:00"
+  },
+  {
+   "id": "olangers20lesnotesdeslyonnaisderetoursurlepodium",
+   "title": "OL – Angers (2-0) : les notes des Lyonnais, de retour sur le podium !",
+   "summary": "Dans un contexte particulier après deux défaites et alors que les rumeurs d’un départ de Paulo Fonseca au Sporting Lisbonne fleurissent ces dernières heures, l’OL a repris sa marche en avant en Ligue 1 en dominant le SCO Angers au Groupama Stadium (2-0, buts de Nuamah et Tolisso).",
+   "url": "https://www.butfootballclub.fr/1709469-ol-angers-2-0-les-notes-des-lyonnais-de-retour-sur-le-podium/",
+   "source": "But! Football Club",
+   "author": "Alexandre Corboz",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F5f08e89e-ol-angers-2-0-les-notes-des-lyonnais-de-retour-sur-le-podium.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-01T18:08:29+00:00"
+  },
+  {
+   "id": "unoldominateurmaisaupetittrotsimposefaceangers",
+   "title": "Un OL dominateur mais au petit trot s'impose face à Angers",
+   "summary": "Dominateur sans être transcendant dans le jeu proche du but d'Angers, l'OL a malgré tout pris le meilleur sur le SCO. Cette victoire 2-0 permet de mettre un terme à la série de deux défaites de suite avant de se replonger dans la Ligue Europa.",
+   "url": "https://www.olympique-et-lyonnais.com/un-ol-dominateur-mais-au-petit-trot-simpose-face-a-angers,411765.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAFP__20261101__D63T2PG__v1__HighRes__FblFraLigue1LyonAngers-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-01T18:06:29+00:00"
+  },
+  {
+   "id": "ligue1lolbatangers20etserelanceaprsdeuxdfaites",
+   "title": "Ligue 1 : l’OL bat Angers 2-0 et se relance après deux défaites",
+   "summary": "L'Olympique Lyonnais a retrouvé des couleurs ce dimanche au Groupama Stadium contre Angers. La victoire (2-0) a permis de se relancer alors que le club traverse quelques crises.",
+   "url": "https://www.lyonfoot.com/article/14641/ol-angers-lyon-retrouve-enfin-la-victoire-grace-a-nuamah-et-tolisso-2-0",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae7801ba95af-hwdu9-pweaaieru.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-01T17:07:00+00:00"
+  },
+  {
+   "id": "olaseprcisepourledpartdefonsecasonstaffadjfaitsescartons",
+   "title": "OL : ça se précise pour le départ de Fonseca, son staff a déjà fait ses cartons !",
+   "summary": "Annoncé sur le départ de l’OL pour rejoindre le Sporting Portugal, Paulo Fonseca voit son avenir s’écrire de plus en plus loin de Lyon, alors que des membres de son staff auraient déjà commencé à préparer leurs affaires.",
+   "url": "https://www.butfootballclub.fr/1709403-ol-ca-se-precise-pour-le-depart-de-fonseca-son-staff-a-deja-fait-ses-cartons/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F0f4328a1-fjf.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-01T16:00:00+00:00"
+  },
+  {
+   "id": "olangersnuamahenpointeaccompagnparnakamuraetduranville",
+   "title": "OL - Angers : Nuamah en pointe accompagné par Nakamura et Duranville",
+   "summary": "Ce dimanche (17h15), l'OL reçoit Angers pour la 9e journée de Ligue 1 avec l'ambition de mettre fin à sa mauvaise série de deux défaites de suite. Face à la pénurie offensive, Paulo Fonseca a choisi d'innover une nouvelle fois en alignant Ernest Nuamah en pointe.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-angers-nuamah-en-pointe-accompagne-par-nakamura-et-duranville,411761.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260829__C6TU2MB__v1__HighRes__FblFraLigue1LyonLeHavre-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-01T15:16:11+00:00"
+  },
+  {
+   "id": "olleparcolchangedambianceavantlarceptiondangers",
+   "title": "OL : le Parc OL change d’ambiance avant la réception d’Angers",
+   "summary": "Le Parc OL passe en mode funk avant OL-Angers avec DJ set, danseurs et animations dans les tribunes, puis une soirée prolongée après le match.",
+   "url": "https://www.butfootballclub.fr/1709399-ol-parc-ol-ambiance-reception-angers/",
+   "source": "But! Football Club",
+   "author": "Wladimir DELCROS",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Ff69e36e0-ol-parc-ol-ambiance-reception-angers-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-01T15:00:03+00:00"
+  },
+  {
+   "id": "olangerssouslesignedelafunkdcines",
+   "title": "OL - Angers sous le signe de la funk à Décines",
+   "summary": "À l'occasion de la réception d'Angers, ce dimanche 1er novembre à 17 h 15, l'OL mettra une nouvelle fois la funk à l'honneur. Plusieurs animations sont prévues avant la rencontre, en tribunes et après le match.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-angers-sous-le-signe-de-la-funk-a-decines,411589.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__C4Y66TV__v1__HighRes__FblEurC1QualifyingFenerbahceLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-01T14:10:00+00:00"
+  },
+  {
+   "id": "oluneblessureabrutalementfreinlappitedefonseca",
+   "title": "OL : une blessure a brutalement freiné la pépite de Fonseca",
+   "summary": "Blessé pendant la préparation, Khalis Merah a freiné sa progression à l'OL avant de revenir peu à peu dans les plans de Paulo Fonseca.",
+   "url": "https://www.butfootballclub.fr/1709383-ol-khalis-merah-blessure-preparation-fonseca/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fd3ee614f-ol-khalis-merah-blessure-preparation-fonseca-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-11-01T13:23:04+00:00"
+  },
+  {
+   "id": "oljtaisvraimentfrustrmerahvoquesablessureestivale",
+   "title": "OL : \"J'étais vraiment frustré\", Merah évoque sa blessure estivale",
+   "summary": "Après avoir beaucoup travaillé durant la pause estivale pour aborder le nouvel exercice dans les meilleures conditions, Khalis Merah a rapidement été freiné par une blessure. Le jeune Lyonnais est revenu sur cette période délicate, qui l'a notamment privé de préparation avec l'OL.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-jetais-vraiment-frustre-merah-evoque-sa-blessure-estivale,411640.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260425__A8XW6NZ__v1__HighRes__FblFraLigue1LyonAuxerre-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-11-01T13:20:00+00:00"
+  },
   {
    "id": "angersjosephkalululautreretourdunexol",
    "title": "Angers : Joseph Kalulu, l'autre retour d'un ex-OL",
@@ -53,39 +251,6 @@
    "publishedAt": "2026-11-01T10:00:00+00:00"
   },
   {
-   "id": "olangerslopesdcinesunretourtoujoursparticulier",
-   "title": "OL - Angers : Lopes à Décines, un retour toujours particulier",
-   "summary": "Anthony Lopes retrouvera une nouvelle fois le Parc OL, ce dimanche, à l'occasion de la réception d'Angers par l'Olympique lyonnais. Cette fois-ci, l'ancien gardien de l'OL revient avec le maillot du SCO.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-angers-lopes-a-decines-un-retour-toujours-particulier,411298.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FHK3eD5KWAAAZw9j-e1781603923738-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-11-01T09:15:00+00:00"
-  },
-  {
-   "id": "olcinqcandidatssedgagentdjpourremplacerpaulofonseca",
-   "title": "OL : cinq candidats se dégagent déjà pour remplacer Paulo Fonseca",
-   "summary": "L’OL anticipe un possible départ de Paulo Fonseca vers le Sporting CP et étudie déjà cinq profils, dont Thiago Motta, Pierre Sage et Tudor.",
-   "url": "https://www.butfootballclub.fr/1709369-ol-cinq-candidats-remplacer-paulo-fonseca/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F4d13289f-ol-cinq-candidats-remplacer-paulo-fonseca-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-01T09:13:27+00:00"
-  },
-  {
-   "id": "olilmabeaucoupaidmerahvoquelerledesonpre",
-   "title": "OL : \"Il m'a beaucoup aidé\", Merah évoque le rôle de son père",
-   "summary": "Dans son apprentissage du haut niveau à l'OL, Khalis Merah peut compter sur un soutien précieux en dehors du terrain. Ancien gardien de but et entraîneur, son père l'accompagne depuis ses débuts dans le football et continue de lui donner de nombreux conseils.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-il-ma-beaucoup-aide-merah-evoque-le-role-de-son-pere,411650.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261009__D2TP6CG__v1__HighRes__FblFraLigue1LensLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-01T08:25:00+00:00"
-  },
-  {
    "id": "olunanciendelajuveetdupsgpourremplacerpaulofonseca",
    "title": "OL : un ancien de la Juve et du PSG pour remplacer Paulo Fonseca ?",
    "summary": "Avec le départ programmé de Paulo Fonseca, potentiellement cet hiver, l'OL ne manquera pas de courtisans pour devenir son nouvel entraîneur. Thiago Motta aurait ainsi fait acte de candidature en se renseignant.",
@@ -95,39 +260,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae6ffaae2b5c-motta.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-11-01T07:59:00+00:00"
-  },
-  {
-   "id": "olangersscoavantmatchhorairediffusiontv",
-   "title": "OL - Angers SCO : avant-match, horaire, diffusion TV",
-   "summary": "L'Olympique lyonnais retrouve le Parc OL ce dimanche pour la réception d'Angers, à l'occasion de la 9e journée de Ligue 1. Après un mois d'octobre très chargé, les hommes de Paulo Fonseca voudront terminer sur une bonne note.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-angers-sco-avant-match-horaire-diffusion-tv,411290.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F09%2FAFP__20250919__766X8ET__v2__HighRes__FblFraLigue1LyonAngers-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-01T07:45:00+00:00"
-  },
-  {
-   "id": "olangersetsinuamahsoffraitunnouveaurle",
-   "title": "OL - Angers : et si Nuamah s'offrait un nouveau rôle ?",
-   "summary": "Meilleur buteur de l'OL depuis le début de la saison, Ernest Nuamah pourrait bien ajouter une corde de plus à son arc. Ce dimanche (17h15), le Ghanéen devrait occuper le poste de numéro 9, quand bien même la formation lyonnaise peut multiplier les options avec notamment Keito Nakamura.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-angers-et-si-nuamah-soffrait-un-nouveau-role,411747.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260829__C6TV2H6__v1__HighRes__FblFraLigue1LyonLeHavre-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-01T07:00:00+00:00"
-  },
-  {
-   "id": "olunpremiercandidatsepositionnedjpourlaprsfonseca",
-   "title": "OL : un premier candidat se positionne déjà pour l’après-Fonseca !",
-   "summary": "Paulo Fonseca discute avec le Sporting Portugal, et l’OL a déjà pris contact avec Thiago Motta, libre, pour préparer la suite à Lyon.",
-   "url": "https://www.butfootballclub.fr/1709360-ol-fonseca-candidat-apres-thiago-motta/",
-   "source": "But! Football Club",
-   "author": "Wladimir DELCROS",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fa1bbd9bd-ol-fonseca-candidat-apres-thiago-motta-1024x683.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-01T06:39:05+00:00"
   },
   {
    "id": "lyonangerssurquellechanetvetquelleheurevoirlematchdeligue1",
@@ -141,17 +273,6 @@
    "publishedAt": "2026-11-01T06:32:36+00:00"
   },
   {
-   "id": "olfonsecapasencorepartiunsuccesseursedclaredj",
-   "title": "OL : Fonseca pas encore parti, un successeur se déclare déjà",
-   "summary": "Comme avancé ces dernières heures, Paulo Fonseca serait dans le viseur du Sporting Portugal. Si des discussions semblent entamées, l'entraîneur peut-il vivre son dernier match à Décines, ce dimanche contre Angers ?",
-   "url": "https://www.olympique-et-lyonnais.com/ol-fonseca-pas-encore-parti-un-successeur-se-declare-deja,411751.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260818__C4Y66LR__v1__HighRes__FblEurC1QualifyingFenerbahceLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-01T06:30:00+00:00"
-  },
-  {
    "id": "lyonangerssurquellechanetvetquelleheureregarderlematchdeligu",
    "title": "Lyon - Angers : sur quelle chaîne TV et à quelle heure regarder le match de Ligue 1 en direct ?",
    "summary": "L’Olympique Lyonnais veut retrouver le chemin de la victoire ! Après leur défaite face au PSG, les Gones espèrent rebondir devant leur public. Mais Angers compte bien jouer les trouble-fêtes.",
@@ -163,17 +284,6 @@
    "publishedAt": "2026-11-01T05:15:00+00:00"
   },
   {
-   "id": "olangersunsursautobligatoirepourleslyonnais",
-   "title": "OL-Angers : un sursaut obligatoire pour les Lyonnais",
-   "summary": "Il est temps pour l'Olympique Lyonnais de mettre octobre et son lot de défaites et blessures derrière soi. Ce dimanche, la réception d'Angers doit rimer avec succès.",
-   "url": "https://www.lyonfoot.com/article/14641/ol-angers-lyon-sous-pression-face-a-un-adversaire-fragilise",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae59f6713be9-865795624-1933145277658923-2917482547450739091-n.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-01T05:00:00+00:00"
-  },
-  {
    "id": "olfonsecaverslesportingquelaveudimpuissancelafterstupfait",
    "title": "OL : Fonseca vers le Sporting ? \"Quel aveu d'impuissance\" L'After stupéfait",
    "summary": "Le coach de l'Olympique Lyonnais est la priorité du Sporting Portugal, selon CNN. Si le technicien des Gones partait vers son club d'enfance, ce serait une perte et un gain pour le club rhôdanien selon Chanot et Mokolo.",
@@ -183,39 +293,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FG4VcG7LcN7clKOVmJxbCzy731ws%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FOL-Fonseca-vers-le-Sporting-Quel-aveu-d-impuissance-L-After-stupefait-2375676.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-31T23:27:51+00:00"
-  },
-  {
-   "id": "olmercatolerealmadridouvreuneporteinesprepourendrick",
-   "title": "OL Mercato : le Real Madrid ouvre une porte inespérée pour Endrick !",
-   "summary": "L’OL peut se remettre à rêver d’Endrick ! Selon AS, le Real Madrid pourrait accepter de prêter son jeune attaquant en janvier si son temps de jeu ne progresse pas suffisamment. L’OL peut-il retrouver Endrick dès janvier 2027 ?",
-   "url": "https://www.butfootballclub.fr/1709334-ol-mercato-le-real-madrid-ouvre-une-porte-inesperee-pour-endrick/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fdd4fe8b9-ol-mercato-endrick-de-retour-en-ligue-1-cet-hiver.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-10-31T22:00:22+00:00"
-  },
-  {
-   "id": "olpaulofonsecaadjdonnsarponseausportingportugal",
-   "title": "OL : Paulo Fonseca a déjà donné sa réponse au Sporting Portugal !",
-   "summary": "Courtisé par le Sporting Portugal, Paulo Fonseca serait favorable à un retour dans son pays natal. L’avenir de Paulo Fonseca à l’Olympique Lyonnais pourrait prendre une nouvelle tournure.",
-   "url": "https://www.butfootballclub.fr/1709322-ol-paulo-fonseca-a-deja-donne-sa-reponse-au-sporting-portugal/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F23d63dd9-ol-le-psg-a-deja-fait-degoupiller-les-lyonnais.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-31T20:43:18+00:00"
-  },
-  {
-   "id": "ollyonnesjouesefairepeurmontpelliermaislemportelargement25",
-   "title": "OL Lyonnes joue à se faire peur à Montpellier, mais l'emporte largement (2-5)",
-   "summary": "En supériorité numérique pendant une heure, OL Lyonnes s'est pourtant montré fébrile à certains moments. Malgré les deux buts encaissés, il repart avec la victoire de Montpellier (2-5).",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-joue-a-se-faire-peur-a-montpellier-mais-lemporte-largement,411738.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAFP__20260529__B4G44LG__v1__HighRes__FblEurC1WomenLyonParisFc-e1780139483318-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-10-31T18:58:12+00:00"
   },
   {
    "id": "ollyonnestremblemontpellieravantdedrouler",
@@ -293,28 +370,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae4782217019-1200x675-6903a600d1269-515035247-30463445649936140-4099494550254438889-n.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-10-30T09:55:00+00:00"
-  },
-  {
-   "id": "prsdelyonungardiensquestrpendantuncambriolagelavoitureblierd",
-   "title": "Près de Lyon : un gardien séquestré pendant un cambriolage à la voiture-bélier dans une entreprise de Chassieu",
-   "summary": "Une entreprise de métallurgie située à Chassieu, dans l'est lyonnais, a été victime d'un spectaculaire cambriolage dans la nuit du mercredi 28 au jeudi 29 octobre. Plusieurs individus auraient menacé et séquestré un agent de sécurité avant de défoncer le portail avec un véhicule volé.",
-   "url": "https://www.lyonmag.com/article/154636/pres-de-lyon-un-gardien-sequestre-pendant-un-cambriolage-a-la-voiture-belier-dans-une-entreprise-de-chassieu",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae460926db15-54858539118-a0a9ceaeba-o.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-10-30T08:13:00+00:00"
-  },
-  {
-   "id": "lomloletlillejejoueyounsbelhandapersuaddavoirencoreleniveaup",
-   "title": "\"À l'OM, l'OL et Lille, je joue\": Younès Belhanda persuadé d'avoir encore le niveau pour la Ligue 1",
-   "summary": "Invité du nouvel épisode du Riolo Club, Younès Belhanda s'est exprimé sur l'hypothèse d'un retour en Ligue 1. À 36 ans et alors qu'il évolue au Qatar, l'ancien Montpelliérain estime qu'il \"joue tous les jours\" dans un club de l'élite.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/a-l-om-l-ol-et-lille-je-joue-younes-belhanda-persuade-d-avoir-encore-le-niveau-pour-la-ligue-1_AN-202610290630.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FbF9xNtYUCpMrTGMgemBZkPeVmIc%3D%2F0x0%3A1200x675%2F800x0%2Fimages%2FYounes-Belhanda-en-2023-avec-l-Adana-Demirspor-2374620.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-10-29T18:30:35+00:00"
   }
  ]
 }
