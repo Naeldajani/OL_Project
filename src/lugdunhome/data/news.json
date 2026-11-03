@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T21:41:55+00:00",
+ "updatedAt": "2026-11-03T06:44:43+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,39 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "premireligueleaderinvaincuollyonnesaccentuemmesonavance",
+   "title": "Première Ligue : leader invaincu, OL Lyonnes accentue même son avance",
+   "summary": "Vainqueur à réaction à Montpellier samedi, OL Lyonnes continue son sans-faute. Mieux, les joueuses de Jonatan Giraldez ont accentué leur avance au classement, suite au match nul (1-1) entre le Paris FC et le PSG.",
+   "url": "https://www.olympique-et-lyonnais.com/premiere-ligue-leader-invaincu-ol-lyonnes-accentue-meme-son-avance,411878.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fol_lyonnes_v_fc_internazionale_milano_-_uefa_women_s_champions_league_2026_27_league_phase_md3-3-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-03T06:30:00+00:00"
+  },
+  {
+   "id": "ligue1202627leclassementaprsla9ejourne",
+   "title": "Ligue 1 2026/27 : Le classement après la 9e journée",
+   "summary": "Consultez les résultats de Nice-Rennes, Le Havre-PSG, Lille-Lens, Troyes-Le Mans, Strasbourg-Auxerre, OL-Angers, PFC-Monaco, OM-TFC et Lorient-Brest",
+   "url": "https://www.20minutes.fr/sport/football/4259860-20261103-ligue-1-2026-27-classement-apres-9e-journee?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FKWWwUPM4TTujYOTs1DEqQSk%2F1444x920_le-psg-reste-leader-de-la-ligue-1-grace-a-sa-large-victoire-au-havre&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-02T23:22:19+00:00"
+  },
+  {
+   "id": "olledpartdepaulofonsecauneaubaineavantladncg",
+   "title": "OL : le départ de Paulo Fonseca, une aubaine avant la DNCG ?",
+   "summary": "Le départ de Paulo Fonseca au Sporting offre une bouffée d’air à l’OL, qui espère renforcer ses comptes avant son passage devant la DNCG.",
+   "url": "https://www.butfootballclub.fr/1709621-fonseca-aubaine-avant-dncg/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fbcdc7872-fonseca-aubaine-avant-dncg-1024x683.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-02T22:00:00+00:00"
+  },
   {
    "id": "ollefavoripourremplacerfonsecaafuit",
    "title": "OL : le favori pour remplacer Fonseca a fuité !",
@@ -31,17 +64,6 @@
    "publishedAt": "2026-11-02T17:55:00+00:00"
   },
   {
-   "id": "olunepremiredcisionesttombepourlaprsfonseca",
-   "title": "OL : une première décision est tombée pour l’après-Fonseca !",
-   "summary": "Après le départ annoncé de Paulo Fonseca au Sporting Portugal, l’OL aurait bien choisi Jorge Maciel pour assurer l’intérim lors des deux prochains matchs.",
-   "url": "https://www.butfootballclub.fr/1709709-ol-une-premiere-decision-est-tombee-pour-lapres-fonseca/",
-   "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F59c475d9-ol-cest-confirme-pour-le-remplacant-de-fonseca-face-a-la-real-sociedad-et-brest.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-02T17:20:00+00:00"
-  },
-  {
    "id": "olacadmielesu17serassurentlesu19chutentenalsace",
    "title": "OL Académie : les U17 se rassurent, les U19 chutent en Alsace",
    "summary": "Après une semaine de repos, les jeunes de l'Olympique lyonnais retrouvaient les terrains ce week-end. Pour cette reprise, les deux formations masculines engagées en championnat ont connu des fortunes diverses.",
@@ -62,17 +84,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FW6oHbjdr-fBe1n304-730x433.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-11-02T16:00:00+00:00"
-  },
-  {
-   "id": "ol3dpartsdanslesvalisesdefonsecasonremplaantfacelarealsocied",
-   "title": "OL : 3 départs dans les valises de Fonseca, son remplaçant face à la Real Sociedad déjà connu ?",
-   "summary": "Alors que Paulo Fonseca devrait rejoindre le Sporting Portugal avec trois de ses adjoints, Jorge Maciel pourrait rester à l’OL pour assurer l’intérim lors des deux prochains matchs.",
-   "url": "https://www.butfootballclub.fr/1709667-ol-3-departs-dans-les-valises-de-fonseca-son-remplacant-face-a-la-real-sociedad-deja-connu/",
-   "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F24bea9f9-ol-3-departs-dans-les-valises-de-fonseca-son-remplacant-face-a-la-real-sociedad-deja-connu.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-02T15:20:00+00:00"
   },
   {
    "id": "sansfonsecalolvapeuttreyperdresportivementmaisygagnerconomiq",
@@ -194,17 +205,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAFP__20261101__D63Z73L__v1__HighRes__FblFraLigue1LyonAngers-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-11-02T11:40:00+00:00"
-  },
-  {
-   "id": "olangers20gillisestaussiinterrogsurlefuturdefonsecapendantle",
-   "title": "OL - Angers (2-0) : Gilli s'est aussi interrogé sur le futur de Fonseca pendant le match",
-   "summary": "Adversaire de l'OL dimanche en fin d'après-midi, Stéphane Gilli a été aux premières loges de la dernière de Paulo Fonseca. L'entraîneur d'Angers a lui aussi eu la puce à l'oreille au moment de la célébration lyonnaise sur le but de Corentin Tolisso.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-angers-2-0-gilli-sest-aussi-interroge-sur-le-futur-de-fonseca-pendant-le-match,411825.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FMjAyNjA2MjVhMmJlNjAyOTg0NDNjZTU2MzIyMDQwY2U1M2I1ZWU.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-02T10:50:00+00:00"
   },
   {
    "id": "detteeffacegrossalaireledpartdefonsecaestaussiuneopportunitf",
@@ -348,17 +348,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae7801ba95af-hwdu9-pweaaieru.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-11-01T17:07:00+00:00"
-  },
-  {
-   "id": "olunanciendelajuveetdupsgpourremplacerpaulofonseca",
-   "title": "OL : un ancien de la Juve et du PSG pour remplacer Paulo Fonseca ?",
-   "summary": "Avec le départ programmé de Paulo Fonseca, potentiellement cet hiver, l'OL ne manquera pas de courtisans pour devenir son nouvel entraîneur. Thiago Motta aurait ainsi fait acte de candidature en se renseignant.",
-   "url": "https://www.lyonfoot.com/article/14644/le-depart-de-paulo-fonseca-se-precise-thiago-motta-pour-reprendre-le-banc-de-l-ol",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae6ffaae2b5c-motta.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-01T07:59:00+00:00"
   },
   {
    "id": "lyonangerssurquellechanetvetquelleheureregarderlematchdeligu",
