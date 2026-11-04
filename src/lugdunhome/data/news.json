@@ -1,12 +1,68 @@
 {
- "updatedAt": "2026-11-04T17:13:53+00:00",
+ "updatedAt": "2026-11-04T23:39:16+00:00",
  "sources": [
   "20 Minutes",
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "realsociedadolabneretathekametitulairesdesalertespournuamahe",
+   "title": "Real Sociedad - OL : Abner et Athekame titulaires, des alertes pour Nuamah et Niakhaté",
+   "summary": "Après avoir perdu à Hoffenheim, l'OL veut retrouver sa marche en avant jeudi (18h45) face à la Real Sociedad. Malgré l'enchainement des matchs, Abner et Zachary Athekame continueront sur les côtés de la défense.",
+   "url": "https://www.olympique-et-lyonnais.com/real-sociedad-ol-abner-et-athekame-titulaires-des-alertes-pour-nuamah-et-niakhate,412096.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAFP__20261101__D63T2PG__v1__HighRes__FblFraLigue1LyonAngers-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-04T19:58:12+00:00"
+  },
+  {
+   "id": "tarasconhamelmacieldvoilelenouveaustaffdelol",
+   "title": "Tarascon, Hamel... Maciel dévoile le nouveau staff de l'OL",
+   "summary": "Assurant l'intérim sur le banc de l'OL pour les deux prochains matchs, Jorge Maciel va notamment s'appuyer sur Adrien Tarascon comme adjoint. Délesté des hommes de Paulo Fonseca, le staff sera composé d'éléments présents avant l'arrivée du coach portugais.",
+   "url": "https://www.olympique-et-lyonnais.com/tarascon-hamel-maciel-devoile-le-nouveau-staff-de-lol,412093.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F12%2FCapture-decran-2025-12-05-a-12.12.41-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-04T19:41:19+00:00"
+  },
+  {
+   "id": "macielolonnapasletempspourpleurer",
+   "title": "Maciel (OL) : \"On n'a pas le temps pour pleurer\"",
+   "summary": "Propulsé sur le devant de la scène suite au départ de Paulo Fonseca, Jorge Maciel a rappelé son attachement à l'OL. Néanmoins, l'entraîneur ne veut pas que son groupe s'apitoie sur son sort et poursuivre au contraire le projet mis en place depuis plusieurs mois.",
+   "url": "https://www.olympique-et-lyonnais.com/maciel-ol-on-na-pas-le-temps-pour-pleurer,412089.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F01%2FIMG_3277-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-04T19:10:02+00:00"
+  },
+  {
+   "id": "olonsaitpourquoiniakhatetnuamahsontabsentsfacelarealsociedad",
+   "title": "OL : on sait pourquoi Niakhaté et Nuamah sont absents face à la Real Sociedad",
+   "summary": "L’entraîneur intérimaire de l’OL, Jorge Maciel, était présent ce mercredi soir en conférence de presse avant le match de Ligue Europa contre la Real Sociedad.",
+   "url": "https://www.butfootballclub.fr/1710435-ol-on-sait-pourquoi-niakhate-et-nuamah-sont-absents-face-a-la-real-sociedad/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F4544f854-ol-on-sait-pourquoi-niakhate-et-nuamah-sont-absents-face-a-la-real-sociedad-1200x800.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-04T19:04:50+00:00"
+  },
+  {
+   "id": "bhvaprsleredressementjudiciairenouveaucoupdurpoursonpatronly",
+   "title": "BHV : après le redressement judiciaire, nouveau coup dur pour son patron lyonnais",
+   "summary": "Le BHV essuie un nouveau revers judiciaire. La société dirigée par le Lyonnais Karl-Stéphane Cottendin doit verser 1,65 million d'euros à Xavier Niel.",
+   "url": "https://www.francemag.fr/article/3935/xavier-niel-obtient-gain-de-cause-le-bhv-l-homme-condamne-pour-des-loyers-impayes",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aeb780c55a66-capture-decran-2026-11-04-a-19.png&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-04T17:20:00+00:00"
+  },
   {
    "id": "aprssondpartdelolpaulofonsecaadresseunmessageauxlyonnais",
    "title": "Après son départ de l'OL, Paulo Fonseca adresse un message aux Lyonnais",
@@ -19,6 +75,17 @@
    "publishedAt": "2026-11-04T17:00:00+00:00"
   },
   {
+   "id": "comparatif2026quelfournisseurdlectricitetdegazchoisirlyon",
+   "title": "Comparatif 2026 : quel fournisseur d'électricité et de gaz choisir à Lyon ?",
+   "summary": "Entre les hivers marqués de la vallée du Rhône, les immeubles anciens de la Croix-Rousse chauffés au gaz et les logements neufs de la Confluence équipés de pompes à chaleur, les besoins énergétiques des Lyonnais sont très variés.",
+   "url": "https://www.lyonmag.com/article/154747/comparatif-2026-quel-fournisseur-d-electricite-et-de-gaz-choisir-a-lyon",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aeb734431aef-vieux-immeubles.png&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-04T16:59:00+00:00"
+  },
+  {
    "id": "lolsansnuamahniniakhatlarealsociedad",
    "title": "L'OL sans Nuamah ni Niakhaté à la Real Sociedad",
    "summary": "Pour ce premier match de l'après Paulo Fonseca contre la Real Sociedad, l'OL va encore devoir faire avec des absents. En plus de ceux notés depuis quelques semaines déjà, Ernest Nuamah et Moussa Niakhaté se sont ajoutés à la liste.",
@@ -28,6 +95,17 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260829__C6TV2H6__v1__HighRes__FblFraLigue1LyonLeHavre-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-11-04T16:21:12+00:00"
+  },
+  {
+   "id": "ollegroupepourlarealsociedadavecdeuxgrossesabsencessurprises",
+   "title": "OL : le groupe pour la Real Sociedad avec deux grosses absences surprises !",
+   "summary": "Voici le groupe retenu par le coach intérimaire de l’OL, Jorge Maciel, pour le match de Ligue Europa contre la Real Sociedad. L’Olympique Lyonnais se déplace ce jeudi (18h45) sur la pelouse de la Real Sociedad, à l’occasion de la quatrième journée de la phase de ligue de la Ligue Europa.",
+   "url": "https://www.butfootballclub.fr/1710146-real-sociedad-ol-le-premier-groupe-de-lapres-fonseca-est-tombe/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F59c475d9-ol-cest-confirme-pour-le-remplacant-de-fonseca-face-a-la-real-sociedad-et-brest-1200x800.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-04T16:19:30+00:00"
   },
   {
    "id": "matarazzoavantrealsociedadolledpartdefonsecanechangerien",
@@ -118,17 +196,6 @@
    "publishedAt": "2026-11-04T12:00:00+00:00"
   },
   {
-   "id": "olaatunchoclouisjeanvoqueledpartdefonseca",
-   "title": "OL : \"Ça a été un choc\", Louis-Jean évoque le départ de Fonseca",
-   "summary": "Le départ de Paulo Fonseca vers le Sporting Portugal a pris de court la direction lyonnaise.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-ca-a-ete-un-choc-louis-jean-evoque-le-depart-de-fonseca,412034.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20250925__DPPI_40025073_039__v1__HighRes__FootballFrenchChampRennesVLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-04T11:17:04+00:00"
-  },
-  {
    "id": "olmatthieulouisjeanvoquelechocdudpartdepaulofonsecaetassureq",
    "title": "OL : Matthieu Louis-Jean évoque le « choc » du départ de Paulo Fonseca et assure qu’il n’y aura « pas de nouveau projet »",
    "summary": "L’Olympique Lyonnais a officialisé ce mercredi le transfert de son entraîneur au Sporting Portugal, contre 5 millions d’euros. Le directeur sportif du club précise que l’OL « ne repartira pas du tout de zéro » avec son successeur",
@@ -138,28 +205,6 @@
    "image": "https://images.weserv.nl/?url=img.20mn.fr%2FmHrAT3vnQruT3jWPrje1rCk%2F1444x920_paulo-fonseca-entraineur-de-lyon-lors-du-match-de-ligue-1-francaise-entre-l-olympique-lyonnais-et-angers-au-groupama-stadium-decines-charpieu-lyon-france-le-1er-novembre-2026-allilimourad-sipa-03468-credit-mourad-allili-sipa-2611021138&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-11-04T11:12:42+00:00"
-  },
-  {
-   "id": "realsociedadollesdouloureuxsouvenirsde2013",
-   "title": "Real Sociedad - OL : les douloureux souvenirs de 2013",
-   "summary": "Avant de retrouver la Real Sociedad, l'OL peut difficilement oublier sa dernière opposition avec le club basque. À l'été 2013, les deux équipes s'étaient affrontées en barrages de la Ligue des champions.",
-   "url": "https://www.olympique-et-lyonnais.com/real-sociedad-ol-les-douloureux-souvenirs-de-2013,411846.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2013%2F08%2F000_Par7638447-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-04T10:50:16+00:00"
-  },
-  {
-   "id": "lolofficialiseledpartdepaulofonseca",
-   "title": "L'OL officialise le départ de Paulo Fonseca",
-   "summary": "Après un dernier match disputé dimanche face à Angers, Paulo Fonseca quitte l'OL. Le club lyonnais a officialisé ce qui était entendu depuis plusieurs heures déjà : le Portugais ne sera plus sur le banc alors qu'il était sous contrat jusqu'en juin 2027.",
-   "url": "https://www.olympique-et-lyonnais.com/lol-officialise-le-depart-de-paulo-fonseca,411861.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FAFP__20250312__nicodim-europale250306_npglE__v1__HighRes__FcsbVOlympiqueLyonnaisUefa-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-04T10:00:47+00:00"
   },
   {
    "id": "legroupeindustriellyonnaistracpoursuitsonexpansionaveclerach",
@@ -303,17 +348,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FVWbEUhCLp1nZRSm0tRSrv_7Yv7k%3D%2F0x212%3A2048x1364%2F800x0%2Fimages%2FPaulo-Fonseca-coach-de-l-OL-tres-emu-au-moment-du-but-de-son-equipe-1er-novembre-2026-2375882.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-11-01T18:53:15+00:00"
-  },
-  {
-   "id": "lyon20angersjaienviequefonsecarestelemessageclairdetolisso",
-   "title": "Lyon 2-0 Angers : \"J'ai envie que Fonseca reste\" le message clair de Tolisso",
-   "summary": "L'OL a battu Angers 2-0 ce dimanche pour la 9e journée de Ligue 1. Alors que des rumeurs font état de contacts entre le Sporting du Portugal et le coach lyonnais Paulo Fonseca, le capitaine des Gones a envoyé un message clair à son club.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-lyon-2-0-angers-j-ai-envie-que-fonseca-reste-le-message-clair-de-tolisso_VN-202611010385.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F7mNmV0vieqv4FdgxnbBLvPkkWZo%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FLyon-2-0-Angers-J-ai-envie-que-Fonseca-reste-le-message-clair-de-Tolisso-2375895.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-01T18:52:42+00:00"
   }
  ]
 }
