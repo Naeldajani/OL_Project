@@ -1,12 +1,112 @@
 {
- "updatedAt": "2026-11-05T17:22:27+00:00",
+ "updatedAt": "2026-11-05T23:37:37+00:00",
  "sources": [
   "20 Minutes",
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "lolvamisersurcarlosvicenspourlaprsfonseca",
+   "title": "L'OL va miser sur Carlos Vicens pour l'après Fonseca",
+   "summary": "Après l'intérim de deux matchs de Jorge Maciel, l'OL misera sur Carlos Vicens pour prendre la succession de Paulo Fonseca. L'entraîneur espagnol est libre depuis son départ de Braga fin…",
+   "url": "https://www.olympique-et-lyonnais.com/lol-va-miser-sur-carlos-vicens-pour-lapres-fonseca,412251.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fimage-770x433.webp&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-05T21:47:22+00:00"
+  },
+  {
+   "id": "ollesdirigeantsannoncentlenomdusuccesseurdepaulofonseca",
+   "title": "OL : les dirigeants annoncent le nom du successeur de Paulo Fonseca !",
+   "summary": "À la recherche d’un nouvel entraîneur après le départ de Paulo Fonseca au Sporting Portugal, l’Olympique Lyonnais aurait déjà arrêté son choix sur l’Espagnol Carlos Vicens. L’OL semble avoir trouvé son nouvel entraîneur.",
+   "url": "https://www.butfootballclub.fr/1711148-ol-les-dirigeants-annoncent-le-nom-du-successeur-de-paulo-fonseca/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F067545e5-ol-lia-predit-le-successeur-de-paulo-fonseca-1200x800.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-05T21:20:21+00:00"
+  },
+  {
+   "id": "macielaprsrealsociedadol11cepointprisestunesatisfaction",
+   "title": "Maciel après Real Sociedad - OL (1-1) : \"Ce point pris est une satisfaction\"",
+   "summary": "Mené au score, l'OL a réussi à revenir dans le match contre la Real Sociedad (1-1). Une force de caractère soulignée par Jorge Maciel, après le départ de Paulo Fonseca.…",
+   "url": "https://www.olympique-et-lyonnais.com/maciel-apres-real-sociedad-ol-1-1-ce-point-pris-est-une-satisfaction,412245.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAFP__20261105__D6KL42N__v1__HighRes__FblEurC3RealSociedadLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-05T21:06:23+00:00"
+  },
+  {
+   "id": "oltolissoatdumaispeutcomprendreladcisiondefonseca",
+   "title": "OL : Tolisso a \"été déçu\" mais peut \"comprendre\" la décision de Fonseca",
+   "summary": "Auteur du but égalisateur lors de Real Sociedad - OL (1-1), Corentin Tolisso n'a pas été loin d'offrir la victoire à son équipe. Néanmoins, le capitaine a été satisfait de…",
+   "url": "https://www.olympique-et-lyonnais.com/ol-tolisso-a-ete-decu-mais-peut-comprendre-la-decision-de-fonseca,412237.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FAFP__20260222__98KG43Q__v1__HighRes__FblFraLigue1StrasbourgLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-05T20:45:13+00:00"
+  },
+  {
+   "id": "omrclensstaderennaisolloscmercatocetteppitedeligue1prpareung",
+   "title": "OM, RC Lens, Stade Rennais, OL, LOSC Mercato : cette pépite de Ligue 1 prépare un gros coup cet été !",
+   "summary": "En pleine progression avec Le Mans avant une blessure qui a freiné son ascension, Adil Bourabaa nourrit de grandes ambitions pour le prochain mercato estival. Le prochain mercato estival pourrait marquer un tournant dans la carrière d’Adil Bourabaa.",
+   "url": "https://www.butfootballclub.fr/1711129-om-rc-lens-stade-rennais-ol-losc-mercato-cette-pepite-de-ligue-1-prepare-un-gros-coup-cet-ete/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fd0d7a306-psg-adil-bourabaa-forfait-cheville-1200x800.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-05T20:42:00+00:00"
+  },
+  {
+   "id": "realsociedadol11sansfonsecalyontientlechoclestopsetflops",
+   "title": "Real Sociedad – OL (1-1) : sans Fonseca, Lyon tient le choc, les tops et flops",
+   "summary": "Pour son premier match depuis le départ de Paulo Fonseca, l’Olympique Lyonnais a ramené un bon point de son déplacement à Saint-Sébastien (1-1), jeudi soir, en Ligue Europa, grâce à un superbe but de Corentin Tolisso.",
+   "url": "https://www.butfootballclub.fr/1711096-real-sociedad-ol-1-1-sans-fonseca-lyon-tient-le-choc-les-tops-et-flops/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fcf6da1ad-real-sociedad-ol-1-1-sans-fonseca-lyon-tient-le-choc-les-tops-et-flops-1200x800.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-05T20:00:55+00:00"
+  },
+  {
+   "id": "realsociedadol11lebaromtredumatchcequilfautretenir",
+   "title": "Real Sociedad - OL (1-1) : le baromètre du match, ce qu’il faut retenir",
+   "summary": "Mené au core sur la pelouse de la Real Sociedad, l’OL a réussi à prendre un point à Anoeta (1-1). Retrouvez le baromètre de ce match. De notre envoyé spécial…",
+   "url": "https://www.olympique-et-lyonnais.com/real-sociedad-ol-1-1-le-barometre-du-match-ce-quil-faut-retenir,412233.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAFP__20261105__2303689049__v1__HighRes__RealSociedadDeFutbolVOlympiqueLyonnaisUefaEu-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "id": "pourlaprsfonsecalolprendunpointlarealsociedad",
+   "title": "Pour l'après Fonseca, l'OL prend un point à la Real Sociedad",
+   "summary": "Au lendemain de l'annonce du départ de Paulo Fonseca, l'OL est allé chercher un point (1-1) à Saint-Sébastien. Menés au score, les Lyonnais ont réussi à revenir dans le match…",
+   "url": "https://www.olympique-et-lyonnais.com/pour-lapres-fonseca-lol-prend-un-point-a-la-real-sociedad,412227.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAFP__20261105__D6KH7T6__v1__HighRes__FblEurC3RealSociedadLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-05T19:41:04+00:00"
+  },
+  {
+   "id": "realsociedadoltolissosauvelyonpourlepremiermatchdelaprsfonse",
+   "title": "Real Sociedad-OL : Tolisso sauve Lyon pour le premier match de l’après-Fonseca",
+   "summary": "Avec Jorge Maciel sur le banc, l’OL défiait la Real Sociedad ce jeudi soir en Ligue Europa. Les Lyonnais voulaient rebondir après leur défaite à Hoffenheim. Mais ils n'ont pas fait mieux que match nul (1-1).",
+   "url": "https://www.lyonfoot.com/article/14696/real-sociedad-ol-lyon-cale-encore-en-ligue-europa-1-1",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aecda1e61ec9-hwyd8odwoaadznq.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-05T18:40:00+00:00"
+  },
   {
    "id": "realsociedadolkangprsentesaintsbastien",
    "title": "Real Sociedad - OL : Kang présente à Saint-Sébastien",
@@ -19,14 +119,14 @@
    "publishedAt": "2026-11-05T16:43:40+00:00"
   },
   {
-   "id": "endirectrealsociedadolpaulofonsecapartilesgonesdoiventrebond",
-   "title": "EN DIRECT Real Sociedad - OL : Paulo Fonseca parti, les Gones doivent rebondir après la défaite à Hoffenheim… Suivez le match avec nous dès 18h30",
-   "summary": "L’Olympique Lyonnais se déplace sur la pelouse de la Real Sociedad ce jeudi soir (18h45) pour le premier match sans Paulo Fonseca, parti au Sporting à la surprise générale",
+   "id": "realsociedadollyonramneunbonpointdupaysbasquepourfterledpart",
+   "title": "Real Sociedad - OL : Lyon ramène un bon point du Pays basque pour fêter le départ de Fonseca... Revivez le match avec nous",
+   "summary": "L’Olympique Lyonnais a arraché le point du nul face à la Real Sociedad, ce jeudi soir, à Anoeta",
    "url": "https://www.20minutes.fr/sport/football/ligue_europa/4260698-20261105-direct-real-sociedad-ol-paulo-fonseca-parti-gones-doivent-rebondir-apres-defaite-hoffenheim-suivez-match-18h30?at_medium=display&at_campaign=149",
    "source": "20 Minutes",
    "author": null,
    "image": "https://images.weserv.nl/?url=img.20mn.fr%2F9vhUJpyJSJm4DZ5QfvOSGCk%2F1444x920_corentin-tolisso-et-les-lyonnais-se-deplacent-en-espagne-ce-jeudi-soir&w=800&output=webp&q=78",
-   "topic": "Match",
+   "topic": "Mercato",
    "publishedAt": "2026-11-05T16:32:36+00:00"
   },
   {
@@ -85,61 +185,6 @@
    "publishedAt": "2026-11-05T13:10:00+00:00"
   },
   {
-   "id": "lesjoueursdelolragissentaudpartdepaulofonseca",
-   "title": "Les joueurs de l'OL réagissent au départ de Paulo Fonseca",
-   "summary": "Après l'officialisation du départ de Paulo Fonseca de l'Olympique lyonnais, ses anciens joueurs ont tenu à adresser un message de remerciement à leur ancien entraîneur sur les réseaux sociaux.",
-   "url": "https://www.olympique-et-lyonnais.com/les-joueurs-de-lol-reagissent-au-depart-de-paulo-fonseca,412057.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAFP__20261101__D63X4H7__v1__HighRes__FblFraLigue1LyonAngers-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-05T12:30:00+00:00"
-  },
-  {
-   "id": "ollesuccesseurdefonsecanommdbutdesemaineprochaine",
-   "title": "OL : le successeur de Fonseca nommé \"début de semaine prochaine\"",
-   "summary": "Jorge Maciel assurant l’intérim contre la Real Sociedad et Brest, l’OL n’annoncera le successeur de Paulo Fonseca qu’en début de semaine prochaine. Tout laisse à penser que Carlos Vicens sera…",
-   "url": "https://www.olympique-et-lyonnais.com/ol-le-successeur-de-fonseca-nomme-debut-de-semaine-prochaine,412081.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260915__186537086__v1__HighRes__SoccerElDay1OlLyonPreparations-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-05T11:40:00+00:00"
-  },
-  {
-   "id": "revuedepressevingtansaprslarealsociedadsesouvientencoredejun",
-   "title": "Revue de presse : vingt ans après, la Real Sociedad se souvient encore de Juninho (OL)",
-   "summary": "Ce jeudi, la Real Sociedad et l'OL s'affronteront pour la cinquième fois de leur histoire. Le premier affrontement a eu lieu en Ligue des champions lors de la saison 2003-2004…",
-   "url": "https://www.olympique-et-lyonnais.com/revue-de-presse-vingt-ans-apres-la-real-sociedad-se-souvient-encore-de-juninho-ol,412174.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2022%2F09%2F000_Par429569-e1663308217354-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-05T10:50:00+00:00"
-  },
-  {
-   "id": "realsociedadol750supporterslyonnaisattendusenparcage",
-   "title": "Real Sociedad - OL : 750 supporters lyonnais attendus en parcage",
-   "summary": "Pour son déplacement à Saint-Sébastien ce jeudi soir, l'Olympique lyonnais pourra compter sur le soutien de ses supporters. Environ 750 fans de l'OL sont attendus dans le parcage visiteurs d'Anoeta…",
-   "url": "https://www.olympique-et-lyonnais.com/real-sociedad-ol-750-supporters-lyonnais-attendus-en-parcage,412155.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F08%2FAFP__20250816__69PJ29F__v1__HighRes__FblFraLigue1LensLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-05T10:00:00+00:00"
-  },
-  {
-   "id": "greifoldanslefootplusriennemesurprend",
-   "title": "Greif (OL) : \"Dans le foot, plus rien ne me surprend\"",
-   "summary": "Avant Real Sociedad - OL, Dominik Greif s'est présenté en conférence de presse mercredi et est logiquement revenu sur le départ de Paulo Fonseca. De notre envoyé spécial à Saint-Sébastien.…",
-   "url": "https://www.olympique-et-lyonnais.com/greif-ol-dans-le-foot-plus-rien-ne-me-surprend,412165.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260715__C2AV9GV__v1__HighRes__FblFraFriendlyLyonServette-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-05T09:15:00+00:00"
-  },
-  {
    "id": "unepartiedemoncurresteratoujourslyonpaulofonsecaenpleinmlodr",
    "title": "\"Une partie de mon cœur restera toujours à Lyon\" : Paulo Fonseca en plein mélodrame avec l’OL",
    "summary": "Après son départ de l’OL pour le Sporting Portugal, Paulo Fonseca adresse une lettre aux supporters lyonnais. Entre remerciements et rêve d’enfance, il explique son choix.",
@@ -149,17 +194,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aec29ef28a3d-capture-decran-2026-11-05-a-07.png&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-11-05T06:05:00+00:00"
-  },
-  {
-   "id": "realsociedadoljorgemacielauxmanettespouroublierpaulofonseca",
-   "title": "Real Sociedad-OL : Jorge Maciel aux manettes pour oublier Paulo Fonseca",
-   "summary": "Avec Jorge Maciel sur le banc, l’OL défie la Real Sociedad ce soir à 18h45 sur Canal+ Foot. Les Lyonnais veulent rebondir en Ligue Europa après leur défaite à Hoffenheim.",
-   "url": "https://www.lyonfoot.com/article/14696/real-sociedad-ol-tourner-la-page-paulo-fonseca",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aeb0bc670efe-kluivert.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-05T04:00:00+00:00"
   },
   {
    "id": "cambriolageaudomiciledadahegerbergollyonneslesuspectjugcejeu",
@@ -237,17 +271,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aeadfb53767d-data-ol.jpeg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-11-04T13:00:00+00:00"
-  },
-  {
-   "id": "olmatthieulouisjeanvoquelechocdudpartdepaulofonsecaetassureq",
-   "title": "OL : Matthieu Louis-Jean évoque le « choc » du départ de Paulo Fonseca et assure qu’il n’y aura « pas de nouveau projet »",
-   "summary": "L’Olympique Lyonnais a officialisé ce mercredi le transfert de son entraîneur au Sporting Portugal, contre 5 millions d’euros. Le directeur sportif du club précise que l’OL « ne repartira pas du tout de zéro » avec son successeur",
-   "url": "https://www.20minutes.fr/sport/football/ligue-1/4260300-20261104-ol-matthieu-louis-jean-evoque-choc-depart-paulo-fonseca-assure-nouveau-projet?at_medium=display&at_campaign=149",
-   "source": "20 Minutes",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FmHrAT3vnQruT3jWPrje1rCk%2F1444x920_paulo-fonseca-entraineur-de-lyon-lors-du-match-de-ligue-1-francaise-entre-l-olympique-lyonnais-et-angers-au-groupama-stadium-decines-charpieu-lyon-france-le-1er-novembre-2026-allilimourad-sipa-03468-credit-mourad-allili-sipa-2611021138&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-04T11:12:42+00:00"
   },
   {
    "id": "legroupeindustriellyonnaistracpoursuitsonexpansionaveclerach",
