@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T23:39:16+00:00",
+ "updatedAt": "2026-11-05T06:42:48+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -9,9 +9,53 @@
  ],
  "items": [
   {
+   "id": "enquittantlolfonsecarejointsonclubdecuraveclesportingportuga",
+   "title": "En quittant l'OL, Fonseca rejoint son \"club de cœur\" avec le Sporting Portugal",
+   "summary": "Débarqué à Lisbonne mardi, Paulo Fonseca a été officiellement intronisé comme nouvel entraîneur du Sporting Portugal. Plus que de parler de l'OL, le technicien a souligné l'aspect personnel de ce…",
+   "url": "https://www.olympique-et-lyonnais.com/en-quittant-lol-fonseca-rejoint-son-club-de-coeur-avec-le-sporting-portugal,412106.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FHWT-GfBWAAEQivI-e1793836617704-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-05T06:30:00+00:00"
+  },
+  {
+   "id": "realsociedadoljorgemacielauxmanettespouroublierpaulofonseca",
+   "title": "Real Sociedad-OL : Jorge Maciel aux manettes pour oublier Paulo Fonseca",
+   "summary": "Avec Jorge Maciel sur le banc, l’OL défie la Real Sociedad ce soir à 18h45 sur Canal+ Foot. Les Lyonnais veulent rebondir en Ligue Europa après leur défaite à Hoffenheim.",
+   "url": "https://www.lyonfoot.com/article/14696/real-sociedad-ol-tourner-la-page-paulo-fonseca",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aeb0bc670efe-kluivert.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-05T04:00:00+00:00"
+  },
+  {
+   "id": "cambriolageaudomiciledadahegerbergollyonneslesuspectjugcejeu",
+   "title": "Cambriolage au domicile d'Ada Hegerberg (OL Lyonnes) : le suspect jugé ce jeudi à Lyon",
+   "summary": "Comme d'autres joueurs de l'OL, Ada Hegerberg avait été victime d'un cambriolage à son domicile de l'agglomération lyonnaise. Le suspect, interpellé à Grenoble, est jugé ce jeudi 5 novembre devant le tribunal judiciaire de Lyon.",
+   "url": "https://www.lyonfoot.com/article/14265/cambriolage-du-domicile-d-ada-hegerbeg-ol-lyonnes-un-homme-juge-ce-jeudi-a-lyon",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aeabdcde5b0d-52774413884-c7a593c2db-o.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-11-05T04:00:00+00:00"
+  },
+  {
+   "id": "lyonaucunmtronecirculeracejeudilagrveparalyseunepartiedursea",
+   "title": "Lyon : aucun métro ne circulera ce jeudi, la grève paralyse une partie du réseau TCL",
+   "summary": "Journée particulièrement difficile en perspective pour les usagers des transports en commun lyonnais. Ce jeudi 5 novembre, les quatre lignes de métro seront totalement fermées en raison d'un mouvement de grève.",
+   "url": "https://www.lyonmag.com/article/154751/lyon-aucun-metro-ne-circulera-ce-jeudi-la-greve-paralyse-une-partie-du-reseau-tcl",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aec0187e7917-48059597928-01911deb13-o-1.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-05T03:08:00+00:00"
+  },
+  {
    "id": "realsociedadolabneretathekametitulairesdesalertespournuamahe",
    "title": "Real Sociedad - OL : Abner et Athekame titulaires, des alertes pour Nuamah et Niakhaté",
-   "summary": "Après avoir perdu à Hoffenheim, l'OL veut retrouver sa marche en avant jeudi (18h45) face à la Real Sociedad. Malgré l'enchainement des matchs, Abner et Zachary Athekame continueront sur les côtés de la défense.",
+   "summary": "Après avoir perdu à Hoffenheim, l'OL veut retrouver sa marche en avant jeudi (18h45) face à la Real Sociedad. Malgré l'enchainement des matchs, Abner et Zachary Athekame continueront sur les…",
    "url": "https://www.olympique-et-lyonnais.com/real-sociedad-ol-abner-et-athekame-titulaires-des-alertes-pour-nuamah-et-niakhate,412096.html",
    "source": "Olympique-et-Lyonnais",
    "author": "David Hernandez",
@@ -22,18 +66,18 @@
   {
    "id": "tarasconhamelmacieldvoilelenouveaustaffdelol",
    "title": "Tarascon, Hamel... Maciel dévoile le nouveau staff de l'OL",
-   "summary": "Assurant l'intérim sur le banc de l'OL pour les deux prochains matchs, Jorge Maciel va notamment s'appuyer sur Adrien Tarascon comme adjoint. Délesté des hommes de Paulo Fonseca, le staff sera composé d'éléments présents avant l'arrivée du coach portugais.",
+   "summary": "Assurant l'intérim sur le banc de l'OL pour les deux prochains matchs, Jorge Maciel va notamment s'appuyer sur Adrien Tarascon comme adjoint. Délesté des hommes de Paulo Fonseca, le staff…",
    "url": "https://www.olympique-et-lyonnais.com/tarascon-hamel-maciel-devoile-le-nouveau-staff-de-lol,412093.html",
    "source": "Olympique-et-Lyonnais",
    "author": "David Hernandez",
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F12%2FCapture-decran-2025-12-05-a-12.12.41-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
+   "topic": "Actu",
    "publishedAt": "2026-11-04T19:41:19+00:00"
   },
   {
    "id": "macielolonnapasletempspourpleurer",
    "title": "Maciel (OL) : \"On n'a pas le temps pour pleurer\"",
-   "summary": "Propulsé sur le devant de la scène suite au départ de Paulo Fonseca, Jorge Maciel a rappelé son attachement à l'OL. Néanmoins, l'entraîneur ne veut pas que son groupe s'apitoie sur son sort et poursuivre au contraire le projet mis en place depuis plusieurs mois.",
+   "summary": "Propulsé sur le devant de la scène suite au départ de Paulo Fonseca, Jorge Maciel a rappelé son attachement à l'OL. Néanmoins, l'entraîneur ne veut pas que son groupe s'apitoie…",
    "url": "https://www.olympique-et-lyonnais.com/maciel-ol-on-na-pas-le-temps-pour-pleurer,412089.html",
    "source": "Olympique-et-Lyonnais",
    "author": "David Hernandez",
@@ -66,7 +110,7 @@
   {
    "id": "aprssondpartdelolpaulofonsecaadresseunmessageauxlyonnais",
    "title": "Après son départ de l'OL, Paulo Fonseca adresse un message aux Lyonnais",
-   "summary": "Quelques heures après l'officialisation de son départ de l'Olympique lyonnais, Paulo Fonseca a pris la parole sur ses réseaux sociaux.",
+   "summary": "Quelques heures après l'officialisation de son départ de l'Olympique lyonnais, Paulo Fonseca a pris la parole sur ses réseaux sociaux. Le technicien portugais a publié un long message pour remercier…",
    "url": "https://www.olympique-et-lyonnais.com/apres-son-depart-de-lol-paulo-fonseca-adresse-un-message-aux-lyonnais,412060.html",
    "source": "Olympique-et-Lyonnais",
    "author": "Enzo Catolino",
@@ -88,7 +132,7 @@
   {
    "id": "lolsansnuamahniniakhatlarealsociedad",
    "title": "L'OL sans Nuamah ni Niakhaté à la Real Sociedad",
-   "summary": "Pour ce premier match de l'après Paulo Fonseca contre la Real Sociedad, l'OL va encore devoir faire avec des absents. En plus de ceux notés depuis quelques semaines déjà, Ernest Nuamah et Moussa Niakhaté se sont ajoutés à la liste.",
+   "summary": "Pour ce premier match de l'après Paulo Fonseca contre la Real Sociedad, l'OL va encore devoir faire avec des absents. En plus de ceux notés depuis quelques semaines déjà, Ernest…",
    "url": "https://www.olympique-et-lyonnais.com/lol-sans-nuamah-ni-niakhate-a-la-real-sociedad,412076.html",
    "source": "Olympique-et-Lyonnais",
    "author": "David Hernandez",
@@ -97,20 +141,9 @@
    "publishedAt": "2026-11-04T16:21:12+00:00"
   },
   {
-   "id": "ollegroupepourlarealsociedadavecdeuxgrossesabsencessurprises",
-   "title": "OL : le groupe pour la Real Sociedad avec deux grosses absences surprises !",
-   "summary": "Voici le groupe retenu par le coach intérimaire de l’OL, Jorge Maciel, pour le match de Ligue Europa contre la Real Sociedad. L’Olympique Lyonnais se déplace ce jeudi (18h45) sur la pelouse de la Real Sociedad, à l’occasion de la quatrième journée de la phase de ligue de la Ligue Europa.",
-   "url": "https://www.butfootballclub.fr/1710146-real-sociedad-ol-le-premier-groupe-de-lapres-fonseca-est-tombe/",
-   "source": "But! Football Club",
-   "author": "Fabien Chorlet",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F59c475d9-ol-cest-confirme-pour-le-remplacant-de-fonseca-face-a-la-real-sociedad-et-brest-1200x800.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-04T16:19:30+00:00"
-  },
-  {
    "id": "matarazzoavantrealsociedadolledpartdefonsecanechangerien",
    "title": "Matarazzo avant Real Sociedad - OL : \"Le départ de Fonseca ne change rien\"",
-   "summary": "À la veille de la quatrième journée de Ligue Europa, Pellegrino Matarazzo a forcément été questionné sur le départ de Paulo Fonseca du banc de l'OL. Pour l'entraîneur de la Real Sociedad, le plan de jeu lyonnais restera dans la lignée de ceux vus avec le Portugais.",
+   "summary": "À la veille de la quatrième journée de Ligue Europa, Pellegrino Matarazzo a forcément été questionné sur le départ de Paulo Fonseca du banc de l'OL. Pour l'entraîneur de la Real Sociedad,…",
    "url": "https://www.olympique-et-lyonnais.com/matarazzo-avant-real-sociedad-ol-le-depart-de-fonseca-ne-change-rien,412061.html",
    "source": "Olympique-et-Lyonnais",
    "author": "David Hernandez",
@@ -132,7 +165,7 @@
   {
    "id": "olcorentintolissoaucurdujeurtrosupercoco",
    "title": "OL : Corentin Tolisso au cœur du jeu rétro \"Super Coco\"",
-   "summary": "Le capitaine lyonnais devient le personnage principal d'un jeu vidéo inspiré de l'univers rétro. Disponible depuis le 19 octobre, ce petit jeu fait notamment référence à la rivalité entre l'OL et l'AS Saint-Étienne.",
+   "summary": "Le capitaine lyonnais devient le personnage principal d'un jeu vidéo inspiré de l'univers rétro. Disponible depuis le 19 octobre, ce petit jeu fait notamment référence à la rivalité entre l'OL…",
    "url": "https://www.olympique-et-lyonnais.com/ol-corentin-tolisso-au-coeur-du-jeu-retro-super-coco,410630.html",
    "source": "Olympique-et-Lyonnais",
    "author": "Enzo Catolino",
@@ -154,7 +187,7 @@
   {
    "id": "unespoirdelolacadmieviraprsdesmanquementsdisciplinaires",
    "title": "Un espoir de l'OL Académie viré après des manquements disciplinaires ?",
-   "summary": "Un avant-centre de 16 ans et évoluant avec les U19 fait l'objet d'une procédure de licenciement après plusieurs manquements disciplinaires au centre de formation. C'est une mauvaise nouvelle pour l'académie lyonnaise.",
+   "summary": "Un avant-centre de 16 ans et évoluant avec les U19 fait l'objet d'une procédure de licenciement après plusieurs manquements disciplinaires au centre de formation. C'est une mauvaise nouvelle pour l'académie…",
    "url": "https://www.olympique-et-lyonnais.com/un-espoir-de-lol-academie-vire-apres-des-manquements-disciplinaires,412047.html",
    "source": "Olympique-et-Lyonnais",
    "author": "Enzo Catolino",
@@ -176,24 +209,13 @@
   {
    "id": "olquelbilanretenirdupassagedepaulofonseca",
    "title": "OL : quel bilan retenir du passage de Paulo Fonseca ?",
-   "summary": "Après presque deux ans sur le banc de l'Olympique lyonnais, Paulo Fonseca s'apprête à quitter le club. Dans Tant qu'il y aura des Gones, Aulasinho et Nicolas Puydebois ont dressé le bilan de son passage, avec un travail de reconstruction réussi et des rendez-vous manqués.",
+   "summary": "Après presque deux ans sur le banc de l'Olympique lyonnais, Paulo Fonseca s'apprête à quitter le club. Dans Tant qu'il y aura des Gones, Aulasinho et Nicolas Puydebois ont dressé…",
    "url": "https://www.olympique-et-lyonnais.com/ol-quel-bilan-retenir-du-passage-de-paulo-fonseca,411956.html",
    "source": "Olympique-et-Lyonnais",
    "author": "Enzo Catolino",
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260811__C4EZ2R6__v1__HighRes__FblEurC1QualifyingLyonPrague-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-11-04T12:50:00+00:00"
-  },
-  {
-   "id": "olquelprofilpoursuccderpaulofonseca",
-   "title": "OL : quel profil pour succéder à Paulo Fonseca ?",
-   "summary": "Après le départ de Paulo Fonseca au Sporting Portugal, l'Olympique lyonnais doit trouver un nouvel entraîneur pour poursuivre la saison. Matthieu Louis-Jean a dévoilé les critères recherchés par la direction, avec une priorité : conserver la philosophie de jeu mise en place ces derniers mois.",
-   "url": "https://www.olympique-et-lyonnais.com/ol-quel-profil-pour-succeder-a-paulo-fonseca,412036.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FFonseca-e1788552502437-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-04T12:00:00+00:00"
   },
   {
    "id": "olmatthieulouisjeanvoquelechocdudpartdepaulofonsecaetassureq",
@@ -260,28 +282,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae98918c2274-33138967008-3d4ce02019-o.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-11-03T12:05:00+00:00"
-  },
-  {
-   "id": "scheressedanslerhnelaxesaneresteencrisemalgrunallgementdesre",
-   "title": "Sécheresse dans le Rhône : l’axe Saône reste en crise malgré un allègement des restrictions",
-   "summary": "La situation s’améliore légèrement dans le Rhône, mais les restrictions liées à la sécheresse restent en vigueur sur l’ensemble du département. L’axe Saône demeure placé en situation de crise, tandis que l’ouest du Rhône passe en alerte renforcée et l’Est lyonnais en alerte.",
-   "url": "https://www.lyonmag.com/article/154722/secheresse-dans-le-rhone-l-axe-saone-reste-en-crise-malgre-un-allegement-des-restrictions",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae9d938c40ed-23469899825-3a313b9bc4-b.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-03T11:50:00+00:00"
-  },
-  {
-   "id": "lescandidaturespourremplacerfonsecalolsenchanent",
-   "title": "Les candidatures pour remplacer Fonseca à l'OL s'enchaînent",
-   "summary": "Qui remplacera Paulo Fonseca sur le banc de l’OL ? Les entraîneurs sont nombreux à proposer leurs services, alors que Carlos Vicens tient la corde pour prendre les commandes.",
-   "url": "https://www.lyonfoot.com/article/14667/les-entraineurs-se-bousculent-pour-succeder-a-paulo-fonseca-a-l-ol",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae9882a12082-54719420482-f85b96fd98-o.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-03T06:20:00+00:00"
   },
   {
    "id": "olledpartdefonsecaenditbeaucoupsurltatdesfinanceslanceedward",
