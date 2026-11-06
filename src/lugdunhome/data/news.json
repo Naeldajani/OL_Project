@@ -1,23 +1,176 @@
 {
- "updatedAt": "2026-11-06T06:40:13+00:00",
+ "updatedAt": "2026-11-06T16:44:45+00:00",
  "sources": [
   "20 Minutes",
-  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
   {
-   "id": "etsitolissotaitlevraifauxnumro9delol",
-   "title": "Et si Tolisso était le vrai faux numéro 9 de l'OL ?",
-   "summary": "Jeudi face à la Real Sociedad (1-1), Corentin Tolisso a une nouvelle fois trouvé le chemin des filets, étant même proche de signer un doublé pour l'OL. Et si ce…",
-   "url": "https://www.olympique-et-lyonnais.com/et-si-tolisso-etait-le-vrai-faux-numero-9-de-lol,412257.html",
+   "id": "ollyonneslajuventusetarsenalaumenudumoisdenovembre",
+   "title": "OL Lyonnes : la Juventus et Arsenal au menu du mois de novembre",
+   "summary": "Après un mois d'octobre qui a permis de voir encore plus la domination des Lyonnaises. Pour le mois de novembre, ce sera particulièrement dense. Les joueuses de Jonatan Giráldez auront…",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-la-juventus-et-arsenal-au-menu-du-mois-de-novembre,411977.html",
    "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAFP__20261105__2303697865__v1__HighRes__RealSociedadDeFutbolVOlympiqueLyonnaisUefaEu-770x433.jpg&w=800&output=webp&q=78",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fd51257fe2bfec889ccfe5324cd115401-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-11-06T16:40:00+00:00"
+  },
+  {
+   "id": "ollematchdelarservedcaldimanchecausedefrancefidji",
+   "title": "OL : le match de la réserve décalé à dimanche à cause de France - Fidji",
+   "summary": "Initialement programmée le samedi, la rencontre entre la réserve de l'OL et Mâcon 71 se disputera finalement le dimanche 8 novembre. C'est un changement de calendrier lié au match de…",
+   "url": "https://www.olympique-et-lyonnais.com/ol-le-match-de-la-reserve-decale-a-dimanche-a-cause-de-france-fidji,412055.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F07%2FIMG_2961-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-06T15:50:00+00:00"
+  },
+  {
+   "id": "morganechignardausiffletderclensollyonnes",
+   "title": "Morgane Chignard au sifflet de RC Lens - OL Lyonnes",
+   "summary": "OL Lyonnes connaît l'arbitre qui dirigera sa rencontre face au RC Lens, à l'occasion de la 8e journée de Première Ligue. C'est Morgane Chignard qui a été désignée pour superviser…",
+   "url": "https://www.olympique-et-lyonnais.com/morgane-chignard-au-sifflet-de-rc-lens-ol-lyonnes,411885.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fol_lyonnes_v_fc_internazionale_milano_-_uefa_women_s_champions_league_2026_27_league_phase_md3-3-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-06T15:00:00+00:00"
+  },
+  {
+   "id": "lyonpolitiquesmanifestationscommercesetftedeslumires061126",
+   "title": "Lyon Politiques : manifestations, commerces et Fête des Lumières - 06/11/26",
+   "summary": "L'émission Lyon Politiques et ses intervenants décryptent pour vous les évènements marquants de la semaine dans l'agglomération lyonnaise.",
+   "url": "https://www.lyonmag.com/article/154782/lyon-politiques-manifestations-commerces-et-fete-des-lumieres-06-11-26",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aedf8ff0c7bd-design-sans-titre-2.png&w=800&output=webp&q=78",
    "topic": "Actu",
-   "publishedAt": "2026-11-06T06:30:00+00:00"
+   "publishedAt": "2026-11-06T14:30:00+00:00"
+  },
+  {
+   "id": "brestolundplacementencadrpour250supporterslyonnais",
+   "title": "Brest - OL : un déplacement encadré pour 250 supporters lyonnais",
+   "summary": "Environ 250 supporters de l'Olympique lyonnais sont attendus dimanche à Brest pour assister à la rencontre. Un chiffre avancé par la préfecture dans son arrêté du 4 novembre, qui encadre…",
+   "url": "https://www.olympique-et-lyonnais.com/brest-ol-un-deplacement-encadre-pour-250-supporters-lyonnais,412309.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261022__dpa-pa_261022-99-34796_dpai__v1__HighRes__1899HoffenheimVsOlympiqueLy-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-06T14:11:32+00:00"
+  },
+  {
+   "id": "ollyonneshegerbergnommepourlefifproworld112026",
+   "title": "OL Lyonnes : Hegerberg nommée pour le FIFPRO World 11 2026",
+   "summary": "Ada Hegerberg figure parmi les 26 finalistes du FIFPRO World 11 féminin 2026. L'attaquante lyonnaise a été retenue pour prétendre intégrer l'équipe-type mondiale de l'année, dont les lauréates seront dévoilés…",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-hegerberg-nommee-pour-le-fifpro-world-11-2026,411949.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F08%2FIMG_3626-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-11-06T13:20:00+00:00"
+  },
+  {
+   "id": "manifestationdu5novembrelyonlamajoritmunicipalednoncedesviol",
+   "title": "Manifestation du 5 novembre à Lyon : la majorité municipale dénonce des \"violences policières\" et saisit le procureur",
+   "summary": "Les groupes de la majorité municipale lyonnaise dénoncent des violences commises, selon eux, par les forces de l’ordre en marge de la manifestation du 5 novembre. Plusieurs élus annoncent vouloir saisir le procureur de la République au titre de",
+   "url": "https://www.lyonmag.com/article/154779/manifestation-du-5-novembre-a-lyon-la-majorite-municipale-denonce-des-violences-policieres-et-saisit-le-procureur",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aedd5d510bbf-violences-policieres.png&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-06T13:00:00+00:00"
+  },
+  {
+   "id": "ligueeuropaloldansunbontempsdepassagemiparcours",
+   "title": "Ligue Europa : l'OL dans \"un bon temps de passage\" à mi-parcours",
+   "summary": "Après quatre journées de Ligue Europa, l'Olympique lyonnais compte sept points et occupe une position intéressante dans la course à la qualification. Au lendemain du match nul contre la Real…",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-europa-lol-dans-un-bon-temps-de-passage-a-mi-parcours,412286.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAFP__20261105__2303685992__v1__HighRes__RealSociedadDeFutbolVOlympiqueLyonnaisUefaEu-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-06T12:30:00+00:00"
+  },
+  {
+   "id": "lolaenfinrussifairecequilnarrivaitpassousfonseca",
+   "title": "L'OL a enfin réussi à faire ce qu'il n'arrivait pas sous Fonseca",
+   "summary": "En obtenant le match nul (1-1) sur la pelouse de la Real Sociedad, jeudi soir, en Ligue Europa, l'Olympique lyonnais a mis fin à une mauvaise habitude. Menés au score…",
+   "url": "https://www.olympique-et-lyonnais.com/lol-a-enfin-reussi-a-faire-ce-quil-narrivait-pas-sous-fonseca,412280.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAFP__20261105__D6KN89B__v1__HighRes__FblEurC3RealSociedadLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-06T11:40:00+00:00"
+  },
+  {
+   "id": "olpierresagedifficiledefaireduneufavecduvieux",
+   "title": "OL : Pierre Sage, \"difficile de faire du neuf avec du vieux\"",
+   "summary": "Après le départ de Paulo Fonseca, l'Olympique lyonnais doit lui trouver un successeur. Naturellement, le nom de Pierre Sage revient dans les discussions, même si le technicien français n'a pas…",
+   "url": "https://www.olympique-et-lyonnais.com/ol-pierre-sage-difficile-de-faire-du-neuf-avec-du-vieux,412029.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20260908__DPPI_40227068_005__v1__HighRes__FootballEnglishChampFulhamVCrystalPal-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-06T10:50:00+00:00"
+  },
+  {
+   "id": "oljeanmichelaulastrsinquietaprsledpartdefonseca",
+   "title": "OL : Jean-Michel Aulas très inquiet après le départ de Fonseca",
+   "summary": "Le départ de Paulo Fonseca continue de faire réagir dans l'environnement lyonnais. Jean-Michel Aulas a exprimé sa déception et ses inquiétudes concernant les conditions de cette séparation.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-jean-michel-aulas-tres-inquiet-apres-le-depart-de-fonseca,412282.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F06%2FJean-Michel-Aulas-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-06T10:00:00+00:00"
+  },
+  {
+   "id": "lafollestatistiquedelolquienvoiepaulofonsecaauxoubliettes",
+   "title": "La folle statistique de l'OL qui envoie Paulo Fonseca aux oubliettes",
+   "summary": "Dès son premier match, Jorge Maciel a vu Lyon réagir après avoir été mené à l’extérieur. Sous Paulo Fonseca, les Gones avaient perdu 16 des 17 rencontres disputées dans ce cas.",
+   "url": "https://www.lyonfoot.com/article/14720/un-match-et-jorge-maciel-egale-deja-paulo-fonseca-sur-cette-statistique",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aeda621c8ea7-54641151453-6324d6cbe3-o.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-06T09:30:00+00:00"
+  },
+  {
+   "id": "olsixautreslyonnaisconvoqusavecleurslectionpourlatrve",
+   "title": "OL : six autres Lyonnais convoqués avec leur sélection pour la trêve",
+   "summary": "En plus de Nicolás Tagliafico, la trêve internationale va concerner plusieurs joueurs de l'Olympique lyonnais. Six éléments de l'effectif rhodanien ont été appelés avec leur sélection nationale, tandis que d'autres…",
+   "url": "https://www.olympique-et-lyonnais.com/ol-six-autres-lyonnais-convoques-avec-leur-selection-pour-la-treve,412185.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FBacher-e1791175773760-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-11-06T09:15:00+00:00"
+  },
+  {
+   "id": "vendredi13lyonunecagnottequigrimpeet10gagnantsattendusaucasi",
+   "title": "Vendredi 13 à Lyon : une cagnotte qui grimpe et 10 gagnants attendus au Casino Le Pharaon !",
+   "summary": "Le vendredi 13 porte parfois bonheur… et le Casino Le Pharaon compte bien le célébrer ! Du 1er au 13 novembre 2026, le casino lyonnais lance une cagnotte progressive qui augmente au fil des visites.",
+   "url": "https://www.lyonmag.com/article/154770/vendredi-13-a-lyon-une-cagnotte-qui-grimpe-et-10-gagnants-attendus-au-casino-le-pharaon",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aed92c97eb1c-cagnotte.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-06T07:40:00+00:00"
+  },
+  {
+   "id": "jorgemacielracontecommentilaconditionnlesjoueursdelol",
+   "title": "Jorge Maciel raconte comment il a conditionné les joueurs de l'OL",
+   "summary": "Jorge Maciel a apprécié la réaction lyonnaise à Saint-Sébastien. L’entraîneur de l’OL attend maintenant davantage de maîtrise et la capacité à gagner après avoir été mené.",
+   "url": "https://www.lyonfoot.com/article/14719/jorge-maciel-veut-voir-l-ol-tout-casser",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aed70bf6ca58-jorge-maciel-2.jpeg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-06T07:00:00+00:00"
   },
   {
    "id": "ligue1202627lesaffichesdela10ejournenepasmanquerceweekend",
@@ -42,83 +195,6 @@
    "publishedAt": "2026-11-05T23:41:33+00:00"
   },
   {
-   "id": "lolvamisersurcarlosvicenspourlaprsfonseca",
-   "title": "L'OL va miser sur Carlos Vicens pour l'après Fonseca",
-   "summary": "Après l'intérim de deux matchs de Jorge Maciel, l'OL misera sur Carlos Vicens pour prendre la succession de Paulo Fonseca. L'entraîneur espagnol est libre depuis son départ de Braga fin…",
-   "url": "https://www.olympique-et-lyonnais.com/lol-va-miser-sur-carlos-vicens-pour-lapres-fonseca,412251.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fimage-770x433.webp&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-05T21:47:22+00:00"
-  },
-  {
-   "id": "ollesdirigeantsannoncentlenomdusuccesseurdepaulofonseca",
-   "title": "OL : les dirigeants annoncent le nom du successeur de Paulo Fonseca !",
-   "summary": "À la recherche d’un nouvel entraîneur après le départ de Paulo Fonseca au Sporting Portugal, l’Olympique Lyonnais aurait déjà arrêté son choix sur l’Espagnol Carlos Vicens. L’OL semble avoir trouvé son nouvel entraîneur.",
-   "url": "https://www.butfootballclub.fr/1711148-ol-les-dirigeants-annoncent-le-nom-du-successeur-de-paulo-fonseca/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F067545e5-ol-lia-predit-le-successeur-de-paulo-fonseca-1200x800.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-05T21:20:21+00:00"
-  },
-  {
-   "id": "macielaprsrealsociedadol11cepointprisestunesatisfaction",
-   "title": "Maciel après Real Sociedad - OL (1-1) : \"Ce point pris est une satisfaction\"",
-   "summary": "Mené au score, l'OL a réussi à revenir dans le match contre la Real Sociedad (1-1). Une force de caractère soulignée par Jorge Maciel, après le départ de Paulo Fonseca.…",
-   "url": "https://www.olympique-et-lyonnais.com/maciel-apres-real-sociedad-ol-1-1-ce-point-pris-est-une-satisfaction,412245.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAFP__20261105__D6KL42N__v1__HighRes__FblEurC3RealSociedadLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-05T21:06:23+00:00"
-  },
-  {
-   "id": "oltolissoatdumaispeutcomprendreladcisiondefonseca",
-   "title": "OL : Tolisso a \"été déçu\" mais peut \"comprendre\" la décision de Fonseca",
-   "summary": "Auteur du but égalisateur lors de Real Sociedad - OL (1-1), Corentin Tolisso n'a pas été loin d'offrir la victoire à son équipe. Néanmoins, le capitaine a été satisfait de…",
-   "url": "https://www.olympique-et-lyonnais.com/ol-tolisso-a-ete-decu-mais-peut-comprendre-la-decision-de-fonseca,412237.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FAFP__20260222__98KG43Q__v1__HighRes__FblFraLigue1StrasbourgLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-05T20:45:13+00:00"
-  },
-  {
-   "id": "omrclensstaderennaisolloscmercatocetteppitedeligue1prpareung",
-   "title": "OM, RC Lens, Stade Rennais, OL, LOSC Mercato : cette pépite de Ligue 1 prépare un gros coup cet été !",
-   "summary": "En pleine progression avec Le Mans avant une blessure qui a freiné son ascension, Adil Bourabaa nourrit de grandes ambitions pour le prochain mercato estival. Le prochain mercato estival pourrait marquer un tournant dans la carrière d’Adil Bourabaa.",
-   "url": "https://www.butfootballclub.fr/1711129-om-rc-lens-stade-rennais-ol-losc-mercato-cette-pepite-de-ligue-1-prepare-un-gros-coup-cet-ete/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fd0d7a306-psg-adil-bourabaa-forfait-cheville-1200x800.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-05T20:42:00+00:00"
-  },
-  {
-   "id": "realsociedadol11sansfonsecalyontientlechoclestopsetflops",
-   "title": "Real Sociedad – OL (1-1) : sans Fonseca, Lyon tient le choc, les tops et flops",
-   "summary": "Pour son premier match depuis le départ de Paulo Fonseca, l’Olympique Lyonnais a ramené un bon point de son déplacement à Saint-Sébastien (1-1), jeudi soir, en Ligue Europa, grâce à un superbe but de Corentin Tolisso.",
-   "url": "https://www.butfootballclub.fr/1711096-real-sociedad-ol-1-1-sans-fonseca-lyon-tient-le-choc-les-tops-et-flops/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fcf6da1ad-real-sociedad-ol-1-1-sans-fonseca-lyon-tient-le-choc-les-tops-et-flops-1200x800.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-05T20:00:55+00:00"
-  },
-  {
-   "id": "realsociedadol11lebaromtredumatchcequilfautretenir",
-   "title": "Real Sociedad - OL (1-1) : le baromètre du match, ce qu’il faut retenir",
-   "summary": "Mené au core sur la pelouse de la Real Sociedad, l’OL a réussi à prendre un point à Anoeta (1-1). Retrouvez le baromètre de ce match. De notre envoyé spécial…",
-   "url": "https://www.olympique-et-lyonnais.com/real-sociedad-ol-1-1-le-barometre-du-match-ce-quil-faut-retenir,412233.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAFP__20261105__2303689049__v1__HighRes__RealSociedadDeFutbolVOlympiqueLyonnaisUefaEu-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-05T20:00:00+00:00"
-  },
-  {
    "id": "realsociedad11oltristenulpourleslyonnaislescommsrmc",
    "title": "Real Sociedad 1-1 OL : Triste nul pour les Lyonnais.. Les Comms RMC",
    "summary": "Les Lyonnais ont concédé le nul sur la pelouse de la Real Sociedad. Un but de Corentin Tolisso a permis à l'OL d'égaliser et de ramener un point du Pays basque... Les Comms RMC",
@@ -128,17 +204,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FlqS6oBxZYeoTDWtU7N9ashLBaoQ%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FReal-Sociedad-1-1-OL-Triste-nul-pour-les-Lyonnais-Les-Comms-RMC-2378802.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-11-05T19:52:32+00:00"
-  },
-  {
-   "id": "pourlaprsfonsecalolprendunpointlarealsociedad",
-   "title": "Pour l'après Fonseca, l'OL prend un point à la Real Sociedad",
-   "summary": "Au lendemain de l'annonce du départ de Paulo Fonseca, l'OL est allé chercher un point (1-1) à Saint-Sébastien. Menés au score, les Lyonnais ont réussi à revenir dans le match…",
-   "url": "https://www.olympique-et-lyonnais.com/pour-lapres-fonseca-lol-prend-un-point-a-la-real-sociedad,412227.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAFP__20261105__D6KH7T6__v1__HighRes__FblEurC3RealSociedadLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-05T19:41:04+00:00"
   },
   {
    "id": "realsociedadoltolissosauvelyonpourlepremiermatchdelaprsfonse",
@@ -152,17 +217,6 @@
    "publishedAt": "2026-11-05T18:40:00+00:00"
   },
   {
-   "id": "realsociedadolkangprsentesaintsbastien",
-   "title": "Real Sociedad - OL : Kang présente à Saint-Sébastien",
-   "summary": "La présidente de l'OL, Michele Kang a décidé d'assister à la rencontre de Ligue Europa contre la Real Sociedad. De l'un de nos envoyés spéciaux à Saint-Sébastien. Pour la première…",
-   "url": "https://www.olympique-et-lyonnais.com/real-sociedad-ol-kang-presente-a-saint-sebastien,412205.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Razik Brikh",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FMichele-Kang-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-11-05T16:43:40+00:00"
-  },
-  {
    "id": "realsociedadollyonramneunbonpointdupaysbasquepourfterledpart",
    "title": "Real Sociedad - OL : Lyon ramène un bon point du Pays basque pour fêter le départ de Fonseca... Revivez le match avec nous",
    "summary": "L’Olympique Lyonnais a arraché le point du nul face à la Real Sociedad, ce jeudi soir, à Anoeta",
@@ -172,39 +226,6 @@
    "image": "https://images.weserv.nl/?url=img.20mn.fr%2F9vhUJpyJSJm4DZ5QfvOSGCk%2F1444x920_corentin-tolisso-et-les-lyonnais-se-deplacent-en-espagne-ce-jeudi-soir&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-11-05T16:32:36+00:00"
-  },
-  {
-   "id": "realsociedadolmerahenfaux9boudachedroite",
-   "title": "Real Sociedad - OL : Merah en faux 9, Boudache à droite",
-   "summary": "Ce jeudi, l'OL affronte la Real Sociedad avec l'ambition de se rattraper après la défaite à Hoffenheim. Face aux différentes absences offensives, Jorge Maciel a choisi de relancer Khalis Merah…",
-   "url": "https://www.olympique-et-lyonnais.com/real-sociedad-ol-merah-en-faux-9-boudache-a-droite,412206.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "David Hernandez",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FAFP__20260730__DPPI_40827004_025__v1__HighRes__FootballFriendlyGameBetisVLyon-e1785519039454-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-05T16:31:41+00:00"
-  },
-  {
-   "id": "realsociedadolladlgationlyonnaisedormiraenespagne",
-   "title": "Real Sociedad - OL : la délégation lyonnaise dormira en Espagne",
-   "summary": "Après son déplacement à Saint-Sébastien pour affronter la Real Sociedad ce jeudi soir, l'Olympique lyonnais ne rentrera pas immédiatement à Lyon. La délégation rhodanienne passera une nuit supplémentaire en Espagne…",
-   "url": "https://www.olympique-et-lyonnais.com/real-sociedad-ol-la-delegation-lyonnaise-dormira-en-espagne,412183.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAFP__20261101__D63T2PM__v1__HighRes__FblFraLigue1LyonAngers-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-05T15:00:00+00:00"
-  },
-  {
-   "id": "olattentionauxatoutsoffensifsdelarealsociedad",
-   "title": "OL : attention aux atouts offensifs de la Real Sociedad",
-   "summary": "À l'approche de son déplacement sur la pelouse de la Real Sociedad, l'Olympique lyonnais devra se méfier de plusieurs éléments offensifs basques. Après trois journées de Ligue Europa, Sergio Gómez…",
-   "url": "https://www.olympique-et-lyonnais.com/ol-attention-aux-atouts-offensifs-de-la-real-sociedad,411940.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FW6oHbjdr-fBe1n304-730x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-05T14:10:00+00:00"
   },
   {
    "id": "ladignitetladcencelafamilledequentinderanquesopposelavenuede",
@@ -227,116 +248,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aec29ef28a3d-capture-decran-2026-11-05-a-07.png&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-11-05T06:05:00+00:00"
-  },
-  {
-   "id": "cambriolageaudomiciledadahegerbergollyonneslesuspectjugcejeu",
-   "title": "Cambriolage au domicile d'Ada Hegerberg (OL Lyonnes) : le suspect jugé ce jeudi à Lyon",
-   "summary": "Comme d'autres joueurs de l'OL, Ada Hegerberg avait été victime d'un cambriolage à son domicile de l'agglomération lyonnaise. Le suspect, interpellé à Grenoble, est jugé ce jeudi 5 novembre devant le tribunal judiciaire de Lyon.",
-   "url": "https://www.lyonfoot.com/article/14265/cambriolage-du-domicile-d-ada-hegerbeg-ol-lyonnes-un-homme-juge-ce-jeudi-a-lyon",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aeabdcde5b0d-52774413884-c7a593c2db-o.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-11-05T04:00:00+00:00"
-  },
-  {
-   "id": "lyonaucunmtronecirculeracejeudilagrveparalyseunepartiedursea",
-   "title": "Lyon : aucun métro ne circulera ce jeudi, la grève paralyse une partie du réseau TCL",
-   "summary": "Journée particulièrement difficile en perspective pour les usagers des transports en commun lyonnais. Ce jeudi 5 novembre, les quatre lignes de métro seront totalement fermées en raison d'un mouvement de grève.",
-   "url": "https://www.lyonmag.com/article/154751/lyon-aucun-metro-ne-circulera-ce-jeudi-la-greve-paralyse-une-partie-du-reseau-tcl",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aec0187e7917-48059597928-01911deb13-o-1.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-05T03:08:00+00:00"
-  },
-  {
-   "id": "bhvaprsleredressementjudiciairenouveaucoupdurpoursonpatronly",
-   "title": "BHV : après le redressement judiciaire, nouveau coup dur pour son patron lyonnais",
-   "summary": "Le BHV essuie un nouveau revers judiciaire. La société dirigée par le Lyonnais Karl-Stéphane Cottendin doit verser 1,65 million d'euros à Xavier Niel.",
-   "url": "https://www.francemag.fr/article/3935/xavier-niel-obtient-gain-de-cause-le-bhv-l-homme-condamne-pour-des-loyers-impayes",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aeb780c55a66-capture-decran-2026-11-04-a-19.png&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-04T17:20:00+00:00"
-  },
-  {
-   "id": "comparatif2026quelfournisseurdlectricitetdegazchoisirlyon",
-   "title": "Comparatif 2026 : quel fournisseur d'électricité et de gaz choisir à Lyon ?",
-   "summary": "Entre les hivers marqués de la vallée du Rhône, les immeubles anciens de la Croix-Rousse chauffés au gaz et les logements neufs de la Confluence équipés de pompes à chaleur, les besoins énergétiques des Lyonnais sont très variés.",
-   "url": "https://www.lyonmag.com/article/154747/comparatif-2026-quel-fournisseur-d-electricite-et-de-gaz-choisir-a-lyon",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aeb734431aef-vieux-immeubles.png&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-04T16:59:00+00:00"
-  },
-  {
-   "id": "cejoueurdeloleffectueundbutdesaisontonitruant",
-   "title": "Ce joueur de l'OL effectue un début de saison tonitruant",
-   "summary": "Avec quatre buts et une passe décisive en championnat, le Ghanéen s’impose parmi les hommes forts du début de saison lyonnais. Son influence dépasse ses seules réalisations.",
-   "url": "https://www.lyonfoot.com/article/14688/ernest-nuamah-marche-sur-l-eau-depuis-le-debut-de-saison-avec-l-ol",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aead8c249727-ol-nuamah.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-04T15:00:00+00:00"
-  },
-  {
-   "id": "ftedeslumires2026lyon27uvrespacmangantiaetprsde2millionsdevi",
-   "title": "Fête des Lumières 2026 à Lyon : 27 œuvres, Pac-Man géant, IA et près de 2 millions de visiteurs attendus",
-   "summary": "La Fête des Lumières fera son retour du 5 au 8 décembre 2026 avec 27 œuvres réparties dans 20 lieux lyonnais.",
-   "url": "https://www.lyonmag.com/article/154742/fete-des-lumieres-2026-a-lyon-27-oeuvres-pac-man-geant-ia-et-pres-de-2-millions-de-visiteurs-attendus",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aeb4634005f7-carnaval-des-animauxdr.png&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-04T13:48:00+00:00"
-  },
-  {
-   "id": "lechiffrecaptivantquiclaireledbutdesaisondelolenligue1",
-   "title": "Le chiffre captivant qui éclaire le début de saison de l'OL en Ligue 1",
-   "summary": "Avec quinze buts et quatre matchs sans encaisser en neuf journées de Ligue 1, l’OL affiche un bilan contrasté, entre efficacité à domicile et difficultés à l’extérieur.",
-   "url": "https://www.lyonfoot.com/article/14689/quand-et-comment-l-ol-fait-la-difference-en-championnat",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aeadfb53767d-data-ol.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-04T13:00:00+00:00"
-  },
-  {
-   "id": "legroupeindustriellyonnaistracpoursuitsonexpansionaveclerach",
-   "title": "Le groupe industriel lyonnais TRA-C poursuit son expansion avec le rachat de MécaSup",
-   "summary": "Une nouvelle acquisition pour TRA-C industrie.",
-   "url": "https://www.lyonmag.com/article/154738/le-groupe-industriel-lyonnais-tra-c-poursuit-son-expansion-avec-le-rachat-de-mecasup",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aeb0c770ddd9-capture-decran-2026-11-04-a-11.png&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-04T09:41:00+00:00"
-  },
-  {
-   "id": "lolofficialiseledpartdepaulofonsecaausportingportugal",
-   "title": "L'OL officialise le départ de Paulo Fonseca au Sporting Portugal",
-   "summary": "Le départ de Paulo Fonseca au Sporting Portugal est officiel. L’OL regrette une décision \"inattendue\" en pleine saison et confie les commandes à Jorge Maciel jusqu’à la trêve.",
-   "url": "https://www.lyonfoot.com/article/14695/officiel-paulo-fonseca-quitte-un-ol-sous-le-choc",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aeb06f6265be-paolo-fonseca.jpeg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-04T09:26:00+00:00"
-  },
-  {
-   "id": "lefuturentraneurdeloldevrasadapteruncalendriercharg",
-   "title": "Le futur entraîneur de l'OL devra s'adapter à un calendrier chargé",
-   "summary": "Le prochain entraîneur lyonnais pourrait commencer son mandat par trois matchs en l'espace de 9 jours. Un déplacement à Lille et deux rendez-vous à Décines figurent au programme.",
-   "url": "https://www.lyonfoot.com/article/14687/le-calendrier-exigeant-qui-attend-le-futur-entraineur-de-l-ol",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aead758d26d9-ol.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-04T07:40:00+00:00"
   },
   {
    "id": "olledpartdefonsecaenditbeaucoupsurltatdesfinanceslanceedward",
