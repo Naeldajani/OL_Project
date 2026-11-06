@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T16:44:45+00:00",
+ "updatedAt": "2026-11-06T23:06:10+00:00",
  "sources": [
   "20 Minutes",
   "Lyon Mag",
@@ -7,6 +7,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "tannertessmanndcisifparlapasseunepremirepourluilol",
+   "title": "Tanner Tessmann décisif par la passe, une première pour lui à l'OL",
+   "summary": "Il aura fallu attendre sa 92e apparition sous le maillot lyonnais pour voir Tanner Tessmann délivrer sa première passe décisive avec l'OL. Ce jeudi soir, lors du déplacement sur la…",
+   "url": "https://www.olympique-et-lyonnais.com/tanner-tessmann-decisif-par-la-passe-une-premiere-pour-lui-a-lol,412313.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAFP__20261105__2303697865__v1__HighRes__RealSociedadDeFutbolVOlympiqueLyonnaisUefaEu-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-06T17:30:00+00:00"
+  },
   {
    "id": "ollyonneslajuventusetarsenalaumenudumoisdenovembre",
    "title": "OL Lyonnes : la Juventus et Arsenal au menu du mois de novembre",
@@ -140,17 +151,6 @@
    "publishedAt": "2026-11-06T09:30:00+00:00"
   },
   {
-   "id": "olsixautreslyonnaisconvoqusavecleurslectionpourlatrve",
-   "title": "OL : six autres Lyonnais convoqués avec leur sélection pour la trêve",
-   "summary": "En plus de Nicolás Tagliafico, la trêve internationale va concerner plusieurs joueurs de l'Olympique lyonnais. Six éléments de l'effectif rhodanien ont été appelés avec leur sélection nationale, tandis que d'autres…",
-   "url": "https://www.olympique-et-lyonnais.com/ol-six-autres-lyonnais-convoques-avec-leur-selection-pour-la-treve,412185.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FBacher-e1791175773760-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-11-06T09:15:00+00:00"
-  },
-  {
    "id": "vendredi13lyonunecagnottequigrimpeet10gagnantsattendusaucasi",
    "title": "Vendredi 13 à Lyon : une cagnotte qui grimpe et 10 gagnants attendus au Casino Le Pharaon !",
    "summary": "Le vendredi 13 porte parfois bonheur… et le Casino Le Pharaon compte bien le célébrer ! Du 1er au 13 novembre 2026, le casino lyonnais lance une cagnotte progressive qui augmente au fil des visites.",
@@ -239,17 +239,6 @@
    "publishedAt": "2026-11-05T13:10:00+00:00"
   },
   {
-   "id": "unepartiedemoncurresteratoujourslyonpaulofonsecaenpleinmlodr",
-   "title": "\"Une partie de mon cœur restera toujours à Lyon\" : Paulo Fonseca en plein mélodrame avec l’OL",
-   "summary": "Après son départ de l’OL pour le Sporting Portugal, Paulo Fonseca adresse une lettre aux supporters lyonnais. Entre remerciements et rêve d’enfance, il explique son choix.",
-   "url": "https://www.lyonfoot.com/article/14704/paulo-fonseca-sort-les-violons-pour-ses-adieux-a-l-ol-merci-lyon-pour-tout",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aec29ef28a3d-capture-decran-2026-11-05-a-07.png&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-05T06:05:00+00:00"
-  },
-  {
    "id": "olledpartdefonsecaenditbeaucoupsurltatdesfinanceslanceedward",
    "title": "OL : Le départ de Fonseca \"en dit beaucoup sur l'état des finances\" lance Edward Jay",
    "summary": "Après des larmes lors de la victoire de l'OL face à Angers en Ligue 1, Paulo Fonseca ne terminera probablement pas l'année sur le banc de l'OL. Alors qu'il est encore en contrat à Lyon jusqu'en juin 2027, le coach portugais pourrait rejoindre son club de cœur, le Sporting Portugal.",
@@ -281,17 +270,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F8VArXrREScnkY2Ir1Zr6WnS0uv0%3D%2F0x212%3A2048x1364%2F800x0%2Fimages%2FPaulo-Fonseca-lors-de-Lyon-Lens-le-17-mai-2026-2288375.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-11-02T09:07:48+00:00"
-  },
-  {
-   "id": "olcarlosvicenspourremplacerfonsecalespistesderiolo",
-   "title": "OL : Carlos Vicens pour remplacer Fonseca ? Les pistes de Riolo",
-   "summary": "Paulo Fonseca sur le départ vers le Sporting, qui pourrait le remplacer ? Dans L'After, ce dimanche soir, Daniel Riolo donne quelques pistes.",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-ol-carlos-vicens-pour-remplacer-fonseca-les-pistes-de-riolo_VN-202611010460.html",
-   "source": "RMC Sport",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FBT_sJ5V_Cr5ou0rOIjO4Rsgoeb0%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FOL-Carlos-Vicens-pour-remplacer-Fonseca-Les-pistes-de-Riolo-2375957.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-01T23:22:00+00:00"
   }
  ]
 }
