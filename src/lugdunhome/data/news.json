@@ -1,12 +1,134 @@
 {
- "updatedAt": "2026-11-07T12:57:49+00:00",
+ "updatedAt": "2026-11-07T19:25:11+00:00",
  "sources": [
   "20 Minutes",
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ollyonnesdroulepuisgreunpeutroplenssonparcoursparfaitcontinu",
+   "title": "OL Lyonnes déroule puis gère (un peu trop) à Lens, son parcours parfait continue",
+   "summary": "Contrairement à la semaine passée, OL Lyonnes n'a jamais tremblé pour battre Lens samedi (1-7). Après 20 minutes, les Lyonnaises menaient déjà 4 à 0. D'un départ cata à une…",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-deroule-puis-gere-un-peu-trop-a-lens-son-parcours-parfait-continue,412428.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fol_lyonnes_v_fc_internazionale_milano_-_uefa_women_s_champions_league_2026_27_league_phase_md3-e1794072247263-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-07T19:00:56+00:00"
+  },
+  {
+   "id": "endirectxvdefrancefidjiexcitanterentrepourlesbleusaveclereto",
+   "title": "EN DIRECT XV de France - Fidji : Excitante rentrée pour les Bleus avec le retour de la charnière Dupont-Ntamack… Suivez le match avec nous dès 20h45…",
+   "summary": "Pour son premier match depuis quatre mois, l’équipe de France de rugby va accueillir les Fidji, ce samedi (21h10) à Lyon-Décines, dans le cadre du Championnat des nations. Un match marqué par le retour de l’association Antoine Dupont-Romain Ntamack",
+   "url": "https://www.20minutes.fr/sport/rugby/4261136-20261107-direct-xv-france-fidji-excitante-rentree-bleus-retour-charniere-dupont-ntamack-suivez-match-20h45?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FmwDhRwtSTcW-sC0IoL6mQCk%2F1444x920_les-joueurs-francais-de-gauche-a-droite-romain-ntamack-et-antoine-dupont-2l-saluent-leurs-fans-et-celebrent-leur-victoire-a-l-issue-du-match-test-international-des-autumn-nations-series-entre-la-france-et-l-afrique-du-sud-springboks-au-stade-velodrome-le-12-novembre-2022-a-marseille-en-france-benayacheadil-sipa-40048-credit-adil-benayache-sipa-2302201359&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-07T17:47:36+00:00"
+  },
+  {
+   "id": "brestolniakhatetnuamahderetourhamdanisortdugroupe",
+   "title": "Brest - OL : Niakhaté et Nuamah de retour, Hamdani sort du groupe",
+   "summary": "Comme attendu, Moussa Niakhaté et Ernest Nuamah reviennent dans le groupe pour Brest - OL dimanche (17h15). Adil Hamdani paie ces retours. Jorge Maciel avait levé le suspense dès ce…",
+   "url": "https://www.olympique-et-lyonnais.com/brest-ol-niakhate-et-nuamah-de-retour-hamdani-sort-du-groupe,412427.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FNuamah-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-11-07T17:35:15+00:00"
+  },
+  {
+   "id": "oltoutestbouclpourvicensonconnatladatedesonofficialisation",
+   "title": "OL : tout est bouclé pour Vicens, on connaît la date de son officialisation !",
+   "summary": "L’OL a trouvé son successeur à Paulo Fonseca : Carlos Vicens a donné son accord et devrait être officiellement nommé entraîneur dès lundi. L’après-Paulo Fonseca se dessine enfin à l’Olympique Lyonnais.",
+   "url": "https://www.butfootballclub.fr/1712032-ol-tout-est-boucle-pour-vicens-on-connait-la-date-de-son-officialisation/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F04bf9b1b-ol-le-favori-pour-remplacer-fonseca-a-fuite-1200x800.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-07T17:20:00+00:00"
+  },
+  {
+   "id": "top14leloulaissefilerlavictoiremontpellieretpeutnourrirdesre",
+   "title": "Top 14 : le LOU laisse filer la victoire à Montpellier et peut nourrir des regrets (21-19)",
+   "summary": "Le LOU Rugby est passé tout près d'un joli coup ce samedi 7 novembre. En déplacement à Montpellier pour la 9e journée de Top 14, les Lyonnais ont longtemps cru pouvoir s'imposer avant de céder dans les dernières minutes (21-19).",
+   "url": "https://www.lyonmag.com/article/154784/top-14-le-lou-laisse-filer-la-victoire-a-montpellier-et-peut-nourrir-des-regrets-21-19",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aef6db5caf88-894645325-1666752268434411-3680967861761002450-n.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-07T17:00:00+00:00"
+  },
+  {
+   "id": "parallueloetchawingadansle11revivezlensollyonnes",
+   "title": "Paralluelo et Chawinga dans le 11... Revivez Lens - OL Lyonnes",
+   "summary": "8e journée de Première Ligue ce samedi pour OL Lyonnes. Rendez-vous à Lens, avec Salma Paralluelo et Tabitha Chawinga dans le 11. Un match à revoir sur YouTube. Après avoir…",
+   "url": "https://www.olympique-et-lyonnais.com/paralluelo-et-chawinga-dans-le-11-suivez-lens-ol-lyonnes-en-direct,412370.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261017__D3LQ43Y__v1__HighRes__FblFraDivision1WomenPsgLyon-e1794068524887-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-07T16:15:00+00:00"
+  },
+  {
+   "id": "olcestconfirmpourvicensuneautrebonnenouvelleannonceavantbres",
+   "title": "OL : c’est confirmé pour Vicens, une autre bonne nouvelle annoncée avant Brest !",
+   "summary": "Alors que Carlos Vicens se rapproche du banc de l’OL pour succéder à Paulo Fonseca, Jorge Maciel a confirmé une information importante concernant son avenir et celui du staff lyonnais.",
+   "url": "https://www.butfootballclub.fr/1712010-ol-cest-confirme-pour-vicens-une-autre-bonne-nouvelle-annoncee-avant-brest/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F067545e5-ol-lia-predit-le-successeur-de-paulo-fonseca-1200x800.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-07T16:00:00+00:00"
+  },
+  {
+   "id": "olnarteyboudacheetgomesrodriguezappelschezlesjeunes",
+   "title": "OL : Nartey, Boudache et Gomes Rodriguez appelés chez les jeunes",
+   "summary": "La trêve internationale de novembre concernera également les jeunes joueurs de l'OL. Noah Nartey, Kaïl Boudache et Alejandro Gomes Rodriguez représenteront leur pays respectif. En plus des joueurs convoqués avec…",
+   "url": "https://www.olympique-et-lyonnais.com/ol-nartey-boudache-et-gomes-rodriguez-appeles-chez-les-jeunes,412187.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FAFP__20260201__94QR3C9__v1__HighRes__FblFraLigue1LyonLille-e1773763931351-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-11-07T15:50:00+00:00"
+  },
+  {
+   "id": "olalejandrogomesrodriguezagotsespremiresminutesdelasaison",
+   "title": "OL : Alejandro Gomes Rodriguez a goûté à ses premières minutes de la saison",
+   "summary": "Sans la moindre minute de jeu depuis le début de la saison, Alejandro Gomes Rodriguez a enfin retrouvé les terrains avec l'OL. Entré en fin de rencontre face à la…",
+   "url": "https://www.olympique-et-lyonnais.com/ol-alejandro-gomes-rodriguez-a-goute-a-ses-premieres-minutes-de-la-saison,412292.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F07%2FIMG_3480-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-07T15:00:00+00:00"
+  },
+  {
+   "id": "oljorgemacielsursonavenirleschosesarriverontnaturellement",
+   "title": "OL : Jorge Maciel sur son avenir, \"les choses arriveront naturellement\"",
+   "summary": "C'est assez rare, mais Jorge Maciel a eu l'occasion de beaucoup parler de lui ce samedi. Notamment de statut actuel d'entraîneur intérimaire. Ce n'est pas sa première conférence de presse,…",
+   "url": "https://www.olympique-et-lyonnais.com/ol-jorge-maciel-sur-son-avenir-les-choses-arriveront-naturellement,412396.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F07%2FIMG_2972-e1743227115720-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-07T14:10:00+00:00"
+  },
+  {
+   "id": "olrmihimbertenrepriseaprssamaladie",
+   "title": "OL : Rémi Himbert en reprise après sa maladie",
+   "summary": "Absent depuis deux matchs, Rémi Himbert est tombé malade. L'attaquant va mieux aujourd'hui, mais il reste en reprise. Voilà pourquoi Rémi Himbert n'apparaissait plus dans le groupe lyonnais depuis deux…",
+   "url": "https://www.olympique-et-lyonnais.com/ol-remi-himbert-en-reprise-apres-sa-maladie,412392.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3781-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-11-07T13:20:00+00:00"
+  },
   {
    "id": "olprsentslentranementmoussaniakhateternestnuamahreviennentfa",
    "title": "OL : présents à l'entraînement, Moussa Niakhaté et Ernest Nuamah reviennent face à Brest",
@@ -52,61 +174,6 @@
    "publishedAt": "2026-11-07T10:50:00+00:00"
   },
   {
-   "id": "weirtoujoursabsentepourlensollyonnesretourdendleretdeparallu",
-   "title": "Weir toujours absente pour Lens - OL Lyonnes, retour d'Endler et de Paralluelo",
-   "summary": "Avant son déplacement sur la pelouse du RC Lens, OL Lyonnes a dévoilé son groupe qui voyagera dans le nord. Caroline Weir, blessée, ne sera pas de la partie et…",
-   "url": "https://www.olympique-et-lyonnais.com/weir-toujours-absente-pour-lens-ol-lyonnes-retour-dendler-et-de-paralluelo,412320.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260930__C9UY7VJ__v1__HighRes__FblEurC1WomenLyonChelsea-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-07T10:00:00+00:00"
-  },
-  {
-   "id": "lesbrestoispastoutfaitaucompletfacelol",
-   "title": "Les Brestois pas tout à fait au complet face à l'OL",
-   "summary": "Quasiment au complet, Brest fera néanmoins sans deux éléments importants contre l'OL dimanche. Notamment son capitaine Brendan Chardonnet. L'OL rêverait d'avoir une infirmerie aussi peu remplie que celle du Stade…",
-   "url": "https://www.olympique-et-lyonnais.com/les-brestois-pas-tout-a-fait-au-complet-face-a-lol,412342.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FBrendan-Chardonnet-e1794037399669-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-11-07T09:10:00+00:00"
-  },
-  {
-   "id": "merahetkamaraolconvoqusaveclquipedefranceu20",
-   "title": "Merah et Kamara (OL) convoqués avec l'équipe de France U20",
-   "summary": "Khalis Merah et Noham Kamara représenteront l'OL en équipe de France U20 lors de la trêve internationale de novembre. Ils figurent dans la liste des 24 joueurs retenus par Bernard…",
-   "url": "https://www.olympique-et-lyonnais.com/merah-et-kamara-ol-convoques-avec-lequipe-de-france-u20,412316.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FCapture-decran-2025-10-14-134247-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-11-07T08:30:00+00:00"
-  },
-  {
-   "id": "lolenmodecommandojusqulatrveetlarrivedunouvelentraneur",
-   "title": "L'OL en mode commando jusqu'à la trêve et l'arrivée du nouvel entraîneur",
-   "summary": "Avec le départ de Paulo Fonseca, l'OL traverse une semaine pas comme les autres. Le point glané chez la Real Sociedad montre néanmoins que les Lyonnais ne lâchent pas. Jeudi,…",
-   "url": "https://www.olympique-et-lyonnais.com/lol-en-mode-commando-jusqua-la-treve-et-larrivee-du-nouvel-entraineur,412337.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2Ffbl-eur-c3-anderlecht-lyon-2-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-07T07:40:00+00:00"
-  },
-  {
-   "id": "liguedeschampionslepsgagalunrecorddinvincibilitdelol",
-   "title": "Ligue des champions : le PSG a égalé un record d'invincibilité de l'OL",
-   "summary": "Grâce à sa large victoire sur la pelouse de Villareal (6-0), mardi, le Paris Saint-Germain a égalé une marque détenue jusqu'ici par l'Olympique lyonnais. Les deux clubs français comptent désormais…",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-des-champions-le-psg-a-egale-un-record-dinvincibilite-de-lol,412027.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261026__D4H98QW__v1__HighRes__FblFraLigue1PsgLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-07T07:00:00+00:00"
-  },
-  {
    "id": "lyon9000coureursvontslancerdenuitcesamedipourrejoindrefourvi",
    "title": "Lyon : 9 000 coureurs vont s'élancer de nuit ce samedi pour rejoindre Fourvière",
    "summary": "Le Lyon Urban Trail by Night fait son retour ce samedi 7 novembre pour une 12e édition qui promet de belles images. Jusqu'à 9 000 participants sont attendus sur trois parcours de 10, 20 et 30 kilomètres, à travers les rues, les escaliers et les collines de l'agglomération lyonnaise.",
@@ -118,17 +185,6 @@
    "publishedAt": "2026-11-07T07:00:00+00:00"
   },
   {
-   "id": "rclensollyonnesavantmatchhorairediffusiontv",
-   "title": "RC Lens - OL Lyonnes : avant-match, horaire, diffusion TV",
-   "summary": "OL Lyonnes se déplace sur la pelouse du RC Lens ce samedi 7 novembre pour la 8e journée de Première Ligue. Toujours invaincues en championnat, les joueuses de Jonatan Giráldez…",
-   "url": "https://www.olympique-et-lyonnais.com/rc-lens-ol-lyonnes-avant-match-horaire-diffusion-tv,412176.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fol_lyonnes_v_fc_internazionale_milano_-_uefa_women_s_champions_league_2026_27_league_phase_md3-2-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-07T06:30:00+00:00"
-  },
-  {
    "id": "lensollyonneslesfenottescherchentpoursuivreleursrie",
    "title": "Lens-OL Lyonnes : les fenottes cherchent à poursuivre leur série",
    "summary": "Les Lyonnaises défient le RC Lens ce soir à 18h, pour le compte de la 8e journée de Première Ligue. Diffusion, classement et chiffres clés avant ce déplacement dans le Nord.",
@@ -138,17 +194,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aed7eca9972d-ol-lyonnes-2.jpeg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-11-07T05:00:00+00:00"
-  },
-  {
-   "id": "tannertessmanndcisifparlapasseunepremirepourluilol",
-   "title": "Tanner Tessmann décisif par la passe, une première pour lui à l'OL",
-   "summary": "Il aura fallu attendre sa 92e apparition sous le maillot lyonnais pour voir Tanner Tessmann délivrer sa première passe décisive avec l'OL. Ce jeudi soir, lors du déplacement sur la…",
-   "url": "https://www.olympique-et-lyonnais.com/tanner-tessmann-decisif-par-la-passe-une-premiere-pour-lui-a-lol,412313.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAFP__20261105__2303697865__v1__HighRes__RealSociedadDeFutbolVOlympiqueLyonnaisUefaEu-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-06T17:30:00+00:00"
   },
   {
    "id": "lyonpolitiquesmanifestationscommercesetftedeslumires061126",
@@ -204,28 +249,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aed70bf6ca58-jorge-maciel-2.jpeg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-11-06T07:00:00+00:00"
-  },
-  {
-   "id": "ligue1202627lesaffichesdela10ejournenepasmanquerceweekend",
-   "title": "Ligue 1 2026/27 : Les affiches de la 10e journée à ne pas manquer ce week-end",
-   "summary": "TFC-Strasbourg, AJA-PFC, PSG – Troyes, Rennes-LOSC, Angers-OGC Nice, Brest – OL, Le Havre-Lorient, Le Mans-Monaco et Lens-OM sont au programme ce week-end",
-   "url": "https://www.20minutes.fr/sport/football/4260819-20261106-ligue-1-2026-27-affiches-10e-journee-manquer-week-end?at_medium=display&at_campaign=149",
-   "source": "20 Minutes",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FzE11f-8_QzqkWKLsUIoPGyk%2F1444x920_leader-avec-20-points-au-compteur-le-psg-va-tenter-de-conserver-son-trone-lors-de-la-10e-journee-de-ligue-1-photo-d-illustration&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-06T06:17:36+00:00"
-  },
-  {
-   "id": "indiceuefalafrancefaitbeaucoupmoinsbienqueleportugal",
-   "title": "Indice UEFA : La France fait beaucoup moins bien que le Portugal",
-   "summary": "La défaite historique de Lens, 1-9 contre Côme, est la seule des clubs français cette semaine. Le PSG, l’OM et Monaco se sont imposés, tandis que Rennes, l’OL et Lille ont fait match nul.",
-   "url": "https://www.20minutes.fr/sport/football/4260807-20261106-indice-uefa-france-fait-beaucoup-moins-bien-portugal?at_medium=display&at_campaign=149",
-   "source": "20 Minutes",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FgLxRIWRmTJCPF3KcJL379ik%2F1444x920_florian-thauvin-et-lens-impuissants-contre-come-photo-d-illustration&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-05T23:41:33+00:00"
   },
   {
    "id": "realsociedad11oltristenulpourleslyonnaislescommsrmc",
