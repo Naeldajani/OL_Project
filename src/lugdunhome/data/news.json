@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T17:55:12+00:00",
+ "updatedAt": "2026-11-08T22:01:29+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -9,15 +9,81 @@
  ],
  "items": [
   {
-   "id": "directbrestollesbrestoistoujoursdevantleslyonnaisinoffensifs",
-   "title": "DIRECT. Brest-OL: les Brestois toujours devant, les Lyonnais inoffensifs",
-   "summary": "Suivez en direct commenté sur notre site la rencontre Brest - OL, comptant pour la dixième journée de Ligue 1. Alors que Brest veut réussir le gros coup, l'OL va disputer son dernier match avant de connaître son nouvel entraîneur.",
+   "id": "ollyonchuteavantlarrivedesonnouvelentraneur",
+   "title": "OL : Lyon chute avant l’arrivée de son nouvel entraîneur",
+   "summary": "L'OL chute à Brest avant l'arrivée de Carlos Vicens, Monaco craque au Mans et Nice assure dans une journée déjà décisive pour l'OL.",
+   "url": "https://www.butfootballclub.fr/1712301-ol-brest-arrivee-carlos-vicens-monaco-nice/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F5d127ef0-ol-brest-arrivee-carlos-vicens-monaco-nice-1200x800.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-08T19:34:09+00:00"
+  },
+  {
+   "id": "ligue1lextrieurlolesttoujoursengalre",
+   "title": "Ligue 1 : à l'extérieur, l'OL est toujours en galère",
+   "summary": "Nouvelle défaite pour l'OL à l'extérieur en Ligue 1. À Brest ce dimanche (2-0), il a enchaîné un troisième revers de rang loin de ses bases. Si, comme l'ambitionne Moussa…",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-1-a-lexterieur-lol-est-toujours-en-galere,412514.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FKeito-Nakmura-e1794164918884-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-08T19:30:00+00:00"
+  },
+  {
+   "id": "brestol20moussaniakhatregretteunpremierbutenfantin",
+   "title": "Brest - OL (2-0) : Moussa Niakhaté regrette un premier but \"enfantin\"",
+   "summary": "Plutôt bien entré dans sa rencontre, l'OL a déjoué après le premier but de Brest. Une réalisation \"enfantine\", déplore Moussa Niakhaté. D'une barre transversale de Keito Nakamura à une réalisation…",
+   "url": "https://www.olympique-et-lyonnais.com/brest-ol-2-0-moussa-niakhate-regrette-un-premier-but-enfantin,412505.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F07%2FDSC01541-e1760797591362-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-08T19:05:00+00:00"
+  },
+  {
+   "id": "brestol20lebaromtredumatchcequilfautretenir",
+   "title": "Brest - OL (2-0) : le baromètre du match, ce qu’il faut retenir",
+   "summary": "L'OL retombe dans ses travers à Brest (2-0). Une rencontre durant laquelle les Lyonnais n'auront pas été aidés par leur couloir droit. Retrouvez le baromètre de ce match. On a…",
+   "url": "https://www.olympique-et-lyonnais.com/brest-ol-2-0-le-barometre-du-match-ce-quil-faut-retenir,412494.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAthekame-e1794161863562-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-08T18:40:00+00:00"
+  },
+  {
+   "id": "brestolloltombedehautlaprsfonsecadmarremal",
+   "title": "Brest-OL: l'OL tombe de haut, l'après-Fonseca démarre mal",
+   "summary": "Grâce à Edjouma et Ajorque, Brest s'est offert l'OL (2-0), lors de la dixième journée de Ligue 1.",
    "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-brest-ol-suivez-le-match-de-la-10e-journee-de-ligue-1-en-live_LS-202611080312.html",
    "source": "RMC Sport",
    "author": null,
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2FVTdDyiFmOBymyivENIrI3EeOt9U%3D%2F0x156%3A2048x1308%2F800x0%2Fimages%2FNoah-Edjouma-fete-son-but-pour-Brest-avec-ses-coequipiers-8-novembre-2026-2380345.jpg&w=800&output=webp&q=78",
    "topic": "Match",
-   "publishedAt": "2026-11-08T17:53:54+00:00"
+   "publishedAt": "2026-11-08T18:08:34+00:00"
+  },
+  {
+   "id": "beaucouptropapathiqueloltombebrestavantlatrve20",
+   "title": "Beaucoup trop apathique, l'OL tombe à Brest avant la trêve (2-0)",
+   "summary": "Pour la dernière sortie avant l'arrivée de Carlos Vicens, l'OL a livré une pâle copie à Brest (2-0). Une défaite logique au vu de la prestation offensive. Après le bon…",
+   "url": "https://www.olympique-et-lyonnais.com/beaucoup-trop-apathique-lol-tombe-a-brest-avant-la-treve-2-0,412488.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FTolisso-contre-Brest-e1794159875424-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-08T18:08:13+00:00"
+  },
+  {
+   "id": "abrestlyonconcdeunetroisimedfaitedesuiteloindesesbases",
+   "title": "A Brest, Lyon concède une troisième défaite de suite loin de ses bases",
+   "summary": "L’Olympique lyonnais s'est logiquement incliné ce dimanche à Brest. Pas assez incisifs, les joueurs de Jorge Maciel vont devoir compter sur la trêve internationale pour recharger les batteries.",
+   "url": "https://www.lyonfoot.com/article/14722/brest-ol-lyon-voyage-toujours-aussi-mal-2-0",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af0b945f10a1-hwnlyiwxkaa-ag2.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-08T17:08:00+00:00"
   },
   {
    "id": "brestolautourdecorentintolissodesessayeren9",
@@ -51,17 +117,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F12%2FAFP__20251221__88TB4EM__v1__HighRes__FblFraCupLyonSaintCyr-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-11-08T14:10:00+00:00"
-  },
-  {
-   "id": "oldoublerenfortbienvenumaisdeuxforfaitsplombentencorebrest",
-   "title": "OL : Double renfort bienvenu, mais deux forfaits plombent encore Brest",
-   "summary": "OL récupère Moussa Niakhaté et Ernest Nuamah pour Brest, mais Loïs Openda et Tyler Morton restent forfaits pour Jorge Maciel ce soir.",
-   "url": "https://www.butfootballclub.fr/1712257-ol-niakhate-nuamah-retours-brest-openda-morton/",
-   "source": "But! Football Club",
-   "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fa9014c55-ol-niakhate-nuamah-retours-brest-openda-morton-1200x800.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-11-08T13:43:41+00:00"
   },
   {
    "id": "lolprolongesonpartenariataveclechambrysavoiefootball",
@@ -141,17 +196,6 @@
    "publishedAt": "2026-11-08T10:38:00+00:00"
   },
   {
-   "id": "olleslyonnaisveulentbriserleursriebrest",
-   "title": "OL : les Lyonnais veulent briser leur série à Brest",
-   "summary": "L'OL retrouve le stade Francis-Le Blé ce dimanche 8 novembre (17h15), à l'occasion de la 10e journée de Ligue 1. Un déplacement qui ne réussit plus aux Rhodaniens : leur…",
-   "url": "https://www.olympique-et-lyonnais.com/ol-les-lyonnais-veulent-briser-leur-serie-a-brest,411999.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F01%2FAFP__20260118__936L4FJ__v1__HighRes__FblFraLigue1LyonBrest-e1768772764824-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-08T10:00:00+00:00"
-  },
-  {
    "id": "manchestercityladrivecherkinchappepasaumarasmemalgrunbutsple",
    "title": "Manchester City à la dérive, Cherki n’échappe pas au marasme malgré un but splendide",
    "summary": "Les Citizens ont enchaîné une troisième défaite consécutive en Premier League sur le terrain de Nottingham Forest, laissant Arsenal s’échapper un peu plus au classement (3-1)",
@@ -161,28 +205,6 @@
    "image": "https://images.weserv.nl/?url=img.20mn.fr%2F58gz1qsUSI6wyIWmlfqrbSk%2F1444x920_usage-editorial-uniquement-interdit-d-utiliser-des-fichiers-audio-video-donnees-listes-de-matches-logos-de-club-ligue-ou-services-en-direct-non-autorises-l-utilisation-en-ligne-pendant-le-match-est-limitee-a-120-images-pas-d-emulation-video-aucune-utilisation-dans-les-paris-les-jeux-ou-les-publications-concernant-un-seul-club-ligue-joueur-premier-league-credit-obligatoire-photo-de-michael-zemanek-shutterstock-17264867cg-rayan-cherki-de-manchester-city-nottingham-forest-v-manchester-city-premier-league-football-city-ground-nottingham-royaume-uni-07-novembre-2026-shutterstock-editorial-nottingham-forest-v-mancheste-17264867cg-usage-editorial-uniquement-interdit-d-utiliser-des-contenus-audio-video-donnees-listes-de-matches-logos-de-club-ligue-ou-services-en-direct-non-autorises-l-utilisation-en-ligne-pendant-le-match-est-limitee-a-120-images-pas-d-emulation-video-aucune-utilisation-dans-les-paris-les-jeux-ou-les-publications-concernant-un-seul-club-ligue-joueur-premiere-ligue-2611080056&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-11-08T09:23:30+00:00"
-  },
-  {
-   "id": "olmercatocarlosvicensviendraitavecquatreadjoints",
-   "title": "OL - Mercato : Carlos Vicens viendrait avec quatre adjoints",
-   "summary": "Attendu ce dimanche à Décines, Carlos Vicens ne viendrait pas seul à l'OL. Il signerait avec quatre adjoints. Après le Portugal, l'Espagne. La semaine prochaine, l'OL aura un nouvel entraîneur.…",
-   "url": "https://www.olympique-et-lyonnais.com/ol-mercato-carlos-vicens-viendrait-avec-quatre-adjoints,412457.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FCapture-decran-2026-11-08-093208-e1794126776493-770x433.png&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-08T09:10:00+00:00"
-  },
-  {
-   "id": "brestloldevraitreconduirelemme11quefaceangers",
-   "title": "À Brest, l'OL devrait reconduire le même 11 que face à Angers",
-   "summary": "Avec les retours de Moussa Niakhaté et Ernest Nuamah, l'OL pourrait aligner le même 11 qui a battu Angers la semaine passée. Le Ghanéen occuperait le poste d'avant-centre. Pour un…",
-   "url": "https://www.olympique-et-lyonnais.com/a-brest-lol-devrait-reconduire-le-meme-11-que-face-a-angers,412450.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260916__C8J393Y__v1__HighRes__FblEurC3AnderlechtLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-08T08:25:00+00:00"
   },
   {
    "id": "lyonlepcfmonteaucrneaucontreplusieursfermeturesannoncesdebur",
@@ -202,7 +224,7 @@
    "url": "https://www.lyonmag.com/article/154798/metropole-de-lyon-180-000-habitants-vivent-dans-un-quartier-prioritaire-un-premier-bilan-du-contrat-de-ville-prevu-en-2027",
    "source": "Lyon Mag",
    "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af03ba1be6b6-54586726390-17eac2ca40-o.jpg&w=800&output=webp&q=78",
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af03ba1be6b6-54586726390-17eac2ca40-o-31560.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-11-08T08:04:00+00:00"
   },
@@ -216,28 +238,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aedb657109b8-athekame.jpeg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-11-08T08:00:00+00:00"
-  },
-  {
-   "id": "oljorgemaciellintrimairepasencoreprtprendrelalumire",
-   "title": "OL : Jorge Maciel, l'intérimaire pas encore prêt à prendre la lumière",
-   "summary": "Deuxième et dernier match de l'intérim de Jorge Maciel ce dimanche à Brest. Le Portugais est tout à fait prêt à ensuite laisser le costume à Carlos Vicens. Si l'adage…",
-   "url": "https://www.olympique-et-lyonnais.com/ol-jorge-maciel-linterimaire-pas-encore-pret-a-prendre-la-lumiere,412443.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAFP__20261105__D6KL42N__v1__HighRes__FblEurC3RealSociedadLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-08T07:40:00+00:00"
-  },
-  {
-   "id": "brestollesgonesenqutedepointsavantlatrve",
-   "title": "Brest-OL : les Gones en quête de points avant la trêve",
-   "summary": "L’Olympique lyonnais affronte Brest ce dimanche à 17h15 pour le compte de la 10e journée de Ligue 1. Avant la trêve internationale, les Gones visent une victoire au stade Francis-Le Blé.",
-   "url": "https://www.lyonfoot.com/article/14722/brest-ol-un-dernier-souffle-avant-la-treve",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aed89f331e17-brest-ol-bacher.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-08T04:00:00+00:00"
   },
   {
    "id": "top14leloulaissefilerlavictoiremontpellieretpeutnourrirdesre",
