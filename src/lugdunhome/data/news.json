@@ -1,7 +1,6 @@
 {
- "updatedAt": "2026-11-09T06:22:54+00:00",
+ "updatedAt": "2026-11-09T19:47:13+00:00",
  "sources": [
-  "20 Minutes",
   "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
@@ -9,48 +8,257 @@
  ],
  "items": [
   {
-   "id": "ollyonchuteavantlarrivedesonnouvelentraneur",
-   "title": "OL : Lyon chute avant l’arrivée de son nouvel entraîneur",
-   "summary": "L'OL chute à Brest avant l'arrivée de Carlos Vicens, Monaco craque au Mans et Nice assure dans une journée déjà décisive pour l'OL.",
-   "url": "https://www.butfootballclub.fr/1712301-ol-brest-arrivee-carlos-vicens-monaco-nice/",
+   "id": "oluncinquimerenfortsurprisepourcarlosvicens",
+   "title": "OL : un cinquième renfort surprise pour Carlos Vicens !",
+   "summary": "L’OL a réservé une surprise dans le staff de Carlos Vicens en promouvant Sébastien Hamel au poste d’entraîneur des gardiens. L’Olympique Lyonnais a officialisé ce lundi l’arrivée de Carlos Vicens au poste d’entraîneur, en remplacement de Paulo Fonseca.",
+   "url": "https://www.butfootballclub.fr/1712770-ol-un-cinquieme-renfort-surprise-pour-carlos-vicens/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Ffcf22e09-ol-fonseca-remplace-par-un-coach-dont-le-nom-resonne-resonne-a-manchester-city-1200x800.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-09T19:30:00+00:00"
+  },
+  {
+   "id": "tkydgquiestvicenslenouvelentraneurdelolformparguardiola",
+   "title": "TKYDG : qui est Vicens, le nouvel entraîneur de l'OL, formé par Guardiola ?",
+   "summary": "Ce lundi, l'équipe de \"Tant qu'il y aura des Gones\" est revenue sur la défaite de l'OL à Brest juste avant la trêve internationale. Une coupure marquée par l'arrivée d'un…",
+   "url": "https://www.olympique-et-lyonnais.com/tkydg-qui-est-vicens-le-nouvel-entraineur-de-lol-forme-par-guardiola,412618.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FMiniature-09-11-2026-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-09T17:55:00+00:00"
+  },
+  {
+   "id": "rclensollesuccesseurdepierresagecrystalpalaceestconnu",
+   "title": "RC Lens, OL : le successeur de Pierre Sage à Crystal Palace est connu !",
+   "summary": "Alors que Pierre Sage devrait prochainement être limogé, Crystal Palace aurait déjà choisi son successeur sur le banc. Dans les prochaines heures, Pierre Sage devrait être démis de ses fonctions d’entraîneur de Crystal Palace.",
+   "url": "https://www.butfootballclub.fr/1712738-rc-lens-ol-le-successeur-de-pierre-sage-a-crystal-palace-a-fuite/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fef8f44b4-ol-1200x800.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-09T17:25:00+00:00"
+  },
+  {
+   "id": "olcestofficielpourcarlosvicens",
+   "title": "OL : c’est officiel pour Carlos Vicens !",
+   "summary": "L’OL a officialisé ce lundi la nomination de Carlos Vicens au poste d’entraîneur. Carlos Vicens est officiellement le nouvel entraîneur de l’Olympique Lyonnais. Comme attendu, le club rhodanien a officialisé ce lundi la venue du technicien espagnol, qui remplace donc Paulo Fonseca sur son banc.",
+   "url": "https://www.butfootballclub.fr/1712743-ol-cest-officiel-pour-carlos-vicens/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F067545e5-ol-lia-predit-le-successeur-de-paulo-fonseca-1200x800.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-09T17:04:13+00:00"
+  },
+  {
+   "id": "poursuccderpaulofonsecalolmisesurcarlosvicens",
+   "title": "Pour succéder à Paulo Fonseca, l'OL mise sur Carlos Vicens",
+   "summary": "Un peu moins d'une semaine après l'officialisation du départ de Paulo Fonseca, l'OL a trouvé son remplaçant. À 43 ans, Carlos Vicens va prendre en mains la formation lyonnaise avec un…",
+   "url": "https://www.olympique-et-lyonnais.com/pour-succeder-a-paulo-fonseca-lol-mise-sur-carlos-vicens,412556.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FHWsrU1dXMAEKd1m-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-09T17:04:10+00:00"
+  },
+  {
+   "id": "ollyonnescartonpleinpourlarserveetlesu19fminines",
+   "title": "OL Lyonnes : carton plein pour la réserve et les U19 féminines",
+   "summary": "Les deux équipes féminines de l'académie d'OL Lyonnes ont réalisé un excellent week-end. La réserve a remporté un choc important contre Clermont (2-0), tandis que les U19 ont largement dominé…",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-carton-plein-pour-la-reserve-et-les-u19-feminines,412577.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FCapture-decran-2026-02-02-a-23.57.18-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-11-09T16:20:00+00:00"
+  },
+  {
+   "id": "olonsaitquandlofficialisationdecarlosvicensvatomber",
+   "title": "OL : on sait quand l’officialisation de Carlos Vicens va tomber",
+   "summary": "Arrivé ce dimanche à Lyon, Carlos Vicens devrait être officialisé dans les prochaines heures comme nouvel entraîneur de l’OL. Sauf improbable retournement de situation, Carlos Vicens va devenir le nouvel entraîneur de l’Olympique Lyonnais.",
+   "url": "https://www.butfootballclub.fr/1712725-ol-on-sait-quand-lofficialisation-de-carlos-vicens-va-tomber/",
+   "source": "But! Football Club",
+   "author": "Fabien Chorlet",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F04bf9b1b-ol-le-favori-pour-remplacer-fonseca-a-fuite-1200x800.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-09T16:20:00+00:00"
+  },
+  {
+   "id": "olcarlosvicensofficiellementnommentraneurjusquenjuin2028",
+   "title": "OL : Carlos Vicens officiellement nommé entraîneur jusqu’en juin 2028",
+   "summary": "L'Olympique Lyonnais a un nouvel entraîneur. Après le départ de Paulo Fonseca, le club vient d'annoncer la signature de Carlos Vicens, ancien adjoint de Pep Guardiola, passé par Braga notamment.",
+   "url": "https://www.lyonfoot.com/article/14767/carlos-vicens-prend-les-commandes-de-l-ol-premier-entrainement-des-mardi",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af1fdef6e950-capture-decran-2026-11-09-a-18.png&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-09T16:07:00+00:00"
+  },
+  {
+   "id": "brestlessupportersdelolnontpasoubliricroy",
+   "title": "À Brest, les supporters de l'OL n'ont pas oublié Éric Roy",
+   "summary": "Dimanche, 250 supporters de l'OL ont fait le déplacement à Brest. Dans la défaite rhodanienne, ils n'ont pas oublié un ancien de la maison, Éric Roy, décédé il y a…",
+   "url": "https://www.olympique-et-lyonnais.com/a-brest-les-supporters-de-lol-nont-pas-oublie-eric-roy,412613.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FHWn6k9OWEAApUJc-e1794237275191-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-09T15:30:17+00:00"
+  },
+  {
+   "id": "braquagede54kgdorbesanonlapolicejudiciairedelyonimpliquedans",
+   "title": "Braquage de 54 kg d’or à Besançon : la police judiciaire de Lyon impliquée dans un vaste coup de filet",
+   "summary": "La police judiciaire lyonnaise au cœur d'une enquête d'envergure.",
+   "url": "https://www.lyonmag.com/article/154826/braquage-de-54-kg-d-or-a-besancon-la-police-judiciaire-de-lyon-impliquee-dans-un-vaste-coup-de-filet",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af1eebd6b466-26763518493-f674022698-o.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-09T15:01:00+00:00"
+  },
+  {
+   "id": "insultesmenacesbagarrelematchdesu17delolgrenoblevireaucauche",
+   "title": "Insultes, menaces, bagarre... Le match des U17 de l'OL à Grenoble vire au cauchemar",
+   "summary": "Dimanche, les U17 de l'OL se rendaient à Grenoble pour affronter ceux du GF38 à l'occasion de la 10e journée du championnat. Battus sur le terrain, les Lyonnais ont surtout…",
+   "url": "https://www.olympique-et-lyonnais.com/insultes-menaces-bagarre-le-match-des-u17-de-lol-a-grenoble-vire-au-cauchemar,412598.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FIMG_3700-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-09T14:38:56+00:00"
+  },
+  {
+   "id": "bouchonsautourduparcollamairededcinesrclamedessolutions",
+   "title": "Bouchons autour du Parc OL : la maire de Décines réclame des solutions",
+   "summary": "Après les importants embouteillages du samedi 7 novembre autour d'OL Vallée, la maire de Décines-Charpieu Laurence Fautra a dénoncé les conséquences des grands événements sur le quotidien des habitants.",
+   "url": "https://www.olympique-et-lyonnais.com/bouchons-autour-du-parc-ol-la-maire-de-decines-reclame-des-solutions,412568.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20231103__HL_NGUYONNET_2197490__v1__HighRes__FrancePoliticsRightWingPartyLauren-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-09T14:10:00+00:00"
+  },
+  {
+   "id": "ollessupportersonttranchpierresagenefaitplusrverlyon",
+   "title": "OL : les supporters ont tranché, Pierre Sage ne fait plus rêver à Lyon !",
+   "summary": "Alors que Pierre Sage traverse une période très compliquée à Crystal Palace, son nom refait surface du côté de l’OL. Mais l’ancien entraîneur lyonnais ne semble plus faire l’unanimité auprès des supporters, qui ne regrettent visiblement pas tous son départ.",
+   "url": "https://www.butfootballclub.fr/1712670-ol-les-supporters-ont-tranche-pierre-sage-ne-fait-plus-rever-a-lyon/",
    "source": "But! Football Club",
    "author": "Louis Chrestian",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F5d127ef0-ol-brest-arrivee-carlos-vicens-monaco-nice-1200x800.jpg&w=800&output=webp&q=78",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F5f9237f8-ol-les-supporters-ont-tranche-pierre-sage-ne-fait-plus-rever-a-lyon-1200x800.jpg&w=800&output=webp&q=78",
    "topic": "Mercato",
-   "publishedAt": "2026-11-08T19:34:09+00:00"
+   "publishedAt": "2026-11-09T13:40:00+00:00"
   },
   {
-   "id": "ligue1lextrieurlolesttoujoursengalre",
-   "title": "Ligue 1 : à l'extérieur, l'OL est toujours en galère",
-   "summary": "Nouvelle défaite pour l'OL à l'extérieur en Ligue 1. À Brest ce dimanche (2-0), il a enchaîné un troisième revers de rang loin de ses bases. Si, comme l'ambitionne Moussa…",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-1-a-lexterieur-lol-est-toujours-en-galere,412514.html",
+   "id": "salkumbediexolappelpourlapremirefoisaveclesbleus",
+   "title": "Saël Kumbedi (ex-OL) appelé pour la première fois avec les Bleus",
+   "summary": "À la suite du forfait de Pierre Kalulu, Saël Kumbedi a été appelé par Zinédine Zidane pour rejoindre l'équipe de France. Une première convocation chez les A pour l'ancien défenseur…",
+   "url": "https://www.olympique-et-lyonnais.com/sael-kumbedi-ex-ol-appele-pour-la-premiere-fois-avec-les-bleus,412587.html",
    "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FKeito-Nakmura-e1794164918884-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-08T19:30:00+00:00"
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F03%2F000_32BP7JK-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-11-09T13:20:00+00:00"
   },
   {
-   "id": "brestol20moussaniakhatregretteunpremierbutenfantin",
-   "title": "Brest - OL (2-0) : Moussa Niakhaté regrette un premier but \"enfantin\"",
-   "summary": "Plutôt bien entré dans sa rencontre, l'OL a déjoué après le premier but de Brest. Une réalisation \"enfantine\", déplore Moussa Niakhaté. D'une barre transversale de Keito Nakamura à une réalisation…",
-   "url": "https://www.olympique-et-lyonnais.com/brest-ol-2-0-moussa-niakhate-regrette-un-premier-but-enfantin,412505.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F07%2FDSC01541-e1760797591362-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-08T19:05:00+00:00"
+   "id": "cettejoueusedollyonnesestenfeuetprtebattredesrecords",
+   "title": "Cette joueuse d'OL Lyonnes est en feu et prête à battre des records",
+   "summary": "Avec 18 buts en 10 matchs consécutifs de Première Ligue, Melchie Dumornay se rapproche d’Ada Hegerberg. La Norvégienne avait marqué lors de 13 rencontres d’affilée.",
+   "url": "https://www.lyonfoot.com/article/14753/melchie-dumornay-reussit-la-passe-de-10-ada-hegerberg-reste-devant",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af1a61f99b52-55181743053-b2e52f339d-o.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-09T13:00:00+00:00"
   },
   {
-   "id": "brestol20lebaromtredumatchcequilfautretenir",
-   "title": "Brest - OL (2-0) : le baromètre du match, ce qu’il faut retenir",
-   "summary": "L'OL retombe dans ses travers à Brest (2-0). Une rencontre durant laquelle les Lyonnais n'auront pas été aidés par leur couloir droit. Retrouvez le baromètre de ce match. On a…",
-   "url": "https://www.olympique-et-lyonnais.com/brest-ol-2-0-le-barometre-du-match-ce-quil-faut-retenir,412494.html",
+   "id": "loladfaireavecunnuamahlimitfacebrest",
+   "title": "L'OL a dû faire avec un Nuamah limité face à Brest",
+   "summary": "Forfait face à la Real Sociedad, Ernest Nuamah a fait son retour dans le groupe de l'OL face à Brest (2-0). Néanmoins, le Ghanéen n'avait pas retrouvé 100% de ses…",
+   "url": "https://www.olympique-et-lyonnais.com/lol-a-du-faire-avec-un-nuamah-limite-face-a-brest,412565.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260829__C6TV2H6__v1__HighRes__FblFraLigue1LyonLeHavre-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-11-09T12:30:00+00:00"
+  },
+  {
+   "id": "pierresageexolplusquejamaissurunsigejectablecrystalpalace",
+   "title": "Pierre Sage (ex-OL) plus que jamais sur un siège éjectable à Crystal Palace ?",
+   "summary": "Battu pour la septième fois de la saison en Premier League, Crystal Palace est lanterne rouge au moment de basculer sur la deuxième trêve internationale de la saison. Cette fois,…",
+   "url": "https://www.olympique-et-lyonnais.com/pierre-sage-ex-ol-plus-que-jamais-sur-un-siege-ejectable-a-crystal-palace,412580.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20260908__DPPI_40227068_005__v1__HighRes__FootballEnglishChampFulhamVCrystalPal-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-09T11:40:00+00:00"
+  },
+  {
+   "id": "lyonlescommercespourrontouvrirtroisdimanchesaprslesviolences",
+   "title": "À Lyon, les commerces pourront ouvrir trois dimanches après les violences d’octobre",
+   "summary": "Le préfet du Rhône autorise les commerces de détail lyonnais à ouvrir les dimanches 15 et 22 novembre, puis le 27 décembre 2026. Cette dérogation intervient après les violences, dégradations et pillages des 17 et 18 octobre.",
+   "url": "https://www.lyonmag.com/article/154823/a-lyon-les-commerces-pourront-ouvrir-trois-dimanches-apres-les-violences-d-octobre",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af1b905e95cc-55124562780-445a37a04d-o.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-09T11:09:00+00:00"
+  },
+  {
+   "id": "olacadmiedoublpourhamdanilarservepassedeuxime",
+   "title": "OL Académie : doublé pour Hamdani, la réserve passe deuxième",
+   "summary": "Déjà buteur la semaine passée, Adil Hamdani s'est offert un doublé avec la réserve dimanche. Les Gones, vainqueurs 4-1 du Mâcon 71, grimpent à la deuxième place. Si vous vouliez…",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-double-pour-hamdani-la-reserve-passe-deuxieme,412522.html",
    "source": "Olympique-et-Lyonnais",
    "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAthekame-e1794161863562-770x433.jpg&w=800&output=webp&q=78",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FIMG_3757-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-09T10:50:00+00:00"
+  },
+  {
+   "id": "lepaindesucrelyonunvoyagegourmandaucurdubrsil",
+   "title": "Le Pain de Sucre à Lyon : un voyage gourmand au cœur du Brésil",
+   "summary": "Envie de troquer les bouchons lyonnais contre les saveurs ensoleillées du Brésil ? Direction Le Pain de Sucre, dans le quartier des Brotteaux, une adresse qui fait voyager les papilles depuis 2007.",
+   "url": "https://www.lyonrestaurant.fr/article/10639/le-pain-de-sucre-a-lyon-un-voyage-gourmand-au-coeur-du-bresil",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af1b1a1f3a67-870x489-6af1a307acce1-pain-de-sucre.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-09T10:42:00+00:00"
+  },
+  {
+   "id": "pierresagebienttlimogetsnobparlol",
+   "title": "Pierre Sage bientôt limogé et snobé par l'OL ?",
+   "summary": "Sous pression à Crystal Palace après la défaite contre Liverpool, Pierre Sage voit son avenir en question. À Lyon, l’OL a fait de Carlos Vicens sa priorité pour succéder à Paulo Fonseca.",
+   "url": "https://www.lyonfoot.com/article/14758/ol-pierre-sage-bientot-libre-pourquoi-lyon-l-ignore",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af19f41057ec-53512949560-2dc7e3707c-o.jpg&w=800&output=webp&q=78",
    "topic": "Match",
-   "publishedAt": "2026-11-08T18:40:00+00:00"
+   "publishedAt": "2026-11-09T09:25:00+00:00"
+  },
+  {
+   "id": "quenellesaucissonbriochttedeveaulecomptoircharlemagnejouelac",
+   "title": "Quenelle, saucisson brioché, tête de veau : le Comptoir Charlemagne joue la carte du Lyon traditionnel",
+   "summary": "Aux commandes du Comptoir Charlemagne, le chef Galen Sultana défend une cuisine généreuse, familiale et essentiellement faite maison. Une nouvelle table s'installe dans le paysage gastronomique lyonnais.",
+   "url": "https://www.lyonrestaurant.fr/article/10636/a-lyon-le-comptoir-charlemagne-remet-les-grands-classiques-lyonnais-au-gout-du-jour",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6ae79d76b5236-dish-salad-saint-marcellin-d460kniy.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-09T08:00:00+00:00"
+  },
+  {
+   "id": "lolperdetlomperformelathoriedesolympiquesserpte",
+   "title": "L'OL perd et l'OM performe, la théorie des Olympiques se répète ?",
+   "summary": "Au classement de Ligue 1, l’OM passe devant l’OL après sa victoire à Lens et la défaite lyonnaise à Brest. À la trêve internationale, 1 point sépare les 2 clubs.",
+   "url": "https://www.lyonfoot.com/article/14752/quand-l-ol-perd-l-om-gagne-la-fameuse-theorie-derriere-la-rivalite",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af1774637999-tagliafico.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-09T06:45:00+00:00"
   },
   {
    "id": "brestolloltombedehautlaprsfonsecadmarremal",
@@ -64,17 +272,6 @@
    "publishedAt": "2026-11-08T18:08:34+00:00"
   },
   {
-   "id": "beaucouptropapathiqueloltombebrestavantlatrve20",
-   "title": "Beaucoup trop apathique, l'OL tombe à Brest avant la trêve (2-0)",
-   "summary": "Pour la dernière sortie avant l'arrivée de Carlos Vicens, l'OL a livré une pâle copie à Brest (2-0). Une défaite logique au vu de la prestation offensive. Après le bon…",
-   "url": "https://www.olympique-et-lyonnais.com/beaucoup-trop-apathique-lol-tombe-a-brest-avant-la-treve-2-0,412488.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FTolisso-contre-Brest-e1794159875424-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-08T18:08:13+00:00"
-  },
-  {
    "id": "abrestlyonconcdeunetroisimedfaitedesuiteloindesesbases",
    "title": "A Brest, Lyon concède une troisième défaite de suite loin de ses bases",
    "summary": "L’Olympique lyonnais s'est logiquement incliné ce dimanche à Brest. Pas assez incisifs, les joueurs de Jorge Maciel vont devoir compter sur la trêve internationale pour recharger les batteries.",
@@ -84,39 +281,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af0b945f10a1-hwnlyiwxkaa-ag2.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-11-08T17:08:00+00:00"
-  },
-  {
-   "id": "brestolautourdecorentintolissodesessayeren9",
-   "title": "Brest - OL : au tour de Corentin Tolisso de s'essayer en \"9\"",
-   "summary": "Après Khalis Merah et Ernest Nuamah, c'est Corentin Tolisso qui évoluera au poste d'avant-centre ce dimanche à Brest (17h15). Le 11 de l'OL comprend plusieurs surprises. Que de surprises dans…",
-   "url": "https://www.olympique-et-lyonnais.com/brest-ol-au-tour-de-corentin-tolisso-de-sessayer-en-9,412466.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260811__C4F64JY__v1__HighRes__FblEurC1QualifyingLyonPrague-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-08T15:20:19+00:00"
-  },
-  {
-   "id": "mathysdecarvalhoexoloublidepuissondpartaldiriyah",
-   "title": "Mathys de Carvalho (ex-OL) oublié depuis son départ à Al-Diriyah",
-   "summary": "Parti de l'OL début septembre pour rejoindre Al-Diriyah, en Arabie saoudite, Mathys De Carvalho connaît des débuts particulièrement discrets dans sa nouvelle aventure. Près de deux mois après son transfert,…",
-   "url": "https://www.olympique-et-lyonnais.com/mathys-de-carvalho-ex-ol-oublie-depuis-son-depart-a-al-diriyah,412031.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F12%2FAFP__20251221__88TB4EM__v1__HighRes__FblFraCupLyonSaintCyr-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-08T14:10:00+00:00"
-  },
-  {
-   "id": "lolprolongesonpartenariataveclechambrysavoiefootball",
-   "title": "L'OL prolonge son partenariat avec le Chambéry Savoie Football",
-   "summary": "L'Olympique lyonnais poursuit son travail de proximité avec les clubs amateurs voisins. Le Chambéry Savoie Football a renouvelé sa convention de partenariat avec le club rhodanien, une collaboration qui dure…",
-   "url": "https://www.olympique-et-lyonnais.com/lol-prolonge-son-partenariat-avec-le-chambery-savoie-football,412160.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FCapture-decran-2026-11-05-a-09.48.57-770x433.png&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-08T13:20:00+00:00"
   },
   {
    "id": "lyonplusieursjournalistesblesssenmanifestationlesnjinterpell",
@@ -130,17 +294,6 @@
    "publishedAt": "2026-11-08T12:48:00+00:00"
   },
   {
-   "id": "brestollestadebrestoisendifficultdomicilecettesaison",
-   "title": "Brest - OL : le Stade Brestois en difficulté à domicile cette saison",
-   "summary": "Avant de recevoir l'OL ce dimanche (17 h 15), le Stade Brestois ne présente pas un bilan très rassurant devant son public. Avec seulement quatre points en quatre rencontres, il…",
-   "url": "https://www.olympique-et-lyonnais.com/brest-ol-le-stade-brestois-en-difficulte-a-domicile-cette-saison,412203.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FP34620782D6482503G-770x433.webp&w=800&output=webp&q=78",
-   "topic": "Club",
-   "publishedAt": "2026-11-08T12:30:00+00:00"
-  },
-  {
    "id": "lemarriottlyoncitinternationalechangedepropritaire",
    "title": "Le Marriott Lyon Cité Internationale change de propriétaire",
    "summary": "Le groupe IHM annonce l’acquisition du Marriott Lyon Cité Internationale auprès de Lavorel Hotels. L’opération, qui porte à la fois sur les murs et le fonds de commerce de cet hôtel 4 étoiles de 204 chambres et suites, renforce encore la présence d’IHM dans la métropole lyonnaise.",
@@ -152,28 +305,6 @@
    "publishedAt": "2026-11-08T12:00:00+00:00"
   },
   {
-   "id": "brestsattendunoldanslacontinuitmalgrledpartdepaulofonseca",
-   "title": "Brest s'attend à un OL dans la continuité malgré le départ de Paulo Fonseca",
-   "summary": "Ce dimanche, Brest reçoit l'OL avec la volonté de confirmer sa victoire à Lorient (0-2). Pour le coach Julien Lachuer, les Lyonnais afficheront les mêmes principes que sous Paulo Fonseca.…",
-   "url": "https://www.olympique-et-lyonnais.com/brest-sattend-a-un-ol-dans-la-continuite-malgre-le-depart-de-paulo-fonseca,412353.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2022%2F12%2F000_33684H7-scaled-e1672337804493-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-08T11:40:00+00:00"
-  },
-  {
-   "id": "brestolavantmatchhorairediffusiontv",
-   "title": "Brest - OL : avant-match, horaire, diffusion TV",
-   "summary": "L'Olympique lyonnais se déplace sur la pelouse de Brest ce dimanche 8 novembre, à l'occasion de la 10e journée de Ligue 1. Après sa victoire contre Angers (2-0), l'OL veut…",
-   "url": "https://www.olympique-et-lyonnais.com/brest-ol-avant-match-horaire-diffusion-tv-3,412170.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2FAFP__20251102__82T98B7__v1__HighRes__FblFraLigue1BrestLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-08T10:50:00+00:00"
-  },
-  {
    "id": "rhneuneravepartyclandestineorganiseenpleinefortmalgrlinterdi",
    "title": "Rhône : une rave party clandestine organisée en pleine forêt malgré l'interdiction préfectorale",
    "summary": "Une quarantaine de personnes se sont retrouvées dans les monts du Lyonnais pour une rave party dans la nuit de samedi à dimanche. Alertés par des riverains excédés par le bruit, les gendarmes sont intervenus ce 8 novembre à Courzieu pour mettre fin au rassemblement.",
@@ -183,17 +314,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af05f88364b5-54993440934-b7fc4c7797-o.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-11-08T10:38:00+00:00"
-  },
-  {
-   "id": "manchestercityladrivecherkinchappepasaumarasmemalgrunbutsple",
-   "title": "Manchester City à la dérive, Cherki n’échappe pas au marasme malgré un but splendide",
-   "summary": "Les Citizens ont enchaîné une troisième défaite consécutive en Premier League sur le terrain de Nottingham Forest, laissant Arsenal s’échapper un peu plus au classement (3-1)",
-   "url": "https://www.20minutes.fr/sport/football/4261270-20261108-manchester-city-derive-cherki-echappe-marasme-malgre-but-splendide?at_medium=display&at_campaign=149",
-   "source": "20 Minutes",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2F58gz1qsUSI6wyIWmlfqrbSk%2F1444x920_usage-editorial-uniquement-interdit-d-utiliser-des-fichiers-audio-video-donnees-listes-de-matches-logos-de-club-ligue-ou-services-en-direct-non-autorises-l-utilisation-en-ligne-pendant-le-match-est-limitee-a-120-images-pas-d-emulation-video-aucune-utilisation-dans-les-paris-les-jeux-ou-les-publications-concernant-un-seul-club-ligue-joueur-premier-league-credit-obligatoire-photo-de-michael-zemanek-shutterstock-17264867cg-rayan-cherki-de-manchester-city-nottingham-forest-v-manchester-city-premier-league-football-city-ground-nottingham-royaume-uni-07-novembre-2026-shutterstock-editorial-nottingham-forest-v-mancheste-17264867cg-usage-editorial-uniquement-interdit-d-utiliser-des-contenus-audio-video-donnees-listes-de-matches-logos-de-club-ligue-ou-services-en-direct-non-autorises-l-utilisation-en-ligne-pendant-le-match-est-limitee-a-120-images-pas-d-emulation-video-aucune-utilisation-dans-les-paris-les-jeux-ou-les-publications-concernant-un-seul-club-ligue-joueur-premiere-ligue-2611080056&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-08T09:23:30+00:00"
   },
   {
    "id": "lyonlepcfmonteaucrneaucontreplusieursfermeturesannoncesdebur",
@@ -260,39 +380,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aee336563a0a-woujow-lut-24-sd-145.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-11-07T07:00:00+00:00"
-  },
-  {
-   "id": "lensollyonneslesfenottescherchentpoursuivreleursrie",
-   "title": "Lens-OL Lyonnes : les fenottes cherchent à poursuivre leur série",
-   "summary": "Les Lyonnaises défient le RC Lens ce soir à 18h, pour le compte de la 8e journée de Première Ligue. Diffusion, classement et chiffres clés avant ce déplacement dans le Nord.",
-   "url": "https://www.lyonfoot.com/article/14721/lens-ol-lyonnes-garder-le-nord-et-prolonger-la-serie",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aed7eca9972d-ol-lyonnes-2.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-07T05:00:00+00:00"
-  },
-  {
-   "id": "lyonpolitiquesmanifestationscommercesetftedeslumires061126",
-   "title": "Lyon Politiques : manifestations, commerces et Fête des Lumières - 06/11/26",
-   "summary": "L'émission Lyon Politiques et ses intervenants décryptent pour vous les évènements marquants de la semaine dans l'agglomération lyonnaise.",
-   "url": "https://www.lyonmag.com/article/154782/lyon-politiques-manifestations-commerces-et-fete-des-lumieres-06-11-26",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aedf8ff0c7bd-design-sans-titre-2.png&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-06T14:30:00+00:00"
-  },
-  {
-   "id": "manifestationdu5novembrelyonlamajoritmunicipalednoncedesviol",
-   "title": "Manifestation du 5 novembre à Lyon : la majorité municipale dénonce des \"violences policières\" et saisit le procureur",
-   "summary": "Les groupes de la majorité municipale lyonnaise dénoncent des violences commises, selon eux, par les forces de l’ordre en marge de la manifestation du 5 novembre. Plusieurs élus annoncent vouloir saisir le procureur de la République au titre de",
-   "url": "https://www.lyonmag.com/article/154779/manifestation-du-5-novembre-a-lyon-la-majorite-municipale-denonce-des-violences-policieres-et-saisit-le-procureur",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6aedd5d510bbf-violences-policieres.png&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-06T13:00:00+00:00"
   }
  ]
 }
