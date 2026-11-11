@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T21:17:18+00:00",
+ "updatedAt": "2026-11-11T06:14:01+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,39 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "lemuselumeilleurbouchonlyonnais2026devantchezmounieretchezpa",
+   "title": "Le Musée élu meilleur bouchon lyonnais 2026 devant Chez Mounier et Chez Paul",
+   "summary": "Le Musée a remporté le prix Florent-Dessus 2026, une récompense décernée chaque année par l'association de défense des bouchons lyonnais. Le trophée a été remis ce lundi 9 novembre au sein même de l'établissement.",
+   "url": "https://www.lyonrestaurant.fr/article/10640/lyon-cache-au-fond-d-une-traboule-ce-bouchon-vient-d-etre-sacre-meilleur-de-la-ville",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af4051070a7f-whatsapp-image-2026-11-10-at-15-26-03.jpeg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-11T05:02:00+00:00"
+  },
+  {
+   "id": "aprslasoirechaotiquedu7novembremeyzieurclamedenouvellesrgles",
+   "title": "Après la soirée chaotique du 7 novembre, Meyzieu réclame de nouvelles règles à l’OL Vallée",
+   "summary": "Après un concert à la LDLC Arena et le match France-Fidji au Groupama Stadium, commencés à 1h10 d’intervalle, la Ville de Meyzieu dénonce les difficultés rencontrées par les riverains.",
+   "url": "https://www.lyonmag.com/article/154844/apres-la-soiree-chaotique-du-7-novembre-meyzieu-reclame-de-nouvelles-regles-a-l-ol-vallee",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af3fc73e2b39-24005097089-060efbe42c-o.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-11T04:21:00+00:00"
+  },
+  {
+   "id": "juventusollyonneslesfenottescherchentfairelebreakenliguedesc",
+   "title": "Juventus-OL Lyonnes : les Fenottes cherchent à faire le break en Ligue des Champions",
+   "summary": "Fort de ses 8 victoires en 8 journées de Première Ligue, l’OL Lyonnes se rend à Biella ce soir à 21h avec l’occasion de prendre 4 points d’avance sur la Juventus en Europe.",
+   "url": "https://www.lyonfoot.com/article/14780/juventus-ol-lyonnes-l-occasion-de-mettre-la-juve-a-4-points",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af2d0e3b56ef-ol-lyonnes-2.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-11T04:00:00+00:00"
+  },
   {
    "id": "ollenouvelentraneurfixetroiscapsetplacelabarrehaut",
    "title": "OL : le nouvel entraîneur fixe trois caps et place la barre haut",
@@ -161,17 +194,6 @@
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2Fjuventus_fc_v_ol_lyonnes_-_uefa_women_s_champions_league_2025_26_league_phase_md4-770x433.jpeg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-11-10T14:45:00+00:00"
-  },
-  {
-   "id": "olrealmadridleclindoeilinattendudekarimbenzemalom",
-   "title": "OL, Real Madrid : le clin d’oeil inattendu de Karim Benzema à l’OM",
-   "summary": "Karim Benzema a bien aimé le but d’Amine Gouiri face au RC Lens, dimanche à Bollaert (2-1). Karim Benzema n’a pas manqué le début de match entre le RC Lens et l’OM.",
-   "url": "https://www.butfootballclub.fr/1713000-ol-real-madrid-le-clin-doeil-inattendu-de-karim-benzema-a-lom/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F721de031-ol-real-madrid-le-clin-doeil-inattendu-de-karim-benzema-a-lom-1200x800.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-10T13:40:00+00:00"
   },
   {
    "id": "juventusturinollyonnesunearbitrealbanaiseausifflet",
@@ -392,28 +414,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af0b945f10a1-hwnlyiwxkaa-ag2.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-11-08T17:08:00+00:00"
-  },
-  {
-   "id": "lyonplusieursjournalistesblesssenmanifestationlesnjinterpell",
-   "title": "Lyon : plusieurs journalistes blessés en manifestation, le SNJ interpelle le ministère de l’Intérieur",
-   "summary": "Le Syndicat national des journalistes (SNJ) Rhône-Ain-Loire alerte sur une succession de blessures subies par des journalistes lors des manifestations lyonnaises de ces dernières semaines.",
-   "url": "https://www.lyonmag.com/article/154805/lyon-plusieurs-journalistes-blesses-en-manifestation-le-snj-interpelle-le-ministere-de-l-interieur",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af07f730e1eb-52768563625-acb0ae1b6f-o.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-11-08T12:48:00+00:00"
-  },
-  {
-   "id": "lemarriottlyoncitinternationalechangedepropritaire",
-   "title": "Le Marriott Lyon Cité Internationale change de propriétaire",
-   "summary": "Le groupe IHM annonce l’acquisition du Marriott Lyon Cité Internationale auprès de Lavorel Hotels. L’opération, qui porte à la fois sur les murs et le fonds de commerce de cet hôtel 4 étoiles de 204 chambres et suites, renforce encore la présence d’IHM dans la métropole lyonnaise.",
-   "url": "https://www.lyonmag.com/article/154797/le-marriott-lyon-cite-internationale-change-de-proprietaire",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af01c777beda-lysmc-lobby-6572-hor-clsc.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-08T12:00:00+00:00"
   }
  ]
 }
