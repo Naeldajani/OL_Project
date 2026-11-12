@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T21:55:47+00:00",
+ "updatedAt": "2026-11-12T07:07:31+00:00",
  "sources": [
   "20 Minutes",
   "Lyon Mag",
@@ -7,6 +7,61 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "rubenkluivertolvadevenirpapa",
+   "title": "Ruben Kluivert (OL) va devenir papa",
+   "summary": "Après Tyler Morton, Abner ou encore Clinton Mata ces derniers mois, Ruben Kluivert va rejoindre la groupe des nouveaux papas du vestiaire de l'OL. Le défenseur néerlandais a annoncé la…",
+   "url": "https://www.olympique-et-lyonnais.com/ruben-kluivert-ol-va-devenir-papa,412468.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F10%2FAFP__20251002__77JU4MA__v1__HighRes__FblEurC3LyonSalzburg-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-12T07:00:00+00:00"
+  },
+  {
+   "id": "premireliguebrandetdumornayollyonnesencorenommesenoctobre",
+   "title": "Première Ligue : Brand et Dumornay (OL Lyonnes) encore nommées en octobre",
+   "summary": "OL Lyonnes est bien représenté parmi les meilleures joueuses de Première Ligue. Jule Brand et Melchie Dumornay tenteront de décrocher cette distinction, aux côtés de Mariam Toloba, du FC Nantes.…",
+   "url": "https://www.olympique-et-lyonnais.com/premiere-ligue-brand-et-dumornay-ol-lyonnes-encore-nommees-en-octobre,412851.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fd51257fe2bfec889ccfe5324cd115401-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-11-12T06:30:00+00:00"
+  },
+  {
+   "id": "quisontlesjoueursdelolquiaurontlemoinsdetempsdereposaprslatr",
+   "title": "Qui sont les joueurs de l'OL qui auront le moins de temps de repos après la trêve ?",
+   "summary": "Avant Lille-OL, les internationaux lyonnais disposeront de délais de récupération inégaux. Nicolás Tagliafico devra notamment composer avec un retour tardif d’Argentine.",
+   "url": "https://www.lyonfoot.com/article/14782/apres-la-treve-quel-joueur-de-l-ol-aura-le-moins-de-temps-pour-souffler",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af55817beb58-ol.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-12T05:45:00+00:00"
+  },
+  {
+   "id": "osontlescamrasmontchatlluesophiehnontmoigneaprssonagressionl",
+   "title": "\"Où sont les caméras à Montchat ?\" : l'élue Sophie Hénon témoigne après son agression à Lyon",
+   "summary": "Deux hommes ont attaquée et dépouillée Sophie Hénon de sa chaîne mardi 10 novembre vers 22 h 30, cours du Docteur-Long, dans le quartier de Montchat, à Lyon. L’élue métropolitaine du groupe Grand Cœur Lyonnais interpelle les responsables politiques sur la vidéosurveillance dans le quartier.",
+   "url": "https://www.lyonmag.com/article/154889/ou-sont-les-cameras-a-montchat-l-elue-sophie-henon-temoigne-apres-son-agression-a-lyon",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af54ad70ada5-csm-260608-henon-s-1500x1000-801791b86a.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-12T04:12:00+00:00"
+  },
+  {
+   "id": "29butsencinqmatchsollyonnespoursuitsasriefolleencorrigeantla",
+   "title": "29 buts en cinq matchs : OL Lyonnes poursuit sa série folle en corrigeant la Juventus",
+   "summary": "La démonstration continue pour OL Lyonnes. Après avoir inscrit sept buts face à Lens en championnat samedi dernier, les Fenottes ont encore fait parler leur puissance offensive sur la scène européenne mercredi face à la Juventus Turin.",
+   "url": "https://www.lyonfoot.com/article/14780/ligue-des-champions-les-lyonnes-humilient-la-juventus-turin-6-0-et-poursuivent-leur-festival-offensif",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af53cdf94924-hw4i-dpxyaa1zvn-3110.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-11-12T03:00:00+00:00"
+  },
   {
    "id": "jeusetetmatchpourollyonnescontrelajuventus06",
    "title": "Jeu, set et match pour OL Lyonnes contre la Juventus (0-6)",
@@ -118,17 +173,6 @@
    "publishedAt": "2026-11-11T11:40:00+00:00"
   },
   {
-   "id": "juventusollyonnesavantmatchhorairediffusiontv",
-   "title": "Juventus - OL Lyonnes : avant-match, horaire, diffusion TV",
-   "summary": "Pour la quatrième journée de Ligue des champions, OL Lyonnes se déplace en Italie ce mercredi 11 novembre pour affronter la Juventus. Toujours invaincues dans la compétition, les joueuses de…",
-   "url": "https://www.olympique-et-lyonnais.com/juventus-ol-lyonnes-avant-match-horaire-diffusion-tv,412854.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F11%2Fjuventus_fc_v_ol_lyonnes_-_uefa_women_s_champions_league_2025_26_league_phase_md4-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-11T10:50:00+00:00"
-  },
-  {
    "id": "juventusfollyonnessurquellechanetvetquelleheurevoirlematchde",
    "title": "Juventus (F) - OL Lyonnes : Sur quelle chaîne TV et à quelle heure voir le match de Ligue des champions féminine ?",
    "summary": "Mercredi à 21h, les Lyonnaises, 2e de la poule unique, se déplacent sur la pelouse des Turinoises pour affronter la Juve, 6e",
@@ -138,17 +182,6 @@
    "image": "https://images.weserv.nl/?url=img.20mn.fr%2FPRySHv1sR7qvr0JDXtxNvCk%2F1444x920_credit-obligatoire-photo-de-pauline-figuet-spp-shutterstock-17165580fj-marie-antoinette-katoto-de-l-ol-lyonnes-celebre-avec-ses-coequipieres-apres-avoir-marque-le-troisieme-but-de-son-equipe-lors-de-la-phase-md1-de-la-ligue-des-champions-feminine-de-l-uefa-2026-27-entre-le-servette-fc-chenois-feminin-et-l-ol-lyonnes-au-stade-de-geneve-le-23-septembre-2026-a-geneve-en-suisse-servette-fc-chenois-feminin-v-ol-lyonnes-ligue-des-champions-feminine-de-l-uefa-2026-27-phase-de-championnat-md1-stade-de-geneve-geneve-suisse-23-septembre-2026-shutterstock-editorial-servette-fc-chenois-feminin-v-17165580fj-2609240130&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-11-11T10:34:10+00:00"
-  },
-  {
-   "id": "olleprogrammedesinternationauxpourlatrvedenovembre",
-   "title": "OL : le programme des internationaux pour la trêve de novembre",
-   "summary": "Depuis ce lundi, plusieurs joueurs de l'Olympique lyonnais ont quitté Décines pour rejoindre leur sélection. Des jeunes aux sélections nationales A, voici le programme des Lyonnais convoqués avec leur pays.…",
-   "url": "https://www.olympique-et-lyonnais.com/ol-le-programme-des-internationaux-pour-la-treve-de-novembre,412608.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAFP__20260627__kumala-thefifaw260626_npccP__v1__HighRes__SenegalVIraqGroupIFifaWorld-e1782717990223-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-11-11T10:00:00+00:00"
   },
   {
    "id": "quandlolestdanscettesituationilestintraitable",
@@ -193,17 +226,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af3fc73e2b39-24005097089-060efbe42c-o.jpg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-11-11T04:21:00+00:00"
-  },
-  {
-   "id": "juventusollyonneslesfenottescherchentfairelebreakenliguedesc",
-   "title": "Juventus-OL Lyonnes : les Fenottes cherchent à faire le break en Ligue des Champions",
-   "summary": "Fort de ses 8 victoires en 8 journées de Première Ligue, l’OL Lyonnes se rend à Biella ce soir à 21h avec l’occasion de prendre 4 points d’avance sur la Juventus en Europe.",
-   "url": "https://www.lyonfoot.com/article/14780/juventus-ol-lyonnes-l-occasion-de-mettre-la-juve-a-4-points",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af2d0e3b56ef-ol-lyonnes-2.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-11T04:00:00+00:00"
   },
   {
    "id": "oljobservaissesroutinesvicensinspirparguardiola",
@@ -325,50 +347,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af1eebd6b466-26763518493-f674022698-o.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-11-09T15:01:00+00:00"
-  },
-  {
-   "id": "cettejoueusedollyonnesestenfeuetprtebattredesrecords",
-   "title": "Cette joueuse d'OL Lyonnes est en feu et prête à battre des records",
-   "summary": "Avec 18 buts en 10 matchs consécutifs de Première Ligue, Melchie Dumornay se rapproche d’Ada Hegerberg. La Norvégienne avait marqué lors de 13 rencontres d’affilée.",
-   "url": "https://www.lyonfoot.com/article/14753/melchie-dumornay-reussit-la-passe-de-10-ada-hegerberg-reste-devant",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af1a61f99b52-55181743053-b2e52f339d-o.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-09T13:00:00+00:00"
-  },
-  {
-   "id": "lyonlescommercespourrontouvrirtroisdimanchesaprslesviolences",
-   "title": "À Lyon, les commerces pourront ouvrir trois dimanches après les violences d’octobre",
-   "summary": "Le préfet du Rhône autorise les commerces de détail lyonnais à ouvrir les dimanches 15 et 22 novembre, puis le 27 décembre 2026. Cette dérogation intervient après les violences, dégradations et pillages des 17 et 18 octobre.",
-   "url": "https://www.lyonmag.com/article/154823/a-lyon-les-commerces-pourront-ouvrir-trois-dimanches-apres-les-violences-d-octobre",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af1b905e95cc-55124562780-445a37a04d-o.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-09T11:09:00+00:00"
-  },
-  {
-   "id": "lepaindesucrelyonunvoyagegourmandaucurdubrsil",
-   "title": "Le Pain de Sucre à Lyon : un voyage gourmand au cœur du Brésil",
-   "summary": "Envie de troquer les bouchons lyonnais contre les saveurs ensoleillées du Brésil ? Direction Le Pain de Sucre, dans le quartier des Brotteaux, une adresse qui fait voyager les papilles depuis 2007.",
-   "url": "https://www.lyonrestaurant.fr/article/10639/le-pain-de-sucre-a-lyon-un-voyage-gourmand-au-coeur-du-bresil",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af1b1a1f3a67-870x489-6af1a307acce1-pain-de-sucre.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-09T10:42:00+00:00"
-  },
-  {
-   "id": "pierresagebienttlimogetsnobparlol",
-   "title": "Pierre Sage bientôt limogé et snobé par l'OL ?",
-   "summary": "Sous pression à Crystal Palace après la défaite contre Liverpool, Pierre Sage voit son avenir en question. À Lyon, l’OL a fait de Carlos Vicens sa priorité pour succéder à Paulo Fonseca.",
-   "url": "https://www.lyonfoot.com/article/14758/ol-pierre-sage-bientot-libre-pourquoi-lyon-l-ignore",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af19f41057ec-53512949560-2dc7e3707c-o.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-09T09:25:00+00:00"
   },
   {
    "id": "brestolloltombedehautlaprsfonsecadmarremal",
