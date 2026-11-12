@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T17:34:27+00:00",
+ "updatedAt": "2026-11-12T23:37:10+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olmercatoaprsfonsecaunautrejolichquepourraittomberlyon",
+   "title": "OL Mercato : après Fonseca, un autre joli chèque pourrait tomber à Lyon !",
+   "summary": "Malgré son excellente intégration à l’Olympique Lyonnais, Zachary Athekame reste dans le viseur de l’AC Milan, qui espère toujours pouvoir le rapatrier dès le mercato hivernal. L’OL pourrait-il perdre l’une de ses bonnes surprises de la saison dès cet hiver ?",
+   "url": "https://www.butfootballclub.fr/1713367-ol-mercato-apres-fonseca-un-autre-joli-cheque-pourrait-tomber-a-lyon/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F2d1cbeae-ol-mercato-fonseca-prive-de-son-meilleur-joueur-a-partir-de-janvier-1200x800.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-12T19:00:00+00:00"
+  },
   {
    "id": "oltantquilyauradesgonesspcialcarlosvicensenpodcastetreplay",
    "title": "OL : Tant qu’il y aura des Gones spécial Carlos Vicens en podcast et replay",
@@ -83,17 +94,6 @@
    "author": "Gwendal Chabas",
    "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAFP__20261110__D6ZV24N__v1__HighRes__FblFranceLigue1LyonTraining-770x433.jpg&w=800&output=webp&q=78",
    "topic": "Match",
-   "publishedAt": "2026-11-12T13:20:00+00:00"
-  },
-  {
-   "id": "ompsgasserclensfcnantesolstaderennaisaprsnetflixetdisneyunga",
-   "title": "OM, PSG, ASSE, RC Lens, FC Nantes, OL, Stade Rennais : après Netflix et Disney, un géant mondial veut rafler les droits TV !",
-   "summary": "La bataille des droits TV de la Ligue 1 pourrait prendre une dimension internationale. Le dossier des droits audiovisuels du football français suscite visiblement de nombreuses convoitises.",
-   "url": "https://www.butfootballclub.fr/1713286-om-psg-asse-rc-lens-fc-nantes-ol-stade-rennais-apres-netflix-et-disney-un-geant-mondial-veut-rafler-les-droits-tv/",
-   "source": "But! Football Club",
-   "author": "Bastien Aubert",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fb9c320d5-asse-fc-nantes-la-ligue-2-deja-frappee-par-un-horrible-drame-1200x800.jpg&w=800&output=webp&q=78",
-   "topic": "Club",
    "publishedAt": "2026-11-12T13:20:00+00:00"
   },
   {
