@@ -1,12 +1,57 @@
 {
- "updatedAt": "2026-11-13T17:11:37+00:00",
+ "updatedAt": "2026-11-13T23:31:04+00:00",
  "sources": [
   "20 Minutes",
+  "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olbonnenouvellepourpavelulc",
+   "title": "OL : bonne nouvelle pour Pavel Šulc !",
+   "summary": "Pavel Šulc a franchi une étape importante dans sa guérison : opéré du ménisque en République tchèque, le Tchèque peut désormais entamer sa convalescence. Les nouvelles sont plutôt rassurantes pour Pavel Šulc.",
+   "url": "https://www.butfootballclub.fr/1713666-ol-bonne-nouvelle-pour-pavel-sulc/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fd8855106-lol-bat-nice-et-prend-la-tete-les-tops-les-flops-les-notes-des-gones-1200x799.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-13T19:40:00+00:00"
+  },
+  {
+   "id": "psgmercatoparisaralisuneaffaireenor16m",
+   "title": "PSG Mercato : Paris a réalisé une affaire en or à 16 M€ !",
+   "summary": "Le transfert de Gonçalo Ramos à l’AC Milan pourrait rapporter jusqu’à 86 millions d’euros au PSG, grâce à plusieurs bonus négociés par le club parisien. Le PSG a visiblement réalisé une très belle opération financière avec Gonçalo Ramos.",
+   "url": "https://www.butfootballclub.fr/1713646-psg-mercato-paris-a-realise-une-affaire-en-or-pour-seulement-16-me/",
+   "source": "But! Football Club",
+   "author": "William Tertrin",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F0970cc07-psg-mercato-un-depart-a-40-millions-deuros-pour-lun-des-joueurs-les-plus-prolifiques-1200x800.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-13T17:40:00+00:00"
+  },
+  {
+   "id": "ollyonnestarcianeretenueaveclebrsilpourdeuxamicaux",
+   "title": "OL Lyonnes : Tarciane retenue avec le Brésil pour deux amicaux",
+   "summary": "Tarciane figure dans la liste des 26 joueuses convoquées par Arthur Elias avec le Brésil. La défenseure d'OL Lyonnes participera aux deux matchs amicaux face au Japon, prévus les 29…",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-tarciane-retenue-avec-le-bresil-pour-deux-amicaux,413145.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F01%2Fbrazil-v-spain-womens-football-semifinal-olympic-games-paris-2024-day-11-1024x674-1-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-11-13T17:20:00+00:00"
+  },
+  {
+   "id": "vitrineduretourdesmdicamentsfabriqusenfrancelelaboratoireben",
+   "title": "Vitrine du retour des médicaments fabriqués en France, le laboratoire Benta Lyon de nouveau en difficulté",
+   "summary": "Un nouveau coup dur pour l'industrie pharmaceutique lyonnaise.",
+   "url": "https://www.lyonmag.com/article/154920/vitrine-du-retour-des-medicaments-fabriques-en-france-le-laboratoire-benta-lyon-de-nouveau-en-difficulte",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af7516dd08d3-pexels-elementsinteractive-37466061.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-13T17:00:00+00:00"
+  },
   {
    "id": "loletollyonnesdepassageenrpubliqueducongo",
    "title": "L'OL et OL Lyonnes de passage en République du Congo",
@@ -138,17 +183,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af6edcb52ad4-capture-decran-2026-11-13-a-12.png&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-11-13T09:56:00+00:00"
-  },
-  {
-   "id": "ollyonnesattendulabeaujoiredenantesendcembre",
-   "title": "OL Lyonnes attendu à la Beaujoire de Nantes en décembre",
-   "summary": "OL Lyonnes se déplacera le samedi 12 décembre prochain pour affronter le FC Nantes. Ce sera une rencontre particulière puisque les joueuses rhodaniennes découvriront pour la première fois la Beaujoire.…",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-attendu-a-la-beaujoire-de-nantes-en-decembre,412953.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FG3nWkqRWgAAyStA-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-13T09:10:00+00:00"
   },
   {
    "id": "cequilfautretenirdubilanfinanciertrimestrielpubliparlol",
