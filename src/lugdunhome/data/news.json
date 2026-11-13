@@ -1,22 +1,165 @@
 {
- "updatedAt": "2026-11-13T06:42:07+00:00",
+ "updatedAt": "2026-11-13T17:11:37+00:00",
  "sources": [
-  "But! Football Club",
+  "20 Minutes",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
   {
-   "id": "oldesprliminairesdeliguedeschampionsbienutilesfinancirement",
-   "title": "OL : des préliminaires de Ligue des champions bien utiles financièrement",
-   "summary": "S'il n'est pas allé au bout de son ambition, l'OL a bénéficié des tours préliminaires de Ligue des champions. Cela lui permet de gonfler ses recettes au premier trimestre. À…",
-   "url": "https://www.olympique-et-lyonnais.com/ol-des-preliminaires-de-ligue-des-champions-bien-utiles-financierement,413045.html",
+   "id": "loletollyonnesdepassageenrpubliqueducongo",
+   "title": "L'OL et OL Lyonnes de passage en République du Congo",
+   "summary": "Dans le cadre du partenariat entamé en 2025, une délégation de représentants d'OL Lyonnes et de l'OL est allée en République du Congo. Aujourd'hui, sa coopération avec la République du…",
+   "url": "https://www.olympique-et-lyonnais.com/lol-et-ol-lyonnes-de-passage-en-republique-du-congo,413129.html",
    "source": "Olympique-et-Lyonnais",
    "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FAFP__20260826__C6KT3FA__v1__HighRes__FblEurC1QualifyingLyonFenerbahce-770x433.jpg&w=800&output=webp&q=78",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F01%2F472900824_17875680402249232_8790369770628702826_n-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-11-13T16:35:00+00:00"
+  },
+  {
+   "id": "olpavelulcapasslestadedelopration",
+   "title": "OL : Pavel Šulc a passé le stade de l'opération",
+   "summary": "Après sa blessure au ménisque, Pavel Šulc a été opéré en Tchéquie. Le plus dur commence maintenant pour l'attaquant. Place à la récupération, puis à la réathlétisation maintenant pour Pavel…",
+   "url": "https://www.olympique-et-lyonnais.com/ol-pavel-sulc-a-passe-le-stade-de-loperation,413154.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FAFP__20260222__98KE9PH__v1__HighRes__FblFraLigue1StrasbourgLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Effectif",
+   "publishedAt": "2026-11-13T15:40:00+00:00"
+  },
+  {
+   "id": "olacadmieleprogrammeduweekend",
+   "title": "OL Académie : le programme du week-end",
+   "summary": "Quatre rencontres attendent les équipes de l'académie de l'OL ce week-end des 14 et 15 novembre. Les U17 et les U19 masculins enchaînent tout comme les deux formations féminines. Après…",
+   "url": "https://www.olympique-et-lyonnais.com/ol-academie-le-programme-du-week-end-110,412881.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2021%2F06%2FJeunes-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-11-13T15:00:00+00:00"
+  },
+  {
+   "id": "lyonpolitiquesg7dpartementdurhneetdoucetaulasportsdisparus13",
+   "title": "Lyon Politiques : G7, Département du Rhône et Doucet/Aulas portés disparus - 13/11/26",
+   "summary": "L'émission Lyon Politiques et ses intervenants décryptent pour vous les évènements marquants de la semaine dans l'agglomération lyonnaise.",
+   "url": "https://www.lyonmag.com/article/154913/lyon-politiques-g7-departement-du-rhone-et-doucet-aulas-portes-disparus-13-11-26",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af701d578764-sans-titre-5.png&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-13T14:30:00+00:00"
+  },
+  {
+   "id": "lolrevoitsonpartenariataveclarpubliqueducongo",
+   "title": "L'OL revoit son partenariat avec la République du Congo",
+   "summary": "Vous ne le voyez plus apparaître au dos du maillot de l'Olympique lyonnais. Aujourd'hui, l'OL est en discussion pour repenser le contrat avec la République du Congo. Dans son bilan…",
+   "url": "https://www.olympique-et-lyonnais.com/lol-revoit-son-partenariat-avec-la-republique-du-congo,413108.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F01%2FIMG_2885-copie-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-13T14:10:00+00:00"
+  },
+  {
+   "id": "ol90minutespourkamarafranceu20etniakhatsngal",
+   "title": "OL : 90 minutes pour Kamara (France U20) et Niakhaté (Sénégal)",
+   "summary": "Journée contrastée pour les internationaux lyonnais. Noham Kamara a perdu avec la France U20 contre le Danemark. Moussa Niakhaté, lui, se rapproche d'une qualification à la CAN. Ils étaient trois…",
+   "url": "https://www.olympique-et-lyonnais.com/ol-90-minutes-pour-kamara-france-u20-et-niakhate-senegal,413098.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F12%2FAFP__20251116__2246917410__v2__HighRes__BrazilVSenegalInternationalFriendly-e1766819141208-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-13T13:20:00+00:00"
+  },
+  {
+   "id": "liguedeschampionsollyonnesprendlatteduclassement",
+   "title": "Ligue des champions : OL Lyonnes prend la tête du classement",
+   "summary": "Suite au match nul entre le FC Barcelone et Arsenal jeudi, OL Lyonnes passe en tête de la Ligue des champions. Il reste deux rencontres à disputer. OL Lyonnes a…",
+   "url": "https://www.olympique-et-lyonnais.com/ligue-des-champions-ol-lyonnes-prend-la-tete-du-classement,413092.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fjuventus_v_ol_lyonnes_-_uefa_women_s_champions_league_2026_27_league_phase_md4-e1794563061990-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-13T12:30:00+00:00"
+  },
+  {
+   "id": "pourquoilolobtientilsipeudepenaltiescettesaison",
+   "title": "Pourquoi l'OL obtient-il si peu de penalties cette saison ?",
+   "summary": "Après dix journées de Ligue 1, l'OL n'a toujours pas obtenu le moindre penalty. Toutes compétitions confondues, les Lyonnais n'en ont bénéficié qu'une seule fois, face au Sparta Prague.",
+   "url": "https://www.olympique-et-lyonnais.com/pourquoi-lol-obtient-il-si-peu-de-penalties-cette-saison,412965.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHO5r534WkAAp2lg-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-13T11:40:00+00:00"
+  },
+  {
+   "id": "mercatocombienontrapportlestransfertsestivauxdeguimaresetbar",
+   "title": "Mercato : combien ont rapporté les transferts estivaux de Guimarães et Barcola à l'OL",
+   "summary": "Cet été, deux anciens joueurs de l'OL ont fait le bonheur de ses finances. Voici précisément combien le club a reçu suite aux transferts de Bruno Guimarães (Arsenal) et Bradley Barcola…",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-combien-ont-rapporte-les-transferts-de-guimaraes-et-barcola-a-lol,413076.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Gwendal Chabas",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHPMkastXgAAqmc3-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-13T10:50:00+00:00"
+  },
+  {
+   "id": "unformatunpeumditatifcommentthierrygrajduraestdevenumembrede",
+   "title": "« Un format un peu méditatif »… Comment Thierry Grajdura est devenu membre de l’équipe de France de Backyard, à 58 ans",
+   "summary": "Le spécialiste d’ultra-route lyonnais, ingénieur en informatique, est l’un des grands spécialistes français de Backyard. À 58 ans, celui qui vient de participer aux Championnats du monde par équipes raconte sa passion pour cet atypique format",
+   "url": "https://www.20minutes.fr/sport/4262448-20261113-course-pied-format-peu-meditatif-comment-thierry-grajdura-reste-equipe-france-backyard-58-ans?at_medium=display&at_campaign=149",
+   "source": "20 Minutes",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FbQsBD8XcToua2wJUOuQFjCk%2F1444x920_thierry-grajdura-membre-de-l-equipe-de-france-de-backyard&w=800&output=webp&q=78",
    "topic": "Actu",
-   "publishedAt": "2026-11-13T06:30:00+00:00"
+   "publishedAt": "2026-11-13T10:37:26+00:00"
+  },
+  {
+   "id": "olmdiaschristianbassilainvitdetantquilyauradesgoneslundi",
+   "title": "OL – Médias : Christian Bassila invité de Tant qu'il y aura des Gones lundi",
+   "summary": "Malgré la trêve internationale, votre émission Tant qu'il y aura des Gones sera bien au rendez-vous lundi. À partir de 19h, l'équipe de TKYDG accueillera Christian Bassila, directeur de l'académie…",
+   "url": "https://www.olympique-et-lyonnais.com/ol-medias-christian-bassila-invite-de-tant-quil-y-aura-des-gones-lundi,413015.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FCapture-decran-2026-09-14-a-15.41.33-770x433.png&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-13T10:00:00+00:00"
+  },
+  {
+   "id": "xaviernielrachteunanciencentredesantlyonpour75millionsdeuros",
+   "title": "Xavier Niel rachète un ancien centre de santé à Lyon pour 7,5 millions d'euros : son projet ne plaît pas à tout le monde",
+   "summary": "Xavier Niel investit dans l'immobilier lyonnais.",
+   "url": "https://www.lyonmag.com/article/154912/xavier-niel-rachete-un-ancien-centre-de-sante-a-lyon-pour-7-5-millions-d-euros-son-projet-ne-plait-pas-a-tout-le-monde",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af6edcb52ad4-capture-decran-2026-11-13-a-12.png&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-13T09:56:00+00:00"
+  },
+  {
+   "id": "ollyonnesattendulabeaujoiredenantesendcembre",
+   "title": "OL Lyonnes attendu à la Beaujoire de Nantes en décembre",
+   "summary": "OL Lyonnes se déplacera le samedi 12 décembre prochain pour affronter le FC Nantes. Ce sera une rencontre particulière puisque les joueuses rhodaniennes découvriront pour la première fois la Beaujoire.…",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-attendu-a-la-beaujoire-de-nantes-en-decembre,412953.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FG3nWkqRWgAAyStA-770x433.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-13T09:10:00+00:00"
+  },
+  {
+   "id": "cequilfautretenirdubilanfinanciertrimestrielpubliparlol",
+   "title": "Ce qu'il faut retenir du bilan financier trimestriel publié par l'OL",
+   "summary": "Les recettes de l’OL progressent au premier trimestre, portées par les droits TV. Mais la billetterie domestique et les partenariats reculent, tandis que les transferts restent essentiels.",
+   "url": "https://www.lyonfoot.com/article/14828/l-ol-publie-son-bilan-financier-trimestriel-voici-ce-qu-il-faut-retenir",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af6a82def392-54539865928-75b693d0b8-o.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-13T06:00:00+00:00"
   },
   {
    "id": "quefairelyonceweekend1314et15novembre",
@@ -30,28 +173,6 @@
    "publishedAt": "2026-11-13T04:00:00+00:00"
   },
   {
-   "id": "olmercatoaprsfonsecaunautrejolichquepourraittomberlyon",
-   "title": "OL Mercato : après Fonseca, un autre joli chèque pourrait tomber à Lyon !",
-   "summary": "Malgré son excellente intégration à l’Olympique Lyonnais, Zachary Athekame reste dans le viseur de l’AC Milan, qui espère toujours pouvoir le rapatrier dès le mercato hivernal. L’OL pourrait-il perdre l’une de ses bonnes surprises de la saison dès cet hiver ?",
-   "url": "https://www.butfootballclub.fr/1713367-ol-mercato-apres-fonseca-un-autre-joli-cheque-pourrait-tomber-a-lyon/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F2d1cbeae-ol-mercato-fonseca-prive-de-son-meilleur-joueur-a-partir-de-janvier-1200x800.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-12T19:00:00+00:00"
-  },
-  {
-   "id": "oltantquilyauradesgonesspcialcarlosvicensenpodcastetreplay",
-   "title": "OL : Tant qu’il y aura des Gones spécial Carlos Vicens en podcast et replay",
-   "summary": "Après une émission spéciale sur le départ de Paulo Fonseca la semaine dernière, Tant qu’il y aura des Gones évoque le nouvel entraîneur de l'OL, Carlos Vicens. C'était l'occasion d'en…",
-   "url": "https://www.olympique-et-lyonnais.com/ol-tant-quil-y-aura-des-gones-special-carlos-vicens-en-podcast-et-replay,413004.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FDSC02998-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-12T17:20:00+00:00"
-  },
-  {
    "id": "lensrevoirsonexbonneidepoursagerenvoydecrystalpalace",
    "title": "Lens : revoir son ex... bonne idée pour Sage, renvoyé de Crystal Palace ?",
    "summary": "Un retour six mois ? Alors que son départ de Crystal Palace - qui ne laissait plus de place au doute - a été officialisé ce jeudi, Pierre Sage négocierait un retour à Lens. Les Sang et Or ont déjà consommé deux entraîneurs en trois mois à peine : Dino Toppmöller et Yannick Cahuzac.",
@@ -63,72 +184,6 @@
    "publishedAt": "2026-11-12T16:48:52+00:00"
   },
   {
-   "id": "olunbilancomptablemoinsbonaprsdixjournesdeligue1",
-   "title": "OL : un bilan comptable moins bon après dix journées de Ligue 1",
-   "summary": "Après dix journées de Ligue 1, l'Olympique lyonnais compte deux points de moins que la saison passée à la même période. Si le bilan comptable est légèrement inférieur, la défense…",
-   "url": "https://www.olympique-et-lyonnais.com/ol-un-bilan-comptable-moins-bon-apres-dix-journees-de-ligue-1,412995.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAFP__20261108__D6UM6WE__v1__HighRes__FblFraLigue1BrestLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-12T16:35:00+00:00"
-  },
-  {
-   "id": "fabricefiorseexolracontesonenlvementparunanciencoquipier",
-   "title": "Fabrice Fiorèse (ex-OL) raconte son enlèvement par un ancien coéquipier",
-   "summary": "Ancien attaquant de l'Olympique lyonnais, Fabrice Fiorèse est revenu sur l'enlèvement dont il a été victime en 2012. C'est une affaire dont le commanditaire n'était autre que Ghislain Anselmini, son…",
-   "url": "https://www.olympique-et-lyonnais.com/fabrice-fiorese-ex-ol-raconte-son-enlevement-par-un-ancien-coequipier,412987.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2022%2F08%2FIMG_1491-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-12T15:50:00+00:00"
-  },
-  {
-   "id": "liguesdeschampionswendierenardollyonnesunelongvitrecord",
-   "title": "Ligues des champions : Wendie Renard (OL Lyonnes), une longévité record",
-   "summary": "Un penalty en deux temps, et voilà Wendie Renard avec un 40e but en Ligue des champions. La capitaine a marqué lors de 15 campagnes européennes, un record. À chaque…",
-   "url": "https://www.olympique-et-lyonnais.com/ligues-des-champions-wendie-renard-ol-lyonnes-une-longevite-record,412994.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20251007__2239837405__v2__HighRes__ArsenalFcVOlLyonnesUefaWomenSChampionsLeague-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-11-12T15:00:00+00:00"
-  },
-  {
-   "id": "mercatocestterminpourpierresageexolcrystalpalace",
-   "title": "Mercato : c'est terminé pour Pierre Sage (ex-OL) à Crystal Palace",
-   "summary": "Après quatre mois à Crystal Palace, Pierre Sage est mis sur la touche. Il n'est officiellement plus l'entraîneur des Eagles. Son cas ne faisait guère de doute, et il a…",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-cest-termine-pour-pierre-sage-ex-ol-a-crystal-palace,412988.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F06%2FCapture-decran-2026-06-15-a-22.45.56-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-12T14:10:00+00:00"
-  },
-  {
-   "id": "olquelstaffautourdecarlosvicens",
-   "title": "OL : quel staff autour de Carlos Vicens",
-   "summary": "Venu avec quatre adjoints, Carlos Vicens travaillera avec plusieurs techniciens déjà présents depuis plusieurs années dans le staff de l'OL. Pour Carlos Vicens, les premières journées de travail à l'OL…",
-   "url": "https://www.olympique-et-lyonnais.com/ol-quel-staff-autour-de-carlos-vicens,412974.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FAFP__20261110__D6ZV24N__v1__HighRes__FblFranceLigue1LyonTraining-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-12T13:20:00+00:00"
-  },
-  {
-   "id": "romyfournierpourarbitrerollyonnessaintmalo",
-   "title": "Romy Fournier pour arbitrer OL Lyonnes - Saint-Malo",
-   "summary": "Samedi à 18 heures, OL Lyonnes recevra l'US Saint-Malo pour la première fois de son histoire. C'est l'arbitre Romy Fournier qui sera aux commandes. Promu en Première Ligue, l'US Saint-Malo…",
-   "url": "https://www.olympique-et-lyonnais.com/romy-fournier-pour-arbitrer-ol-lyonnes-saint-malo,412964.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F01%2F464332073_8368759756587149_1118564490817154301_n-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-11-12T12:30:00+00:00"
-  },
-  {
    "id": "keitonakamuraolselivrepaulofonsecamevoulaitdjlille",
    "title": "Keito Nakamura (OL) se livre : \"Paulo Fonseca me voulait déjà à Lille\"",
    "summary": "Courtisé depuis longtemps par Paulo Fonseca, Keito Nakamura ne s’attendait pas à le voir quitter Lyon si vite. L’ailier japonais confie aussi son épanouissement sous le maillot de l’OL.",
@@ -138,28 +193,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af5aaf70a1b5-keito-nakamura.jpg&w=800&output=webp&q=78",
    "topic": "Club",
    "publishedAt": "2026-11-12T12:00:00+00:00"
-  },
-  {
-   "id": "ligue1julienduranvilleolremporteletitredeplusbeaugestetechni",
-   "title": "Ligue 1 : Julien Duranville (OL) remporte le titre de plus beau geste technique d'octobre",
-   "summary": "Nouveauté cette année, le \"top skill\" de Ligue 1 récompense le plus beau geste technique du mois. En octobre, Julien Duranville a reçu ce titre honorifique. Ce n'est sans doute…",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-1-julien-duranville-ol-plus-beau-geste-technique-doctobre,412951.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260715__C2AR9E7__v1__HighRes__FblFraFriendlyLyonServette-e1794149377987-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-12T11:40:00+00:00"
-  },
-  {
-   "id": "liguedeschampionsollyonnesvalidesonbilletpourlaphaseliminati",
-   "title": "Ligue des champions : OL Lyonnes valide son billet pour la phase à élimination",
-   "summary": "Grâce à sa large victoire contre la Juventus (0-6) mercredi, OL Lyonnes a validé son billet pour la phase à élimination directe de la Ligue des champions féminine. Les joueuses…",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-des-champions-ol-lyonnes-valide-son-billet-pour-la-phase-a-elimination,412934.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fjuventus_v_ol_lyonnes_-_uefa_women_s_champions_league_2026_27_league_phase_md4-3-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-12T10:50:00+00:00"
   },
   {
    "id": "escroquerie200millionsdeurosarrtenthalandeunentrepreneurlyon",
@@ -226,61 +259,6 @@
    "image": "https://images.weserv.nl/?url=io-fsly-bfmtv.cdn.nextradiotv.com%2F0SNYXTPS8yn2QNSav5in-hoGW9g%3D%2F0x0%3A1280x720%2F800x0%2Fimages%2FOL-Vicens-J-avais-l-impression-de-voir-Guardiola-raconte-un-ancien-joueur-de-l-Espagnol-2382204.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-11-11T13:38:27+00:00"
-  },
-  {
-   "id": "4ansdjpourcettesoireinoubliablelol",
-   "title": "4 ans déjà pour cette soirée inoubliable à l'OL",
-   "summary": "De Bron au Ballon d’Or, Karim Benzema avait partagé son sacre avec les supporters lyonnais. Retour sur son accueil triomphal au Groupama Stadium il y a tout juste 4 ans.",
-   "url": "https://www.lyonfoot.com/article/14804/karim-benzema-et-l-ol-4-ans-apres-une-soiree-en-or",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af447a83995f-capture-decran-2026-11-11-a-11.png&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-11T13:00:00+00:00"
-  },
-  {
-   "id": "quandlolestdanscettesituationilestintraitable",
-   "title": "Quand l'OL est dans cette situation, il est intraitable",
-   "summary": "L’OL gagne systématiquement lorsqu’il ouvre le score en Ligue 1 cette saison. Menés au score, les Lyonnais n’ont en revanche sauvé qu’1 point en 4 rencontres disputées.",
-   "url": "https://www.lyonfoot.com/article/14777/la-serie-folle-de-l-ol-quand-il-mene-au-score",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af437bf0bcd4-nuamah.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-11T08:40:00+00:00"
-  },
-  {
-   "id": "prsdelyonunmembredelquipedunfilmnetflixavecaudreyfleurotgriv",
-   "title": "Près de Lyon : un membre de l'équipe d'un film Netflix avec Audrey Fleurot grièvement blessé après une chute",
-   "summary": "Un grave accident s'est produit ce mardi 10 novembre sur le tournage du thriller À Cran, destiné à Netflix. Un membre de l'équipe de production a chuté depuis la toiture de la Rotonde ferroviaire, à Grigny-sur-Rhône.",
-   "url": "https://www.lyonmag.com/article/154848/pres-de-lyon-un-membre-de-l-equipe-d-un-film-netflix-avec-audrey-fleurot-grievement-blesse-apres-une-chute",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af41f34b347f-27818547336-c51e603334-o.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-11-11T06:54:00+00:00"
-  },
-  {
-   "id": "lemuselumeilleurbouchonlyonnais2026devantchezmounieretchezpa",
-   "title": "Le Musée élu meilleur bouchon lyonnais 2026 devant Chez Mounier et Chez Paul",
-   "summary": "Le Musée a remporté le prix Florent-Dessus 2026, une récompense décernée chaque année par l'association de défense des bouchons lyonnais. Le trophée a été remis ce lundi 9 novembre au sein même de l'établissement.",
-   "url": "https://www.lyonrestaurant.fr/article/10640/lyon-cache-au-fond-d-une-traboule-ce-bouchon-vient-d-etre-sacre-meilleur-de-la-ville",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af4051070a7f-whatsapp-image-2026-11-10-at-15-26-03.jpeg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-11T05:02:00+00:00"
-  },
-  {
-   "id": "aprslasoirechaotiquedu7novembremeyzieurclamedenouvellesrgles",
-   "title": "Après la soirée chaotique du 7 novembre, Meyzieu réclame de nouvelles règles à l’OL Vallée",
-   "summary": "Après un concert à la LDLC Arena et le match France-Fidji au Groupama Stadium, commencés à 1h10 d’intervalle, la Ville de Meyzieu dénonce les difficultés rencontrées par les riverains.",
-   "url": "https://www.lyonmag.com/article/154844/apres-la-soiree-chaotique-du-7-novembre-meyzieu-reclame-de-nouvelles-regles-a-l-ol-vallee",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af3fc73e2b39-24005097089-060efbe42c-o.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-11T04:21:00+00:00"
   },
   {
    "id": "oljobservaissesroutinesvicensinspirparguardiola",
