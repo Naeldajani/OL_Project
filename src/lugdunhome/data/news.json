@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T23:31:04+00:00",
+ "updatedAt": "2026-11-14T06:19:23+00:00",
  "sources": [
   "20 Minutes",
   "But! Football Club",
@@ -8,6 +8,17 @@
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "ollyonnessaintmalolesfenottesversunnouveausuccsenpremireligu",
+   "title": "OL Lyonnes-Saint-Malo : les Fenottes vers un nouveau succès en Première Ligue ?",
+   "summary": "8 victoires en 8 journées, les Lyonnes veulent poursuivre leur série face à Saint-Malo samedi à 18h. Entre deux déplacements européens, elles retrouvent le championnat.",
+   "url": "https://www.lyonfoot.com/article/14830/ol-lyonnes-saint-malo-un-sans-faute-a-prolonger",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af6b39023b4c-bacha.jpeg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-14T04:00:00+00:00"
+  },
   {
    "id": "olbonnenouvellepourpavelulc",
    "title": "OL : bonne nouvelle pour Pavel Šulc !",
@@ -271,17 +282,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af54ad70ada5-csm-260608-henon-s-1500x1000-801791b86a.jpg&w=800&output=webp&q=78",
    "topic": "Actu",
    "publishedAt": "2026-11-12T04:12:00+00:00"
-  },
-  {
-   "id": "29butsencinqmatchsollyonnespoursuitsasriefolleencorrigeantla",
-   "title": "29 buts en cinq matchs : OL Lyonnes poursuit sa série folle en corrigeant la Juventus",
-   "summary": "La démonstration continue pour OL Lyonnes. Après avoir inscrit sept buts face à Lens en championnat samedi dernier, les Fenottes ont encore fait parler leur puissance offensive sur la scène européenne mercredi face à la Juventus Turin.",
-   "url": "https://www.lyonfoot.com/article/14780/ligue-des-champions-les-lyonnes-humilient-la-juventus-turin-6-0-et-poursuivent-leur-festival-offensif",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af53cdf94924-hw4i-dpxyaa1zvn-3110.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-11-12T03:00:00+00:00"
   },
   {
    "id": "olvicensjavaislimpressiondevoirguardiolaraconteunancienjoueu",
