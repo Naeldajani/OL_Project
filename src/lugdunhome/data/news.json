@@ -1,13 +1,155 @@
 {
- "updatedAt": "2026-11-14T06:19:23+00:00",
+ "updatedAt": "2026-11-14T15:47:38+00:00",
  "sources": [
-  "20 Minutes",
   "But! Football Club",
   "Lyon Mag",
   "Olympique-et-Lyonnais",
   "RMC Sport"
  ],
  "items": [
+  {
+   "id": "olathekameparmilesjoueurslesplusutilissenligue1",
+   "title": "OL : Athekame parmi les joueurs les plus utilisés en Ligue 1",
+   "summary": "Arrivé à l'Olympique lyonnais l'été dernier, Zachary Athekame enchaîne les rencontres sous le maillot lyonnais. Le latéral suisse fait partie des joueurs les plus utilisés de Ligue 1.",
+   "url": "https://www.olympique-et-lyonnais.com/ol-athekame-parmi-les-joueurs-les-plus-utilises-en-ligue-1,413099.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260904__C7DW9E4__v1__HighRes__FblFraLigue1LyonAuxerre-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-11-14T15:00:00+00:00"
+  },
+  {
+   "id": "ollyonnessaintmalounepremireconfrontationdanslhistoire",
+   "title": "OL Lyonnes -Saint Malo : une première confrontation dans l'histoire",
+   "summary": "Ce samedi 14 novembre, OL Lyonnes reçoit Saint-Malo pour la neuvième journée de Première Ligue. Ce sera une rencontre particulière puisque les deux équipes s'affrontent pour la première fois de…",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-saint-malo-une-premiere-confrontation-dans-lhistoire,412973.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FIMG_3819-e1792595332219-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-14T14:10:00+00:00"
+  },
+  {
+   "id": "nakamuraolbuteurdanslavictoiredujaponsurlebrsil",
+   "title": "Nakamura (OL) buteur dans la victoire du Japon sur le Brésil",
+   "summary": "Dans un remake du seizième de finale de la dernière Coupe du monde, le Japon a pris sa revanche sur le Brésil en amical. Dans la victoire 3-2, Keito Nakamura…",
+   "url": "https://www.olympique-et-lyonnais.com/nakamura-ol-buteur-dans-la-victoire-du-japon-sur-le-bresil,413371.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FKeito-Nakamura-avec-le-Japon-e1790250908250-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-14T13:20:00+00:00"
+  },
+  {
+   "id": "mercatoattendulenspierresageexolneretrouverapaslenord",
+   "title": "Mercato : attendu à Lens, Pierre Sage (ex-OL) ne retrouvera pas le Nord",
+   "summary": "Limogé de son poste à Crystal Palace, Pierre Sage se dirigeait vers un retour à Lens. Finalement, le club nordiste a misé sur Didier Digard. Il n'y aura pas de…",
+   "url": "https://www.olympique-et-lyonnais.com/mercato-attendu-a-lens-pierre-sage-ex-ol-ne-retrouvera-pas-le-nord,413321.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F08%2FAFP__20250816__69PQ8T6__v1__HighRes__FblFraLigue1LensLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-14T12:30:00+00:00"
+  },
+  {
+   "id": "ollyonnessaintmaloavantmatchhorairediffusiontv",
+   "title": "OL Lyonnes - Saint-Malo : avant-match, horaire, diffusion TV",
+   "summary": "Trois jours après sa démonstration contre la Juventus (6-0), OL Lyonnes retrouve le championnat avec la réception de Saint-Malo, ce samedi. Toujours invaincues en Première Ligue, les joueuses de Jonatan…",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-saint-malo-avant-match-horaire-diffusion-tv,412941.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F10%2FAFP__20261017__D3LP6QA__v6__HighRes__FblFraDivision1WomenPsgLyon-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-14T11:40:00+00:00"
+  },
+  {
+   "id": "olduranvillebuteurvendredisanspourlesinternationauxlyonnais",
+   "title": "OL : Duranville buteur, vendredi sans pour les internationaux lyonnais",
+   "summary": "Pour la troisième journée internationale de la trêve, seul Julien Duranville a connu la victoire avec les Espoirs belges. L'ailier a même été buteur. Pour les victoires, il faudra repasser…",
+   "url": "https://www.olympique-et-lyonnais.com/ol-duranville-buteur-vendredi-sans-pour-les-internationaux-lyonnais,413318.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F07%2FDuranville-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Match",
+   "publishedAt": "2026-11-14T10:50:00+00:00"
+  },
+  {
+   "id": "oltroislyonnaissurlepontcesamedi",
+   "title": "OL : trois Lyonnais sur le pont ce samedi",
+   "summary": "Les jours passent et la trêve continue pour les internationaux. Ce samedi 14 novembre, Keito Nakamura, Felix Bacher et Mads Bidstrup débutent leur parcours avec leur sélection respective pour disputer…",
+   "url": "https://www.olympique-et-lyonnais.com/ol-trois-lyonnais-sur-le-pont-ce-samedi,412879.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FAFP__20260615__pedersen-netherla260614_npIFe__v1__HighRes__NetherlandsVJapanGroupFFi-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-14T10:00:00+00:00"
+  },
+  {
+   "id": "gleventsreprendlecontrletotaldesafilialeengrandechine",
+   "title": "GL events reprend le contrôle total de sa filiale en Grande Chine",
+   "summary": "Le groupe événementiel lyonnais a racheté les 20,55 % que Nexus Point Capital détenait depuis mars 2021 dans GL events Greater China. Il possède désormais la totalité du capital de la société.",
+   "url": "https://www.lyonmag.com/article/154928/gl-events-reprend-le-controle-total-de-sa-filiale-en-grande-chine",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af839dbec25e-14256439594-25e34eaa50-o.jpg&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-14T09:37:00+00:00"
+  },
+  {
+   "id": "jolabianiollyonnesonatoujourstunclubformateur",
+   "title": "Joé Labiani (OL Lyonnes) : \"On a toujours été un club formateur\"",
+   "summary": "Adjoint de Jonatan Giráldez depuis deux saisons, Joé Labiani assure le lien entre le groupe professionnel et l'Académie. Avec des jeunes comme Julie Swierot, Wassa Sangaré, Maïssa Fathallah ou encore…",
+   "url": "https://www.olympique-et-lyonnais.com/joe-labiani-ol-lyonnes-on-a-toujours-ete-un-club-formateur,413314.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2FZJ104557-975x633-1-770x433.webp&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-11-14T09:15:00+00:00"
+  },
+  {
+   "id": "ollyonnessaintmalorenardkatotoouencoregrohslaissesaurepos",
+   "title": "OL Lyonnes - Saint-Malo : Renard, Katoto ou encore Grohs laissées au repos",
+   "summary": "Comme on pouvait s'y attendre, Jonatan Giráldez va opérer un large turnover ce samedi face au promu qu'est Saint-Malo. Wendie Renard, Damaris Egurrola, Marie-Antoinette Katoto ou encore Tabitha Chawinga seront…",
+   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-saint-malo-renard-katoto-ou-encore-grohs-laissees-au-repos,413310.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "David Hernandez",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAFP__20260403__DPPI_40426188_008__v1__HighRes__FootballWomenSChampionsLeagueOlLyonne-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Féminines",
+   "publishedAt": "2026-11-14T08:30:00+00:00"
+  },
+  {
+   "id": "comparatif2026quelfournisseurdlectricitetdegazchoisirlyon",
+   "title": "Comparatif 2026 : quel fournisseur d'électricité et de gaz choisir à Lyon ?",
+   "summary": "Entre les hivers marqués de la vallée du Rhône, les immeubles anciens de la Croix-Rousse chauffés au gaz et les logements neufs de la Confluence équipés de pompes à chaleur, les besoins énergétiques des Lyonnais sont très variés.",
+   "url": "https://www.lyonmag.com/article/154893/comparatif-2026-quel-fournisseur-d-electricite-et-de-gaz-choisir-a-lyon",
+   "source": "Lyon Mag",
+   "author": null,
+   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af585b7a2c8a-capture-decran-2026-11-12-a-10.png&w=800&output=webp&q=78",
+   "topic": "Actu",
+   "publishedAt": "2026-11-14T08:23:00+00:00"
+  },
+  {
+   "id": "psgolstaderennaislaformationparisiennebousculelahirarchiedep",
+   "title": "PSG, OL, Stade Rennais : la formation parisienne bouscule la hiérarchie depuis QSI",
+   "summary": "Depuis 2011, le PSG a formé 12 joueurs, devant le Stade Rennais, mais reste derrière l’OL, leader avec 15 éléments issus de son académie.",
+   "url": "https://www.butfootballclub.fr/1713731-psg-ol-stade-rennais-formation-qsi/",
+   "source": "But! Football Club",
+   "author": "Louis Chrestian",
+   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F99358e14-psg-ol-stade-rennais-formation-qsi-1200x800.jpg&w=800&output=webp&q=78",
+   "topic": "Club",
+   "publishedAt": "2026-11-14T08:05:02+00:00"
+  },
+  {
+   "id": "lolsassocieaulumignonsducurpourlaftedeslumires",
+   "title": "L'OL s'associe au Lumignons du Cœur pour la Fête des Lumières",
+   "summary": "À l'occasion de la Fête des Lumières 2026, l'Olympique lyonnais s'engage aux côtés des Lumignons du Cœur. La solidarité sera au cœur du match face à Monaco, prévu le 29…",
+   "url": "https://www.olympique-et-lyonnais.com/lol-sassocie-au-lumignons-du-coeur-pour-la-fete-des-lumieres,412697.html",
+   "source": "Olympique-et-Lyonnais",
+   "author": "Enzo Catolino",
+   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F01%2FIMG_2885-copie-770x433.jpg&w=800&output=webp&q=78",
+   "topic": "Mercato",
+   "publishedAt": "2026-11-14T07:45:00+00:00"
+  },
   {
    "id": "ollyonnessaintmalolesfenottesversunnouveausuccsenpremireligu",
    "title": "OL Lyonnes-Saint-Malo : les Fenottes vers un nouveau succès en Première Ligue ?",
@@ -18,39 +160,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af6b39023b4c-bacha.jpeg&w=800&output=webp&q=78",
    "topic": "Match",
    "publishedAt": "2026-11-14T04:00:00+00:00"
-  },
-  {
-   "id": "olbonnenouvellepourpavelulc",
-   "title": "OL : bonne nouvelle pour Pavel Šulc !",
-   "summary": "Pavel Šulc a franchi une étape importante dans sa guérison : opéré du ménisque en République tchèque, le Tchèque peut désormais entamer sa convalescence. Les nouvelles sont plutôt rassurantes pour Pavel Šulc.",
-   "url": "https://www.butfootballclub.fr/1713666-ol-bonne-nouvelle-pour-pavel-sulc/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2Fd8855106-lol-bat-nice-et-prend-la-tete-les-tops-les-flops-les-notes-des-gones-1200x799.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-13T19:40:00+00:00"
-  },
-  {
-   "id": "psgmercatoparisaralisuneaffaireenor16m",
-   "title": "PSG Mercato : Paris a réalisé une affaire en or à 16 M€ !",
-   "summary": "Le transfert de Gonçalo Ramos à l’AC Milan pourrait rapporter jusqu’à 86 millions d’euros au PSG, grâce à plusieurs bonus négociés par le club parisien. Le PSG a visiblement réalisé une très belle opération financière avec Gonçalo Ramos.",
-   "url": "https://www.butfootballclub.fr/1713646-psg-mercato-paris-a-realise-une-affaire-en-or-pour-seulement-16-me/",
-   "source": "But! Football Club",
-   "author": "William Tertrin",
-   "image": "https://images.weserv.nl/?url=cdn-media.butfootballclub.fr%2Fsites%2F0970cc07-psg-mercato-un-depart-a-40-millions-deuros-pour-lun-des-joueurs-les-plus-prolifiques-1200x800.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-13T17:40:00+00:00"
-  },
-  {
-   "id": "ollyonnestarcianeretenueaveclebrsilpourdeuxamicaux",
-   "title": "OL Lyonnes : Tarciane retenue avec le Brésil pour deux amicaux",
-   "summary": "Tarciane figure dans la liste des 26 joueuses convoquées par Arthur Elias avec le Brésil. La défenseure d'OL Lyonnes participera aux deux matchs amicaux face au Japon, prévus les 29…",
-   "url": "https://www.olympique-et-lyonnais.com/ol-lyonnes-tarciane-retenue-avec-le-bresil-pour-deux-amicaux,413145.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F01%2Fbrazil-v-spain-womens-football-semifinal-olympic-games-paris-2024-day-11-1024x674-1-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-11-13T17:20:00+00:00"
   },
   {
    "id": "vitrineduretourdesmdicamentsfabriqusenfrancelelaboratoireben",
@@ -64,39 +173,6 @@
    "publishedAt": "2026-11-13T17:00:00+00:00"
   },
   {
-   "id": "loletollyonnesdepassageenrpubliqueducongo",
-   "title": "L'OL et OL Lyonnes de passage en République du Congo",
-   "summary": "Dans le cadre du partenariat entamé en 2025, une délégation de représentants d'OL Lyonnes et de l'OL est allée en République du Congo. Aujourd'hui, sa coopération avec la République du…",
-   "url": "https://www.olympique-et-lyonnais.com/lol-et-ol-lyonnes-de-passage-en-republique-du-congo,413129.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F01%2F472900824_17875680402249232_8790369770628702826_n-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-11-13T16:35:00+00:00"
-  },
-  {
-   "id": "olpavelulcapasslestadedelopration",
-   "title": "OL : Pavel Šulc a passé le stade de l'opération",
-   "summary": "Après sa blessure au ménisque, Pavel Šulc a été opéré en Tchéquie. Le plus dur commence maintenant pour l'attaquant. Place à la récupération, puis à la réathlétisation maintenant pour Pavel…",
-   "url": "https://www.olympique-et-lyonnais.com/ol-pavel-sulc-a-passe-le-stade-de-loperation,413154.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F02%2FAFP__20260222__98KE9PH__v1__HighRes__FblFraLigue1StrasbourgLyon-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Effectif",
-   "publishedAt": "2026-11-13T15:40:00+00:00"
-  },
-  {
-   "id": "olacadmieleprogrammeduweekend",
-   "title": "OL Académie : le programme du week-end",
-   "summary": "Quatre rencontres attendent les équipes de l'académie de l'OL ce week-end des 14 et 15 novembre. Les U17 et les U19 masculins enchaînent tout comme les deux formations féminines. Après…",
-   "url": "https://www.olympique-et-lyonnais.com/ol-academie-le-programme-du-week-end-110,412881.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2021%2F06%2FJeunes-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Féminines",
-   "publishedAt": "2026-11-13T15:00:00+00:00"
-  },
-  {
    "id": "lyonpolitiquesg7dpartementdurhneetdoucetaulasportsdisparus13",
    "title": "Lyon Politiques : G7, Département du Rhône et Doucet/Aulas portés disparus - 13/11/26",
    "summary": "L'émission Lyon Politiques et ses intervenants décryptent pour vous les évènements marquants de la semaine dans l'agglomération lyonnaise.",
@@ -106,83 +182,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af701d578764-sans-titre-5.png&w=800&output=webp&q=78",
    "topic": "Mercato",
    "publishedAt": "2026-11-13T14:30:00+00:00"
-  },
-  {
-   "id": "lolrevoitsonpartenariataveclarpubliqueducongo",
-   "title": "L'OL revoit son partenariat avec la République du Congo",
-   "summary": "Vous ne le voyez plus apparaître au dos du maillot de l'Olympique lyonnais. Aujourd'hui, l'OL est en discussion pour repenser le contrat avec la République du Congo. Dans son bilan…",
-   "url": "https://www.olympique-et-lyonnais.com/lol-revoit-son-partenariat-avec-la-republique-du-congo,413108.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2024%2F01%2FIMG_2885-copie-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-13T14:10:00+00:00"
-  },
-  {
-   "id": "ol90minutespourkamarafranceu20etniakhatsngal",
-   "title": "OL : 90 minutes pour Kamara (France U20) et Niakhaté (Sénégal)",
-   "summary": "Journée contrastée pour les internationaux lyonnais. Noham Kamara a perdu avec la France U20 contre le Danemark. Moussa Niakhaté, lui, se rapproche d'une qualification à la CAN. Ils étaient trois…",
-   "url": "https://www.olympique-et-lyonnais.com/ol-90-minutes-pour-kamara-france-u20-et-niakhate-senegal,413098.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2025%2F12%2FAFP__20251116__2246917410__v2__HighRes__BrazilVSenegalInternationalFriendly-e1766819141208-770x433.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-13T13:20:00+00:00"
-  },
-  {
-   "id": "liguedeschampionsollyonnesprendlatteduclassement",
-   "title": "Ligue des champions : OL Lyonnes prend la tête du classement",
-   "summary": "Suite au match nul entre le FC Barcelone et Arsenal jeudi, OL Lyonnes passe en tête de la Ligue des champions. Il reste deux rencontres à disputer. OL Lyonnes a…",
-   "url": "https://www.olympique-et-lyonnais.com/ligue-des-champions-ol-lyonnes-prend-la-tete-du-classement,413092.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fjuventus_v_ol_lyonnes_-_uefa_women_s_champions_league_2026_27_league_phase_md4-e1794563061990-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-13T12:30:00+00:00"
-  },
-  {
-   "id": "pourquoilolobtientilsipeudepenaltiescettesaison",
-   "title": "Pourquoi l'OL obtient-il si peu de penalties cette saison ?",
-   "summary": "Après dix journées de Ligue 1, l'OL n'a toujours pas obtenu le moindre penalty. Toutes compétitions confondues, les Lyonnais n'en ont bénéficié qu'une seule fois, face au Sparta Prague.",
-   "url": "https://www.olympique-et-lyonnais.com/pourquoi-lol-obtient-il-si-peu-de-penalties-cette-saison,412965.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHO5r534WkAAp2lg-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-13T11:40:00+00:00"
-  },
-  {
-   "id": "mercatocombienontrapportlestransfertsestivauxdeguimaresetbar",
-   "title": "Mercato : combien ont rapporté les transferts estivaux de Guimarães et Barcola à l'OL",
-   "summary": "Cet été, deux anciens joueurs de l'OL ont fait le bonheur de ses finances. Voici précisément combien le club a reçu suite aux transferts de Bruno Guimarães (Arsenal) et Bradley Barcola…",
-   "url": "https://www.olympique-et-lyonnais.com/mercato-combien-ont-rapporte-les-transferts-de-guimaraes-et-barcola-a-lol,413076.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Gwendal Chabas",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F08%2FHPMkastXgAAqmc3-770x433.jpeg&w=800&output=webp&q=78",
-   "topic": "Mercato",
-   "publishedAt": "2026-11-13T10:50:00+00:00"
-  },
-  {
-   "id": "unformatunpeumditatifcommentthierrygrajduraestdevenumembrede",
-   "title": "« Un format un peu méditatif »… Comment Thierry Grajdura est devenu membre de l’équipe de France de Backyard, à 58 ans",
-   "summary": "Le spécialiste d’ultra-route lyonnais, ingénieur en informatique, est l’un des grands spécialistes français de Backyard. À 58 ans, celui qui vient de participer aux Championnats du monde par équipes raconte sa passion pour cet atypique format",
-   "url": "https://www.20minutes.fr/sport/4262448-20261113-course-pied-format-peu-meditatif-comment-thierry-grajdura-reste-equipe-france-backyard-58-ans?at_medium=display&at_campaign=149",
-   "source": "20 Minutes",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=img.20mn.fr%2FbQsBD8XcToua2wJUOuQFjCk%2F1444x920_thierry-grajdura-membre-de-l-equipe-de-france-de-backyard&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-13T10:37:26+00:00"
-  },
-  {
-   "id": "olmdiaschristianbassilainvitdetantquilyauradesgoneslundi",
-   "title": "OL – Médias : Christian Bassila invité de Tant qu'il y aura des Gones lundi",
-   "summary": "Malgré la trêve internationale, votre émission Tant qu'il y aura des Gones sera bien au rendez-vous lundi. À partir de 19h, l'équipe de TKYDG accueillera Christian Bassila, directeur de l'académie…",
-   "url": "https://www.olympique-et-lyonnais.com/ol-medias-christian-bassila-invite-de-tant-quil-y-aura-des-gones-lundi,413015.html",
-   "source": "Olympique-et-Lyonnais",
-   "author": "Enzo Catolino",
-   "image": "https://images.weserv.nl/?url=www.olympique-et-lyonnais.com%2Fwp-content%2Fuploads%2F2026%2F09%2FCapture-decran-2026-09-14-a-15.41.33-770x433.png&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-13T10:00:00+00:00"
   },
   {
    "id": "xaviernielrachteunanciencentredesantlyonpour75millionsdeuros",
@@ -238,50 +237,6 @@
    "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af5aaf70a1b5-keito-nakamura.jpg&w=800&output=webp&q=78",
    "topic": "Club",
    "publishedAt": "2026-11-12T12:00:00+00:00"
-  },
-  {
-   "id": "escroquerie200millionsdeurosarrtenthalandeunentrepreneurlyon",
-   "title": "Escroquerie à 200 millions d’euros : arrêté en Thaïlande, un entrepreneur lyonnais désormais écroué en France",
-   "summary": "Sa cavale s'est achevée à plusieurs milliers de kilomètres de Lyon.",
-   "url": "https://www.lyonmag.com/article/154894/escroquerie-a-200-millions-d-euros-arrete-en-thailande-un-entrepreneur-lyonnais-desormais-ecroue-en-france",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af598c8dc842-727479483-2155331508743834-7765675933068839477-n-41281.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-12T09:43:00+00:00"
-  },
-  {
-   "id": "penaltypourlyonoenestlefameuxmytheautourdelol",
-   "title": "\"Penalty pour Lyon\" ? Où en est le fameux mythe autour de l’OL ?",
-   "summary": "L’OL et Monaco sont les 2 seules équipes de Ligue 1 sans penalty obtenu après 10 journées. Un constat qui bouscule le cliché tenace d’un Lyon favorisé dans les surfaces.",
-   "url": "https://www.lyonfoot.com/article/14803/penalty-pour-lyon-l-ol-et-le-chiffre-qui-ridiculise-le-cliche",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af574c68d9d5-53198280103-37eaa1ba5f-o.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-12T08:30:00+00:00"
-  },
-  {
-   "id": "quisontlesjoueursdelolquiaurontlemoinsdetempsdereposaprslatr",
-   "title": "Qui sont les joueurs de l'OL qui auront le moins de temps de repos après la trêve ?",
-   "summary": "Avant Lille-OL, les internationaux lyonnais disposeront de délais de récupération inégaux. Nicolás Tagliafico devra notamment composer avec un retour tardif d’Argentine.",
-   "url": "https://www.lyonfoot.com/article/14782/apres-la-treve-quel-joueur-de-l-ol-aura-le-moins-de-temps-pour-souffler",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af55817beb58-ol.jpg&w=800&output=webp&q=78",
-   "topic": "Match",
-   "publishedAt": "2026-11-12T05:45:00+00:00"
-  },
-  {
-   "id": "osontlescamrasmontchatlluesophiehnontmoigneaprssonagressionl",
-   "title": "\"Où sont les caméras à Montchat ?\" : l'élue Sophie Hénon témoigne après son agression à Lyon",
-   "summary": "Deux hommes ont attaquée et dépouillée Sophie Hénon de sa chaîne mardi 10 novembre vers 22 h 30, cours du Docteur-Long, dans le quartier de Montchat, à Lyon. L’élue métropolitaine du groupe Grand Cœur Lyonnais interpelle les responsables politiques sur la vidéosurveillance dans le quartier.",
-   "url": "https://www.lyonmag.com/article/154889/ou-sont-les-cameras-a-montchat-l-elue-sophie-henon-temoigne-apres-son-agression-a-lyon",
-   "source": "Lyon Mag",
-   "author": null,
-   "image": "https://images.weserv.nl/?url=www.lyonmag.com%2Fmedia%2Fimages%2F6af54ad70ada5-csm-260608-henon-s-1500x1000-801791b86a.jpg&w=800&output=webp&q=78",
-   "topic": "Actu",
-   "publishedAt": "2026-11-12T04:12:00+00:00"
   },
   {
    "id": "olvicensjavaislimpressiondevoirguardiolaraconteunancienjoueu",
